@@ -1,0 +1,32 @@
+name: Daily Pharmacy Update
+
+on:
+  schedule:
+    # Запуск каждый день в 16:30 UTC (19:30 по времени Турции)
+    - cron: '30 16 * * *'
+  workflow_dispatch: # Позволяет запускать скрипт кнопкой вручную
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Скачиваем репозиторий
+        uses: actions/checkout@v3
+
+      - name: Устанавливаем Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Запрашиваем данные у CollectAPI
+        env:
+          COLLECTAPI_KEY: ${{ secrets.COLLECTAPI_KEY }}
+        run: node fetch_pharmacies.js
+
+      - name: Публикуем результат в ветку gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
