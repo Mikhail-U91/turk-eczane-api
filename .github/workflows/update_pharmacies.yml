@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: '18'
 
-      # ВАЖНО: Здесь теперь ECZANEAPI_KEY, а не COLLECTAPI_KEY!
+      # ВАЖНО: используем ECZANEAPI_KEY
       - name: Запрашиваем данные у EczaneAPI
         env:
           ECZANEAPI_KEY: ${{ secrets.ECZANEAPI_KEY }}
