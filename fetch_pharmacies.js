@@ -10,11 +10,11 @@ if (!API_KEY) {
 }
 
 const options = {
-  hostname: 'api.eczaneapi.com',
-  path: `/v1/pharmacies/on-duty?city=${CITY_SLUG}`,
+  hostname: 'eczaneapi.com', // Исправлено: убираем api.
+  path: '/api/v1/pharmacies/on-duty?city=' + CITY_SLUG, // Добавлен /api перед v1
   method: 'GET',
   headers: {
-    'Authorization': 'Bearer ' + API_KEY,
+    'X-API-Key': API_KEY, // Правильный заголовок по документации
     'Content-Type': 'application/json'
   }
 };
@@ -24,11 +24,8 @@ const req = https.request(options, (res) => {
   res.on('data', (chunk) => data += chunk);
   res.on('end', () => {
     if (res.statusCode === 200) {
-      // Важно: добавляем "кэш-брейкер", чтобы GitHub Pages увидел изменения
       const timestamp = new Date().toISOString();
-      // Сохраняем чистый JSON (не добавляем комментарии внутрь!)
       fs.writeFileSync('pharmacies_mersin.json', data);
-      // Сохраняем время обновления в отдельный файл-метку
       fs.writeFileSync('last_update.txt', timestamp);
       console.log('Данные EczaneAPI успешно сохранены!');
     } else {
