@@ -2,10 +2,9 @@ name: Daily Pharmacy Update
 
 on:
   schedule:
-    # Запуск каждый день в 04:00 по времени Стамбула
     - cron: '0 4 * * *'
       timezone: "Europe/Istanbul"
-  workflow_dispatch: # Позволяет запускать скрипт кнопкой вручную
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
@@ -21,7 +20,7 @@ jobs:
         with:
           node-version: '18'
 
-      # ВОТ ЗДЕСЬ БЫЛА ОШИБКА! Мы передаем ECZANEAPI_KEY, а не COLLECTAPI_KEY
+      # ВАЖНО: Здесь теперь ECZANEAPI_KEY, а не COLLECTAPI_KEY!
       - name: Запрашиваем данные у EczaneAPI
         env:
           ECZANEAPI_KEY: ${{ secrets.ECZANEAPI_KEY }}
