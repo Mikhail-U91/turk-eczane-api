@@ -28,11 +28,8 @@ const req = https.request(options, (res) => {
 
   res.on('end', () => {
     if (res.statusCode === 200) {
-      // Добавляем метку времени в начало файла
-      const timestamp = new Date().toISOString();
-      const fileWithDate = `// Обновлено: ${timestamp}\n` + data;
-
-      fs.writeFileSync('pharmacies_mersin.json', fileWithDate);
+      // Сохраняем чистый JSON без комментариев
+      fs.writeFileSync('pharmacies_mersin.json', data);
       console.log('Данные успешно сохранены в pharmacies_mersin.json');
     } else {
       console.error(`Ошибка от CollectAPI. Статус: ${res.statusCode}`);
