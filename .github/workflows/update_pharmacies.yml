@@ -21,9 +21,10 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Запрашиваем данные у CollectAPI
+      # ВОТ ЗДЕСЬ БЫЛА ОШИБКА! Мы передаем ECZANEAPI_KEY, а не COLLECTAPI_KEY
+      - name: Запрашиваем данные у EczaneAPI
         env:
-          COLLECTAPI_KEY: ${{ secrets.COLLECTAPI_KEY }}
+          ECZANEAPI_KEY: ${{ secrets.ECZANEAPI_KEY }}
         run: node fetch_pharmacies.js
 
       - name: Публикуем результат в ветку gh-pages
