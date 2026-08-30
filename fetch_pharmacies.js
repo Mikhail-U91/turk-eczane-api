@@ -17,22 +17,30 @@ https.get(URL, (res) => {
       const $ = cheerio.load(data);
       const pharmacies = [];
 
-      // Ищем все блоки с классом "nobet-kart" (это карточки аптек)
       $('.nobet-kart').each((index, element) => {
-        // Название и район (например, "ADEM ECZANESİ - AKDENİZ")
-        const title = $(element).find('h4 strong').text().trim();
-        const titleParts = title.split(' - ');
-        const name = titleParts[0] ? titleParts[0].trim() : '';
-        const district = titleParts[1] ? titleParts[1].trim() : '';
+        // Название аптеки
+        const name = $(element).find('h4 strong').text().trim();
 
-        // Адрес (ищем текст внутри тега <i class='fa fa-home'></i>)
-        const addressLine = $(element).find('i.fa-home').parent().text().trim();
-        const address = addressLine.split('\n')[0].trim(); // Берем первую строку
+        // Район — берём из заголовка после последнего дефиса
+        const titleFull = $(element).find('h4').text().trim();
+        const district = titleFull.split('-').pop().trim();
+
+        // Адрес: собираем из fa-home и fa-arrows
+        let address = '';
+        $(element).find('i.fa-home, i.fa-arrows').each(function() {
+          let part = $(this).parent().text().trim();
+          // Удаляем всё, что похоже на время работы (например, "!!24:00'E KADAR NÖBETÇİDİR!!")
+          part = part.replace(/!!.*?NÖBETÇİDİR!!/g, '').trim();
+          if (part) {
+            address += part + ' ';
+          }
+        });
+        address = address.trim().replace(/\s+/g, ' ');
 
         // Телефон
         const phone = $(element).find('a[href^="tel:"]').text().trim();
 
-        // Координаты (из ссылки "https://www.google.com/maps?q=36.79...,34.61...")
+        // Координаты
         const mapLink = $(element).find('a[href^="https://www.google.com/maps?q="]').attr('href');
         let lat = null;
         let lon = null;
@@ -42,40 +50,40 @@ https.get(URL, (res) => {
           lon = parseFloat(coords[1]);
         }
 
-        // Время работы (например, "30.08.2026 08:00 / 31.08.2026 08:00 nöbetçidir.")
+        // Время работы
         const timeText = $(element).find('span.main-color').text().trim();
         const timeParts = timeText.split('/');
         const workdate = timeParts[0] ? timeParts[0].trim() : '';
         const shiftend = timeParts[1] ? timeParts[1].replace('nöbetçidir.', '').trim() : '';
 
-        // Добавляем аптеку в список
-        pharmacies.push({
-          name: name,
-          district: district,
-          address: address,
-          phone: phone,
-          lat: lat,
-          lon: lon,
-          workdate: workdate,
-          shiftend: shiftend
-        });
+        // Если название или адрес пустые, пропускаем
+        if (name && address) {
+          pharmacies.push({
+            name: name,
+            district: district,
+            address: address,
+            phone: phone,
+            lat: lat,
+            lon: lon,
+            workdate: workdate,
+            shiftend: shiftend
+          });
+        }
       });
 
-      // Формируем итоговый JSON
       const result = {
         snapshot: new Date().toISOString().split('T')[0],
         sonuc: pharmacies
       };
 
-      // Записываем файл
       fs.writeFileSync(`pharmacies_${CITY_SLUG}.json`, JSON.stringify(result, null, 2));
-      console.log(`Успешно! Найдено аптек: ${pharmacies.length}. Данные сохранены!`);
+      console.log(`Успешно! Найдено аптек: ${pharmacies.length}.`);
     } else {
-      console.error(`Ошибка при загрузке страницы. Статус: ${res.statusCode}`);
+      console.error(`Ошибка загрузки страницы: ${res.statusCode}`);
       process.exit(1);
     }
   });
 }).on('error', (e) => {
-  console.error(`Сетевая ошибка: ${e.message}`);
+  console.error(`Ошибка сети: ${e.message}`);
   process.exit(1);
 });
