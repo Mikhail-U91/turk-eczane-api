@@ -2,35 +2,41 @@ const fs = require('fs');
 const https = require('https');
 
 const CITY_SLUG = 'mersin';
-const API_KEY = process.env.ECZANEAPI_KEY;
+const API_KEY = process.env.TEKNIKZEKA_API_KEY;
 
 if (!API_KEY) {
-  console.error('Ошибка: Переменная ECZANEAPI_KEY не найдена!');
+  console.error('Ошибка: Переменная TEKNIKZEKA_API_KEY не найдена!');
   process.exit(1);
 }
 
+// URL нового API
+const path = `/eczane/api.php?islem=nobetci&il=${CITY_SLUG}`;
+
 const options = {
-  hostname: 'eczaneapi.com', // Исправлено: убираем api.
-  path: '/api/v1/pharmacies/on-duty?city=' + CITY_SLUG, // Добавлен /api перед v1
+  hostname: 'api.teknikzeka.net',
+  path: path,
   method: 'GET',
   headers: {
-    'X-API-Key': API_KEY, // Правильный заголовок по документации
-    'Content-Type': 'application/json'
+    'content-type': 'application/json',
+    // Передача ключа в заголовке (обратите внимание на формат!)
+    'authorization': `Bearer ${API_KEY}`
   }
 };
 
 const req = https.request(options, (res) => {
   let data = '';
-  res.on('data', (chunk) => data += chunk);
+
+  res.on('data', (chunk) => {
+    data += chunk;
+  });
+
   res.on('end', () => {
+    // ВАЖНО: Записываем новый файл ТОЛЬКО при успешном ответе
     if (res.statusCode === 200) {
-      const timestamp = new Date().toISOString();
-      fs.writeFileSync('pharmacies_mersin.json', data);
-      fs.writeFileSync('last_update.txt', timestamp);
-      console.log('Данные EczaneAPI успешно сохранены!');
+      fs.writeFileSync(`pharmacies_${CITY_SLUG}.json`, data);
+      console.log(`Данные сохранены в pharmacies_${CITY_SLUG}.json`);
     } else {
-      console.error(`Ошибка от EczaneAPI. Статус: ${res.statusCode}`);
-      console.error(`Ответ: ${data}`);
+      console.error(`Ошибка от API. Статус: ${res.statusCode}. Файл не был перезаписан.`);
       process.exit(1);
     }
   });
