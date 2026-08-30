@@ -2,10 +2,9 @@ name: Daily Pharmacy Update
 
 on:
   schedule:
-    # Запуск в 08:10 по Стамбулу (сразу после окончания ночной смены)
     - cron: '10 8 * * *'
       timezone: "Europe/Istanbul"
-  workflow_dispatch: # Позволяет запускать вручную
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
@@ -21,9 +20,10 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Запрашиваем данные у TeknikZeka
-        env:
-          TEKNIKZEKA_API_KEY: ${{ secrets.TEKNIKZEKA_API_KEY }}
+      - name: Устанавливаем зависимости (cheerio)
+        run: npm install cheerio
+
+      - name: Запускаем скрипт сбора данных
         run: node fetch_pharmacies.js
 
       - name: Публикуем результат в ветку gh-pages
