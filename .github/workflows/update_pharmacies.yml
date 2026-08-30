@@ -2,9 +2,10 @@ name: Daily Pharmacy Update
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 04:00 по Стамбулу
+    # Запуск в 08:10 по Стамбулу (сразу после окончания ночной смены)
+    - cron: '10 8 * * *'
       timezone: "Europe/Istanbul"
-  workflow_dispatch:
+  workflow_dispatch: # Позволяет запускать вручную
 
 jobs:
   build-and-deploy:
@@ -20,9 +21,9 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Запрашиваем данные у EczaneAPI
+      - name: Запрашиваем данные у TeknikZeka
         env:
-          TEKNIKZEKA_API_KEY: ${{ secrets.TEKNIKZEKA_API_KEY }}  # Взяли ключ из GitHub Secrets
+          TEKNIKZEKA_API_KEY: ${{ secrets.TEKNIKZEKA_API_KEY }}
         run: node fetch_pharmacies.js
 
       - name: Публикуем результат в ветку gh-pages
