@@ -9,8 +9,8 @@ if (!API_KEY) {
   process.exit(1);
 }
 
-// URL нового API
-const path = `/eczane/api.php?islem=nobetci&il=${CITY_SLUG}`;
+// Добавили параметр update=1 для принудительного обновления с первоисточника
+const path = `/eczane/api.php?islem=nobetci&il=${CITY_SLUG}&update=1`;
 
 const options = {
   hostname: 'api.teknikzeka.net',
@@ -18,7 +18,6 @@ const options = {
   method: 'GET',
   headers: {
     'content-type': 'application/json',
-    // Передача ключа в заголовке (обратите внимание на формат!)
     'authorization': `Bearer ${API_KEY}`
   }
 };
@@ -31,7 +30,7 @@ const req = https.request(options, (res) => {
   });
 
   res.on('end', () => {
-    // ВАЖНО: Записываем новый файл ТОЛЬКО при успешном ответе
+    // Записываем файл только при успешном ответе (200)
     if (res.statusCode === 200) {
       fs.writeFileSync(`pharmacies_${CITY_SLUG}.json`, data);
       console.log(`Данные сохранены в pharmacies_${CITY_SLUG}.json`);
