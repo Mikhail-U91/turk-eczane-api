@@ -25,16 +25,23 @@ https.get(URL, (res) => {
         const titleFull = $(element).find('h4').text().trim();
         const district = titleFull.split('-').pop().trim();
 
-        // Адрес: собираем из fa-home и fa-arrows
+        // Извлечение адреса: разбиваем содержимое по <br> и берем первые две строки
         let address = '';
-        $(element).find('i.fa-home, i.fa-arrows').each(function() {
-          let part = $(this).parent().text().trim();
-          // Удаляем всё, что похоже на время работы (например, "!!24:00'E KADAR NÖBETÇİDİR!!")
-          part = part.replace(/!!.*?NÖBETÇİDİR!!/g, '').trim();
-          if (part) {
-            address += part + ' ';
+        const parentHtml = $(element).find('i.fa-home').parent().html();
+        if (parentHtml) {
+          const lines = parentHtml.split('<br>');
+          for (let i = 0; i < 2; i++) {
+            if (lines[i]) {
+              // Загружаем строку как HTML и получаем чистый текст
+              let line = cheerio.load('<div>' + lines[i] + '</div>')('div').text().trim();
+              // Удаляем маркеры ночного дежурства
+              line = line.replace(/!!.*?NÖBETÇİDİR!!/g, '').trim();
+              if (line) {
+                address += line + ' ';
+              }
+            }
           }
-        });
+        }
         address = address.trim().replace(/\s+/g, ' ');
 
         // Телефон
@@ -56,7 +63,7 @@ https.get(URL, (res) => {
         const workdate = timeParts[0] ? timeParts[0].trim() : '';
         const shiftend = timeParts[1] ? timeParts[1].replace('nöbetçidir.', '').trim() : '';
 
-        // Если название или адрес пустые, пропускаем
+        // Если название и адрес не пустые, добавляем
         if (name && address) {
           pharmacies.push({
             name: name,
