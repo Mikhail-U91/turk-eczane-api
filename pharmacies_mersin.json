@@ -1,235 +1,235 @@
 {
-  "snapshot": "2026-09-23",
+  "snapshot": "2026-09-24",
   "sonuc": [
     {
-      "name": "ADEM ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ISTIKLAL CAD.TURGUT REIS MAH.4119 SK.NO:159 İSTİKLAL CD ÖZEL IMC HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03242312255",
-      "lat": 36.793739,
-      "lon": 34.615747,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
-    },
-    {
-      "name": "AYSUN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GAZI MAH.1304 SOK.İNCİ SİTESİ.NO:12/C",
-      "phone": "03243270492",
-      "lat": 36.783526,
-      "lon": 34.603848,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 00:00"
-    },
-    {
-      "name": "BİZİM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOME'S C BLOK NO:24 CE 03245021250",
-      "phone": "03245021250",
-      "lat": 36.78593,
-      "lon": 34.539912,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
-    },
-    {
-      "name": "ÇAM  ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 93003 SK. NO:16/A Meriş market-meriş düğün salonu alt kavşağı 3.çevreyolu üzeri",
-      "phone": "03242240102",
-      "lat": 36.832379,
-      "lon": 34.61923,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
-    },
-    {
-      "name": "EMRE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "İNÖNÜ MAH. KUSHİMATO SOK. AĞIRTAN APT. NO:17/B 03243259717",
-      "phone": "03243259717",
-      "lat": 36.782363,
-      "lon": 34.595346,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
-    },
-    {
-      "name": "GÜLEÇ ECZANESİ",
+      "name": "AKDENİZ ECZANESİ",
       "district": "MEZİTLİ",
-      "address": "MENDERES MH. MİLLİ EGEMENLİK CD. MIZRAK 5 APT. NO:6/B",
-      "phone": "03243583467",
-      "lat": 36.748426,
-      "lon": 34.530797,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 00:00"
+      "address": "FATİH MH. 30032 SK. NO:4A MEDİCALPARK HAST. KARŞISI HYUNDAI ARASI MEZİTLİ",
+      "phone": "05452354525",
+      "lat": 36.757979,
+      "lon": 34.544535,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
     },
     {
-      "name": "JALE ECZANESİ",
+      "name": "GÖKÇEL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "EĞRİÇAM MH. GMK BULV. DOKTOROĞLU 2 SİTESİ C BLOK NO:513/I MARİNA KAVŞAGI 48 ELEKTRİK KARŞI ÇAPRAZI",
+      "phone": "03249995033",
+      "lat": 36.773171,
+      "lon": 34.567089,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
+    },
+    {
+      "name": "GÜNEŞ ECZANESİ",
       "district": "AKDENİZ",
-      "address": "YENI MAH.5314 SOK.NO:6/A TOROS DEVLET HST KARŞISI (ESKİ SSK HAS.)/AKDENİZ",
-      "phone": "03242379900",
-      "lat": 36.806624,
-      "lon": 34.635694,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
+      "address": "ŞEVKET SÜMER MAH. 156. CAD. NO:21/A",
+      "phone": "05324097824",
+      "lat": 36.825364,
+      "lon": 34.641874,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 00:00"
     },
     {
-      "name": "NİŞANTAŞI ECZANESİ",
+      "name": "MERSİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.109F HASTANE CD. AKDENİZ BELEDİYESİ ARKASI ZİRAAT BANKASI KURUÇEŞME ŞUBESİ KARŞISI /AKDENİZ",
+      "phone": "03243371017",
+      "lat": 36.804386,
+      "lon": 34.623624,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
+    },
+    {
+      "name": "MEZİTLİ ECZANESİ",
       "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. VALİ ŞENOL ENGİN CD. 31067 SK. REYYAN APT. NO:15/A ÜNİVERSİTE CADDESİ ORTADOĞU HASTANESİ KARŞISI MEZİTLİ",
-      "phone": "05374906692",
-      "lat": 36.7637,
-      "lon": 34.546914,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
+      "address": "Merkez Mah.Karaoğlan Cad.No:5/A",
+      "phone": "03243583685",
+      "lat": 36.74935,
+      "lon": 34.5289,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 00:00"
     },
     {
-      "name": "SELÇUKLAR ECZANESİ",
+      "name": "NAİME ŞENER  ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GÜVENEVLER MAH. 1953 SK NO:14A/B GÜVENEVLER MH. 1953 SK. ÖZEL FORUM YAŞAM HASTANESİ ACİL KARŞISI YENİŞEHİR",
+      "phone": "05318264850",
+      "lat": 36.790093,
+      "lon": 34.587467,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
+    },
+    {
+      "name": "PELİNSU ECZANESİ",
       "district": "TOROSLAR",
-      "address": "SELÇUKLAR MAH.206 CAD.NO:146 SELÇUKLAR MH. 206. CD.SELÇUKLAR ASM KARŞISI AKABE CAMİİ CİVARI/TOROSLAR",
-      "phone": "03243200202",
-      "lat": 36.818303,
-      "lon": 34.628007,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
+      "address": "Akbelen Mh. Toroslar Cd. No:6/K AKBELEN MH. TOROSLAR CD. AYIŞIĞI DÜĞÜN SALONU KARŞISI - KORAY AYDIN STADI ALTI",
+      "phone": "03243202323",
+      "lat": 36.825077,
+      "lon": 34.600505,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
     },
     {
-      "name": "SIHHAT ECZANESİ",
+      "name": "SEZER ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 232. CD. NO:42AA ERZİNCANLAR SİTESİ KARŞI KÖŞESİ",
+      "phone": "03242236685",
+      "lat": 36.836911,
+      "lon": 34.610148,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
+    },
+    {
+      "name": "TAYLAN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GAZI MAH.1304 SOK.SELİM BEY APT.NO:6/A",
+      "phone": "03243274541",
+      "lat": 36.783045,
+      "lon": 34.604172,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 00:00"
+    },
+    {
+      "name": "TOROS ECZANESİ",
       "district": "AKDENİZ",
-      "address": "NUSRATİYE MAH. 5003 SOK. NO:51/A NUSRATİYE MH. ESKİ DEVLET HASTANESİ CAD. CUMA PAZARI SOKAĞI",
-      "phone": "03243360539",
-      "lat": 36.806746,
-      "lon": 34.623866,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
+      "address": "YENİ MH. 5314 SK. NO:10/A TOROS DEVLET HASTANESİ KARŞISI ( ESKİ SSK )/AKDENİZ",
+      "phone": "03242335624",
+      "lat": 36.80713,
+      "lon": 34.635298,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
     },
     {
-      "name": "ERDİNÇ ECZANESİ",
+      "name": "DÜRİYE ECZANESİ",
       "district": "TARSUS",
-      "address": "ATATÜRK CAD.NO:69/C HALK EĞİTİM MERKEZİ KARŞISI - TARSUS PARKI KARŞISI",
-      "phone": "03246130121",
-      "lat": 36.917216,
-      "lon": 34.887567,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
+      "address": "82 EVLER MAH. 3145 SOK. NO:2 YENİ DEVLET HASTANESİ ACİL KAPISI KARŞISI",
+      "phone": "03246145060",
+      "lat": 36.915874,
+      "lon": 34.915207,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
     },
     {
-      "name": "ÖZER ECZANESİ",
+      "name": "GİZEM ECZANESİ",
       "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BF YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246130255",
-      "lat": 36.914254,
-      "lon": 34.912586,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
+      "address": "TOZKOPARAN ZAHİT MH. 3810 SK. NO:25A",
+      "phone": "03246261818",
+      "lat": 36.928245,
+      "lon": 34.911773,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 00:00"
     },
     {
-      "name": "ÖZKARA ECZANESİ",
+      "name": "KAHYAOGLU ECZANESİ",
       "district": "TARSUS",
-      "address": "ŞEHİT İSHAK MH. NENEHATUN CD. NO:37",
-      "phone": "03246258088",
-      "lat": 36.923859,
-      "lon": 34.883017,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 00:00"
+      "address": "ANIT MAH. 321 SOK.DİDEM AP.NO:20/B",
+      "phone": "03246259382",
+      "lat": 36.920726,
+      "lon": 34.877475,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 00:00"
     },
     {
-      "name": "YURTOĞLU ECZANESİ",
+      "name": "MAJİSTRAL ECZANESİ",
       "district": "TARSUS",
-      "address": "BARBAROS MH. 609 SK. NO:34/A",
-      "phone": "03246143032",
-      "lat": 36.904473,
-      "lon": 34.885117,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 00:00"
-    },
-    {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D",
-      "phone": "03247414067",
-      "lat": 36.319651,
-      "lon": 33.880229,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 00:00"
-    },
-    {
-      "name": "ÜNAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
-      "phone": "03247147559",
-      "lat": 36.381093,
-      "lon": 33.926139,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
-    },
-    {
-      "name": "FİLİZ ECZANESİ",
-      "district": "MUT",
-      "address": "DOĞANCI MH. HÜKÜMET CD. NO:46A BULUTBEY OTEL ALTI",
-      "phone": "03247741355",
-      "lat": 36.643182,
-      "lon": 33.437984,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
-    },
-    {
-      "name": "NADİR ECZANESİ",
-      "district": "GÜLNAR",
-      "address": "SARAY MAH. AKKAVAK CAD. NO:14/C SARAY MH. AKKAVAK CD. NO:14/C",
-      "phone": "03247512116",
-      "lat": 36.338338,
-      "lon": 33.403489,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
-    },
-    {
-      "name": "ÇINAR ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:8A/8B",
-      "phone": "05550375951",
-      "lat": 36.605492,
-      "lon": 34.313159,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 00:00"
-    },
-    {
-      "name": "MERYEM ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. KAZIM KARABEKİR CD. MEHMET ATAR KONUTLARI NO:80/F MERKEZ MH. KAZIM KARABEKİR CD. ERDEMLİ DEVLET HASTANESİ ACİL KARŞISI",
-      "phone": "03245154343",
-      "lat": 36.610709,
-      "lon": 34.302688,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
-    },
-    {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "BOZYAZI",
-      "address": "MERKEZ MAH SAĞLIK CAD.NO:1 MERKEZ MAH SAGLIK CAD.NO 1. BOZYAZI",
-      "phone": "03248514969",
-      "lat": 36.105681,
-      "lon": 32.970258,
-      "workdate": "23.09.2026 17:00",
-      "shiftend": "24.09.2026 08:00"
+      "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
+      "phone": "03246270773",
+      "lat": 36.90918,
+      "lon": 34.883271,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
     },
     {
       "name": "DEVA ECZANESİ",
-      "district": "AYDINCIK",
-      "address": "CUMHURIYET MAH. KENAN EVREN CD. NO:1/C AYDINCIK DEVLET HASTANESİ KARŞISI",
-      "phone": "03248412224",
-      "lat": 36.152833,
-      "lon": 33.338789,
-      "workdate": "23.09.2026 17:00",
-      "shiftend": "24.09.2026 08:00"
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:12/B 03247141544",
+      "phone": "03247141544",
+      "lat": 36.38087,
+      "lon": 33.926801,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
     },
     {
-      "name": "KORAY ECZANESİ",
+      "name": "TAŞUCU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1",
+      "phone": "03247414986",
+      "lat": 36.319314,
+      "lon": 33.879849,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 00:00"
+    },
+    {
+      "name": "SIHHAT ECZANESİ",
+      "district": "MUT",
+      "address": "MEYDAN MAH.KARAMAN CAD.NO:8 KARAMAN CAD.NO.8",
+      "phone": "03247742467",
+      "lat": 36.646227,
+      "lon": 33.435786,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
+    },
+    {
+      "name": "YENİ ŞİFA ECZANESİ",
+      "district": "GÜLNAR",
+      "address": "SARAY MAH.AKKAVAK CAD. NO:12/ABC SARAY MAHALLESİ AKKAVAK CADDESİ NO:12/ABC",
+      "phone": "03247517062",
+      "lat": 36.338405,
+      "lon": 33.40321,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
+    },
+    {
+      "name": "BİLGEN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:80 B BLOK Z-35 MERKEZ MH. KAZIM KARABEKIR CD. 80/B BLOK Z-35",
+      "phone": "03245157575",
+      "lat": 36.611011,
+      "lon": 34.302437,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
+    },
+    {
+      "name": "ESEN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "Merkez Mh. İbni Sina Cd. No:13/B",
+      "phone": "03245161700",
+      "lat": 36.605539,
+      "lon": 34.312688,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 00:00"
+    },
+    {
+      "name": "AKDENİZ ECZANESİ",
+      "district": "BOZYAZI",
+      "address": "ÇOPURLU MAH.ŞEHITLER CAD.NO:93C ÇOPURLU MAH SEHITLER CAD NO 8/1 BOZYAZI",
+      "phone": "03248513157",
+      "lat": 36.115081,
+      "lon": 32.971999,
+      "workdate": "24.09.2026 17:00",
+      "shiftend": "25.09.2026 08:00"
+    },
+    {
+      "name": "AYDINCIK ECZANESİ",
+      "district": "AYDINCIK",
+      "address": "CUMHURİYET MH. HASTANE CD. NO:7/A 03248414112",
+      "phone": "03248414112",
+      "lat": 36.152857,
+      "lon": 33.339241,
+      "workdate": "24.09.2026 17:00",
+      "shiftend": "25.09.2026 08:00"
+    },
+    {
+      "name": "YÜCEL ECZANESİ",
       "district": "ANAMUR",
-      "address": "SAĞLIK MH. ABDULLAH ÇELİK CD. NO:10/A 03248164878",
-      "phone": "03248164878",
-      "lat": 36.080215,
-      "lon": 32.840847,
-      "workdate": "23.09.2026 18:00",
-      "shiftend": "24.09.2026 08:00"
+      "address": "SARAY MAH. AKDENIZ.CAD.NO:35/A SARAY.MAHALLESI AKDENIZ.CAD.NO.35/A",
+      "phone": "03248166557",
+      "lat": 36.077537,
+      "lon": 32.832942,
+      "workdate": "24.09.2026 18:00",
+      "shiftend": "25.09.2026 08:00"
     }
   ]
 }
