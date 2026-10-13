@@ -1,0 +1,60 @@
+name: Late Publish Pharmacy Data
+
+on:
+  schedule:
+    # Каждые 30 минут с 08:30 до 18:30 по Стамбулу
+    - cron: '0,30 8-18 * * *'
+      timezone: "Europe/Istanbul"
+  workflow_dispatch:
+
+jobs:
+  late-publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install cheerio
+        run: npm install cheerio
+
+      - name: Try to fetch fresh data
+        run: node fetch_pharmacies.js
+
+      - name: Check if staged file exists
+        id: check
+        run: |
+          if [ -f staged_mersin.json ]; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Publish if staged file exists
+        if: steps.check.outputs.exists == 'true'
+        run: node publish_pharmacies.js
+
+      - name: Commit published file
+        if: steps.check.outputs.exists == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pharmacies_mersin.json
+          git commit -m "Late publish: pharmacy data [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Remove staged file after publish
+        if: steps.check.outputs.exists == 'true'
+        run: |
+          if [ -f staged_mersin.json ]; then
+            git rm staged_mersin.json
+            [ -f staged_ready.flag ] && git rm staged_ready.flag
+            git commit -m "Late publish: remove staged file [skip ci]" || echo "No changes to commit"
+            git push
+          fi
