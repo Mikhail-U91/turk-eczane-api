@@ -1,0 +1,42 @@
+name: Publish Pharmacy Data
+
+on:
+  workflow_dispatch:  # запускается вручную или через cron-job.org
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run publish script
+        run: node publish_pharmacies.js
+
+      - name: Commit published file
+        run: |
+          if [ -f pharmacies_mersin.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add pharmacies_mersin.json
+            git commit -m "Publish pharmacy data [skip ci]" || echo "No changes to commit"
+            git push
+          fi
+
+      - name: Remove staged file after publish
+        run: |
+          if [ -f staged_mersin.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git rm staged_mersin.json
+            [ -f staged_ready.flag ] && git rm staged_ready.flag
+            git commit -m "Remove staged file after publish [skip ci]" || echo "No changes to commit"
+            git push
+          fi
