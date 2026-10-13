@@ -72,28 +72,28 @@ function parsePharmacies(html) {
     const pharmacies = [];
 
     $('.nobet-kart').each((index, element) => {
+        // 1. Название — из <h4><strong>
         const name = $(element).find('h4 strong').text().trim();
-        const titleFull = $(element).find('h4').text().trim();
-        const district = titleFull.split('-').pop().trim();
+        if (!name) return;
 
-        // Извлекаем адрес из двух строк
+        // 2. Район — из <h4>, убираем дату и название
+        const h4Text = $(element).find('h4').text().trim();
+        let district = h4Text.replace(/^\d{2}\.\d{2}\.\d{4}\s*\/\s*/, '');
+        district = district.replace(name, '').trim();
+
+        // 3. Адрес — только первая строка после <i class="fa-home">
         let address = '';
-        const parentHtml = $(element).find('i.fa-home').parent().html();
-        if (parentHtml) {
-            const lines = parentHtml.split('<br>');
-            for (let i = 0; i < 2; i++) {
-                if (lines[i]) {
-                    let line = cheerio.load('<div>' + lines[i] + '</div>')('div').text().trim();
-                    line = line.replace(/!!.*?NÖBETÇİDİR!!/g, '').trim();
-                    if (line) address += line + ' ';
-                }
-            }
+        const addressHtml = $(element).find('i.fa-home').parent().html() || '';
+        const firstLine = addressHtml.split('<br>')[0];
+        if (firstLine) {
+            address = cheerio.load('<div>' + firstLine + '</div>')('div').text().trim();
+            address = address.replace(/!!.*?NÖBETÇİDİR!!/g, '').trim();
         }
-        address = address.trim().replace(/\s+/g, ' ');
 
+        // 4. Телефон
         const phone = $(element).find('a[href^="tel:"]').text().trim();
 
-        // Координаты из ссылки Google Maps
+        // 5. Координаты из ссылки Google Maps
         const mapLink = $(element).find('a[href^="https://www.google.com/maps?q="]').attr('href');
         let lat = null, lon = null;
         if (mapLink) {
@@ -102,7 +102,7 @@ function parsePharmacies(html) {
             lon = parseFloat(coords[1]);
         }
 
-        // Время работы
+        // 6. Время работы
         const timeText = $(element).find('span.main-color').text().trim();
         const timeParts = timeText.split('/');
         const workdate = timeParts[0] ? timeParts[0].trim() : '';
