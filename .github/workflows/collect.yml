@@ -1,0 +1,40 @@
+name: Collect Pharmacy Data
+
+on:
+  schedule:
+    # Каждые 30 минут с 04:00 до 07:30 по Стамбулу
+    - cron: '0,30 4-7 * * *'
+      timezone: "Europe/Istanbul"
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install cheerio
+        run: npm install cheerio
+
+      - name: Run collection script
+        run: node fetch_pharmacies.js
+
+      - name: Commit staged data if exists
+        run: |
+          if [ -f staged_mersin.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add staged_mersin.json staged_ready.flag
+            git commit -m "Staged pharmacy data [skip ci]" || echo "No changes to commit"
+            git push
+          else
+            echo "No staged data to commit"
+          fi
