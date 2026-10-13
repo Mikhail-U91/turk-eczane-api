@@ -3,58 +3,103 @@ const https = require('https');
 const cheerio = require('cheerio');
 
 const CITY_SLUG = 'mersin';
-const URL = `https://www.mersineczaciodasi.org.tr/nobetci-eczaneler`;
+const STAGED_FILE = `staged_${CITY_SLUG}.json`;
+const STAGED_FLAG = 'staged_ready.flag';
 
-https.get(URL, (res) => {
-  let data = '';
+// Проверяем, был ли уже успешный сбор сегодня
+if (fs.existsSync(STAGED_FLAG)) {
+    const flagData = fs.readFileSync(STAGED_FLAG, 'utf8').trim();
+    const today = getTodayDate();
+    if (flagData === today) {
+        console.log(`✅ Данные на ${today} уже собраны. Пропускаем.`);
+        process.exit(0);
+    }
+}
 
-  res.on('data', (chunk) => {
-    data += chunk;
-  });
+// Сегодняшняя дата в формате DD.MM.YYYY
+function getTodayDate() {
+    const d = new Date();
+    const day = String(d.getDate()).padStart(2, '0');
+    const month = String(d.getMonth() + 1).padStart(2, '0');
+    const year = d.getFullYear();
+    return `${day}.${month}.${year}`;
+}
 
-  res.on('end', () => {
-    if (res.statusCode === 200) {
-      const $ = cheerio.load(data);
-      const pharmacies = [];
+// POST-запрос — имитируем нажатие кнопки "NÖBETLERİ GÖSTER"
+function fetchData(date) {
+    return new Promise((resolve, reject) => {
+        const postData = `tarih1=${date}&ilce=&gnr=N%C3%96BETLER%C4%B0+G%C3%96STER`;
 
-      $('.nobet-kart').each((index, element) => {
-        // Название аптеки
+        const options = {
+            hostname: 'www.mersineczaciodasi.org.tr',
+            path: '/nobetci-eczaneler',
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Content-Length': Buffer.byteLength(postData),
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            }
+        };
+
+        const req = https.request(options, (res) => {
+            let data = '';
+            res.on('data', (chunk) => data += chunk);
+            res.on('end', () => {
+                if (res.statusCode === 200) {
+                    resolve(data);
+                } else {
+                    reject(new Error(`HTTP ${res.statusCode}`));
+                }
+            });
+        });
+
+        req.on('error', reject);
+        req.write(postData);
+        req.end();
+    });
+}
+
+// Проверяем, что на странице именно сегодняшняя дата
+function checkDate(html, expectedDate) {
+    const dateMatch = html.match(/(\d{2}\.\d{2}\.\d{4})\s+G[üu]n[üu]/);
+    if (!dateMatch) return false;
+    return dateMatch[1] === expectedDate;
+}
+
+// Парсим HTML и извлекаем аптеки
+function parsePharmacies(html) {
+    const $ = cheerio.load(html);
+    const pharmacies = [];
+
+    $('.nobet-kart').each((index, element) => {
         const name = $(element).find('h4 strong').text().trim();
-
-        // Район — берём из заголовка после последнего дефиса
         const titleFull = $(element).find('h4').text().trim();
         const district = titleFull.split('-').pop().trim();
 
-        // Извлечение адреса: разбиваем содержимое по <br> и берем первые две строки
+        // Извлекаем адрес из двух строк
         let address = '';
         const parentHtml = $(element).find('i.fa-home').parent().html();
         if (parentHtml) {
-          const lines = parentHtml.split('<br>');
-          for (let i = 0; i < 2; i++) {
-            if (lines[i]) {
-              // Загружаем строку как HTML и получаем чистый текст
-              let line = cheerio.load('<div>' + lines[i] + '</div>')('div').text().trim();
-              // Удаляем маркеры ночного дежурства
-              line = line.replace(/!!.*?NÖBETÇİDİR!!/g, '').trim();
-              if (line) {
-                address += line + ' ';
-              }
+            const lines = parentHtml.split('<br>');
+            for (let i = 0; i < 2; i++) {
+                if (lines[i]) {
+                    let line = cheerio.load('<div>' + lines[i] + '</div>')('div').text().trim();
+                    line = line.replace(/!!.*?NÖBETÇİDİR!!/g, '').trim();
+                    if (line) address += line + ' ';
+                }
             }
-          }
         }
         address = address.trim().replace(/\s+/g, ' ');
 
-        // Телефон
         const phone = $(element).find('a[href^="tel:"]').text().trim();
 
-        // Координаты
+        // Координаты из ссылки Google Maps
         const mapLink = $(element).find('a[href^="https://www.google.com/maps?q="]').attr('href');
-        let lat = null;
-        let lon = null;
+        let lat = null, lon = null;
         if (mapLink) {
-          const coords = mapLink.split('q=')[1].split(',');
-          lat = parseFloat(coords[0]);
-          lon = parseFloat(coords[1]);
+            const coords = mapLink.split('q=')[1].split(',');
+            lat = parseFloat(coords[0]);
+            lon = parseFloat(coords[1]);
         }
 
         // Время работы
@@ -63,34 +108,47 @@ https.get(URL, (res) => {
         const workdate = timeParts[0] ? timeParts[0].trim() : '';
         const shiftend = timeParts[1] ? timeParts[1].replace('nöbetçidir.', '').trim() : '';
 
-        // Если название и адрес не пустые, добавляем
         if (name && address) {
-          pharmacies.push({
-            name: name,
-            district: district,
-            address: address,
-            phone: phone,
-            lat: lat,
-            lon: lon,
-            workdate: workdate,
-            shiftend: shiftend
-          });
+            pharmacies.push({
+                name, district, address, phone, lat, lon, workdate, shiftend
+            });
         }
-      });
+    });
 
-      const result = {
-        snapshot: new Date().toISOString().split('T')[0],
-        sonuc: pharmacies
-      };
+    return pharmacies;
+}
 
-      fs.writeFileSync(`pharmacies_${CITY_SLUG}.json`, JSON.stringify(result, null, 2));
-      console.log(`Успешно! Найдено аптек: ${pharmacies.length}.`);
-    } else {
-      console.error(`Ошибка загрузки страницы: ${res.statusCode}`);
-      process.exit(1);
+// Основная логика
+(async () => {
+    const today = getTodayDate();
+    console.log(`🔍 Проверяем данные на ${today}...`);
+
+    try {
+        const html = await fetchData(today);
+
+        if (!checkDate(html, today)) {
+            console.log(`⏳ Сайт ещё показывает вчерашние данные. Ждём обновления.`);
+            process.exit(0);
+        }
+
+        console.log(`✅ Дата совпадает! Парсим аптеки...`);
+        const pharmacies = parsePharmacies(html);
+
+        if (pharmacies.length === 0) {
+            console.log(`⚠️ Дата совпала, но аптеки не найдены.`);
+            process.exit(1);
+        }
+
+        const result = {
+            snapshot: today,
+            sonuc: pharmacies
+        };
+
+        fs.writeFileSync(STAGED_FILE, JSON.stringify(result, null, 2));
+        fs.writeFileSync(STAGED_FLAG, today);
+        console.log(`✅ Сохранено ${pharmacies.length} аптек в ${STAGED_FILE}`);
+    } catch (e) {
+        console.error(`❌ Ошибка: ${e.message}`);
+        process.exit(1);
     }
-  });
-}).on('error', (e) => {
-  console.error(`Ошибка сети: ${e.message}`);
-  process.exit(1);
-});
+})();
