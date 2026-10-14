@@ -122,16 +122,6 @@
       "shiftend": "15.10.2026 08:00"
     },
     {
-      "name": "AKDENİZ ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "PAZARKAŞI MH. MENDERES CD. NO:151D BANKALAR CADDESİ AKBANK KARŞISI",
-      "phone": "03247142426",
-      "lat": 36.376882,
-      "lon": 33.925444,
-      "workdate": "14.10.2026 18:00",
-      "shiftend": "15.10.2026 08:00"
-    },
-    {
       "name": "ERDAL ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
@@ -142,14 +132,14 @@
       "shiftend": "15.10.2026 00:00"
     },
     {
-      "name": "ZÜLAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ERGENEKON MH. 1240 SK. NO:9A ŞEHİT YURDAKUL  ALCAN OKULU KARŞISI",
-      "phone": "03246275755",
-      "lat": 36.930416,
-      "lon": 34.859794,
+      "name": "AKDENİZ ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "PAZARKAŞI MH. MENDERES CD. NO:151D BANKALAR CADDESİ AKBANK KARŞISI",
+      "phone": "03247142426",
+      "lat": 36.376882,
+      "lon": 33.925444,
       "workdate": "14.10.2026 18:00",
-      "shiftend": "15.10.2026 00:00"
+      "shiftend": "15.10.2026 08:00"
     },
     {
       "name": "GÜVEN ECZANESİ",
@@ -180,6 +170,16 @@
       "lon": 34.883695,
       "workdate": "14.10.2026 18:00",
       "shiftend": "15.10.2026 08:00"
+    },
+    {
+      "name": "ZÜLAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ERGENEKON MH. 1240 SK. NO:9A ŞEHİT YURDAKUL  ALCAN OKULU KARŞISI",
+      "phone": "03246275755",
+      "lat": 36.930416,
+      "lon": 34.859794,
+      "workdate": "14.10.2026 18:00",
+      "shiftend": "15.10.2026 00:00"
     },
     {
       "name": "BABAM ECZANESİ",
