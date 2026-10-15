@@ -1,10 +1,6 @@
 name: Collect Pharmacy Data
 
 on:
-  schedule:
-    # Каждые 30 минут с 04:00 до 07:30 по Стамбулу
-    - cron: '0,30 4-7 * * *'
-      timezone: "Europe/Istanbul"
   workflow_dispatch:
 
 jobs:
