@@ -1,10 +1,6 @@
 name: Late Publish Pharmacy Data
 
 on:
-  schedule:
-    # Каждые 30 минут с 08:30 до 18:30 по Стамбулу
-    - cron: '0,30 8-18 * * *'
-      timezone: "Europe/Istanbul"
   workflow_dispatch:
 
 jobs:
