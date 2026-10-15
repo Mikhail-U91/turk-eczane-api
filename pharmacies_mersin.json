@@ -62,16 +62,6 @@
       "shiftend": "16.10.2026 08:00"
     },
     {
-      "name": "ÇINAR ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:8A/8B",
-      "phone": "05550375951",
-      "lat": 36.605492,
-      "lon": 34.313159,
-      "workdate": "15.10.2026 18:00",
-      "shiftend": "16.10.2026 00:00"
-    },
-    {
       "name": "SERİN ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:59/A",
@@ -80,6 +70,16 @@
       "lon": 34.302884,
       "workdate": "15.10.2026 18:00",
       "shiftend": "16.10.2026 08:00"
+    },
+    {
+      "name": "ÇINAR ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:8A/8B",
+      "phone": "05550375951",
+      "lat": 36.605492,
+      "lon": 34.313159,
+      "workdate": "15.10.2026 18:00",
+      "shiftend": "16.10.2026 00:00"
     },
     {
       "name": "KIR ECZANESİ",
