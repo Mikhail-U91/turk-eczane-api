@@ -2,6 +2,16 @@
   "snapshot": "16.10.2026",
   "sonuc": [
     {
+      "name": "NİHAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "KIREMITHANE MAH.4406 DR. CEMALETTIN TANRIÖVER SOK. FAKS AP. ALTI NO:10/C KİREMİTHANE MH. ESKİ ÖZEL DOĞUŞ HASTANESİ KARŞISI AKDENİZ/MERSİN",
+      "phone": "03242393444",
+      "lat": 36.795106,
+      "lon": 34.623783,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
       "name": "ANADOLU ECZANESİ",
       "district": "AKDENİZ",
       "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242373169",
       "lat": 36.807268,
       "lon": 34.635238,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
-      "name": "NİHAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "KIREMITHANE MAH.4406 DR. CEMALETTIN TANRIÖVER SOK. FAKS AP. ALTI NO:10/C KİREMİTHANE MH. ESKİ ÖZEL DOĞUŞ HASTANESİ KARŞISI AKDENİZ/MERSİN",
-      "phone": "03242393444",
-      "lat": 36.795106,
-      "lon": 34.623783,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
@@ -122,16 +122,6 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "TÜRKMEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. ATATÜRK BULV. NO:62B ESKİ DEVLET HAST.CİVARI,ESKİ VERGİ DAİRESİ KARŞISI",
-      "phone": "03247120966",
-      "lat": 36.380437,
-      "lon": 33.930418,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
       "name": "ATLAS ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MH. ATATÜRK BULV. NO:55B Taşucu Mah. Atatürk Blv. no:55B SİLİFKE",
@@ -140,6 +130,16 @@
       "lon": 33.877737,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 00:00"
+    },
+    {
+      "name": "TÜRKMEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. ATATÜRK BULV. NO:62B ESKİ DEVLET HAST.CİVARI,ESKİ VERGİ DAİRESİ KARŞISI",
+      "phone": "03247120966",
+      "lat": 36.380437,
+      "lon": 33.930418,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
     },
     {
       "name": "NOKAY ECZANESİ",
@@ -182,6 +182,16 @@
       "shiftend": "17.10.2026 00:00"
     },
     {
+      "name": "ÖZCAN ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KUVAYİ MİLLİYE CAD.NO:154 HASTANE CD ESKİ TOROSLAR BELEDİYESİ KARŞISI/TOROSLAR",
+      "phone": "03243220704",
+      "lat": 36.812298,
+      "lon": 34.619498,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
       "name": "MERSİN ŞEHİR ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 93130 SK. NO: 1/B-C MERSİN ŞEHİR HASTANESİ ALT KAVSAĞI, CAMİ BATI YÖNÜ",
@@ -192,12 +202,12 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "ÖZCAN ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KUVAYİ MİLLİYE CAD.NO:154 HASTANE CD ESKİ TOROSLAR BELEDİYESİ KARŞISI/TOROSLAR",
-      "phone": "03243220704",
-      "lat": 36.812298,
-      "lon": 34.619498,
+      "name": "OKTAY YILMAZ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BARBAROS MH. 2106 SK. NO:8/A  YENİŞEHİR 1 NOLU ASM (ANADOLU ASM)  KARŞISI  YENİŞEHİR",
+      "phone": "03243370120",
+      "lat": 36.784839,
+      "lon": 34.579881,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
@@ -218,16 +228,6 @@
       "phone": "03245022216",
       "lat": 36.780834,
       "lon": 34.559184,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
-      "name": "OKTAY YILMAZ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BARBAROS MH. 2106 SK. NO:8/A  YENİŞEHİR 1 NOLU ASM (ANADOLU ASM)  KARŞISI  YENİŞEHİR",
-      "phone": "03243370120",
-      "lat": 36.784839,
-      "lon": 34.579881,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     }
