@@ -2,16 +2,6 @@
   "snapshot": "16.10.2026",
   "sonuc": [
     {
-      "name": "GÜRSOY ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MAH. 5314 SK. NO:12A TOROS DEVLET HASTANESİ OTOPARK KARŞISI",
-      "phone": "03242373169",
-      "lat": 36.807268,
-      "lon": 34.635238,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
       "name": "NİHAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "KIREMITHANE MAH.4406 DR. CEMALETTIN TANRIÖVER SOK. FAKS AP. ALTI NO:10/C KİREMİTHANE MH. ESKİ ÖZEL DOĞUŞ HASTANESİ KARŞISI AKDENİZ/MERSİN",
@@ -28,6 +18,16 @@
       "phone": "03243371421",
       "lat": 36.810667,
       "lon": 34.624398,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
+      "name": "GÜRSOY ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MAH. 5314 SK. NO:12A TOROS DEVLET HASTANESİ OTOPARK KARŞISI",
+      "phone": "03242373169",
+      "lat": 36.807268,
+      "lon": 34.635238,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
@@ -142,26 +142,6 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "ONUR ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58 CB YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
-      "phone": "03245024485",
-      "lat": 36.914508,
-      "lon": 34.912079,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
-      "name": "ANIT ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
-      "phone": "03246258777",
-      "lat": 36.920563,
-      "lon": 34.877712,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 00:00"
-    },
-    {
       "name": "NOKAY ECZANESİ",
       "district": "TARSUS",
       "address": "YENİ ÖMERLİ MAH. LANGEN BULV. NO:2/B KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
@@ -182,14 +162,24 @@
       "shiftend": "17.10.2026 00:00"
     },
     {
-      "name": "MERSİN ŞEHİR ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 93130 SK. NO: 1/B-C MERSİN ŞEHİR HASTANESİ ALT KAVSAĞI, CAMİ BATI YÖNÜ",
-      "phone": "03243266868",
-      "lat": 36.848885,
-      "lon": 34.610395,
+      "name": "ONUR ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58 CB YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
+      "phone": "03245024485",
+      "lat": 36.914508,
+      "lon": 34.912079,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
+    },
+    {
+      "name": "ANIT ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
+      "phone": "03246258777",
+      "lat": 36.920563,
+      "lon": 34.877712,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 00:00"
     },
     {
       "name": "ÖZCAN ECZANESİ",
@@ -202,12 +192,12 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "BATIKENT ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MH. 2627 SOK. MERAN 3 SİT. NO:38/A BATIKENT MH. ŞAHİN TEPESİ - NECATİ BOLKAN İ.Ö.OKULU CİVARI  - MEVLANA ASM 100 MT. DOĞU",
-      "phone": "03245022216",
-      "lat": 36.780834,
-      "lon": 34.559184,
+      "name": "MERSİN ŞEHİR ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 93130 SK. NO: 1/B-C MERSİN ŞEHİR HASTANESİ ALT KAVSAĞI, CAMİ BATI YÖNÜ",
+      "phone": "03243266868",
+      "lat": 36.848885,
+      "lon": 34.610395,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
@@ -230,6 +220,16 @@
       "lon": 34.611788,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 00:00"
+    },
+    {
+      "name": "BATIKENT ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MH. 2627 SOK. MERAN 3 SİT. NO:38/A BATIKENT MH. ŞAHİN TEPESİ - NECATİ BOLKAN İ.Ö.OKULU CİVARI  - MEVLANA ASM 100 MT. DOĞU",
+      "phone": "03245022216",
+      "lat": 36.780834,
+      "lon": 34.559184,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
     }
   ]
 }
