@@ -92,16 +92,6 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "EMEK ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "KELVELI CAD.ZIYA ÜNSAL SITESI ALTI.NO:23/B KALE YOLU MEZİTLİ TOROS SEMT POLİKLİNİĞİ KARŞISI/MEZİTLİ",
-      "phone": "03243595175",
-      "lat": 36.756164,
-      "lon": 34.537659,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
       "name": "FARMA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. 52136 SK. NO:10A CUMHURİYET SAĞLIK OCAĞI YANI MEZİTLİ",
@@ -110,6 +100,16 @@
       "lon": 34.516148,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 00:00"
+    },
+    {
+      "name": "EMEK ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "KELVELI CAD.ZIYA ÜNSAL SITESI ALTI.NO:23/B KALE YOLU MEZİTLİ TOROS SEMT POLİKLİNİĞİ KARŞISI/MEZİTLİ",
+      "phone": "03243595175",
+      "lat": 36.756164,
+      "lon": 34.537659,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
     },
     {
       "name": "FİLİZ ECZANESİ",
