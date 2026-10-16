@@ -142,16 +142,6 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "NOKAY ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENİ ÖMERLİ MAH. LANGEN BULV. NO:2/B KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
-      "phone": "03246222504",
-      "lat": 36.918243,
-      "lon": 34.885288,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
       "name": "GÜVEN ECZANESİ",
       "district": "TARSUS",
       "address": "BAHÇE MH. GENÇ OSMAN CD. NO:31A BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
@@ -182,6 +172,16 @@
       "shiftend": "17.10.2026 00:00"
     },
     {
+      "name": "NOKAY ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENİ ÖMERLİ MAH. LANGEN BULV. NO:2/B KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
+      "phone": "03246222504",
+      "lat": 36.918243,
+      "lon": 34.885288,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
       "name": "MERSİN ŞEHİR ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 93130 SK. NO: 1/B-C MERSİN ŞEHİR HASTANESİ ALT KAVSAĞI, CAMİ BATI YÖNÜ",
@@ -198,6 +198,16 @@
       "phone": "03243220704",
       "lat": 36.812298,
       "lon": 34.619498,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
+      "name": "BATIKENT ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MH. 2627 SOK. MERAN 3 SİT. NO:38/A BATIKENT MH. ŞAHİN TEPESİ - NECATİ BOLKAN İ.Ö.OKULU CİVARI  - MEVLANA ASM 100 MT. DOĞU",
+      "phone": "03245022216",
+      "lat": 36.780834,
+      "lon": 34.559184,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
@@ -220,16 +230,6 @@
       "lon": 34.611788,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 00:00"
-    },
-    {
-      "name": "BATIKENT ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MH. 2627 SOK. MERAN 3 SİT. NO:38/A BATIKENT MH. ŞAHİN TEPESİ - NECATİ BOLKAN İ.Ö.OKULU CİVARI  - MEVLANA ASM 100 MT. DOĞU",
-      "phone": "03245022216",
-      "lat": 36.780834,
-      "lon": 34.559184,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
     }
   ]
 }
