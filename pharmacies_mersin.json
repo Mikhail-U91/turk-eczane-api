@@ -2,6 +2,16 @@
   "snapshot": "16.10.2026",
   "sonuc": [
     {
+      "name": "ANADOLU ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
+      "phone": "03243371421",
+      "lat": 36.810667,
+      "lon": 34.624398,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
       "name": "GÜRSOY ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MAH. 5314 SK. NO:12A TOROS DEVLET HASTANESİ OTOPARK KARŞISI",
@@ -18,16 +28,6 @@
       "phone": "03242393444",
       "lat": 36.795106,
       "lon": 34.623783,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
-      "name": "ANADOLU ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
-      "phone": "03243371421",
-      "lat": 36.810667,
-      "lon": 34.624398,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
@@ -122,6 +122,16 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
+      "name": "TÜRKMEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. ATATÜRK BULV. NO:62B ESKİ DEVLET HAST.CİVARI,ESKİ VERGİ DAİRESİ KARŞISI",
+      "phone": "03247120966",
+      "lat": 36.380437,
+      "lon": 33.930418,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
       "name": "ATLAS ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MH. ATATÜRK BULV. NO:55B Taşucu Mah. Atatürk Blv. no:55B SİLİFKE",
@@ -132,14 +142,14 @@
       "shiftend": "17.10.2026 00:00"
     },
     {
-      "name": "TÜRKMEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. ATATÜRK BULV. NO:62B ESKİ DEVLET HAST.CİVARI,ESKİ VERGİ DAİRESİ KARŞISI",
-      "phone": "03247120966",
-      "lat": 36.380437,
-      "lon": 33.930418,
+      "name": "GÜVEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "BAHÇE MH. GENÇ OSMAN CD. NO:31A BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
+      "phone": "03246131875",
+      "lat": 36.905985,
+      "lon": 34.893903,
       "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
+      "shiftend": "17.10.2026 00:00"
     },
     {
       "name": "ONUR ECZANESİ",
@@ -172,16 +182,6 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "GÜVEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "BAHÇE MH. GENÇ OSMAN CD. NO:31A BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
-      "phone": "03246131875",
-      "lat": 36.905985,
-      "lon": 34.893903,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 00:00"
-    },
-    {
       "name": "MERSİN ŞEHİR ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 93130 SK. NO: 1/B-C MERSİN ŞEHİR HASTANESİ ALT KAVSAĞI, CAMİ BATI YÖNÜ",
@@ -202,6 +202,16 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
+      "name": "GÜVEN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "PİRİREİS MH. SİLİFKE CD. YURTSEVEN APT. NO:197/A PİRİREİS MAH. KAPALI SPOR SALONU ARKASI SİLİFKE CAD. SONU- YENİŞEHİR AŞEVİ ALTI -TULUMBA DURAĞI BATTI ÇIKTI GİRİŞİ",
+      "phone": "03243283220",
+      "lat": 36.787478,
+      "lon": 34.611788,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 00:00"
+    },
+    {
       "name": "BATIKENT ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BATIKENT MH. 2627 SOK. MERAN 3 SİT. NO:38/A BATIKENT MH. ŞAHİN TEPESİ - NECATİ BOLKAN İ.Ö.OKULU CİVARI  - MEVLANA ASM 100 MT. DOĞU",
@@ -220,16 +230,6 @@
       "lon": 34.579881,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
-    },
-    {
-      "name": "GÜVEN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "PİRİREİS MH. SİLİFKE CD. YURTSEVEN APT. NO:197/A PİRİREİS MAH. KAPALI SPOR SALONU ARKASI SİLİFKE CAD. SONU- YENİŞEHİR AŞEVİ ALTI -TULUMBA DURAĞI BATTI ÇIKTI GİRİŞİ",
-      "phone": "03243283220",
-      "lat": 36.787478,
-      "lon": 34.611788,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 00:00"
     }
   ]
 }
