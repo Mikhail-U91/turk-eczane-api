@@ -92,16 +92,6 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "FARMA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. 52136 SK. NO:10A CUMHURİYET SAĞLIK OCAĞI YANI MEZİTLİ",
-      "phone": "05438504444",
-      "lat": 36.739,
-      "lon": 34.516148,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 00:00"
-    },
-    {
       "name": "EMEK ECZANESİ",
       "district": "MEZİTLİ",
       "address": "KELVELI CAD.ZIYA ÜNSAL SITESI ALTI.NO:23/B KALE YOLU MEZİTLİ TOROS SEMT POLİKLİNİĞİ KARŞISI/MEZİTLİ",
@@ -110,6 +100,16 @@
       "lon": 34.537659,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
+    },
+    {
+      "name": "FARMA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. 52136 SK. NO:10A CUMHURİYET SAĞLIK OCAĞI YANI MEZİTLİ",
+      "phone": "05438504444",
+      "lat": 36.739,
+      "lon": 34.516148,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 00:00"
     },
     {
       "name": "FİLİZ ECZANESİ",
@@ -138,6 +138,16 @@
       "phone": "03247120966",
       "lat": 36.380437,
       "lon": 33.930418,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
+      "name": "ONUR ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58 CB YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
+      "phone": "03245024485",
+      "lat": 36.914508,
+      "lon": 34.912079,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
@@ -172,12 +182,12 @@
       "shiftend": "17.10.2026 00:00"
     },
     {
-      "name": "ONUR ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58 CB YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
-      "phone": "03245024485",
-      "lat": 36.914508,
-      "lon": 34.912079,
+      "name": "MERSİN ŞEHİR ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 93130 SK. NO: 1/B-C MERSİN ŞEHİR HASTANESİ ALT KAVSAĞI, CAMİ BATI YÖNÜ",
+      "phone": "03243266868",
+      "lat": 36.848885,
+      "lon": 34.610395,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
@@ -188,16 +198,6 @@
       "phone": "03243220704",
       "lat": 36.812298,
       "lon": 34.619498,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
-      "name": "MERSİN ŞEHİR ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 93130 SK. NO: 1/B-C MERSİN ŞEHİR HASTANESİ ALT KAVSAĞI, CAMİ BATI YÖNÜ",
-      "phone": "03243266868",
-      "lat": 36.848885,
-      "lon": 34.610395,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
