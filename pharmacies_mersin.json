@@ -142,16 +142,6 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "GÜVEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "BAHÇE MH. GENÇ OSMAN CD. NO:31A BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
-      "phone": "03246131875",
-      "lat": 36.905985,
-      "lon": 34.893903,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 00:00"
-    },
-    {
       "name": "ONUR ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58 CB YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
@@ -180,6 +170,16 @@
       "lon": 34.885288,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
+    },
+    {
+      "name": "GÜVEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "BAHÇE MH. GENÇ OSMAN CD. NO:31A BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
+      "phone": "03246131875",
+      "lat": 36.905985,
+      "lon": 34.893903,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 00:00"
     },
     {
       "name": "MERSİN ŞEHİR ECZANESİ",
