@@ -2,6 +2,16 @@
   "snapshot": "16.10.2026",
   "sonuc": [
     {
+      "name": "NİHAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "KIREMITHANE MAH.4406 DR. CEMALETTIN TANRIÖVER SOK. FAKS AP. ALTI NO:10/C KİREMİTHANE MH. ESKİ ÖZEL DOĞUŞ HASTANESİ KARŞISI AKDENİZ/MERSİN",
+      "phone": "03242393444",
+      "lat": 36.795106,
+      "lon": 34.623783,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
       "name": "ANADOLU ECZANESİ",
       "district": "AKDENİZ",
       "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242373169",
       "lat": 36.807268,
       "lon": 34.635238,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
-      "name": "NİHAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "KIREMITHANE MAH.4406 DR. CEMALETTIN TANRIÖVER SOK. FAKS AP. ALTI NO:10/C KİREMİTHANE MH. ESKİ ÖZEL DOĞUŞ HASTANESİ KARŞISI AKDENİZ/MERSİN",
-      "phone": "03242393444",
-      "lat": 36.795106,
-      "lon": 34.623783,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
@@ -92,16 +92,6 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "EMEK ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "KELVELI CAD.ZIYA ÜNSAL SITESI ALTI.NO:23/B KALE YOLU MEZİTLİ TOROS SEMT POLİKLİNİĞİ KARŞISI/MEZİTLİ",
-      "phone": "03243595175",
-      "lat": 36.756164,
-      "lon": 34.537659,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
       "name": "FARMA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. 52136 SK. NO:10A CUMHURİYET SAĞLIK OCAĞI YANI MEZİTLİ",
@@ -110,6 +100,16 @@
       "lon": 34.516148,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 00:00"
+    },
+    {
+      "name": "EMEK ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "KELVELI CAD.ZIYA ÜNSAL SITESI ALTI.NO:23/B KALE YOLU MEZİTLİ TOROS SEMT POLİKLİNİĞİ KARŞISI/MEZİTLİ",
+      "phone": "03243595175",
+      "lat": 36.756164,
+      "lon": 34.537659,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
     },
     {
       "name": "FİLİZ ECZANESİ",
@@ -142,6 +142,16 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
+      "name": "ANIT ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
+      "phone": "03246258777",
+      "lat": 36.920563,
+      "lon": 34.877712,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 00:00"
+    },
+    {
       "name": "NOKAY ECZANESİ",
       "district": "TARSUS",
       "address": "YENİ ÖMERLİ MAH. LANGEN BULV. NO:2/B KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
@@ -172,14 +182,14 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "ANIT ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
-      "phone": "03246258777",
-      "lat": 36.920563,
-      "lon": 34.877712,
+      "name": "ÖZCAN ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KUVAYİ MİLLİYE CAD.NO:154 HASTANE CD ESKİ TOROSLAR BELEDİYESİ KARŞISI/TOROSLAR",
+      "phone": "03243220704",
+      "lat": 36.812298,
+      "lon": 34.619498,
       "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 00:00"
+      "shiftend": "17.10.2026 08:00"
     },
     {
       "name": "MERSİN ŞEHİR ECZANESİ",
@@ -188,16 +198,6 @@
       "phone": "03243266868",
       "lat": 36.848885,
       "lon": 34.610395,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
-      "name": "ÖZCAN ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KUVAYİ MİLLİYE CAD.NO:154 HASTANE CD ESKİ TOROSLAR BELEDİYESİ KARŞISI/TOROSLAR",
-      "phone": "03243220704",
-      "lat": 36.812298,
-      "lon": 34.619498,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     },
