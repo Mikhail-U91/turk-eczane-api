@@ -122,6 +122,16 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
+      "name": "ATLAS ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MH. ATATÜRK BULV. NO:55B Taşucu Mah. Atatürk Blv. no:55B SİLİFKE",
+      "phone": "03247412368",
+      "lat": 36.317974,
+      "lon": 33.877737,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 00:00"
+    },
+    {
       "name": "TÜRKMEN ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MH. ATATÜRK BULV. NO:62B ESKİ DEVLET HAST.CİVARI,ESKİ VERGİ DAİRESİ KARŞISI",
@@ -132,14 +142,14 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
-      "name": "ATLAS ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MH. ATATÜRK BULV. NO:55B Taşucu Mah. Atatürk Blv. no:55B SİLİFKE",
-      "phone": "03247412368",
-      "lat": 36.317974,
-      "lon": 33.877737,
+      "name": "NOKAY ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENİ ÖMERLİ MAH. LANGEN BULV. NO:2/B KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
+      "phone": "03246222504",
+      "lat": 36.918243,
+      "lon": 34.885288,
       "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 00:00"
+      "shiftend": "17.10.2026 08:00"
     },
     {
       "name": "GÜVEN ECZANESİ",
@@ -172,16 +182,6 @@
       "shiftend": "17.10.2026 00:00"
     },
     {
-      "name": "NOKAY ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENİ ÖMERLİ MAH. LANGEN BULV. NO:2/B KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
-      "phone": "03246222504",
-      "lat": 36.918243,
-      "lon": 34.885288,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
       "name": "MERSİN ŞEHİR ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 93130 SK. NO: 1/B-C MERSİN ŞEHİR HASTANESİ ALT KAVSAĞI, CAMİ BATI YÖNÜ",
@@ -202,6 +202,16 @@
       "shiftend": "17.10.2026 08:00"
     },
     {
+      "name": "OKTAY YILMAZ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BARBAROS MH. 2106 SK. NO:8/A  YENİŞEHİR 1 NOLU ASM (ANADOLU ASM)  KARŞISI  YENİŞEHİR",
+      "phone": "03243370120",
+      "lat": 36.784839,
+      "lon": 34.579881,
+      "workdate": "16.10.2026 18:00",
+      "shiftend": "17.10.2026 08:00"
+    },
+    {
       "name": "GÜVEN ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "PİRİREİS MH. SİLİFKE CD. YURTSEVEN APT. NO:197/A PİRİREİS MAH. KAPALI SPOR SALONU ARKASI SİLİFKE CAD. SONU- YENİŞEHİR AŞEVİ ALTI -TULUMBA DURAĞI BATTI ÇIKTI GİRİŞİ",
@@ -218,16 +228,6 @@
       "phone": "03245022216",
       "lat": 36.780834,
       "lon": 34.559184,
-      "workdate": "16.10.2026 18:00",
-      "shiftend": "17.10.2026 08:00"
-    },
-    {
-      "name": "OKTAY YILMAZ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BARBAROS MH. 2106 SK. NO:8/A  YENİŞEHİR 1 NOLU ASM (ANADOLU ASM)  KARŞISI  YENİŞEHİR",
-      "phone": "03243370120",
-      "lat": 36.784839,
-      "lon": 34.579881,
       "workdate": "16.10.2026 18:00",
       "shiftend": "17.10.2026 08:00"
     }
