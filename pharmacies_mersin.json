@@ -92,16 +92,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "ALBİSTAN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MENDERES MH. MİLLİ EGEMENLİK CD. NO:16 MENDERES MH. ESKİ MEZİTLİ BELEDİYESİ TEB SOKAĞI SAHİL İNİŞİ   MEZİTLİ",
-      "phone": "03249993252",
-      "lat": 36.747074,
-      "lon": 34.531641,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 00:00"
-    },
-    {
       "name": "CAN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MH. SK. BURCU APT. ALTI NO:23/A ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ YUKARISI MEZİTLİ BELEDİYE İLKÖĞRETİM OKULU ÇAPRAZI İBNİ SİNA SAĞLIK OCAĞI YANI MEZİTLİ",
@@ -112,6 +102,16 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
+      "name": "ALBİSTAN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MENDERES MH. MİLLİ EGEMENLİK CD. NO:16 MENDERES MH. ESKİ MEZİTLİ BELEDİYESİ TEB SOKAĞI SAHİL İNİŞİ   MEZİTLİ",
+      "phone": "03249993252",
+      "lat": 36.747074,
+      "lon": 34.531641,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 00:00"
+    },
+    {
       "name": "SIHHAT ECZANESİ",
       "district": "MUT",
       "address": "MEYDAN MAH.KARAMAN CAD.NO:8  KARAMAN CAD.NO.8",
@@ -120,6 +120,16 @@
       "lon": 33.435786,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "DERMAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
+      "phone": "03247223334",
+      "lat": 36.404495,
+      "lon": 34.07069,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "17.10.2026 19:00"
     },
     {
       "name": "UYSALLAR ECZANESİ",
@@ -148,26 +158,6 @@
       "phone": "03247142756",
       "lat": 36.380101,
       "lon": 33.931444,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
-      "name": "DERMAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
-      "phone": "03247223334",
-      "lat": 36.404495,
-      "lon": 34.07069,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "17.10.2026 19:00"
-    },
-    {
-      "name": "TUĞÇE BUCAK ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MAH. TÜRKMENİSTAN CAD. NO:58BG YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246244455",
-      "lat": 36.91427,
-      "lon": 34.912638,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 08:00"
     },
@@ -202,6 +192,16 @@
       "shiftend": "18.10.2026 00:00"
     },
     {
+      "name": "TUĞÇE BUCAK ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MAH. TÜRKMENİSTAN CAD. NO:58BG YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246244455",
+      "lat": 36.91427,
+      "lon": 34.912638,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
       "name": "VEDAT ECZANESİ",
       "district": "TOROSLAR",
       "address": "YALINAYAK MH. 102055 SK. NO:9-15C ÇİFTÇİLER ASM YANI, LALE GIDA YANI",
@@ -222,6 +222,16 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
+      "name": "HARE ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BARBAROS MH. NEVİT KODALLI CD. NO:22/E GÖÇMEN KAVŞAĞI ALDA MARKET YUKARISI YURTİÇİ KARGO KARŞISI",
+      "phone": "03249993606",
+      "lat": 36.777756,
+      "lon": 34.571746,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
       "name": "KALE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "GAZI MAHALLESI 1304 SOKAK NO:6/B  Muğdat Camii  Altı Makro Market Karşı Sokağından 100 Metre İlerde İlk Sokaktan Sola Dönünce​",
@@ -238,16 +248,6 @@
       "phone": "03242904494",
       "lat": 36.779743,
       "lon": 34.556757,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
-      "name": "HARE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BARBAROS MH. NEVİT KODALLI CD. NO:22/E GÖÇMEN KAVŞAĞI ALDA MARKET YUKARISI YURTİÇİ KARGO KARŞISI",
-      "phone": "03249993606",
-      "lat": 36.777756,
-      "lon": 34.571746,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
     }
