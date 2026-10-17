@@ -2,16 +2,6 @@
   "snapshot": "17.10.2026",
   "sonuc": [
     {
-      "name": "DEREN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MH. 5328 SK. NO:7/C TOROS DEVLET HASTANESİ ACİL  KARŞISI",
-      "phone": "03243365152",
-      "lat": 36.805363,
-      "lon": 34.633478,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
       "name": "İREM ECZANESİ",
       "district": "AKDENİZ",
       "address": "GÜNEŞ MH. 5822 SK. NO:5/A SELAHATTİN EYYUBİ SAĞLIK OCAĞI YANI",
@@ -20,6 +10,16 @@
       "lon": 34.637539,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 00:00"
+    },
+    {
+      "name": "DEREN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MH. 5328 SK. NO:7/C TOROS DEVLET HASTANESİ ACİL  KARŞISI",
+      "phone": "03243365152",
+      "lat": 36.805363,
+      "lon": 34.633478,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 08:00"
     },
     {
       "name": "PINAR ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "LEVENT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A MERKEZ MAH.ISIK ISHANI",
-      "phone": "03245156524",
-      "lat": 36.607121,
-      "lon": 34.312191,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 00:00"
-    },
-    {
       "name": "GÖKÜŞ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:84/C  ERDEMLİ DEVLET HASTANESİ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.302406,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "LEVENT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A MERKEZ MAH.ISIK ISHANI",
+      "phone": "03245156524",
+      "lat": 36.607121,
+      "lon": 34.312191,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 00:00"
     },
     {
       "name": "NADİR ECZANESİ",
@@ -122,26 +122,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "TUTKU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. ATATÜRK BULV. NO:53B ESKİ DEVLET HASTANESİ KARŞISI",
-      "phone": "03247142756",
-      "lat": 36.380101,
-      "lon": 33.931444,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
-      "name": "DERMAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
-      "phone": "03247223334",
-      "lat": 36.404495,
-      "lon": 34.07069,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "17.10.2026 19:00"
-    },
-    {
       "name": "UYSALLAR ECZANESİ",
       "district": "SİLİFKE",
       "address": "BURUNUCU MH. HASTANE CAD. NO:4/C BURUNUCU MAH 437/1 TAŞUCU",
@@ -162,14 +142,24 @@
       "shiftend": "18.10.2026 00:00"
     },
     {
-      "name": "SAYAR ECZANESİ",
-      "district": "TARSUS",
-      "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
-      "phone": "03246137330",
-      "lat": 36.914539,
-      "lon": 34.883033,
+      "name": "TUTKU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. ATATÜRK BULV. NO:53B ESKİ DEVLET HASTANESİ KARŞISI",
+      "phone": "03247142756",
+      "lat": 36.380101,
+      "lon": 33.931444,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "DERMAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
+      "phone": "03247223334",
+      "lat": 36.404495,
+      "lon": 34.07069,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "17.10.2026 19:00"
     },
     {
       "name": "TARSUS   ECZANESİ",
@@ -202,13 +192,13 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "VEDAT ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "YALINAYAK MH. 102055 SK. NO:9-15C ÇİFTÇİLER ASM YANI, LALE GIDA YANI",
-      "phone": "03245020297",
-      "lat": 36.842015,
-      "lon": 34.6404,
-      "workdate": "17.10.2026 13:00",
+      "name": "SAYAR ECZANESİ",
+      "district": "TARSUS",
+      "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
+      "phone": "03246137330",
+      "lat": 36.914539,
+      "lon": 34.883033,
+      "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 08:00"
     },
     {
@@ -218,6 +208,16 @@
       "phone": "03244086575",
       "lat": 36.85518,
       "lon": 34.61057,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "VEDAT ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "YALINAYAK MH. 102055 SK. NO:9-15C ÇİFTÇİLER ASM YANI, LALE GIDA YANI",
+      "phone": "03245020297",
+      "lat": 36.842015,
+      "lon": 34.6404,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
     },
@@ -232,6 +232,16 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
+      "name": "ULAŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MH. 1671 SK. ZEYTİN EVLERİ  A BLOK NO:3AB SOSYETE PAZARI YANI, YENİŞEHİR İLKOKULU KARŞISI",
+      "phone": "05055073133",
+      "lat": 36.787549,
+      "lon": 34.602377,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 00:00"
+    },
+    {
       "name": "HARE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BARBAROS MH. NEVİT KODALLI CD. NO:22/E GÖÇMEN KAVŞAĞI ALDA MARKET YUKARISI YURTİÇİ KARGO KARŞISI",
@@ -240,16 +250,6 @@
       "lon": 34.571746,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
-    },
-    {
-      "name": "KALE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GAZI MAHALLESI 1304 SOKAK NO:6/B  Muğdat Camii  Altı Makro Market Karşı Sokağından 100 Metre İlerde İlk Sokaktan Sola Dönünce​",
-      "phone": "03243268594",
-      "lat": 36.783118,
-      "lon": 34.604139,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 00:00"
     }
   ]
 }
