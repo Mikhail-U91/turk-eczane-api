@@ -92,16 +92,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "CAN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. SK. BURCU APT. ALTI NO:23/A ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ YUKARISI MEZİTLİ BELEDİYE İLKÖĞRETİM OKULU ÇAPRAZI İBNİ SİNA SAĞLIK OCAĞI YANI MEZİTLİ",
-      "phone": "03244226180",
-      "lat": 36.765165,
-      "lon": 34.547194,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
       "name": "ALBİSTAN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MENDERES MH. MİLLİ EGEMENLİK CD. NO:16 MENDERES MH. ESKİ MEZİTLİ BELEDİYESİ TEB SOKAĞI SAHİL İNİŞİ   MEZİTLİ",
@@ -112,6 +102,16 @@
       "shiftend": "18.10.2026 00:00"
     },
     {
+      "name": "CAN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. SK. BURCU APT. ALTI NO:23/A ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ YUKARISI MEZİTLİ BELEDİYE İLKÖĞRETİM OKULU ÇAPRAZI İBNİ SİNA SAĞLIK OCAĞI YANI MEZİTLİ",
+      "phone": "03244226180",
+      "lat": 36.765165,
+      "lon": 34.547194,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
       "name": "SIHHAT ECZANESİ",
       "district": "MUT",
       "address": "MEYDAN MAH.KARAMAN CAD.NO:8  KARAMAN CAD.NO.8",
@@ -120,16 +120,6 @@
       "lon": 33.435786,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 08:00"
-    },
-    {
-      "name": "DERMAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
-      "phone": "03247223334",
-      "lat": 36.404495,
-      "lon": 34.07069,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "17.10.2026 19:00"
     },
     {
       "name": "UYSALLAR ECZANESİ",
@@ -162,6 +152,26 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
+      "name": "DERMAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
+      "phone": "03247223334",
+      "lat": 36.404495,
+      "lon": 34.07069,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "17.10.2026 19:00"
+    },
+    {
+      "name": "TUĞÇE BUCAK ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MAH. TÜRKMENİSTAN CAD. NO:58BG YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246244455",
+      "lat": 36.91427,
+      "lon": 34.912638,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
       "name": "SAYAR ECZANESİ",
       "district": "TARSUS",
       "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
@@ -190,16 +200,6 @@
       "lon": 34.878316,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 00:00"
-    },
-    {
-      "name": "TUĞÇE BUCAK ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MAH. TÜRKMENİSTAN CAD. NO:58BG YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246244455",
-      "lat": 36.91427,
-      "lon": 34.912638,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
     },
     {
       "name": "GÜLSÜM ECZANESİ",
