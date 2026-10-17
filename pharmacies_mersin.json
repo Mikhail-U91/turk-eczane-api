@@ -122,16 +122,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "UYSALLAR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CAD. NO:4/C BURUNUCU MAH 437/1 TAŞUCU",
-      "phone": "03247140830",
-      "lat": 36.343264,
-      "lon": 33.918316,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
       "name": "TAŞUCU ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1 İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
@@ -160,6 +150,16 @@
       "lon": 34.07069,
       "workdate": "17.10.2026 08:00",
       "shiftend": "17.10.2026 19:00"
+    },
+    {
+      "name": "UYSALLAR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CAD. NO:4/C BURUNUCU MAH 437/1 TAŞUCU",
+      "phone": "03247140830",
+      "lat": 36.343264,
+      "lon": 33.918316,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 08:00"
     },
     {
       "name": "TUĞÇE BUCAK ECZANESİ",
