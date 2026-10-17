@@ -2,6 +2,16 @@
   "snapshot": "17.10.2026",
   "sonuc": [
     {
+      "name": "İREM ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "GÜNEŞ MH. 5822 SK. NO:5/A SELAHATTİN EYYUBİ SAĞLIK OCAĞI YANI",
+      "phone": "03242357656",
+      "lat": 36.822691,
+      "lon": 34.637539,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 00:00"
+    },
+    {
       "name": "DEREN ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:7/C TOROS DEVLET HASTANESİ ACİL  KARŞISI",
@@ -20,16 +30,6 @@
       "lon": 34.620776,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
-    },
-    {
-      "name": "İREM ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "GÜNEŞ MH. 5822 SK. NO:5/A SELAHATTİN EYYUBİ SAĞLIK OCAĞI YANI",
-      "phone": "03242357656",
-      "lat": 36.822691,
-      "lon": 34.637539,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 00:00"
     },
     {
       "name": "DAMLA ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "LEVENT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A MERKEZ MAH.ISIK ISHANI",
-      "phone": "03245156524",
-      "lat": 36.607121,
-      "lon": 34.312191,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 00:00"
-    },
-    {
       "name": "GÖKÜŞ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:84/C  ERDEMLİ DEVLET HASTANESİ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.302406,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "LEVENT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A MERKEZ MAH.ISIK ISHANI",
+      "phone": "03245156524",
+      "lat": 36.607121,
+      "lon": 34.312191,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 00:00"
     },
     {
       "name": "NADİR ECZANESİ",
@@ -122,6 +122,16 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
+      "name": "UYSALLAR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CAD. NO:4/C BURUNUCU MAH 437/1 TAŞUCU",
+      "phone": "03247140830",
+      "lat": 36.343264,
+      "lon": 33.918316,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
       "name": "TAŞUCU ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1 İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
@@ -152,14 +162,24 @@
       "shiftend": "17.10.2026 19:00"
     },
     {
-      "name": "UYSALLAR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CAD. NO:4/C BURUNUCU MAH 437/1 TAŞUCU",
-      "phone": "03247140830",
-      "lat": 36.343264,
-      "lon": 33.918316,
+      "name": "TARSUS   ECZANESİ",
+      "district": "TARSUS",
+      "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
+      "phone": "03246131326",
+      "lat": 36.929412,
+      "lon": 34.889478,
       "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
+      "shiftend": "18.10.2026 00:00"
+    },
+    {
+      "name": "İÇEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
+      "phone": "03245022433",
+      "lat": 36.920193,
+      "lon": 34.878316,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 00:00"
     },
     {
       "name": "TUĞÇE BUCAK ECZANESİ",
@@ -182,24 +202,14 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "TARSUS   ECZANESİ",
-      "district": "TARSUS",
-      "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
-      "phone": "03246131326",
-      "lat": 36.929412,
-      "lon": 34.889478,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 00:00"
-    },
-    {
-      "name": "İÇEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
-      "phone": "03245022433",
-      "lat": 36.920193,
-      "lon": 34.878316,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 00:00"
+      "name": "GÜLSÜM ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39 C/C2 MERSİN ŞEHİR HASTANESİ ACİL GİRİŞ KARŞISI",
+      "phone": "03244086575",
+      "lat": 36.85518,
+      "lon": 34.61057,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 08:00"
     },
     {
       "name": "VEDAT ECZANESİ",
@@ -212,12 +222,12 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "GÜLSÜM ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39 C/C2 MERSİN ŞEHİR HASTANESİ ACİL GİRİŞ KARŞISI",
-      "phone": "03244086575",
-      "lat": 36.85518,
-      "lon": 34.61057,
+      "name": "HARE ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BARBAROS MH. NEVİT KODALLI CD. NO:22/E GÖÇMEN KAVŞAĞI ALDA MARKET YUKARISI YURTİÇİ KARGO KARŞISI",
+      "phone": "03249993606",
+      "lat": 36.777756,
+      "lon": 34.571746,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
     },
@@ -240,16 +250,6 @@
       "lon": 34.602377,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 00:00"
-    },
-    {
-      "name": "HARE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BARBAROS MH. NEVİT KODALLI CD. NO:22/E GÖÇMEN KAVŞAĞI ALDA MARKET YUKARISI YURTİÇİ KARGO KARŞISI",
-      "phone": "03249993606",
-      "lat": 36.777756,
-      "lon": 34.571746,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 08:00"
     }
   ]
 }
