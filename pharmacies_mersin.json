@@ -2,16 +2,6 @@
   "snapshot": "17.10.2026",
   "sonuc": [
     {
-      "name": "PINAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B  ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
-      "phone": "03243575857",
-      "lat": 36.809392,
-      "lon": 34.620776,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
       "name": "İREM ECZANESİ",
       "district": "AKDENİZ",
       "address": "GÜNEŞ MH. 5822 SK. NO:5/A SELAHATTİN EYYUBİ SAĞLIK OCAĞI YANI",
@@ -28,6 +18,16 @@
       "phone": "03243365152",
       "lat": 36.805363,
       "lon": 34.633478,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "PINAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B  ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
+      "phone": "03243575857",
+      "lat": 36.809392,
+      "lon": 34.620776,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "LEVENT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A MERKEZ MAH.ISIK ISHANI",
-      "phone": "03245156524",
-      "lat": 36.607121,
-      "lon": 34.312191,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 00:00"
-    },
-    {
       "name": "GÖKÜŞ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:84/C  ERDEMLİ DEVLET HASTANESİ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.302406,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "LEVENT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A MERKEZ MAH.ISIK ISHANI",
+      "phone": "03245156524",
+      "lat": 36.607121,
+      "lon": 34.312191,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 00:00"
     },
     {
       "name": "NADİR ECZANESİ",
@@ -162,16 +162,6 @@
       "shiftend": "17.10.2026 19:00"
     },
     {
-      "name": "SAYAR ECZANESİ",
-      "district": "TARSUS",
-      "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
-      "phone": "03246137330",
-      "lat": 36.914539,
-      "lon": 34.883033,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
       "name": "TARSUS   ECZANESİ",
       "district": "TARSUS",
       "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
@@ -202,6 +192,16 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
+      "name": "SAYAR ECZANESİ",
+      "district": "TARSUS",
+      "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
+      "phone": "03246137330",
+      "lat": 36.914539,
+      "lon": 34.883033,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
       "name": "GÜLSÜM ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39 C/C2 MERSİN ŞEHİR HASTANESİ ACİL GİRİŞ KARŞISI",
@@ -222,16 +222,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "ULAŞ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MH. 1671 SK. ZEYTİN EVLERİ  A BLOK NO:3AB SOSYETE PAZARI YANI, YENİŞEHİR İLKOKULU KARŞISI",
-      "phone": "05055073133",
-      "lat": 36.787549,
-      "lon": 34.602377,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 00:00"
-    },
-    {
       "name": "HARE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BARBAROS MH. NEVİT KODALLI CD. NO:22/E GÖÇMEN KAVŞAĞI ALDA MARKET YUKARISI YURTİÇİ KARGO KARŞISI",
@@ -250,6 +240,16 @@
       "lon": 34.556757,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "ULAŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MH. 1671 SK. ZEYTİN EVLERİ  A BLOK NO:3AB SOSYETE PAZARI YANI, YENİŞEHİR İLKOKULU KARŞISI",
+      "phone": "05055073133",
+      "lat": 36.787549,
+      "lon": 34.602377,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 00:00"
     }
   ]
 }
