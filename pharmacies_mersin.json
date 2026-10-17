@@ -62,16 +62,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "GÖKÜŞ ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:84/C  ERDEMLİ DEVLET HASTANESİ KARŞISI",
-      "phone": "03245151242",
-      "lat": 36.611077,
-      "lon": 34.302406,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
       "name": "LEVENT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A MERKEZ MAH.ISIK ISHANI",
@@ -80,6 +70,16 @@
       "lon": 34.312191,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 00:00"
+    },
+    {
+      "name": "GÖKÜŞ ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:84/C  ERDEMLİ DEVLET HASTANESİ KARŞISI",
+      "phone": "03245151242",
+      "lat": 36.611077,
+      "lon": 34.302406,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 08:00"
     },
     {
       "name": "NADİR ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "UYSALLAR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CAD. NO:4/C BURUNUCU MAH 437/1 TAŞUCU",
-      "phone": "03247140830",
-      "lat": 36.343264,
-      "lon": 33.918316,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
       "name": "TAŞUCU ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1 İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
@@ -162,14 +152,14 @@
       "shiftend": "17.10.2026 19:00"
     },
     {
-      "name": "İÇEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
-      "phone": "03245022433",
-      "lat": 36.920193,
-      "lon": 34.878316,
+      "name": "UYSALLAR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CAD. NO:4/C BURUNUCU MAH 437/1 TAŞUCU",
+      "phone": "03247140830",
+      "lat": 36.343264,
+      "lon": 33.918316,
       "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 00:00"
+      "shiftend": "18.10.2026 08:00"
     },
     {
       "name": "TUĞÇE BUCAK ECZANESİ",
@@ -202,14 +192,14 @@
       "shiftend": "18.10.2026 00:00"
     },
     {
-      "name": "GÜLSÜM ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39 C/C2 MERSİN ŞEHİR HASTANESİ ACİL GİRİŞ KARŞISI",
-      "phone": "03244086575",
-      "lat": 36.85518,
-      "lon": 34.61057,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 08:00"
+      "name": "İÇEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
+      "phone": "03245022433",
+      "lat": 36.920193,
+      "lon": 34.878316,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 00:00"
     },
     {
       "name": "VEDAT ECZANESİ",
@@ -218,6 +208,16 @@
       "phone": "03245020297",
       "lat": 36.842015,
       "lon": 34.6404,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "GÜLSÜM ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39 C/C2 MERSİN ŞEHİR HASTANESİ ACİL GİRİŞ KARŞISI",
+      "phone": "03244086575",
+      "lat": 36.85518,
+      "lon": 34.61057,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
     },
