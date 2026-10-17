@@ -2,16 +2,6 @@
   "snapshot": "17.10.2026",
   "sonuc": [
     {
-      "name": "İREM ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "GÜNEŞ MH. 5822 SK. NO:5/A SELAHATTİN EYYUBİ SAĞLIK OCAĞI YANI",
-      "phone": "03242357656",
-      "lat": 36.822691,
-      "lon": 34.637539,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 00:00"
-    },
-    {
       "name": "DEREN ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:7/C TOROS DEVLET HASTANESİ ACİL  KARŞISI",
@@ -30,6 +20,16 @@
       "lon": 34.620776,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "İREM ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "GÜNEŞ MH. 5822 SK. NO:5/A SELAHATTİN EYYUBİ SAĞLIK OCAĞI YANI",
+      "phone": "03242357656",
+      "lat": 36.822691,
+      "lon": 34.637539,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 00:00"
     },
     {
       "name": "DAMLA ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "GÖKÜŞ ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:84/C  ERDEMLİ DEVLET HASTANESİ KARŞISI",
-      "phone": "03245151242",
-      "lat": 36.611077,
-      "lon": 34.302406,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
       "name": "LEVENT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A MERKEZ MAH.ISIK ISHANI",
@@ -80,6 +70,16 @@
       "lon": 34.312191,
       "workdate": "17.10.2026 08:00",
       "shiftend": "18.10.2026 00:00"
+    },
+    {
+      "name": "GÖKÜŞ ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:84/C  ERDEMLİ DEVLET HASTANESİ KARŞISI",
+      "phone": "03245151242",
+      "lat": 36.611077,
+      "lon": 34.302406,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 08:00"
     },
     {
       "name": "NADİR ECZANESİ",
@@ -122,6 +122,16 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
+      "name": "DERMAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
+      "phone": "03247223334",
+      "lat": 36.404495,
+      "lon": 34.07069,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "17.10.2026 19:00"
+    },
+    {
       "name": "UYSALLAR ECZANESİ",
       "district": "SİLİFKE",
       "address": "BURUNUCU MH. HASTANE CAD. NO:4/C BURUNUCU MAH 437/1 TAŞUCU",
@@ -152,14 +162,24 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "DERMAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
-      "phone": "03247223334",
-      "lat": 36.404495,
-      "lon": 34.07069,
+      "name": "SAYAR ECZANESİ",
+      "district": "TARSUS",
+      "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
+      "phone": "03246137330",
+      "lat": 36.914539,
+      "lon": 34.883033,
       "workdate": "17.10.2026 08:00",
-      "shiftend": "17.10.2026 19:00"
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "TARSUS   ECZANESİ",
+      "district": "TARSUS",
+      "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
+      "phone": "03246131326",
+      "lat": 36.929412,
+      "lon": 34.889478,
+      "workdate": "17.10.2026 08:00",
+      "shiftend": "18.10.2026 00:00"
     },
     {
       "name": "İÇEL ECZANESİ",
@@ -182,26 +202,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "SAYAR ECZANESİ",
-      "district": "TARSUS",
-      "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
-      "phone": "03246137330",
-      "lat": 36.914539,
-      "lon": 34.883033,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
-      "name": "TARSUS   ECZANESİ",
-      "district": "TARSUS",
-      "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
-      "phone": "03246131326",
-      "lat": 36.929412,
-      "lon": 34.889478,
-      "workdate": "17.10.2026 08:00",
-      "shiftend": "18.10.2026 00:00"
-    },
-    {
       "name": "GÜLSÜM ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39 C/C2 MERSİN ŞEHİR HASTANESİ ACİL GİRİŞ KARŞISI",
@@ -222,16 +222,6 @@
       "shiftend": "18.10.2026 08:00"
     },
     {
-      "name": "AKGÜL ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MAH. YAĞMUR SULTAN KONUTLARI NO:57/AB 2.ÇEVREYOLU YENİ VALİLİK ARKASI (KUZEYİ) NECATİ BOLKAN OKULU YANI",
-      "phone": "03242904494",
-      "lat": 36.779743,
-      "lon": 34.556757,
-      "workdate": "17.10.2026 13:00",
-      "shiftend": "18.10.2026 08:00"
-    },
-    {
       "name": "ULAŞ ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "CUMHURİYET MH. 1671 SK. ZEYTİN EVLERİ  A BLOK NO:3AB SOSYETE PAZARI YANI, YENİŞEHİR İLKOKULU KARŞISI",
@@ -248,6 +238,16 @@
       "phone": "03249993606",
       "lat": 36.777756,
       "lon": 34.571746,
+      "workdate": "17.10.2026 13:00",
+      "shiftend": "18.10.2026 08:00"
+    },
+    {
+      "name": "AKGÜL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MAH. YAĞMUR SULTAN KONUTLARI NO:57/AB 2.ÇEVREYOLU YENİ VALİLİK ARKASI (KUZEYİ) NECATİ BOLKAN OKULU YANI",
+      "phone": "03242904494",
+      "lat": 36.779743,
+      "lon": 34.556757,
       "workdate": "17.10.2026 13:00",
       "shiftend": "18.10.2026 08:00"
     }
