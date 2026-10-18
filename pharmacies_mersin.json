@@ -92,16 +92,6 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
-      "name": "OYA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. KELVELİ CD.  ZİYA ÜNSAL APT. ALTI NO:23/A  TOROS DEVLET HASTANESİ SEMT POLİKLİNİĞİ KARŞISI - KALEYOLU MEZİTLİ",
-      "phone": "03243570105",
-      "lat": 36.756077,
-      "lon": 34.53773,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 08:00"
-    },
-    {
       "name": "GÜNEBAKAN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "Merkez Mh. 52136 Sk. Üçbal sitesi No:1-F  SOLİ CENTER   KAVİ-SEAT- PORCHE KARŞISI,ENGLISH HOME YANI MEZİTLİ",
@@ -110,6 +100,16 @@
       "lon": 34.51653,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 00:00"
+    },
+    {
+      "name": "OYA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. KELVELİ CD.  ZİYA ÜNSAL APT. ALTI NO:23/A  TOROS DEVLET HASTANESİ SEMT POLİKLİNİĞİ KARŞISI - KALEYOLU MEZİTLİ",
+      "phone": "03243570105",
+      "lat": 36.756077,
+      "lon": 34.53773,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 08:00"
     },
     {
       "name": "GÜVEN ECZANESİ",
@@ -222,6 +222,16 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
+      "name": "ERENLER ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GÜVENEVLER MH. 18. CD. BENDER APT. NO:5C",
+      "phone": "03243283549",
+      "lat": 36.784333,
+      "lon": 34.595841,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 08:00"
+    },
+    {
       "name": "DERYA ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "HÜRRIYET MAH.1747 SK.I.SINCAR APT.ALTI NO:6/17  HÜRRİYET MH. CARREFOUR YOLU ÜZERİ MİGROSMARKET ARKA SOKAĞI HÜRRİYET ASM YANI/YENİŞEHİR",
@@ -238,16 +248,6 @@
       "phone": "03245021100",
       "lat": 36.785772,
       "lon": 34.539995,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 08:00"
-    },
-    {
-      "name": "ERENLER ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GÜVENEVLER MH. 18. CD. BENDER APT. NO:5C",
-      "phone": "03243283549",
-      "lat": 36.784333,
-      "lon": 34.595841,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 08:00"
     }
