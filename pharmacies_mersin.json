@@ -122,6 +122,16 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
+      "name": "GÜVEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MAH. ALPARSLAN TÜRKEŞ (SAZBAŞI) BULV. NO:383 A/18 ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
+      "phone": "03247225197",
+      "lat": 36.405557,
+      "lon": 34.070173,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "18.10.2026 19:00"
+    },
+    {
       "name": "BİLGEN ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
@@ -150,16 +160,6 @@
       "lon": 33.944703,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 08:00"
-    },
-    {
-      "name": "GÜVEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MAH. ALPARSLAN TÜRKEŞ (SAZBAŞI) BULV. NO:383 A/18 ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
-      "phone": "03247225197",
-      "lat": 36.405557,
-      "lon": 34.070173,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "18.10.2026 19:00"
     },
     {
       "name": "GÜLER ECZANESİ",
