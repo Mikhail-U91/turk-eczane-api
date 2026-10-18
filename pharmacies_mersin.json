@@ -2,16 +2,6 @@
   "snapshot": "18.10.2026",
   "sonuc": [
     {
-      "name": "GÜNEŞ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ŞEVKET SÜMER MAH. 156. CAD. NO:21/A SİTELER POLİS KARAKOLU KARŞISI",
-      "phone": "05324097824",
-      "lat": 36.825364,
-      "lon": 34.641874,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 00:00"
-    },
-    {
       "name": "BOZDAĞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:1A TOROS DEVLET HASTANESİ ACİL KAPISI KARŞISI",
@@ -30,6 +20,16 @@
       "lon": 34.623866,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 08:00"
+    },
+    {
+      "name": "GÜNEŞ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ŞEVKET SÜMER MAH. 156. CAD. NO:21/A SİTELER POLİS KARAKOLU KARŞISI",
+      "phone": "05324097824",
+      "lat": 36.825364,
+      "lon": 34.641874,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 00:00"
     },
     {
       "name": "KORAY ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
-      "name": "DERYA ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. YAVUZ SULTAN SELİM BULV. NO:62D ERDEMLİ DEVLET HASTANESİ BATI KÖŞESİ, ÇEVREYOLU ÜZERİ",
-      "phone": "03245151215",
-      "lat": 36.610465,
-      "lon": 34.300218,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 08:00"
-    },
-    {
       "name": "TUNÇ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "ALATA MH. YAVUZ SULTAN SELİM BULV. NO:176-B ALATA MH. ÇEVREYOLU ASM YANI",
@@ -80,6 +70,16 @@
       "lon": 34.317762,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 00:00"
+    },
+    {
+      "name": "DERYA ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. YAVUZ SULTAN SELİM BULV. NO:62D ERDEMLİ DEVLET HASTANESİ BATI KÖŞESİ, ÇEVREYOLU ÜZERİ",
+      "phone": "03245151215",
+      "lat": 36.610465,
+      "lon": 34.300218,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 08:00"
     },
     {
       "name": "NADİR ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
-      "name": "BİLGEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
-      "phone": "03247141648",
-      "lat": 36.380547,
-      "lon": 33.932197,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 08:00"
-    },
-    {
       "name": "FIRAT ECZANESİ",
       "district": "SİLİFKE",
       "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
@@ -160,6 +150,26 @@
       "lon": 34.070173,
       "workdate": "18.10.2026 08:00",
       "shiftend": "18.10.2026 19:00"
+    },
+    {
+      "name": "BİLGEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
+      "phone": "03247141648",
+      "lat": 36.380547,
+      "lon": 33.932197,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 08:00"
+    },
+    {
+      "name": "ANIT ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
+      "phone": "03246258777",
+      "lat": 36.920563,
+      "lon": 34.877712,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 00:00"
     },
     {
       "name": "GÜLER ECZANESİ",
@@ -192,26 +202,6 @@
       "shiftend": "19.10.2026 00:00"
     },
     {
-      "name": "ANIT ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
-      "phone": "03246258777",
-      "lat": 36.920563,
-      "lon": 34.877712,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 00:00"
-    },
-    {
-      "name": "NATURA ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MAH. YAVUZ SULTAN SELİM BULV. NO:39CI MERSİN ŞEHİR HASTANESİ DOĞU TARAF , ACİL AMBULANS GİRİŞİ KARŞISI",
-      "phone": "03244087188",
-      "lat": 36.855095,
-      "lon": 34.610483,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 08:00"
-    },
-    {
       "name": "PELİNSU ECZANESİ",
       "district": "TOROSLAR",
       "address": "Akbelen Mh. Toroslar Cd. No:6/K  AKBELEN MH. TOROSLAR CD. AYIŞIĞI DÜĞÜN SALONU KARŞISI - KORAY AYDIN STADI ALTI",
@@ -222,12 +212,12 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
-      "name": "MERSİN PLUS ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Çiftlikköy Mah. Mimar Sinan Cad. Paradise Homes Sitesi C Blok No:7-8-9 ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
-      "phone": "03245021100",
-      "lat": 36.785772,
-      "lon": 34.539995,
+      "name": "NATURA ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MAH. YAVUZ SULTAN SELİM BULV. NO:39CI MERSİN ŞEHİR HASTANESİ DOĞU TARAF , ACİL AMBULANS GİRİŞİ KARŞISI",
+      "phone": "03244087188",
+      "lat": 36.855095,
+      "lon": 34.610483,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 08:00"
     },
@@ -250,6 +240,16 @@
       "lon": 34.600974,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 00:00"
+    },
+    {
+      "name": "MERSİN PLUS ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Çiftlikköy Mah. Mimar Sinan Cad. Paradise Homes Sitesi C Blok No:7-8-9 ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
+      "phone": "03245021100",
+      "lat": 36.785772,
+      "lon": 34.539995,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 08:00"
     }
   ]
 }
