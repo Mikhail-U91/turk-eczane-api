@@ -2,16 +2,6 @@
   "snapshot": "18.10.2026",
   "sonuc": [
     {
-      "name": "SIHHAT ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "NUSRATİYE MAH. 5003 SOK. NO:51/A NUSRATİYE MH. ESKİ DEVLET HASTANESİ CAD. CUMA PAZARI SOKAĞI",
-      "phone": "03243360539",
-      "lat": 36.806746,
-      "lon": 34.623866,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 08:00"
-    },
-    {
       "name": "GÜNEŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "ŞEVKET SÜMER MAH. 156. CAD. NO:21/A SİTELER POLİS KARAKOLU KARŞISI",
@@ -28,6 +18,16 @@
       "phone": "03242316590",
       "lat": 36.805039,
       "lon": 34.633692,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 08:00"
+    },
+    {
+      "name": "SIHHAT ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "NUSRATİYE MAH. 5003 SOK. NO:51/A NUSRATİYE MH. ESKİ DEVLET HASTANESİ CAD. CUMA PAZARI SOKAĞI",
+      "phone": "03243360539",
+      "lat": 36.806746,
+      "lon": 34.623866,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 08:00"
     },
@@ -122,6 +122,16 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
+      "name": "BİLGEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
+      "phone": "03247141648",
+      "lat": 36.380547,
+      "lon": 33.932197,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 08:00"
+    },
+    {
       "name": "FIRAT ECZANESİ",
       "district": "SİLİFKE",
       "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
@@ -150,26 +160,6 @@
       "lon": 34.070173,
       "workdate": "18.10.2026 08:00",
       "shiftend": "18.10.2026 19:00"
-    },
-    {
-      "name": "BİLGEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
-      "phone": "03247141648",
-      "lat": 36.380547,
-      "lon": 33.932197,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 08:00"
-    },
-    {
-      "name": "ANIT ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
-      "phone": "03246258777",
-      "lat": 36.920563,
-      "lon": 34.877712,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 00:00"
     },
     {
       "name": "GÜLER ECZANESİ",
@@ -202,14 +192,14 @@
       "shiftend": "19.10.2026 00:00"
     },
     {
-      "name": "PELİNSU ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "Akbelen Mh. Toroslar Cd. No:6/K  AKBELEN MH. TOROSLAR CD. AYIŞIĞI DÜĞÜN SALONU KARŞISI - KORAY AYDIN STADI ALTI",
-      "phone": "03243202323",
-      "lat": 36.825077,
-      "lon": 34.600505,
+      "name": "ANIT ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
+      "phone": "03246258777",
+      "lat": 36.920563,
+      "lon": 34.877712,
       "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 08:00"
+      "shiftend": "19.10.2026 00:00"
     },
     {
       "name": "NATURA ECZANESİ",
@@ -222,14 +212,14 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
-      "name": "DERYA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "HÜRRIYET MAH.1747 SK.I.SINCAR APT.ALTI NO:6/17  HÜRRİYET MH. CARREFOUR YOLU ÜZERİ MİGROSMARKET ARKA SOKAĞI HÜRRİYET ASM YANI/YENİŞEHİR",
-      "phone": "03243292452",
-      "lat": 36.794477,
-      "lon": 34.600974,
+      "name": "PELİNSU ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "Akbelen Mh. Toroslar Cd. No:6/K  AKBELEN MH. TOROSLAR CD. AYIŞIĞI DÜĞÜN SALONU KARŞISI - KORAY AYDIN STADI ALTI",
+      "phone": "03243202323",
+      "lat": 36.825077,
+      "lon": 34.600505,
       "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 00:00"
+      "shiftend": "19.10.2026 08:00"
     },
     {
       "name": "MERSİN PLUS ECZANESİ",
@@ -250,6 +240,16 @@
       "lon": 34.595841,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 08:00"
+    },
+    {
+      "name": "DERYA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "HÜRRIYET MAH.1747 SK.I.SINCAR APT.ALTI NO:6/17  HÜRRİYET MH. CARREFOUR YOLU ÜZERİ MİGROSMARKET ARKA SOKAĞI HÜRRİYET ASM YANI/YENİŞEHİR",
+      "phone": "03243292452",
+      "lat": 36.794477,
+      "lon": 34.600974,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 00:00"
     }
   ]
 }
