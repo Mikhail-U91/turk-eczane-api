@@ -62,16 +62,6 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
-      "name": "TUNÇ ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "ALATA MH. YAVUZ SULTAN SELİM BULV. NO:176-B ALATA MH. ÇEVREYOLU ASM YANI",
-      "phone": "03245150516",
-      "lat": 36.616997,
-      "lon": 34.317762,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 00:00"
-    },
-    {
       "name": "DERYA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MH. YAVUZ SULTAN SELİM BULV. NO:62D ERDEMLİ DEVLET HASTANESİ BATI KÖŞESİ, ÇEVREYOLU ÜZERİ",
@@ -80,6 +70,16 @@
       "lon": 34.300218,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 08:00"
+    },
+    {
+      "name": "TUNÇ ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "ALATA MH. YAVUZ SULTAN SELİM BULV. NO:176-B ALATA MH. ÇEVREYOLU ASM YANI",
+      "phone": "03245150516",
+      "lat": 36.616997,
+      "lon": 34.317762,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 00:00"
     },
     {
       "name": "NADİR ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
-      "name": "FIRAT ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
-      "phone": "03247412600",
-      "lat": 36.319363,
-      "lon": 33.879895,
-      "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 00:00"
-    },
-    {
       "name": "BERKAY ECZANESİ",
       "district": "SİLİFKE",
       "address": "SARICALAR MH. TÜRKMENLİ SK. NO:7A SİLİFKE OLBAMED HASTANESİ ACİL KARŞISI",
@@ -162,12 +152,12 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
-      "name": "ANIT ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
-      "phone": "03246258777",
-      "lat": 36.920563,
-      "lon": 34.877712,
+      "name": "FIRAT ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
+      "phone": "03247412600",
+      "lat": 36.319363,
+      "lon": 33.879895,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 00:00"
     },
@@ -202,14 +192,14 @@
       "shiftend": "19.10.2026 00:00"
     },
     {
-      "name": "PELİNSU ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "Akbelen Mh. Toroslar Cd. No:6/K  AKBELEN MH. TOROSLAR CD. AYIŞIĞI DÜĞÜN SALONU KARŞISI - KORAY AYDIN STADI ALTI",
-      "phone": "03243202323",
-      "lat": 36.825077,
-      "lon": 34.600505,
+      "name": "ANIT ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
+      "phone": "03246258777",
+      "lat": 36.920563,
+      "lon": 34.877712,
       "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 08:00"
+      "shiftend": "19.10.2026 00:00"
     },
     {
       "name": "NATURA ECZANESİ",
@@ -222,14 +212,14 @@
       "shiftend": "19.10.2026 08:00"
     },
     {
-      "name": "DERYA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "HÜRRIYET MAH.1747 SK.I.SINCAR APT.ALTI NO:6/17  HÜRRİYET MH. CARREFOUR YOLU ÜZERİ MİGROSMARKET ARKA SOKAĞI HÜRRİYET ASM YANI/YENİŞEHİR",
-      "phone": "03243292452",
-      "lat": 36.794477,
-      "lon": 34.600974,
+      "name": "PELİNSU ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "Akbelen Mh. Toroslar Cd. No:6/K  AKBELEN MH. TOROSLAR CD. AYIŞIĞI DÜĞÜN SALONU KARŞISI - KORAY AYDIN STADI ALTI",
+      "phone": "03243202323",
+      "lat": 36.825077,
+      "lon": 34.600505,
       "workdate": "18.10.2026 08:00",
-      "shiftend": "19.10.2026 00:00"
+      "shiftend": "19.10.2026 08:00"
     },
     {
       "name": "MERSİN PLUS ECZANESİ",
@@ -250,6 +240,16 @@
       "lon": 34.595841,
       "workdate": "18.10.2026 08:00",
       "shiftend": "19.10.2026 08:00"
+    },
+    {
+      "name": "DERYA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "HÜRRIYET MAH.1747 SK.I.SINCAR APT.ALTI NO:6/17  HÜRRİYET MH. CARREFOUR YOLU ÜZERİ MİGROSMARKET ARKA SOKAĞI HÜRRİYET ASM YANI/YENİŞEHİR",
+      "phone": "03243292452",
+      "lat": 36.794477,
+      "lon": 34.600974,
+      "workdate": "18.10.2026 08:00",
+      "shiftend": "19.10.2026 00:00"
     }
   ]
 }
