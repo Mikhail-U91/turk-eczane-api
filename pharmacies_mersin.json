@@ -142,6 +142,16 @@
       "shiftend": "20.10.2026 00:00"
     },
     {
+      "name": "ÇAKIR ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖGRETMENLER MH. DUMLUPINAR BULV. NO:2/1D Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03246130062",
+      "lat": 36.909195,
+      "lon": 34.883232,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
       "name": "KÜPELİ ECZANESİ",
       "district": "TARSUS",
       "address": "AKŞEMSETTİN MAH.DR. DEVLET BAHÇELİ CAD.İPEK APT.NO:15 AKŞEMSETTİN MH. BARAJ YOLU YENİ MAHALLE KARAKOLU İLERİSİ",
@@ -172,16 +182,6 @@
       "shiftend": "20.10.2026 00:00"
     },
     {
-      "name": "ÇAKIR ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖGRETMENLER MH. DUMLUPINAR BULV. NO:2/1D Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "03246130062",
-      "lat": 36.909195,
-      "lon": 34.883232,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
       "name": "ATALAN ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. 96015 SK. NO:13/A KORUKENT MH. ŞEHİR HASTANESİ KARŞISI B KAPISI KARŞISI TOROSLAR",
@@ -202,6 +202,16 @@
       "shiftend": "20.10.2026 08:00"
     },
     {
+      "name": "ATLAS ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "MENTEŞ MH.25161 SK. NO:27 MENTEŞ MAHALLESİ ÖZEL AKADEMİ HASTANESİ YANI",
+      "phone": "03243369980",
+      "lat": 36.79256,
+      "lon": 34.582573,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
       "name": "YİĞİT ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "ÇİFTLİKKÖY MAH. ÜNİVERSİTE CAD. SAVAŞKANLAR APT. NO:68/A ÇİFTLİKKÖY MAH. ÜNİVERSİTE CAD. KARACA HALI SAHA KARŞISI",
@@ -218,16 +228,6 @@
       "phone": "03249998133",
       "lat": 36.790204,
       "lon": 34.596995,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
-      "name": "ATLAS ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "MENTEŞ MH.25161 SK. NO:27 MENTEŞ MAHALLESİ ÖZEL AKADEMİ HASTANESİ YANI",
-      "phone": "03243369980",
-      "lat": 36.79256,
-      "lon": 34.582573,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
     }
