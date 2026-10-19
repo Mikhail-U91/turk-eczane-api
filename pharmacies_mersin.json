@@ -2,6 +2,16 @@
   "snapshot": "19.10.2026",
   "sonuc": [
     {
+      "name": "AYDOĞAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "KÜLTÜR MH. 4312 SK. NO:12/A",
+      "phone": "03242374444",
+      "lat": 36.792275,
+      "lon": 34.621779,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
       "name": "YENİ ECZANESİ",
       "district": "AKDENİZ",
       "address": "İHSANİYE MH. KUVAYİ MİLLİYE CAD. NO:131/A HASTANE CD. KURUÇEŞME CİVARI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242373799",
       "lat": 36.804489,
       "lon": 34.632426,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
-      "name": "AYDOĞAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "KÜLTÜR MH. 4312 SK. NO:12/A",
-      "phone": "03242374444",
-      "lat": 36.792275,
-      "lon": 34.621779,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
     },
@@ -142,26 +142,6 @@
       "shiftend": "20.10.2026 00:00"
     },
     {
-      "name": "ÖZER ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BF YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246130255",
-      "lat": 36.914254,
-      "lon": 34.912586,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
-      "name": "AYDIN ECZANESİ",
-      "district": "TARSUS",
-      "address": "REŞADİYE MH. ŞEHİT AYHAN BOZPINAR CD. NO:9/A ŞELALE CAD. DEMİRKAPI",
-      "phone": "03246241068",
-      "lat": 36.921007,
-      "lon": 34.900292,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 00:00"
-    },
-    {
       "name": "ÇAKIR ECZANESİ",
       "district": "TARSUS",
       "address": "ÖGRETMENLER MH. DUMLUPINAR BULV. NO:2/1D Özel MMT Amerikan Hastanesi Karşısı",
@@ -182,14 +162,24 @@
       "shiftend": "20.10.2026 00:00"
     },
     {
-      "name": "ATALAN ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MH. 96015 SK. NO:13/A KORUKENT MH. ŞEHİR HASTANESİ KARŞISI B KAPISI KARŞISI TOROSLAR",
-      "phone": "03242235161",
-      "lat": 36.85124,
-      "lon": 34.607325,
+      "name": "ÖZER ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BF YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246130255",
+      "lat": 36.914254,
+      "lon": 34.912586,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
+    },
+    {
+      "name": "AYDIN ECZANESİ",
+      "district": "TARSUS",
+      "address": "REŞADİYE MH. ŞEHİT AYHAN BOZPINAR CD. NO:9/A ŞELALE CAD. DEMİRKAPI",
+      "phone": "03246241068",
+      "lat": 36.921007,
+      "lon": 34.900292,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 00:00"
     },
     {
       "name": "SOYHAN ECZANESİ",
@@ -198,6 +188,16 @@
       "phone": "03243233383",
       "lat": 36.816586,
       "lon": 34.619587,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
+      "name": "ATALAN ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MH. 96015 SK. NO:13/A KORUKENT MH. ŞEHİR HASTANESİ KARŞISI B KAPISI KARŞISI TOROSLAR",
+      "phone": "03242235161",
+      "lat": 36.85124,
+      "lon": 34.607325,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
     },
