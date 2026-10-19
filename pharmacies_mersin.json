@@ -92,16 +92,6 @@
       "shiftend": "20.10.2026 08:00"
     },
     {
-      "name": "ZEYTİN  ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. 33174 SK.NO:11B TOYOTA VE İSTİKBAL MOBİLYA ARA SOKAĞI . YENİ MAHALLE ASM YANI .  MEZİTLİ HÜKÜMET KONAĞI GÜNEYİ",
-      "phone": "05352667412",
-      "lat": 36.758269,
-      "lon": 34.537774,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
       "name": "ALP ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MENDERES MAH.CEVAT KUTLU NO:15/A  DENİZHAN-2 KARŞISI, NAFİZ ÇOLAK SAĞLIK OCAĞI KARŞISI/MEZİTLİ",
@@ -110,6 +100,16 @@
       "lon": 34.525603,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 00:00"
+    },
+    {
+      "name": "ZEYTİN  ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. 33174 SK.NO:11B TOYOTA VE İSTİKBAL MOBİLYA ARA SOKAĞI . YENİ MAHALLE ASM YANI .  MEZİTLİ HÜKÜMET KONAĞI GÜNEYİ",
+      "phone": "05352667412",
+      "lat": 36.758269,
+      "lon": 34.537774,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
     },
     {
       "name": "FERDA ECZANESİ",
@@ -182,6 +182,16 @@
       "shiftend": "20.10.2026 00:00"
     },
     {
+      "name": "SOYHAN ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
+      "phone": "03243233383",
+      "lat": 36.816586,
+      "lon": 34.619587,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
       "name": "ATALAN ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. 96015 SK. NO:13/A KORUKENT MH. ŞEHİR HASTANESİ KARŞISI B KAPISI KARŞISI TOROSLAR",
@@ -192,12 +202,12 @@
       "shiftend": "20.10.2026 08:00"
     },
     {
-      "name": "SOYHAN ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
-      "phone": "03243233383",
-      "lat": 36.816586,
-      "lon": 34.619587,
+      "name": "YILMAZ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BAHÇELİEVLER MH. 16. CD. NO:55E TÜRK TELEKOM YUKARISI",
+      "phone": "03249998133",
+      "lat": 36.790204,
+      "lon": 34.596995,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
     },
@@ -218,16 +228,6 @@
       "phone": "03243593999",
       "lat": 36.768483,
       "lon": 34.542875,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
-      "name": "YILMAZ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BAHÇELİEVLER MH. 16. CD. NO:55E TÜRK TELEKOM YUKARISI",
-      "phone": "03249998133",
-      "lat": 36.790204,
-      "lon": 34.596995,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
     }
