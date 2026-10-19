@@ -2,16 +2,6 @@
   "snapshot": "19.10.2026",
   "sonuc": [
     {
-      "name": "AYDOĞAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "KÜLTÜR MH. 4312 SK. NO:12/A",
-      "phone": "03242374444",
-      "lat": 36.792275,
-      "lon": 34.621779,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
       "name": "YENİ ECZANESİ",
       "district": "AKDENİZ",
       "address": "İHSANİYE MH. KUVAYİ MİLLİYE CAD. NO:131/A HASTANE CD. KURUÇEŞME CİVARI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242373799",
       "lat": 36.804489,
       "lon": 34.632426,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
+      "name": "AYDOĞAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "KÜLTÜR MH. 4312 SK. NO:12/A",
+      "phone": "03242374444",
+      "lat": 36.792275,
+      "lon": 34.621779,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
     },
