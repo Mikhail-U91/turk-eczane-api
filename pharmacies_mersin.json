@@ -92,16 +92,6 @@
       "shiftend": "20.10.2026 08:00"
     },
     {
-      "name": "ZEYTİN  ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. 33174 SK.NO:11B TOYOTA VE İSTİKBAL MOBİLYA ARA SOKAĞI . YENİ MAHALLE ASM YANI .  MEZİTLİ HÜKÜMET KONAĞI GÜNEYİ",
-      "phone": "05352667412",
-      "lat": 36.758269,
-      "lon": 34.537774,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
       "name": "ALP ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MENDERES MAH.CEVAT KUTLU NO:15/A  DENİZHAN-2 KARŞISI, NAFİZ ÇOLAK SAĞLIK OCAĞI KARŞISI/MEZİTLİ",
@@ -110,6 +100,16 @@
       "lon": 34.525603,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 00:00"
+    },
+    {
+      "name": "ZEYTİN  ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. 33174 SK.NO:11B TOYOTA VE İSTİKBAL MOBİLYA ARA SOKAĞI . YENİ MAHALLE ASM YANI .  MEZİTLİ HÜKÜMET KONAĞI GÜNEYİ",
+      "phone": "05352667412",
+      "lat": 36.758269,
+      "lon": 34.537774,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
     },
     {
       "name": "FERDA ECZANESİ",
@@ -142,26 +142,6 @@
       "shiftend": "20.10.2026 00:00"
     },
     {
-      "name": "ÇAKIR ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖGRETMENLER MH. DUMLUPINAR BULV. NO:2/1D Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "03246130062",
-      "lat": 36.909195,
-      "lon": 34.883232,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
-      "name": "KÜPELİ ECZANESİ",
-      "district": "TARSUS",
-      "address": "AKŞEMSETTİN MAH.DR. DEVLET BAHÇELİ CAD.İPEK APT.NO:15 AKŞEMSETTİN MH. BARAJ YOLU YENİ MAHALLE KARAKOLU İLERİSİ",
-      "phone": "03246240747",
-      "lat": 36.933513,
-      "lon": 34.885289,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 00:00"
-    },
-    {
       "name": "ÖZER ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BF YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
@@ -178,6 +158,26 @@
       "phone": "03246241068",
       "lat": 36.921007,
       "lon": 34.900292,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 00:00"
+    },
+    {
+      "name": "ÇAKIR ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖGRETMENLER MH. DUMLUPINAR BULV. NO:2/1D Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03246130062",
+      "lat": 36.909195,
+      "lon": 34.883232,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
+      "name": "KÜPELİ ECZANESİ",
+      "district": "TARSUS",
+      "address": "AKŞEMSETTİN MAH.DR. DEVLET BAHÇELİ CAD.İPEK APT.NO:15 AKŞEMSETTİN MH. BARAJ YOLU YENİ MAHALLE KARAKOLU İLERİSİ",
+      "phone": "03246240747",
+      "lat": 36.933513,
+      "lon": 34.885289,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 00:00"
     },
