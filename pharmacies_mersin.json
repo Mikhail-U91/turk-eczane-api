@@ -2,16 +2,6 @@
   "snapshot": "19.10.2026",
   "sonuc": [
     {
-      "name": "YENİ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CAD. NO:131/A HASTANE CD. KURUÇEŞME CİVARI/AKDENİZ",
-      "phone": "03243364432",
-      "lat": 36.805985,
-      "lon": 34.62273,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
       "name": "ÇAMLIBEL ECZANESİ",
       "district": "AKDENİZ",
       "address": "Yeni Mah.Cemalpaşa Cad. No:74/A MERSİN TOROS DEVLET HASTANESİ CİVARI AKDENİZ HÜKÜMET KONAĞI KARŞISI ARAS KARGO YANI",
@@ -28,6 +18,16 @@
       "phone": "03242374444",
       "lat": 36.792275,
       "lon": 34.621779,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
+      "name": "YENİ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CAD. NO:131/A HASTANE CD. KURUÇEŞME CİVARI/AKDENİZ",
+      "phone": "03243364432",
+      "lat": 36.805985,
+      "lon": 34.62273,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
     },
@@ -182,22 +182,22 @@
       "shiftend": "20.10.2026 00:00"
     },
     {
-      "name": "SOYHAN ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
-      "phone": "03243233383",
-      "lat": 36.816586,
-      "lon": 34.619587,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
       "name": "ATALAN ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. 96015 SK. NO:13/A KORUKENT MH. ŞEHİR HASTANESİ KARŞISI B KAPISI KARŞISI TOROSLAR",
       "phone": "03242235161",
       "lat": 36.85124,
       "lon": 34.607325,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
+      "name": "SOYHAN ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
+      "phone": "03243233383",
+      "lat": 36.816586,
+      "lon": 34.619587,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
     },
