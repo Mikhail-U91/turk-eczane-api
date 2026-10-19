@@ -202,6 +202,16 @@
       "shiftend": "20.10.2026 08:00"
     },
     {
+      "name": "YILMAZ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BAHÇELİEVLER MH. 16. CD. NO:55E TÜRK TELEKOM YUKARISI",
+      "phone": "03249998133",
+      "lat": 36.790204,
+      "lon": 34.596995,
+      "workdate": "19.10.2026 18:00",
+      "shiftend": "20.10.2026 08:00"
+    },
+    {
       "name": "ATLAS ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "MENTEŞ MH.25161 SK. NO:27 MENTEŞ MAHALLESİ ÖZEL AKADEMİ HASTANESİ YANI",
@@ -218,16 +228,6 @@
       "phone": "03243593999",
       "lat": 36.768483,
       "lon": 34.542875,
-      "workdate": "19.10.2026 18:00",
-      "shiftend": "20.10.2026 08:00"
-    },
-    {
-      "name": "YILMAZ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BAHÇELİEVLER MH. 16. CD. NO:55E TÜRK TELEKOM YUKARISI",
-      "phone": "03249998133",
-      "lat": 36.790204,
-      "lon": 34.596995,
       "workdate": "19.10.2026 18:00",
       "shiftend": "20.10.2026 08:00"
     }
