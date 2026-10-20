@@ -202,16 +202,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "RÜZGAR ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "50. YIL MH. 20. CD. ZİGANA PLUS B BLOK NO:53BA 50. YIL MH. DEMİRCANLAR GURMEDEN DAĞA DOĞRU  - PATİ VETERİNER KLİNİĞİ YANI- ZİGANA PLUS  YENİŞEHİR",
-      "phone": "03245020001",
-      "lat": 36.794723,
-      "lon": 34.580388,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "BURCU ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "CUMHURİYET MH. 1650 SK. SEKİZLER APT. A BLOK NO:5A SOSYETE PAZARI POZCU BOSCH BAYİ ARASI , CUMHURİYET MUHTARLIK KARŞISI",
@@ -228,6 +218,16 @@
       "phone": "03245021516",
       "lat": 36.785468,
       "lon": 34.540132,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "RÜZGAR ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "50. YIL MH. 20. CD. ZİGANA PLUS B BLOK NO:53BA 50. YIL MH. DEMİRCANLAR GURMEDEN DAĞA DOĞRU  - PATİ VETERİNER KLİNİĞİ YANI- ZİGANA PLUS  YENİŞEHİR",
+      "phone": "03245020001",
+      "lat": 36.794723,
+      "lon": 34.580388,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
     }
