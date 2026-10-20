@@ -142,6 +142,16 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
+      "name": "EROĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENI MAH.ATATÜRK BULV.NO:174/B  Yeni Mah. Yeşil direk Muhtarlık karşısı",
+      "phone": "03246251777",
+      "lat": 36.927104,
+      "lon": 34.872205,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 00:00"
+    },
+    {
       "name": "GANNEMOĞLU ECZANESİ",
       "district": "TARSUS",
       "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
@@ -154,7 +164,7 @@
     {
       "name": "ÜNAL ECZANESİ",
       "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "address": "TEKKE MH. T��RKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
       "phone": "03246244070",
       "lat": 36.914494,
       "lon": 34.912114,
@@ -168,16 +178,6 @@
       "phone": "03246141155",
       "lat": 36.904495,
       "lon": 34.885676,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 00:00"
-    },
-    {
-      "name": "EROĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENI MAH.ATATÜRK BULV.NO:174/B  Yeni Mah. Yeşil direk Muhtarlık karşısı",
-      "phone": "03246251777",
-      "lat": 36.927104,
-      "lon": 34.872205,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
     },
@@ -202,6 +202,16 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
+      "name": "ÖMER  ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MAH. MİMAR SİNAN CAD. PARADİSE HOMES SİT. D BLOK NO:5  ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
+      "phone": "03245021516",
+      "lat": 36.785468,
+      "lon": 34.540132,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
       "name": "RÜZGAR ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "50. YIL MH. 20. CD. ZİGANA PLUS B BLOK NO:53BA 50. YIL MH. DEMİRCANLAR GURMEDEN DAĞA DOĞRU  - PATİ VETERİNER KLİNİĞİ YANI- ZİGANA PLUS  YENİŞEHİR",
@@ -220,16 +230,6 @@
       "lon": 34.601586,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
-    },
-    {
-      "name": "ÖMER  ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MAH. MİMAR SİNAN CAD. PARADİSE HOMES SİT. D BLOK NO:5  ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
-      "phone": "03245021516",
-      "lat": 36.785468,
-      "lon": 34.540132,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
     }
   ]
 }
