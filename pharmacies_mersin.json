@@ -62,16 +62,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "MEYRA ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. YUNUS EMRE CD. NO:43/A AKDENİZ MH. YUNUS EMRE CD. AVGADI YAYLA YOLU OPET ARKASI",
-      "phone": "05300274004",
-      "lat": 36.602115,
-      "lon": 34.301734,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 00:00"
-    },
-    {
       "name": "MURAT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.303401,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "MEYRA ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. YUNUS EMRE CD. NO:43/A AKDENİZ MH. YUNUS EMRE CD. AVGADI YAYLA YOLU OPET ARKASI",
+      "phone": "05300274004",
+      "lat": 36.602115,
+      "lon": 34.301734,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 00:00"
     },
     {
       "name": "ARIKAN ECZANESİ",
@@ -92,22 +92,22 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "FARUK ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. HAL CD. NO:3/B MEDİCALPARK HASTANESİ ACİL KARŞISI MEZİTLİ",
-      "phone": "05352567312",
-      "lat": 36.759218,
-      "lon": 34.543361,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "GÜNDOĞDU ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. VATAN CD. NO:21/G ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
       "phone": "05559623333",
       "lat": 36.745579,
       "lon": 34.517904,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "FARUK ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. HAL CD. NO:3/B MEDİCALPARK HASTANESİ ACİL KARŞISI MEZİTLİ",
+      "phone": "05352567312",
+      "lat": 36.759218,
+      "lon": 34.543361,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
     },
