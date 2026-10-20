@@ -142,16 +142,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "GANNEMOĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "03246140036",
-      "lat": 36.909222,
-      "lon": 34.883157,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "ÜNAL ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
@@ -180,6 +170,16 @@
       "lon": 34.872205,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
+    },
+    {
+      "name": "GANNEMOĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03246140036",
+      "lat": 36.909222,
+      "lon": 34.883157,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
     },
     {
       "name": "ŞENGÜL ECZANESİ",
