@@ -142,16 +142,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "EROĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENI MAH.ATATÜRK BULV.NO:174/B  Yeni Mah. Yeşil direk Muhtarlık karşısı",
-      "phone": "03246251777",
-      "lat": 36.927104,
-      "lon": 34.872205,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 00:00"
-    },
-    {
       "name": "GANNEMOĞLU ECZANESİ",
       "district": "TARSUS",
       "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
@@ -182,6 +172,16 @@
       "shiftend": "21.10.2026 00:00"
     },
     {
+      "name": "EROĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENI MAH.ATATÜRK BULV.NO:174/B  Yeni Mah. Yeşil direk Muhtarlık karşısı",
+      "phone": "03246251777",
+      "lat": 36.927104,
+      "lon": 34.872205,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 00:00"
+    },
+    {
       "name": "ŞENGÜL ECZANESİ",
       "district": "TOROSLAR",
       "address": "Zeki Ayan Mah. H. Okan Merzeci Bulv. No:351/1C (21) ANIT KAVŞAĞI 2. ÇEVRE YOLU MODERN TIP MERKEZİ BİTİŞİĞİ",
@@ -198,16 +198,6 @@
       "phone": "03242235252",
       "lat": 36.841326,
       "lon": 34.617636,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
-      "name": "ÖMER  ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MAH. MİMAR SİNAN CAD. PARADİSE HOMES SİT. D BLOK NO:5  ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
-      "phone": "03245021516",
-      "lat": 36.785468,
-      "lon": 34.540132,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
     },
@@ -230,6 +220,16 @@
       "lon": 34.601586,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
+    },
+    {
+      "name": "ÖMER  ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MAH. MİMAR SİNAN CAD. PARADİSE HOMES SİT. D BLOK NO:5  ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
+      "phone": "03245021516",
+      "lat": 36.785468,
+      "lon": 34.540132,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
     }
   ]
 }
