@@ -92,22 +92,22 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "GÜNDOĞDU ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. VATAN CD. NO:21/G ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
-      "phone": "05559623333",
-      "lat": 36.745579,
-      "lon": 34.517904,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "FARUK ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MH. HAL CD. NO:3/B MEDİCALPARK HASTANESİ ACİL KARŞISI MEZİTLİ",
       "phone": "05352567312",
       "lat": 36.759218,
       "lon": 34.543361,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "GÜNDOĞDU ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. VATAN CD. NO:21/G ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
+      "phone": "05559623333",
+      "lat": 36.745579,
+      "lon": 34.517904,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
     },
@@ -142,6 +142,16 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
+      "name": "GANNEMOĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03246140036",
+      "lat": 36.909222,
+      "lon": 34.883157,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
       "name": "ÜNAL ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
@@ -172,16 +182,6 @@
       "shiftend": "21.10.2026 00:00"
     },
     {
-      "name": "GANNEMOĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "03246140036",
-      "lat": 36.909222,
-      "lon": 34.883157,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "ŞENGÜL ECZANESİ",
       "district": "TOROSLAR",
       "address": "Zeki Ayan Mah. H. Okan Merzeci Bulv. No:351/1C (21) ANIT KAVŞAĞI 2. ÇEVRE YOLU MODERN TIP MERKEZİ BİTİŞİĞİ",
@@ -202,6 +202,16 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
+      "name": "RÜZGAR ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "50. YIL MH. 20. CD. ZİGANA PLUS B BLOK NO:53BA 50. YIL MH. DEMİRCANLAR GURMEDEN DAĞA DOĞRU  - PATİ VETERİNER KLİNİĞİ YANI- ZİGANA PLUS  YENİŞEHİR",
+      "phone": "03245020001",
+      "lat": 36.794723,
+      "lon": 34.580388,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
       "name": "BURCU ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "CUMHURİYET MH. 1650 SK. SEKİZLER APT. A BLOK NO:5A SOSYETE PAZARI POZCU BOSCH BAYİ ARASI , CUMHURİYET MUHTARLIK KARŞISI",
@@ -218,16 +228,6 @@
       "phone": "03245021516",
       "lat": 36.785468,
       "lon": 34.540132,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
-      "name": "RÜZGAR ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "50. YIL MH. 20. CD. ZİGANA PLUS B BLOK NO:53BA 50. YIL MH. DEMİRCANLAR GURMEDEN DAĞA DOĞRU  - PATİ VETERİNER KLİNİĞİ YANI- ZİGANA PLUS  YENİŞEHİR",
-      "phone": "03245020001",
-      "lat": 36.794723,
-      "lon": 34.580388,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
     }
