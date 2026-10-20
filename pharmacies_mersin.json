@@ -92,22 +92,22 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "GÜNDOĞDU ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. VATAN CD. NO:21/G ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
-      "phone": "05559623333",
-      "lat": 36.745579,
-      "lon": 34.517904,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "FARUK ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MH. HAL CD. NO:3/B MEDİCALPARK HASTANESİ ACİL KARŞISI MEZİTLİ",
       "phone": "05352567312",
       "lat": 36.759218,
       "lon": 34.543361,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "GÜNDOĞDU ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. VATAN CD. NO:21/G ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
+      "phone": "05559623333",
+      "lat": 36.745579,
+      "lon": 34.517904,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
     },
@@ -142,26 +142,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "ÜNAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246244070",
-      "lat": 36.914494,
-      "lon": 34.912114,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
-      "name": "KESEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "BARBAROS MAH. 609 SOK.NO:25/A   Barbaros Mh. Erhan Çerçel A.S.M karşısı",
-      "phone": "03246141155",
-      "lat": 36.904495,
-      "lon": 34.885676,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 00:00"
-    },
-    {
       "name": "EROĞLU ECZANESİ",
       "district": "TARSUS",
       "address": "YENI MAH.ATATÜRK BULV.NO:174/B  Yeni Mah. Yeşil direk Muhtarlık karşısı",
@@ -180,6 +160,26 @@
       "lon": 34.883157,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "ÜNAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246244070",
+      "lat": 36.914494,
+      "lon": 34.912114,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "KESEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "BARBAROS MAH. 609 SOK.NO:25/A   Barbaros Mh. Erhan Çerçel A.S.M karşısı",
+      "phone": "03246141155",
+      "lat": 36.904495,
+      "lon": 34.885676,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 00:00"
     },
     {
       "name": "ŞENGÜL ECZANESİ",
