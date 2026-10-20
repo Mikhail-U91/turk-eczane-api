@@ -2,6 +2,16 @@
   "snapshot": "20.10.2026",
   "sonuc": [
     {
+      "name": "GÜLFİDAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
+      "phone": "03242341454",
+      "lat": 36.824482,
+      "lon": 34.650656,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 00:00"
+    },
+    {
       "name": "KARATAŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.635763,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
-    },
-    {
-      "name": "GÜLFİDAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
-      "phone": "03242341454",
-      "lat": 36.824482,
-      "lon": 34.650656,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 00:00"
     },
     {
       "name": "SİNANOĞLU ECZANESİ",
@@ -92,22 +92,22 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "FARUK ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. HAL CD. NO:3/B MEDİCALPARK HASTANESİ ACİL KARŞISI MEZİTLİ",
-      "phone": "05352567312",
-      "lat": 36.759218,
-      "lon": 34.543361,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "GÜNDOĞDU ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. VATAN CD. NO:21/G ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
       "phone": "05559623333",
       "lat": 36.745579,
       "lon": 34.517904,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "FARUK ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. HAL CD. NO:3/B MEDİCALPARK HASTANESİ ACİL KARŞISI MEZİTLİ",
+      "phone": "05352567312",
+      "lat": 36.759218,
+      "lon": 34.543361,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
     },
@@ -142,6 +142,16 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
+      "name": "EROĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENI MAH.ATATÜRK BULV.NO:174/B  Yeni Mah. Yeşil direk Muhtarlık karşısı",
+      "phone": "03246251777",
+      "lat": 36.927104,
+      "lon": 34.872205,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 00:00"
+    },
+    {
       "name": "GANNEMOĞLU ECZANESİ",
       "district": "TARSUS",
       "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
@@ -154,7 +164,7 @@
     {
       "name": "ÜNAL ECZANESİ",
       "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "address": "TEKKE MH. T��RKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
       "phone": "03246244070",
       "lat": 36.914494,
       "lon": 34.912114,
@@ -168,16 +178,6 @@
       "phone": "03246141155",
       "lat": 36.904495,
       "lon": 34.885676,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 00:00"
-    },
-    {
-      "name": "EROĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENI MAH.ATATÜRK BULV.NO:174/B  Yeni Mah. Yeşil direk Muhtarlık karşısı",
-      "phone": "03246251777",
-      "lat": 36.927104,
-      "lon": 34.872205,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
     },
