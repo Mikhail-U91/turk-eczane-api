@@ -2,16 +2,6 @@
   "snapshot": "20.10.2026",
   "sonuc": [
     {
-      "name": "KARATAŞ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03243361952",
-      "lat": 36.808178,
-      "lon": 34.621519,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "BUKET ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MAH. 5314 SOK. NO:4 TOROS DEVLET HASTANESİ (ESKİ SSK) KARŞISI",
@@ -30,6 +20,16 @@
       "lon": 34.650656,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
+    },
+    {
+      "name": "KARATAŞ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03243361952",
+      "lat": 36.808178,
+      "lon": 34.621519,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
     },
     {
       "name": "SİNANOĞLU ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "MURAT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
-      "phone": "03245772254",
-      "lat": 36.609743,
-      "lon": 34.303401,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "MEYRA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MH. YUNUS EMRE CD. NO:43/A AKDENİZ MH. YUNUS EMRE CD. AVGADI YAYLA YOLU OPET ARKASI",
@@ -80,6 +70,16 @@
       "lon": 34.301734,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
+    },
+    {
+      "name": "MURAT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
+      "phone": "03245772254",
+      "lat": 36.609743,
+      "lon": 34.303401,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
     },
     {
       "name": "ARIKAN ECZANESİ",
