@@ -2,6 +2,16 @@
   "snapshot": "20.10.2026",
   "sonuc": [
     {
+      "name": "GÜLFİDAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
+      "phone": "03242341454",
+      "lat": 36.824482,
+      "lon": 34.650656,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 00:00"
+    },
+    {
       "name": "KARATAŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.635763,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
-    },
-    {
-      "name": "GÜLFİDAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
-      "phone": "03242341454",
-      "lat": 36.824482,
-      "lon": 34.650656,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 00:00"
     },
     {
       "name": "SİNANOĞLU ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "MURAT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
-      "phone": "03245772254",
-      "lat": 36.609743,
-      "lon": 34.303401,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "MEYRA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MH. YUNUS EMRE CD. NO:43/A AKDENİZ MH. YUNUS EMRE CD. AVGADI YAYLA YOLU OPET ARKASI",
@@ -80,6 +70,16 @@
       "lon": 34.301734,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
+    },
+    {
+      "name": "MURAT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
+      "phone": "03245772254",
+      "lat": 36.609743,
+      "lon": 34.303401,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
     },
     {
       "name": "ARIKAN ECZANESİ",
@@ -142,26 +142,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "GANNEMOĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "03246140036",
-      "lat": 36.909222,
-      "lon": 34.883157,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
-      "name": "ÜNAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246244070",
-      "lat": 36.914494,
-      "lon": 34.912114,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "KESEN ECZANESİ",
       "district": "TARSUS",
       "address": "BARBAROS MAH. 609 SOK.NO:25/A   Barbaros Mh. Erhan Çerçel A.S.M karşısı",
@@ -180,6 +160,26 @@
       "lon": 34.872205,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
+    },
+    {
+      "name": "GANNEMOĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03246140036",
+      "lat": 36.909222,
+      "lon": 34.883157,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "ÜNAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246244070",
+      "lat": 36.914494,
+      "lon": 34.912114,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
     },
     {
       "name": "ŞENGÜL ECZANESİ",
