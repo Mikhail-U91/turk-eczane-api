@@ -62,16 +62,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "MEYRA ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. YUNUS EMRE CD. NO:43/A AKDENİZ MH. YUNUS EMRE CD. AVGADI YAYLA YOLU OPET ARKASI",
-      "phone": "05300274004",
-      "lat": 36.602115,
-      "lon": 34.301734,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 00:00"
-    },
-    {
       "name": "MURAT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.303401,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "MEYRA ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. YUNUS EMRE CD. NO:43/A AKDENİZ MH. YUNUS EMRE CD. AVGADI YAYLA YOLU OPET ARKASI",
+      "phone": "05300274004",
+      "lat": 36.602115,
+      "lon": 34.301734,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 00:00"
     },
     {
       "name": "ARIKAN ECZANESİ",
