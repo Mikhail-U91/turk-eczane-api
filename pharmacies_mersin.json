@@ -62,16 +62,6 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "MURAT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
-      "phone": "03245772254",
-      "lat": 36.609743,
-      "lon": 34.303401,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "MEYRA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MH. YUNUS EMRE CD. NO:43/A AKDENİZ MH. YUNUS EMRE CD. AVGADI YAYLA YOLU OPET ARKASI",
@@ -80,6 +70,16 @@
       "lon": 34.301734,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 00:00"
+    },
+    {
+      "name": "MURAT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
+      "phone": "03245772254",
+      "lat": 36.609743,
+      "lon": 34.303401,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
     },
     {
       "name": "ARIKAN ECZANESİ",
@@ -92,22 +92,22 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
-      "name": "GÜNDOĞDU ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. VATAN CD. NO:21/G ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
-      "phone": "05559623333",
-      "lat": 36.745579,
-      "lon": 34.517904,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
       "name": "FARUK ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MH. HAL CD. NO:3/B MEDİCALPARK HASTANESİ ACİL KARŞISI MEZİTLİ",
       "phone": "05352567312",
       "lat": 36.759218,
       "lon": 34.543361,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
+      "name": "GÜNDOĞDU ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. VATAN CD. NO:21/G ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
+      "phone": "05559623333",
+      "lat": 36.745579,
+      "lon": 34.517904,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
     },
@@ -202,6 +202,16 @@
       "shiftend": "21.10.2026 08:00"
     },
     {
+      "name": "RÜZGAR ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "50. YIL MH. 20. CD. ZİGANA PLUS B BLOK NO:53BA 50. YIL MH. DEMİRCANLAR GURMEDEN DAĞA DOĞRU  - PATİ VETERİNER KLİNİĞİ YANI- ZİGANA PLUS  YENİŞEHİR",
+      "phone": "03245020001",
+      "lat": 36.794723,
+      "lon": 34.580388,
+      "workdate": "20.10.2026 18:00",
+      "shiftend": "21.10.2026 08:00"
+    },
+    {
       "name": "BURCU ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "CUMHURİYET MH. 1650 SK. SEKİZLER APT. A BLOK NO:5A SOSYETE PAZARI POZCU BOSCH BAYİ ARASI , CUMHURİYET MUHTARLIK KARŞISI",
@@ -218,16 +228,6 @@
       "phone": "03245021516",
       "lat": 36.785468,
       "lon": 34.540132,
-      "workdate": "20.10.2026 18:00",
-      "shiftend": "21.10.2026 08:00"
-    },
-    {
-      "name": "RÜZGAR ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "50. YIL MH. 20. CD. ZİGANA PLUS B BLOK NO:53BA 50. YIL MH. DEMİRCANLAR GURMEDEN DAĞA DOĞRU  - PATİ VETERİNER KLİNİĞİ YANI- ZİGANA PLUS  YENİŞEHİR",
-      "phone": "03245020001",
-      "lat": 36.794723,
-      "lon": 34.580388,
       "workdate": "20.10.2026 18:00",
       "shiftend": "21.10.2026 08:00"
     }
