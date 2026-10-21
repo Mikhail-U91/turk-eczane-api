@@ -202,16 +202,6 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
-      "name": "ÇEKO ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "FUAT MOREL MH. 2894 SK. NO: 26B FUAT MOREL MH. 2894 SK. NO: 26B YAŞAR CAM KARŞISI",
-      "phone": "03244732333",
-      "lat": 36.815763,
-      "lon": 34.573948,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 00:00"
-    },
-    {
       "name": "MARİNA ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BARBAROS MAH.2148 SOK.NO:20 YENİŞEHİR KAYMAKAMLIĞI KARŞISI ÇOCUK PARKI ARKASI BARBAROS ASM KARŞISI/YENİŞEHİR",
@@ -230,6 +220,16 @@
       "lon": 34.546635,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
+    },
+    {
+      "name": "ÇEKO ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "FUAT MOREL MH. 2894 SK. NO: 26B FUAT MOREL MH. 2894 SK. NO: 26B YAŞAR CAM KARŞISI",
+      "phone": "03244732333",
+      "lat": 36.815763,
+      "lon": 34.573948,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 00:00"
     }
   ]
 }
