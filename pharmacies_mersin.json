@@ -92,16 +92,6 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
-      "name": "UZMAN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "Atatürk Mh. Gmk Bulv. Elif Ana Sitesi A Blok Altı No:674G\n\n MEDİCALPARK HASTANESİ YANI , GMK ÜZERİ",
-      "phone": "05326291224",
-      "lat": 36.759537,
-      "lon": 34.545027,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 08:00"
-    },
-    {
       "name": "MAVİ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "AKDENİZ MAH. GMK BULV.NO:918/A",
@@ -110,6 +100,16 @@
       "lon": 34.514043,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 00:00"
+    },
+    {
+      "name": "UZMAN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "Atatürk Mh. Gmk Bulv. Elif Ana Sitesi A Blok Altı No:674G\n\n MEDİCALPARK HASTANESİ YANI , GMK ÜZERİ",
+      "phone": "05326291224",
+      "lat": 36.759537,
+      "lon": 34.545027,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 08:00"
     },
     {
       "name": "DERMAN ECZANESİ",
@@ -142,6 +142,16 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
+      "name": "FİLİZ ECZANESİ",
+      "district": "TARSUS",
+      "address": "HÜRRIYET MAH. 2215 SOK NO:19  Yeşilyurt Mh. Yeşilyurt A.S.M karşısı",
+      "phone": "03246143668",
+      "lat": 36.929372,
+      "lon": 34.889592,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 00:00"
+    },
+    {
       "name": "BURCU ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MAH. 3745 SOK. NO:2/A",
@@ -170,16 +180,6 @@
       "lon": 34.885288,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
-    },
-    {
-      "name": "FİLİZ ECZANESİ",
-      "district": "TARSUS",
-      "address": "HÜRRIYET MAH. 2215 SOK NO:19  Yeşilyurt Mh. Yeşilyurt A.S.M karşısı",
-      "phone": "03246143668",
-      "lat": 36.929372,
-      "lon": 34.889592,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 00:00"
     },
     {
       "name": "UTKU ECZANESİ",
