@@ -122,16 +122,6 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
-      "name": "SOLDAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH. ATATÜRK BULV.TINAZ SİT. NO:11/D SİLİFKE ÖZKAYMAK PASTANESİ YANI ANIT CİVARI",
-      "phone": "03247145296",
-      "lat": 36.380388,
-      "lon": 33.927822,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 08:00"
-    },
-    {
       "name": "FIRAT ECZANESİ",
       "district": "SİLİFKE",
       "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
@@ -142,14 +132,14 @@
       "shiftend": "22.10.2026 00:00"
     },
     {
-      "name": "ESİNTİ ECZANESİ",
-      "district": "TARSUS",
-      "address": "ŞEHİTİSHAK MAH.NENE HATUN CAD.NO:44/B ŞEHİT İSHAK MH. ŞEHİT İSHAK ASM YANI",
-      "phone": "03246250050",
-      "lat": 36.924418,
-      "lon": 34.883344,
+      "name": "SOLDAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. ATATÜRK BULV.TINAZ SİT. NO:11/D SİLİFKE ÖZKAYMAK PASTANESİ YANI ANIT CİVARI",
+      "phone": "03247145296",
+      "lat": 36.380388,
+      "lon": 33.927822,
       "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 00:00"
+      "shiftend": "22.10.2026 08:00"
     },
     {
       "name": "NOKAY ECZANESİ",
@@ -182,14 +172,14 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
-      "name": "UTKU ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "YUSUF KILIÇ MH. 217_2 CD. NO:63B YUSUF KILIÇ MAH. 217.CAD AYIŞIĞI DÜĞÜN SALONU YANI",
-      "phone": "03243225270",
-      "lat": 36.823996,
-      "lon": 34.603539,
+      "name": "ESİNTİ ECZANESİ",
+      "district": "TARSUS",
+      "address": "ŞEHİTİSHAK MAH.NENE HATUN CAD.NO:44/B ŞEHİT İSHAK MH. ŞEHİT İSHAK ASM YANI",
+      "phone": "03246250050",
+      "lat": 36.924418,
+      "lon": 34.883344,
       "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 08:00"
+      "shiftend": "22.10.2026 00:00"
     },
     {
       "name": "ÖRGE ECZANESİ",
@@ -198,6 +188,16 @@
       "phone": "03242230207",
       "lat": 36.848853,
       "lon": 34.60719,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 08:00"
+    },
+    {
+      "name": "UTKU ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "YUSUF KILIÇ MH. 217_2 CD. NO:63B YUSUF KILIÇ MAH. 217.CAD AYIŞIĞI DÜĞÜN SALONU YANI",
+      "phone": "03243225270",
+      "lat": 36.823996,
+      "lon": 34.603539,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
     },
