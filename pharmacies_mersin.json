@@ -2,16 +2,6 @@
   "snapshot": "21.10.2026",
   "sonuc": [
     {
-      "name": "KAMER ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CD. NO:173C ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03243364676",
-      "lat": 36.80896,
-      "lon": 34.621038,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 08:00"
-    },
-    {
       "name": "DOSTLAR ECZANESİ",
       "district": "AKDENİZ",
       "address": "MAHMUDİYE MH. 4812 SK. NO:28/A ÇANKAYA ASM YANI",
@@ -28,6 +18,16 @@
       "phone": "03242393272",
       "lat": 36.80509,
       "lon": 34.63217,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 08:00"
+    },
+    {
+      "name": "KAMER ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CD. NO:173C ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03243364676",
+      "lat": 36.80896,
+      "lon": 34.621038,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
-      "name": "GÜL ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH.ABDURRAHMAN ŞEVKİ CAD.NO:19/A  MERKEZ MAH. ABDURRAHMAN ŞEVK CD 19/A  MÜFTÜLÜK YANI ÖZEL YENİŞEHİR HASTANESİ KARŞISI",
-      "phone": "03245152552",
-      "lat": 36.605138,
-      "lon": 34.313676,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 00:00"
-    },
-    {
       "name": "CEYDA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH.KAZIM KARABEKİR CAD.ALİ ÇAVUŞ SK.NO:3/A MERKEZ MH. KAZIM KARABEKİR CD. ALİ ÇAVUŞ SK. NO:3/A ERDEMLİ DEVLET HASTANESİ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.30263,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
+    },
+    {
+      "name": "GÜL ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH.ABDURRAHMAN ŞEVKİ CAD.NO:19/A  MERKEZ MAH. ABDURRAHMAN ŞEVK CD 19/A  MÜFTÜLÜK YANI ÖZEL YENİŞEHİR HASTANESİ KARŞISI",
+      "phone": "03245152552",
+      "lat": 36.605138,
+      "lon": 34.313676,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 00:00"
     },
     {
       "name": "BÜŞRA ECZANESİ",
@@ -92,16 +92,6 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
-      "name": "MAVİ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "AKDENİZ MAH. GMK BULV.NO:918/A",
-      "phone": "03245022156",
-      "lat": 36.733264,
-      "lon": 34.514043,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 00:00"
-    },
-    {
       "name": "UZMAN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "Atatürk Mh. Gmk Bulv. Elif Ana Sitesi A Blok Altı No:674G\n\n MEDİCALPARK HASTANESİ YANI , GMK ÜZERİ",
@@ -110,6 +100,16 @@
       "lon": 34.545027,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
+    },
+    {
+      "name": "MAVİ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "AKDENİZ MAH. GMK BULV.NO:918/A",
+      "phone": "03245022156",
+      "lat": 36.733264,
+      "lon": 34.514043,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 00:00"
     },
     {
       "name": "DERMAN ECZANESİ",
@@ -138,6 +138,16 @@
       "phone": "03247145296",
       "lat": 36.380388,
       "lon": 33.927822,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 08:00"
+    },
+    {
+      "name": "NOKAY ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENİ ÖMERLİ MAH. LANGEN BULV. NO:2/B KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
+      "phone": "03246222504",
+      "lat": 36.918243,
+      "lon": 34.885288,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
     },
@@ -172,26 +182,6 @@
       "shiftend": "22.10.2026 00:00"
     },
     {
-      "name": "NOKAY ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENİ ÖMERLİ MAH. LANGEN BULV. NO:2/B KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
-      "phone": "03246222504",
-      "lat": 36.918243,
-      "lon": 34.885288,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 08:00"
-    },
-    {
-      "name": "UTKU ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "YUSUF KILIÇ MH. 217_2 CD. NO:63B YUSUF KILIÇ MAH. 217.CAD AYIŞIĞI DÜĞÜN SALONU YANI",
-      "phone": "03243225270",
-      "lat": 36.823996,
-      "lon": 34.603539,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 08:00"
-    },
-    {
       "name": "ÖRGE ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. 96017 SK. NO:15/A TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
@@ -202,12 +192,12 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
-      "name": "YASEMİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "AKKENT MH. 34. CD. NO:54D LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
-      "phone": "05301901502",
-      "lat": 36.780492,
-      "lon": 34.546635,
+      "name": "UTKU ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "YUSUF KILIÇ MH. 217_2 CD. NO:63B YUSUF KILIÇ MAH. 217.CAD AYIŞIĞI DÜĞÜN SALONU YANI",
+      "phone": "03243225270",
+      "lat": 36.823996,
+      "lon": 34.603539,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
     },
@@ -228,6 +218,16 @@
       "phone": "03243269184",
       "lat": 36.779182,
       "lon": 34.575177,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 08:00"
+    },
+    {
+      "name": "YASEMİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "AKKENT MH. 34. CD. NO:54D LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
+      "phone": "05301901502",
+      "lat": 36.780492,
+      "lon": 34.546635,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
     }
