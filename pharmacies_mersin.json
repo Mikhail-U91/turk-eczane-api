@@ -2,16 +2,6 @@
   "snapshot": "21.10.2026",
   "sonuc": [
     {
-      "name": "KAMER ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CD. NO:173C ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03243364676",
-      "lat": 36.80896,
-      "lon": 34.621038,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 08:00"
-    },
-    {
       "name": "DOSTLAR ECZANESİ",
       "district": "AKDENİZ",
       "address": "MAHMUDİYE MH. 4812 SK. NO:28/A ÇANKAYA ASM YANI",
@@ -28,6 +18,16 @@
       "phone": "03242393272",
       "lat": 36.80509,
       "lon": 34.63217,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 08:00"
+    },
+    {
+      "name": "KAMER ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CD. NO:173C ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03243364676",
+      "lat": 36.80896,
+      "lon": 34.621038,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
     },
@@ -142,16 +142,6 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
-      "name": "BURCU ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MAH. 3745 SOK. NO:2/A",
-      "phone": "03245036655",
-      "lat": 36.914412,
-      "lon": 34.912057,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 08:00"
-    },
-    {
       "name": "ESİNTİ ECZANESİ",
       "district": "TARSUS",
       "address": "ŞEHİTİSHAK MAH.NENE HATUN CAD.NO:44/B ŞEHİT İSHAK MH. ŞEHİT İSHAK ASM YANI",
@@ -180,6 +170,16 @@
       "lon": 34.889592,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 00:00"
+    },
+    {
+      "name": "BURCU ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MAH. 3745 SOK. NO:2/A",
+      "phone": "03245036655",
+      "lat": 36.914412,
+      "lon": 34.912057,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 08:00"
     },
     {
       "name": "UTKU ECZANESİ",
