@@ -142,16 +142,6 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
-      "name": "ESİNTİ ECZANESİ",
-      "district": "TARSUS",
-      "address": "ŞEHİTİSHAK MAH.NENE HATUN CAD.NO:44/B ŞEHİT İSHAK MH. ŞEHİT İSHAK ASM YANI",
-      "phone": "03246250050",
-      "lat": 36.924418,
-      "lon": 34.883344,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 00:00"
-    },
-    {
       "name": "NOKAY ECZANESİ",
       "district": "TARSUS",
       "address": "YENİ ÖMERLİ MAH. LANGEN BULV. NO:2/B KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
@@ -182,6 +172,16 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
+      "name": "ESİNTİ ECZANESİ",
+      "district": "TARSUS",
+      "address": "ŞEHİTİSHAK MAH.NENE HATUN CAD.NO:44/B ŞEHİT İSHAK MH. ŞEHİT İSHAK ASM YANI",
+      "phone": "03246250050",
+      "lat": 36.924418,
+      "lon": 34.883344,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 00:00"
+    },
+    {
       "name": "UTKU ECZANESİ",
       "district": "TOROSLAR",
       "address": "YUSUF KILIÇ MH. 217_2 CD. NO:63B YUSUF KILIÇ MAH. 217.CAD AYIŞIĞI DÜĞÜN SALONU YANI",
@@ -202,6 +202,16 @@
       "shiftend": "22.10.2026 08:00"
     },
     {
+      "name": "YASEMİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "AKKENT MH. 34. CD. NO:54D LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
+      "phone": "05301901502",
+      "lat": 36.780492,
+      "lon": 34.546635,
+      "workdate": "21.10.2026 18:00",
+      "shiftend": "22.10.2026 08:00"
+    },
+    {
       "name": "ÇEKO ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "FUAT MOREL MH. 2894 SK. NO: 26B FUAT MOREL MH. 2894 SK. NO: 26B YAŞAR CAM KARŞISI",
@@ -218,16 +228,6 @@
       "phone": "03243269184",
       "lat": 36.779182,
       "lon": 34.575177,
-      "workdate": "21.10.2026 18:00",
-      "shiftend": "22.10.2026 08:00"
-    },
-    {
-      "name": "YASEMİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "AKKENT MH. 34. CD. NO:54D LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
-      "phone": "05301901502",
-      "lat": 36.780492,
-      "lon": 34.546635,
       "workdate": "21.10.2026 18:00",
       "shiftend": "22.10.2026 08:00"
     }
