@@ -62,16 +62,6 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "ZEYNEL ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F",
-      "phone": "03245154050",
-      "lat": 36.610144,
-      "lon": 34.303197,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "DİDEM ECZANESİ",
       "district": "ERDEMLİ",
       "address": "Alata Mh. Hacı Ömer Var Cd. No:20B  ERDEMLİ GÜNEY ASM KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.315229,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 00:00"
+    },
+    {
+      "name": "ZEYNEL ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F",
+      "phone": "03245154050",
+      "lat": 36.610144,
+      "lon": 34.303197,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
     },
     {
       "name": "GÜLNAR ECZANESİ",
@@ -92,16 +92,6 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "GÖK ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
-      "phone": "03245454917",
-      "lat": 36.716601,
-      "lon": 34.47797,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 00:00"
-    },
-    {
       "name": "BERAT ECZANESİ",
       "district": "MEZİTLİ",
       "address": "VALİ ŞENOL ENGİN CD. EMİRGAN APT. ALTI NO:19  ÜNİVERSİTE CAD. ORTADOĞU HASTANESİ YANI",
@@ -110,6 +100,16 @@
       "lon": 34.547819,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "GÖK ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
+      "phone": "03245454917",
+      "lat": 36.716601,
+      "lon": 34.47797,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 00:00"
     },
     {
       "name": "ERDAL ECZANESİ",
@@ -130,16 +130,6 @@
       "lon": 33.932197,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
-    },
-    {
-      "name": "ÇELİK ECZANESİ",
-      "district": "TARSUS",
-      "address": "GAZİPAŞA MAH.1913 SOK.NO:8-A GAZİPAŞA MAHALLESİ BENLİ POLİS KARAKOLU ARKASI",
-      "phone": "03246266384",
-      "lat": 36.912235,
-      "lon": 34.86702,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 00:00"
     },
     {
       "name": "HALK ECZANESİ",
@@ -170,6 +160,16 @@
       "lon": 34.911528,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "ÇELİK ECZANESİ",
+      "district": "TARSUS",
+      "address": "GAZİPAŞA MAH.1913 SOK.NO:8-A GAZİPAŞA MAHALLESİ BENLİ POLİS KARAKOLU ARKASI",
+      "phone": "03246266384",
+      "lat": 36.912235,
+      "lon": 34.86702,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 00:00"
     },
     {
       "name": "SERA ECZANESİ",
