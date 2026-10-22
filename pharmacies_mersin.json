@@ -62,16 +62,6 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "DİDEM ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "Alata Mh. Hacı Ömer Var Cd. No:20B  ERDEMLİ GÜNEY ASM KARŞISI",
-      "phone": "03245151020",
-      "lat": 36.607738,
-      "lon": 34.315229,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 00:00"
-    },
-    {
       "name": "ZEYNEL ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F",
@@ -80,6 +70,16 @@
       "lon": 34.303197,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "DİDEM ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "Alata Mh. Hacı Ömer Var Cd. No:20B  ERDEMLİ GÜNEY ASM KARŞISI",
+      "phone": "03245151020",
+      "lat": 36.607738,
+      "lon": 34.315229,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 00:00"
     },
     {
       "name": "GÜLNAR ECZANESİ",
@@ -132,16 +132,6 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "ÖZALTUN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MAH. TÜRKMENİSTAN CD. NO:52C YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "05333014168",
-      "lat": 36.914724,
-      "lon": 34.911528,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "ÇELİK ECZANESİ",
       "district": "TARSUS",
       "address": "GAZİPAŞA MAH.1913 SOK.NO:8-A GAZİPAŞA MAHALLESİ BENLİ POLİS KARAKOLU ARKASI",
@@ -172,12 +162,12 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "TATLIDİL  ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 229. CD. BARAB MERT APT. NO:10/A ÇAĞDAŞKENT MH 229. CD. MAKRO MARKET CİVARI ERZİNCANLILAR SİTESİ KARŞISI / TOROSLAR/TOROSLAR",
-      "phone": "05492241800",
-      "lat": 36.835816,
-      "lon": 34.610989,
+      "name": "ÖZALTUN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MAH. TÜRKMENİSTAN CD. NO:52C YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "05333014168",
+      "lat": 36.914724,
+      "lon": 34.911528,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -188,6 +178,16 @@
       "phone": "03243201120",
       "lat": 36.824828,
       "lon": 34.600291,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "TATLIDİL  ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 229. CD. BARAB MERT APT. NO:10/A ÇAĞDAŞKENT MH 229. CD. MAKRO MARKET CİVARI ERZİNCANLILAR SİTESİ KARŞISI / TOROSLAR/TOROSLAR",
+      "phone": "05492241800",
+      "lat": 36.835816,
+      "lon": 34.610989,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
