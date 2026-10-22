@@ -2,16 +2,6 @@
   "snapshot": "22.10.2026",
   "sonuc": [
     {
-      "name": "ASENA ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "BAHÇE MAH.SOĞUKSU 124 CAD.NO:125/D  BURHANFELEK CD ERCİYES TAKSİ DURAĞI/AKDENİZ",
-      "phone": "03243371353",
-      "lat": 36.799974,
-      "lon": 34.620029,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "SAĞLIK ECZANESİ",
       "district": "AKDENİZ",
       "address": "MESUDİYE MH. ÇAKMAK CD. NO:79/A ÇAKMAK CADDESİ NO:79 BEŞYOL / BOLKEPÇE LOKANTASI KARŞISI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242312080",
       "lat": 36.806426,
       "lon": 34.63582,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "ASENA ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "BAHÇE MAH.SOĞUKSU 124 CAD.NO:125/D  BURHANFELEK CD ERCİYES TAKSİ DURAĞI/AKDENİZ",
+      "phone": "03243371353",
+      "lat": 36.799974,
+      "lon": 34.620029,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "ZEYNEL ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F",
-      "phone": "03245154050",
-      "lat": 36.610144,
-      "lon": 34.303197,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "DİDEM ECZANESİ",
       "district": "ERDEMLİ",
       "address": "Alata Mh. Hacı Ömer Var Cd. No:20B  ERDEMLİ GÜNEY ASM KARŞISI",
@@ -82,12 +72,32 @@
       "shiftend": "23.10.2026 00:00"
     },
     {
+      "name": "ZEYNEL ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F",
+      "phone": "03245154050",
+      "lat": 36.610144,
+      "lon": 34.303197,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
       "name": "GÜLNAR ECZANESİ",
       "district": "GÜLNAR",
       "address": "AKDENİZ MH. KÖY HİZMETLERİ SK. NO:1C GÜLNAR DEVLET HASTANESİ KARŞISI",
       "phone": "03247517007",
       "lat": 36.323313,
       "lon": 33.411885,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "BERAT ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "VALİ ŞENOL ENGİN CD. EMİRGAN APT. ALTI NO:19  ÜNİVERSİTE CAD. ORTADOĞU HASTANESİ YANI",
+      "phone": "08502810315",
+      "lat": 36.763497,
+      "lon": 34.547819,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -102,26 +112,6 @@
       "shiftend": "23.10.2026 00:00"
     },
     {
-      "name": "BERAT ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "VALİ ŞENOL ENGİN CD. EMİRGAN APT. ALTI NO:19  ÜNİVERSİTE CAD. ORTADOĞU HASTANESİ YANI",
-      "phone": "08502810315",
-      "lat": 36.763497,
-      "lon": 34.547819,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
-      "name": "ERDAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
-      "phone": "03247412997",
-      "lat": 36.319542,
-      "lon": 33.875585,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 00:00"
-    },
-    {
       "name": "BİLGEN ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
@@ -132,22 +122,12 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "ÇELİK ECZANESİ",
-      "district": "TARSUS",
-      "address": "GAZİPAŞA MAH.1913 SOK.NO:8-A GAZİPAŞA MAHALLESİ BENLİ POLİS KARAKOLU ARKASI",
-      "phone": "03246266384",
-      "lat": 36.912235,
-      "lon": 34.86702,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 00:00"
-    },
-    {
-      "name": "HALK ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:18/A ANIT ASM KARŞISI",
-      "phone": "03246137676",
-      "lat": 36.920426,
-      "lon": 34.877821,
+      "name": "ERDAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
+      "phone": "03247412997",
+      "lat": 36.319542,
+      "lon": 33.875585,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 00:00"
     },
@@ -170,6 +150,26 @@
       "lon": 34.911528,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "ÇELİK ECZANESİ",
+      "district": "TARSUS",
+      "address": "GAZİPAŞA MAH.1913 SOK.NO:8-A GAZİPAŞA MAHALLESİ BENLİ POLİS KARAKOLU ARKASI",
+      "phone": "03246266384",
+      "lat": 36.912235,
+      "lon": 34.86702,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 00:00"
+    },
+    {
+      "name": "HALK ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:18/A ANIT ASM KARŞISI",
+      "phone": "03246137676",
+      "lat": 36.920426,
+      "lon": 34.877821,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 00:00"
     },
     {
       "name": "SERA ECZANESİ",
