@@ -112,16 +112,6 @@
       "shiftend": "23.10.2026 00:00"
     },
     {
-      "name": "BİLGEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
-      "phone": "03247141648",
-      "lat": 36.380547,
-      "lon": 33.932197,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "ERDAL ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
@@ -130,6 +120,16 @@
       "lon": 33.875585,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 00:00"
+    },
+    {
+      "name": "BİLGEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
+      "phone": "03247141648",
+      "lat": 36.380547,
+      "lon": 33.932197,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
     },
     {
       "name": "SAYAR ECZANESİ",
