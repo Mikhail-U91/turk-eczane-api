@@ -132,6 +132,16 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
+      "name": "ÖZALTUN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MAH. TÜRKMENİSTAN CD. NO:52C YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "05333014168",
+      "lat": 36.914724,
+      "lon": 34.911528,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
       "name": "ÇELİK ECZANESİ",
       "district": "TARSUS",
       "address": "GAZİPAŞA MAH.1913 SOK.NO:8-A GAZİPAŞA MAHALLESİ BENLİ POLİS KARAKOLU ARKASI",
@@ -162,12 +172,12 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "ÖZALTUN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MAH. TÜRKMENİSTAN CD. NO:52C YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "05333014168",
-      "lat": 36.914724,
-      "lon": 34.911528,
+      "name": "TATLIDİL  ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 229. CD. BARAB MERT APT. NO:10/A ÇAĞDAŞKENT MH 229. CD. MAKRO MARKET CİVARI ERZİNCANLILAR SİTESİ KARŞISI / TOROSLAR/TOROSLAR",
+      "phone": "05492241800",
+      "lat": 36.835816,
+      "lon": 34.610989,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -182,12 +192,12 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "TATLIDİL  ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 229. CD. BARAB MERT APT. NO:10/A ÇAĞDAŞKENT MH 229. CD. MAKRO MARKET CİVARI ERZİNCANLILAR SİTESİ KARŞISI / TOROSLAR/TOROSLAR",
-      "phone": "05492241800",
-      "lat": 36.835816,
-      "lon": 34.610989,
+      "name": "GAMZE ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MH. 2635 SK. YAĞMUR SULTAN KONUTLARI C BLOK NO:57/CA 2.ÇEVREYOLU YENİ VALİLİK ARKASI (KUZEYİ) YAĞMUR SULTAN KONUTLARI NECATİ BOLKAN İLKOKULU YANI",
+      "phone": "03245021456",
+      "lat": 36.780463,
+      "lon": 34.557355,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -204,20 +214,10 @@
     {
       "name": "UÇAN ECZANESİ",
       "district": "YENİŞEHİR",
-      "address": "GÜVENEVLER MAH.20 CAD.1953 SOK.NO:25  FORUM YAŞAM HASTANESİ ACİL KARŞISI 1953 SK. NO:25  YENİŞEHİR/YENİŞEHİR",
+      "address": "GÜVENEVLER MAH.20 CAD.1953 SOK.NO:25  FORUM YAŞAM HASTANESİ ACİL KAR��ISI 1953 SK. NO:25  YENİŞEHİR/YENİŞEHİR",
       "phone": "05060318500",
       "lat": 36.790063,
       "lon": 34.587398,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
-      "name": "GAMZE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MH. 2635 SK. YAĞMUR SULTAN KONUTLARI C BLOK NO:57/CA 2.ÇEVREYOLU YENİ VALİLİK ARKASI (KUZEYİ) YAĞMUR SULTAN KONUTLARI NECATİ BOLKAN İLKOKULU YANI",
-      "phone": "03245021456",
-      "lat": 36.780463,
-      "lon": 34.557355,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     }
