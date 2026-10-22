@@ -2,6 +2,16 @@
   "snapshot": "22.10.2026",
   "sonuc": [
     {
+      "name": "ASENA ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "BAHÇE MAH.SOĞUKSU 124 CAD.NO:125/D  BURHANFELEK CD ERCİYES TAKSİ DURAĞI/AKDENİZ",
+      "phone": "03243371353",
+      "lat": 36.799974,
+      "lon": 34.620029,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
       "name": "SAĞLIK ECZANESİ",
       "district": "AKDENİZ",
       "address": "MESUDİYE MH. ÇAKMAK CD. NO:79/A ÇAKMAK CADDESİ NO:79 BEŞYOL / BOLKEPÇE LOKANTASI KARŞISI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242312080",
       "lat": 36.806426,
       "lon": 34.63582,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
-      "name": "ASENA ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "BAHÇE MAH.SOĞUKSU 124 CAD.NO:125/D  BURHANFELEK CD ERCİYES TAKSİ DURAĞI/AKDENİZ",
-      "phone": "03243371353",
-      "lat": 36.799974,
-      "lon": 34.620029,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "DİDEM ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "Alata Mh. Hacı Ömer Var Cd. No:20B  ERDEMLİ GÜNEY ASM KARŞISI",
-      "phone": "03245151020",
-      "lat": 36.607738,
-      "lon": 34.315229,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 00:00"
-    },
-    {
       "name": "ZEYNEL ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F MERKEZ MH. KAZIM KARABEKİR CD. NO:74/F",
@@ -80,6 +70,16 @@
       "lon": 34.303197,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "DİDEM ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "Alata Mh. Hacı Ömer Var Cd. No:20B  ERDEMLİ GÜNEY ASM KARŞISI",
+      "phone": "03245151020",
+      "lat": 36.607738,
+      "lon": 34.315229,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 00:00"
     },
     {
       "name": "GÜLNAR ECZANESİ",
@@ -92,16 +92,6 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "BERAT ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "VALİ ŞENOL ENGİN CD. EMİRGAN APT. ALTI NO:19  ÜNİVERSİTE CAD. ORTADOĞU HASTANESİ YANI",
-      "phone": "08502810315",
-      "lat": 36.763497,
-      "lon": 34.547819,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "GÖK ECZANESİ",
       "district": "MEZİTLİ",
       "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
@@ -110,6 +100,16 @@
       "lon": 34.47797,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 00:00"
+    },
+    {
+      "name": "BERAT ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "VALİ ŞENOL ENGİN CD. EMİRGAN APT. ALTI NO:19  ÜNİVERSİTE CAD. ORTADOĞU HASTANESİ YANI",
+      "phone": "08502810315",
+      "lat": 36.763497,
+      "lon": 34.547819,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
     },
     {
       "name": "ERDAL ECZANESİ",
@@ -130,6 +130,16 @@
       "lon": 33.932197,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "ÇELİK ECZANESİ",
+      "district": "TARSUS",
+      "address": "GAZİPAŞA MAH.1913 SOK.NO:8-A GAZİPAŞA MAHALLESİ BENLİ POLİS KARAKOLU ARKASI",
+      "phone": "03246266384",
+      "lat": 36.912235,
+      "lon": 34.86702,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 00:00"
     },
     {
       "name": "HALK ECZANESİ",
@@ -160,16 +170,6 @@
       "lon": 34.911528,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
-    },
-    {
-      "name": "ÇELİK ECZANESİ",
-      "district": "TARSUS",
-      "address": "GAZİPAŞA MAH.1913 SOK.NO:8-A GAZİPAŞA MAHALLESİ BENLİ POLİS KARAKOLU ARKASI",
-      "phone": "03246266384",
-      "lat": 36.912235,
-      "lon": 34.86702,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 00:00"
     },
     {
       "name": "SERA ECZANESİ",
