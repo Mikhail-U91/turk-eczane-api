@@ -2,16 +2,6 @@
   "snapshot": "22.10.2026",
   "sonuc": [
     {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "MESUDİYE MH. ÇAKMAK CD. NO:79/A ÇAKMAK CADDESİ NO:79 BEŞYOL / BOLKEPÇE LOKANTASI KARŞISI/AKDENİZ",
-      "phone": "03242323882",
-      "lat": 36.807054,
-      "lon": 34.628214,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "MERVE ÖNEL ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5314 SK. NO:2/B TOROS DEVLET HASTANESİ KARŞISI (ESKİ SSK)",
@@ -28,6 +18,16 @@
       "phone": "03243371353",
       "lat": 36.799974,
       "lon": 34.620029,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "SAĞLIK ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "MESUDİYE MH. ÇAKMAK CD. NO:79/A ÇAKMAK CADDESİ NO:79 BEŞYOL / BOLKEPÇE LOKANTASI KARŞISI/AKDENİZ",
+      "phone": "03242323882",
+      "lat": 36.807054,
+      "lon": 34.628214,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -92,16 +92,6 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "BERAT ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "VALİ ŞENOL ENGİN CD. EMİRGAN APT. ALTI NO:19  ÜNİVERSİTE CAD. ORTADOĞU HASTANESİ YANI",
-      "phone": "08502810315",
-      "lat": 36.763497,
-      "lon": 34.547819,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "GÖK ECZANESİ",
       "district": "MEZİTLİ",
       "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
@@ -112,12 +102,12 @@
       "shiftend": "23.10.2026 00:00"
     },
     {
-      "name": "BİLGEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
-      "phone": "03247141648",
-      "lat": 36.380547,
-      "lon": 33.932197,
+      "name": "BERAT ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "VALİ ŞENOL ENGİN CD. EMİRGAN APT. ALTI NO:19  ÜNİVERSİTE CAD. ORTADOĞU HASTANESİ YANI",
+      "phone": "08502810315",
+      "lat": 36.763497,
+      "lon": 34.547819,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -132,12 +122,12 @@
       "shiftend": "23.10.2026 00:00"
     },
     {
-      "name": "SAYAR ECZANESİ",
-      "district": "TARSUS",
-      "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
-      "phone": "03246137330",
-      "lat": 36.914539,
-      "lon": 34.883033,
+      "name": "BİLGEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. OĞUZ KAĞAN CD. NO:18/D SİLİFKE ESKİ HASTANE KARŞ. TRAFİK ISIKLARI CİVARI",
+      "phone": "03247141648",
+      "lat": 36.380547,
+      "lon": 33.932197,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -172,12 +162,12 @@
       "shiftend": "23.10.2026 00:00"
     },
     {
-      "name": "SERA ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "AKBELEN MH. TOROSLAR CD. NO:6/B1-B2-B3 AKBELEN KONUTEVLERİ KORAY AYDIN STADI ALTI AKBELEN SAĞLIK OCAĞI KARŞISI/TOROSLAR",
-      "phone": "03243201120",
-      "lat": 36.824828,
-      "lon": 34.600291,
+      "name": "SAYAR ECZANESİ",
+      "district": "TARSUS",
+      "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
+      "phone": "03246137330",
+      "lat": 36.914539,
+      "lon": 34.883033,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -188,6 +178,16 @@
       "phone": "05492241800",
       "lat": 36.835816,
       "lon": 34.610989,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "SERA ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "AKBELEN MH. TOROSLAR CD. NO:6/B1-B2-B3 AKBELEN KONUTEVLERİ KORAY AYDIN STADI ALTI AKBELEN SAĞLIK OCAĞI KARŞISI/TOROSLAR",
+      "phone": "03243201120",
+      "lat": 36.824828,
+      "lon": 34.600291,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
