@@ -132,16 +132,6 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "HALK ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:18/A ANIT ASM KARŞISI",
-      "phone": "03246137676",
-      "lat": 36.920426,
-      "lon": 34.877821,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 00:00"
-    },
-    {
       "name": "SAYAR ECZANESİ",
       "district": "TARSUS",
       "address": "Öğretmenler Mah. 2903 Sok. No:21/B  ÖĞRETMENLER MH. ÖMER SAYAR HASTANESİ - MAYA GÖZ HASTANESİ ARASI",
@@ -168,6 +158,16 @@
       "phone": "03246266384",
       "lat": 36.912235,
       "lon": 34.86702,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 00:00"
+    },
+    {
+      "name": "HALK ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:18/A ANIT ASM KARŞISI",
+      "phone": "03246137676",
+      "lat": 36.920426,
+      "lon": 34.877821,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 00:00"
     },
