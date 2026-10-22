@@ -2,16 +2,6 @@
   "snapshot": "22.10.2026",
   "sonuc": [
     {
-      "name": "MERVE ÖNEL ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MH. 5314 SK. NO:2/B TOROS DEVLET HASTANESİ KARŞISI (ESKİ SSK)",
-      "phone": "03242312080",
-      "lat": 36.806426,
-      "lon": 34.63582,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "ASENA ECZANESİ",
       "district": "AKDENİZ",
       "address": "BAHÇE MAH.SOĞUKSU 124 CAD.NO:125/D  BURHANFELEK CD ERCİYES TAKSİ DURAĞI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242323882",
       "lat": 36.807054,
       "lon": 34.628214,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "MERVE ÖNEL ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MH. 5314 SK. NO:2/B TOROS DEVLET HASTANESİ KARŞISI (ESKİ SSK)",
+      "phone": "03242312080",
+      "lat": 36.806426,
+      "lon": 34.63582,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
@@ -172,22 +172,22 @@
       "shiftend": "23.10.2026 08:00"
     },
     {
-      "name": "TATLIDİL  ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 229. CD. BARAB MERT APT. NO:10/A ÇAĞDAŞKENT MH 229. CD. MAKRO MARKET CİVARI ERZİNCANLILAR SİTESİ KARŞISI / TOROSLAR/TOROSLAR",
-      "phone": "05492241800",
-      "lat": 36.835816,
-      "lon": 34.610989,
-      "workdate": "22.10.2026 18:00",
-      "shiftend": "23.10.2026 08:00"
-    },
-    {
       "name": "SERA ECZANESİ",
       "district": "TOROSLAR",
       "address": "AKBELEN MH. TOROSLAR CD. NO:6/B1-B2-B3 AKBELEN KONUTEVLERİ KORAY AYDIN STADI ALTI AKBELEN SAĞLIK OCAĞI KARŞISI/TOROSLAR",
       "phone": "03243201120",
       "lat": 36.824828,
       "lon": 34.600291,
+      "workdate": "22.10.2026 18:00",
+      "shiftend": "23.10.2026 08:00"
+    },
+    {
+      "name": "TATLIDİL  ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 229. CD. BARAB MERT APT. NO:10/A ÇAĞDAŞKENT MH 229. CD. MAKRO MARKET CİVARI ERZİNCANLILAR SİTESİ KARŞISI / TOROSLAR/TOROSLAR",
+      "phone": "05492241800",
+      "lat": 36.835816,
+      "lon": 34.610989,
       "workdate": "22.10.2026 18:00",
       "shiftend": "23.10.2026 08:00"
     },
