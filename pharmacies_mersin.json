@@ -2,6 +2,16 @@
   "snapshot": "23.10.2026",
   "sonuc": [
     {
+      "name": "SARI ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "SİTELER MH. 5621 SK. NO:2/A  SİTELER MH. 5621 SK. NO:2/A  AKDENİZ",
+      "phone": "03243360443",
+      "lat": 36.818286,
+      "lon": 34.646166,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 00:00"
+    },
+    {
       "name": "EMEL ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. YÜCEKUL APT. NO:5/A TOROS DEVLET HASTANESİ ACİL KAPISI KARŞISI YENİ MH. 5328 SK /AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.623624,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
-    },
-    {
-      "name": "SARI ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "SİTELER MH. 5621 SK. NO:2/A  SİTELER MH. 5621 SK. NO:2/A  AKDENİZ",
-      "phone": "03243360443",
-      "lat": 36.818286,
-      "lon": 34.646166,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 00:00"
     },
     {
       "name": "MELİS ECZANESİ",
@@ -142,26 +142,6 @@
       "shiftend": "24.10.2026 08:00"
     },
     {
-      "name": "ÖRSAN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BH YENİ DEVLET HAST. POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246133323",
-      "lat": 36.91427,
-      "lon": 34.912666,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 08:00"
-    },
-    {
-      "name": "ÖNCÜ ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. 2988 SOK. NO:2 B BLOK NO:58 Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "03245033007",
-      "lat": 36.908998,
-      "lon": 34.883695,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 08:00"
-    },
-    {
       "name": "KAYA ECZANESİ",
       "district": "TARSUS",
       "address": "MİTHATPAŞA MH. MEHMET AKİF ERSOY CD. NO:26/A",
@@ -180,6 +160,26 @@
       "lon": 34.872205,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 00:00"
+    },
+    {
+      "name": "ÖRSAN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BH YENİ DEVLET HAST. POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246133323",
+      "lat": 36.91427,
+      "lon": 34.912666,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 08:00"
+    },
+    {
+      "name": "ÖNCÜ ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. 2988 SOK. NO:2 B BLOK NO:58 Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03245033007",
+      "lat": 36.908998,
+      "lon": 34.883695,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 08:00"
     },
     {
       "name": "IŞIKLAR ECZANESİ",
