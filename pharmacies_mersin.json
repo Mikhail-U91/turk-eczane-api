@@ -62,16 +62,6 @@
       "shiftend": "24.10.2026 08:00"
     },
     {
-      "name": "CADDE SAĞLIK ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. TÜRBE CD. NO:5A Hükümet konağı arkası",
-      "phone": "05398402662",
-      "lat": 36.606535,
-      "lon": 34.309616,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 00:00"
-    },
-    {
       "name": "FERHAT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. ALİ ÇAVUŞ SK. NO:2C ERDEMLİ DEVLET HASTANESİ ACİL ÇIKIŞI KARŞISI , AVGADI OPTİK YANI",
@@ -80,6 +70,16 @@
       "lon": 34.302778,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
+    },
+    {
+      "name": "CADDE SAĞLIK ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. TÜRBE CD. NO:5A Hükümet konağı arkası",
+      "phone": "05398402662",
+      "lat": 36.606535,
+      "lon": 34.309616,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 00:00"
     },
     {
       "name": "KIR ECZANESİ",
