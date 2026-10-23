@@ -122,6 +122,16 @@
       "shiftend": "24.10.2026 08:00"
     },
     {
+      "name": "UĞUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH.ATATÜRK CAD.NO:35 SOK.NO:4  GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
+      "phone": "03247147575",
+      "lat": 36.380889,
+      "lon": 33.930844,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 08:00"
+    },
+    {
       "name": "MİRA ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A TAŞUCU KAPALI PAZAR YERİ KARŞISI",
@@ -132,12 +142,12 @@
       "shiftend": "24.10.2026 00:00"
     },
     {
-      "name": "UĞUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH.ATATÜRK CAD.NO:35 SOK.NO:4  GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
-      "phone": "03247147575",
-      "lat": 36.380889,
-      "lon": 33.930844,
+      "name": "ÖNCÜ ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. 2988 SOK. NO:2 B BLOK NO:58 Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03245033007",
+      "lat": 36.908998,
+      "lon": 34.883695,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
     },
@@ -168,16 +178,6 @@
       "phone": "03246133323",
       "lat": 36.91427,
       "lon": 34.912666,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 08:00"
-    },
-    {
-      "name": "ÖNCÜ ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. 2988 SOK. NO:2 B BLOK NO:58 Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "03245033007",
-      "lat": 36.908998,
-      "lon": 34.883695,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
     },
