@@ -92,16 +92,6 @@
       "shiftend": "24.10.2026 08:00"
     },
     {
-      "name": "VİLDAN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MAH. 52136 SOK. ÜÇBAL SİTESİ C BLOK NO:19 (1E) SOLİ ENGLİSH HOME YANI MEZİTLİ 4 NOLU ASM KARŞISI",
-      "phone": "03249991577",
-      "lat": 36.738111,
-      "lon": 34.516554,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 00:00"
-    },
-    {
       "name": "KOÇAK ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENİ MH. GMK BULV. 675/A NO:9 MEZİTLİ MCDONALS KARŞISI , CİTY HOSPİTAL YANI",
@@ -110,6 +100,16 @@
       "lon": 34.535698,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
+    },
+    {
+      "name": "VİLDAN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MAH. 52136 SOK. ÜÇBAL SİTESİ C BLOK NO:19 (1E) SOLİ ENGLİSH HOME YANI MEZİTLİ 4 NOLU ASM KARŞISI",
+      "phone": "03249991577",
+      "lat": 36.738111,
+      "lon": 34.516554,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 00:00"
     },
     {
       "name": "SIHHAT ECZANESİ",
@@ -202,16 +202,6 @@
       "shiftend": "24.10.2026 08:00"
     },
     {
-      "name": "DEMİREL ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "50. YIL MH. İSMET İNÖNÜ BULV. NO:205C 50. YIL MH. İSMET İNÖNÜ BULV. NO:205COLİMPİK YÜZME HAVUZU CİVARI",
-      "phone": "03243372588",
-      "lat": 36.806947,
-      "lon": 34.576187,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 00:00"
-    },
-    {
       "name": "MİNERAL ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "ÇİFTLİKKÖY MH. ÜNİVERSİTE CD. NO:70/A ÇİFTLİKKÖY MH. ÜNİVERSİTE CD. GROSERİ İLERİSİ KARACA HALISAHA KARŞISI - EGEMENLİK ASM YANI",
@@ -230,6 +220,16 @@
       "lon": 34.592233,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
+    },
+    {
+      "name": "DEMİREL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "50. YIL MH. İSMET İNÖNÜ BULV. NO:205C 50. YIL MH. İSMET İNÖNÜ BULV. NO:205COLİMPİK YÜZME HAVUZU CİVARI",
+      "phone": "03243372588",
+      "lat": 36.806947,
+      "lon": 34.576187,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 00:00"
     }
   ]
 }
