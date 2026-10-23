@@ -2,6 +2,16 @@
   "snapshot": "23.10.2026",
   "sonuc": [
     {
+      "name": "EMEL ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MH. 5328 SK. YÜCEKUL APT. NO:5/A TOROS DEVLET HASTANESİ ACİL KAPISI KARŞISI YENİ MH. 5328 SK /AKDENİZ",
+      "phone": "03242335948",
+      "lat": 36.805219,
+      "lon": 34.633545,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 08:00"
+    },
+    {
       "name": "MERSİN ECZANESİ",
       "district": "AKDENİZ",
       "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.109F HASTANE CD. AKDENİZ BELEDİYESİ ARKASI ZİRAAT BANKASI KURUÇEŞME ŞUBESİ KARŞISI /AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.646166,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 00:00"
-    },
-    {
-      "name": "EMEL ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MH. 5328 SK. YÜCEKUL APT. NO:5/A TOROS DEVLET HASTANESİ ACİL KAPISI KARŞISI YENİ MH. 5328 SK /AKDENİZ",
-      "phone": "03242335948",
-      "lat": 36.805219,
-      "lon": 34.633545,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 08:00"
     },
     {
       "name": "MELİS ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "24.10.2026 08:00"
     },
     {
-      "name": "UĞUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH.ATATÜRK CAD.NO:35 SOK.NO:4  GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
-      "phone": "03247147575",
-      "lat": 36.380889,
-      "lon": 33.930844,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 08:00"
-    },
-    {
       "name": "MİRA ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A TAŞUCU KAPALI PAZAR YERİ KARŞISI",
@@ -142,24 +132,14 @@
       "shiftend": "24.10.2026 00:00"
     },
     {
-      "name": "KAYA ECZANESİ",
-      "district": "TARSUS",
-      "address": "MİTHATPAŞA MH. MEHMET AKİF ERSOY CD. NO:26/A",
-      "phone": "03246260077",
-      "lat": 36.917338,
-      "lon": 34.875466,
+      "name": "UĞUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH.ATATÜRK CAD.NO:35 SOK.NO:4  GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
+      "phone": "03247147575",
+      "lat": 36.380889,
+      "lon": 33.930844,
       "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 00:00"
-    },
-    {
-      "name": "EROĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENI MAH.ATATÜRK BULV.NO:174/B  Yeni Mah. Yeşil direk Muhtarlık karşısı",
-      "phone": "03246251777",
-      "lat": 36.927104,
-      "lon": 34.872205,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 00:00"
+      "shiftend": "24.10.2026 08:00"
     },
     {
       "name": "ÖRSAN ECZANESİ",
@@ -180,6 +160,26 @@
       "lon": 34.883695,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
+    },
+    {
+      "name": "KAYA ECZANESİ",
+      "district": "TARSUS",
+      "address": "MİTHATPAŞA MH. MEHMET AKİF ERSOY CD. NO:26/A",
+      "phone": "03246260077",
+      "lat": 36.917338,
+      "lon": 34.875466,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 00:00"
+    },
+    {
+      "name": "EROĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENI MAH.ATATÜRK BULV.NO:174/B  Yeni Mah. Yeşil direk Muhtarlık karşısı",
+      "phone": "03246251777",
+      "lat": 36.927104,
+      "lon": 34.872205,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 00:00"
     },
     {
       "name": "IŞIKLAR ECZANESİ",
