@@ -2,16 +2,6 @@
   "snapshot": "23.10.2026",
   "sonuc": [
     {
-      "name": "MERSİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.109F HASTANE CD. AKDENİZ BELEDİYESİ ARKASI ZİRAAT BANKASI KURUÇEŞME ŞUBESİ KARŞISI /AKDENİZ",
-      "phone": "03243371017",
-      "lat": 36.804386,
-      "lon": 34.623624,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 08:00"
-    },
-    {
       "name": "SARI ECZANESİ",
       "district": "AKDENİZ",
       "address": "SİTELER MH. 5621 SK. NO:2/A  SİTELER MH. 5621 SK. NO:2/A  AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242335948",
       "lat": 36.805219,
       "lon": 34.633545,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 08:00"
+    },
+    {
+      "name": "MERSİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.109F HASTANE CD. AKDENİZ BELEDİYESİ ARKASI ZİRAAT BANKASI KURUÇEŞME ŞUBESİ KARŞISI /AKDENİZ",
+      "phone": "03243371017",
+      "lat": 36.804386,
+      "lon": 34.623624,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "24.10.2026 08:00"
     },
     {
-      "name": "CADDE SAĞLIK ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. TÜRBE CD. NO:5A Hükümet konağı arkası",
-      "phone": "05398402662",
-      "lat": 36.606535,
-      "lon": 34.309616,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 00:00"
-    },
-    {
       "name": "FERHAT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. ALİ ÇAVUŞ SK. NO:2C ERDEMLİ DEVLET HASTANESİ ACİL ÇIKIŞI KARŞISI , AVGADI OPTİK YANI",
@@ -80,6 +70,16 @@
       "lon": 34.302778,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
+    },
+    {
+      "name": "CADDE SAĞLIK ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. TÜRBE CD. NO:5A Hükümet konağı arkası",
+      "phone": "05398402662",
+      "lat": 36.606535,
+      "lon": 34.309616,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 00:00"
     },
     {
       "name": "KIR ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "24.10.2026 08:00"
     },
     {
-      "name": "UĞUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH.ATATÜRK CAD.NO:35 SOK.NO:4  GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
-      "phone": "03247147575",
-      "lat": 36.380889,
-      "lon": 33.930844,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 08:00"
-    },
-    {
       "name": "MİRA ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A TAŞUCU KAPALI PAZAR YERİ KARŞISI",
@@ -142,24 +132,14 @@
       "shiftend": "24.10.2026 00:00"
     },
     {
-      "name": "ÖNCÜ ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. 2988 SOK. NO:2 B BLOK NO:58 Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "03245033007",
-      "lat": 36.908998,
-      "lon": 34.883695,
+      "name": "UĞUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH.ATATÜRK CAD.NO:35 SOK.NO:4  GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
+      "phone": "03247147575",
+      "lat": 36.380889,
+      "lon": 33.930844,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
-    },
-    {
-      "name": "KAYA ECZANESİ",
-      "district": "TARSUS",
-      "address": "MİTHATPAŞA MH. MEHMET AKİF ERSOY CD. NO:26/A",
-      "phone": "03246260077",
-      "lat": 36.917338,
-      "lon": 34.875466,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 00:00"
     },
     {
       "name": "EROĞLU ECZANESİ",
@@ -182,6 +162,26 @@
       "shiftend": "24.10.2026 08:00"
     },
     {
+      "name": "ÖNCÜ ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. 2988 SOK. NO:2 B BLOK NO:58 Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03245033007",
+      "lat": 36.908998,
+      "lon": 34.883695,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 08:00"
+    },
+    {
+      "name": "KAYA ECZANESİ",
+      "district": "TARSUS",
+      "address": "MİTHATPAŞA MH. MEHMET AKİF ERSOY CD. NO:26/A",
+      "phone": "03246260077",
+      "lat": 36.917338,
+      "lon": 34.875466,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 00:00"
+    },
+    {
       "name": "IŞIKLAR ECZANESİ",
       "district": "TOROSLAR",
       "address": "ARPAÇSAKARLAR MH. ÇİFTÇİLER CD. NO:130/A ARPAÇSAKARLAR MERKEZ CAMİ YANI TOROSLAR",
@@ -198,16 +198,6 @@
       "phone": "03243370084",
       "lat": 36.826084,
       "lon": 34.625227,
-      "workdate": "23.10.2026 18:00",
-      "shiftend": "24.10.2026 08:00"
-    },
-    {
-      "name": "MİNERAL ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MH. ÜNİVERSİTE CD. NO:70/A ÇİFTLİKKÖY MH. ÜNİVERSİTE CD. GROSERİ İLERİSİ KARACA HALISAHA KARŞISI - EGEMENLİK ASM YANI",
-      "phone": "03245028451",
-      "lat": 36.768306,
-      "lon": 34.542953,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 08:00"
     },
@@ -230,6 +220,16 @@
       "lon": 34.576187,
       "workdate": "23.10.2026 18:00",
       "shiftend": "24.10.2026 00:00"
+    },
+    {
+      "name": "MİNERAL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MH. ÜNİVERSİTE CD. NO:70/A ÇİFTLİKKÖY MH. ÜNİVERSİTE CD. GROSERİ İLERİSİ KARACA HALISAHA KARŞISI - EGEMENLİK ASM YANI",
+      "phone": "03245028451",
+      "lat": 36.768306,
+      "lon": 34.542953,
+      "workdate": "23.10.2026 18:00",
+      "shiftend": "24.10.2026 08:00"
     }
   ]
 }
