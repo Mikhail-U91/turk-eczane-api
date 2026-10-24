@@ -2,16 +2,6 @@
   "snapshot": "24.10.2026",
   "sonuc": [
     {
-      "name": "GÜLNAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
-      "phone": "03243366180",
-      "lat": 36.808702,
-      "lon": 34.620334,
-      "workdate": "24.10.2026 13:00",
-      "shiftend": "25.10.2026 08:00"
-    },
-    {
       "name": "TARIM ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:11/B TOROS DEVLET HASTANESİ  ACİL KARŞISI",
@@ -30,6 +20,16 @@
       "lon": 34.631487,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 00:00"
+    },
+    {
+      "name": "GÜLNAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
+      "phone": "03243366180",
+      "lat": 36.808702,
+      "lon": 34.620334,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 08:00"
     },
     {
       "name": "GÜLER ECZANESİ",
@@ -122,26 +122,6 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "GÜVEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MAH. ALPARSLAN TÜRKEŞ (SAZBAŞI) BULV. NO:383 A/18 ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
-      "phone": "03247225197",
-      "lat": 36.405557,
-      "lon": 34.070173,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "24.10.2026 19:00"
-    },
-    {
-      "name": "FIRAT ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
-      "phone": "03247412600",
-      "lat": 36.319363,
-      "lon": 33.879895,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 00:00"
-    },
-    {
       "name": "TOL ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH.ÖZCAN SEYHAN CAD. NO:9  GÖKSU MAH.ÖZCAN SEYHAN CAD. NO: 9 SİLİFKE",
@@ -162,22 +142,22 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "YAVUZ ECZANESİ",
-      "district": "TARSUS",
-      "address": "BARBAROS MH.0692SK. NO:14A SAĞLIK OCAĞI KARŞI SOKAĞINDA 50 M SONRA SAĞDA",
-      "phone": "03245022591",
-      "lat": 36.903744,
-      "lon": 34.886158,
+      "name": "GÜVEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MAH. ALPARSLAN TÜRKEŞ (SAZBAŞI) BULV. NO:383 A/18 ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
+      "phone": "03247225197",
+      "lat": 36.405557,
+      "lon": 34.070173,
       "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 00:00"
+      "shiftend": "24.10.2026 19:00"
     },
     {
-      "name": "İBRAHİM BAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ERGENEKON MH. GAZİPAŞA BULV. NO:68/1B BAYRAKLI OTOBAN KAVŞAĞI ÜLKÜKÖY ASM KARŞISI",
-      "phone": "03246813823",
-      "lat": 36.927443,
-      "lon": 34.859764,
+      "name": "FIRAT ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
+      "phone": "03247412600",
+      "lat": 36.319363,
+      "lon": 33.879895,
       "workdate": "24.10.2026 08:00",
       "shiftend": "25.10.2026 00:00"
     },
@@ -202,14 +182,24 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "AYFER ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇUKUROVA MAH.85119 SK.NO:130/A  ÇUKUROVA MAH 85119 SK NO 130 ÇUKUROVA SAĞLIK OCAĞI KARŞISI/TOROSLAR",
-      "phone": "03243243042",
-      "lat": 36.838096,
-      "lon": 34.598256,
-      "workdate": "24.10.2026 13:00",
-      "shiftend": "25.10.2026 08:00"
+      "name": "YAVUZ ECZANESİ",
+      "district": "TARSUS",
+      "address": "BARBAROS MH.0692SK. NO:14A SAĞLIK OCAĞI KARŞI SOKAĞINDA 50 M SONRA SAĞDA",
+      "phone": "03245022591",
+      "lat": 36.903744,
+      "lon": 34.886158,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 00:00"
+    },
+    {
+      "name": "İBRAHİM BAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ERGENEKON MH. GAZİPAŞA BULV. NO:68/1B BAYRAKLI OTOBAN KAVŞAĞI ÜLKÜKÖY ASM KARŞISI",
+      "phone": "03246813823",
+      "lat": 36.927443,
+      "lon": 34.859764,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 00:00"
     },
     {
       "name": "YALINAYAK ECZANESİ",
@@ -220,6 +210,26 @@
       "lon": 34.633678,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 08:00"
+    },
+    {
+      "name": "AYFER ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇUKUROVA MAH.85119 SK.NO:130/A  ÇUKUROVA MAH 85119 SK NO 130 ÇUKUROVA SAĞLIK OCAĞI KARŞISI/TOROSLAR",
+      "phone": "03243243042",
+      "lat": 36.838096,
+      "lon": 34.598256,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 08:00"
+    },
+    {
+      "name": "ÖYKÜ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GAZI MAH.1304.SOK.NO:12/A  MUĞDAT CAMİ CİVARI, GAZİ ASM KARŞISI - POZCU",
+      "phone": "03243290585",
+      "lat": 36.78345,
+      "lon": 34.603897,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 00:00"
     },
     {
       "name": "SİBEL KOÇAK ECZANESİ",
@@ -240,16 +250,6 @@
       "lon": 34.54059,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 08:00"
-    },
-    {
-      "name": "ÖYKÜ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GAZI MAH.1304.SOK.NO:12/A  MUĞDAT CAMİ CİVARI, GAZİ ASM KARŞISI - POZCU",
-      "phone": "03243290585",
-      "lat": 36.78345,
-      "lon": 34.603897,
-      "workdate": "24.10.2026 13:00",
-      "shiftend": "25.10.2026 00:00"
     }
   ]
 }
