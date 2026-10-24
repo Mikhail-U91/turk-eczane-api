@@ -62,16 +62,6 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "HATİPOĞLU ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH.TURBE CAD.NO:3/A\n MERKEZ MAH.TURBE CAD.NO.3/A",
-      "phone": "03245151343",
-      "lat": 36.606597,
-      "lon": 34.309568,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 00:00"
-    },
-    {
       "name": "ERDEMLİ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR CD. MUSTAFA AKSAY PLAZA NO:86/C ERDEMLİ DEVLET HASTANESİ ACİL GİRİŞ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.302289,
       "workdate": "24.10.2026 08:00",
       "shiftend": "25.10.2026 08:00"
+    },
+    {
+      "name": "HATİPOĞLU ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH.TURBE CAD.NO:3/A\n MERKEZ MAH.TURBE CAD.NO.3/A",
+      "phone": "03245151343",
+      "lat": 36.606597,
+      "lon": 34.309568,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 00:00"
     },
     {
       "name": "ATEŞ  ECZANESİ",
@@ -162,16 +162,6 @@
       "shiftend": "24.10.2026 19:00"
     },
     {
-      "name": "İBRAHİM BAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ERGENEKON MH. GAZİPAŞA BULV. NO:68/1B BAYRAKLI OTOBAN KAVŞAĞI ÜLKÜKÖY ASM KARŞISI",
-      "phone": "03246813823",
-      "lat": 36.927443,
-      "lon": 34.859764,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 00:00"
-    },
-    {
       "name": "SAHARA ECZANESİ",
       "district": "TARSUS",
       "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10/C",
@@ -198,6 +188,16 @@
       "phone": "03245022591",
       "lat": 36.903744,
       "lon": 34.886158,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 00:00"
+    },
+    {
+      "name": "İBRAHİM BAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ERGENEKON MH. GAZİPAŞA BULV. NO:68/1B BAYRAKLI OTOBAN KAVŞAĞI ÜLKÜKÖY ASM KARŞISI",
+      "phone": "03246813823",
+      "lat": 36.927443,
+      "lon": 34.859764,
       "workdate": "24.10.2026 08:00",
       "shiftend": "25.10.2026 00:00"
     },
