@@ -62,16 +62,6 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "HATİPOĞLU ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH.TURBE CAD.NO:3/A\n MERKEZ MAH.TURBE CAD.NO.3/A",
-      "phone": "03245151343",
-      "lat": 36.606597,
-      "lon": 34.309568,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 00:00"
-    },
-    {
       "name": "ERDEMLİ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR CD. MUSTAFA AKSAY PLAZA NO:86/C ERDEMLİ DEVLET HASTANESİ ACİL GİRİŞ KARŞISI",
@@ -82,6 +72,16 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
+      "name": "HATİPOĞLU ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH.TURBE CAD.NO:3/A\n MERKEZ MAH.TURBE CAD.NO.3/A",
+      "phone": "03245151343",
+      "lat": 36.606597,
+      "lon": 34.309568,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 00:00"
+    },
+    {
       "name": "ATEŞ  ECZANESİ",
       "district": "GÜLNAR",
       "address": "SARAY MAH.AKKAVAK SOK.NO:12 SARAY MH. AKKAVAK SK. NO:12",
@@ -89,16 +89,6 @@
       "lat": 36.338433,
       "lon": 33.403276,
       "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 08:00"
-    },
-    {
-      "name": "DİLA BANGİZ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "FATİH MH. 30028 SK. NO:7A MEDİKAL PARK KARŞISI DERYA OTOMOTİV ARKASI DERYA SANAT SOKAĞINDAN SAHİLE DOĞRU 500 METRE İLERİDE",
-      "phone": "05322894743",
-      "lat": 36.757502,
-      "lon": 34.546539,
-      "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 08:00"
     },
     {
@@ -112,6 +102,16 @@
       "shiftend": "25.10.2026 00:00"
     },
     {
+      "name": "DİLA BANGİZ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "FATİH MH. 30028 SK. NO:7A MEDİKAL PARK KARŞISI DERYA OTOMOTİV ARKASI DERYA SANAT SOKAĞINDAN SAHİLE DOĞRU 500 METRE İLERİDE",
+      "phone": "05322894743",
+      "lat": 36.757502,
+      "lon": 34.546539,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 08:00"
+    },
+    {
       "name": "FERDA ECZANESİ",
       "district": "MUT",
       "address": "BARABANLI MAH. BARABANLI SOK. NO:353/F  YENİ DEVLET HASTANESİ KARŞISI  BARABANLI MH. BARABANLI SK. NO:353/F",
@@ -120,16 +120,6 @@
       "lon": 33.422165,
       "workdate": "24.10.2026 18:00",
       "shiftend": "25.10.2026 08:00"
-    },
-    {
-      "name": "GÜVEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MAH. ALPARSLAN TÜRKEŞ (SAZBAŞI) BULV. NO:383 A/18 ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
-      "phone": "03247225197",
-      "lat": 36.405557,
-      "lon": 34.070173,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "24.10.2026 19:00"
     },
     {
       "name": "FIRAT ECZANESİ",
@@ -158,6 +148,26 @@
       "phone": "03247120036",
       "lat": 36.383761,
       "lon": 33.944703,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 08:00"
+    },
+    {
+      "name": "GÜVEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MAH. ALPARSLAN TÜRKEŞ (SAZBAŞI) BULV. NO:383 A/18 ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
+      "phone": "03247225197",
+      "lat": 36.405557,
+      "lon": 34.070173,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "24.10.2026 19:00"
+    },
+    {
+      "name": "SAHARA ECZANESİ",
+      "district": "TARSUS",
+      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10/C",
+      "phone": "03246143149",
+      "lat": 36.915709,
+      "lon": 34.915112,
       "workdate": "24.10.2026 08:00",
       "shiftend": "25.10.2026 08:00"
     },
@@ -192,13 +202,13 @@
       "shiftend": "25.10.2026 00:00"
     },
     {
-      "name": "SAHARA ECZANESİ",
-      "district": "TARSUS",
-      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10/C",
-      "phone": "03246143149",
-      "lat": 36.915709,
-      "lon": 34.915112,
-      "workdate": "24.10.2026 08:00",
+      "name": "YALINAYAK ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "CUMHURIYET MAH.M.FEVZI ÇAKMAK CAD.NO:96  YALINAYAK MH. M.FEVZİ ÇAKMAK CD. YALINAYAK SAĞLIK OCAĞI CİVARI/TOROSLAR",
+      "phone": "03242293713",
+      "lat": 36.845186,
+      "lon": 34.633678,
+      "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 08:00"
     },
     {
@@ -212,14 +222,14 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "YALINAYAK ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "CUMHURIYET MAH.M.FEVZI ÇAKMAK CAD.NO:96  YALINAYAK MH. M.FEVZİ ÇAKMAK CD. YALINAYAK SAĞLIK OCAĞI CİVARI/TOROSLAR",
-      "phone": "03242293713",
-      "lat": 36.845186,
-      "lon": 34.633678,
+      "name": "ÖYKÜ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GAZI MAH.1304.SOK.NO:12/A  MUĞDAT CAMİ CİVARI, GAZİ ASM KARŞISI - POZCU",
+      "phone": "03243290585",
+      "lat": 36.78345,
+      "lon": 34.603897,
       "workdate": "24.10.2026 13:00",
-      "shiftend": "25.10.2026 08:00"
+      "shiftend": "25.10.2026 00:00"
     },
     {
       "name": "SİBEL KOÇAK ECZANESİ",
@@ -240,16 +250,6 @@
       "lon": 34.54059,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 08:00"
-    },
-    {
-      "name": "ÖYKÜ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GAZI MAH.1304.SOK.NO:12/A  MUĞDAT CAMİ CİVARI, GAZİ ASM KARŞISI - POZCU",
-      "phone": "03243290585",
-      "lat": 36.78345,
-      "lon": 34.603897,
-      "workdate": "24.10.2026 13:00",
-      "shiftend": "25.10.2026 00:00"
     }
   ]
 }
