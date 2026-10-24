@@ -2,6 +2,16 @@
   "snapshot": "24.10.2026",
   "sonuc": [
     {
+      "name": "GÜLNAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
+      "phone": "03243366180",
+      "lat": 36.808702,
+      "lon": 34.620334,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 08:00"
+    },
+    {
       "name": "TARIM ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:11/B TOROS DEVLET HASTANESİ  ACİL KARŞISI",
@@ -20,16 +30,6 @@
       "lon": 34.631487,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 00:00"
-    },
-    {
-      "name": "GÜLNAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
-      "phone": "03243366180",
-      "lat": 36.808702,
-      "lon": 34.620334,
-      "workdate": "24.10.2026 13:00",
-      "shiftend": "25.10.2026 08:00"
     },
     {
       "name": "GÜLER ECZANESİ",
@@ -92,16 +92,6 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "DİLA BANGİZ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "FATİH MH. 30028 SK. NO:7A MEDİKAL PARK KARŞISI DERYA OTOMOTİV ARKASI DERYA SANAT SOKAĞINDAN SAHİLE DOĞRU 500 METRE İLERİDE",
-      "phone": "05322894743",
-      "lat": 36.757502,
-      "lon": 34.546539,
-      "workdate": "24.10.2026 13:00",
-      "shiftend": "25.10.2026 08:00"
-    },
-    {
       "name": "TARÇIN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MENDERES MH. GMK BULV. YILDIZ PLAZA-2 ALTI NO:747/B MEZİTLİ LCW KARŞISI, HALKBANK BİTİŞİĞİ",
@@ -110,6 +100,16 @@
       "lon": 34.524642,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 00:00"
+    },
+    {
+      "name": "DİLA BANGİZ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "FATİH MH. 30028 SK. NO:7A MEDİKAL PARK KARŞISI DERYA OTOMOTİV ARKASI DERYA SANAT SOKAĞINDAN SAHİLE DOĞRU 500 METRE İLERİDE",
+      "phone": "05322894743",
+      "lat": 36.757502,
+      "lon": 34.546539,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 08:00"
     },
     {
       "name": "FERDA ECZANESİ",
@@ -162,16 +162,6 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "ERDİNÇ ECZANESİ",
-      "district": "TARSUS",
-      "address": "ATATÜRK CAD.NO:69/C  HALK EĞİTİM MERKEZİ KARŞISI - TARSUS PARKI KARŞISI",
-      "phone": "03246130121",
-      "lat": 36.917216,
-      "lon": 34.887567,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 08:00"
-    },
-    {
       "name": "YAVUZ ECZANESİ",
       "district": "TARSUS",
       "address": "BARBAROS MH.0692SK. NO:14A SAĞLIK OCAĞI KARŞI SOKAĞINDA 50 M SONRA SAĞDA",
@@ -202,13 +192,13 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "YALINAYAK ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "CUMHURIYET MAH.M.FEVZI ÇAKMAK CAD.NO:96  YALINAYAK MH. M.FEVZİ ÇAKMAK CD. YALINAYAK SAĞLIK OCAĞI CİVARI/TOROSLAR",
-      "phone": "03242293713",
-      "lat": 36.845186,
-      "lon": 34.633678,
-      "workdate": "24.10.2026 13:00",
+      "name": "ERDİNÇ ECZANESİ",
+      "district": "TARSUS",
+      "address": "ATATÜRK CAD.NO:69/C  HALK EĞİTİM MERKEZİ KARŞISI - TARSUS PARKI KARŞISI",
+      "phone": "03246130121",
+      "lat": 36.917216,
+      "lon": 34.887567,
+      "workdate": "24.10.2026 08:00",
       "shiftend": "25.10.2026 08:00"
     },
     {
@@ -218,6 +208,16 @@
       "phone": "03243243042",
       "lat": 36.838096,
       "lon": 34.598256,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 08:00"
+    },
+    {
+      "name": "YALINAYAK ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "CUMHURIYET MAH.M.FEVZI ÇAKMAK CAD.NO:96  YALINAYAK MH. M.FEVZİ ÇAKMAK CD. YALINAYAK SAĞLIK OCAĞI CİVARI/TOROSLAR",
+      "phone": "03242293713",
+      "lat": 36.845186,
+      "lon": 34.633678,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 08:00"
     },
