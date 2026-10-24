@@ -2,6 +2,16 @@
   "snapshot": "24.10.2026",
   "sonuc": [
     {
+      "name": "NEŞE ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "GÜNDOGDU MAH.1 NOLU SAG.OC.KARS.5790 SK.NO:19  FEN LİSESİ CİVARI 1 NOLU SAĞLIK OCAĞI KRŞ/AKDENİZ",
+      "phone": "03242357974",
+      "lat": 36.817922,
+      "lon": 34.631487,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 00:00"
+    },
+    {
       "name": "GÜLNAR ECZANESİ",
       "district": "AKDENİZ",
       "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.633325,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 08:00"
-    },
-    {
-      "name": "NEŞE ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "GÜNDOGDU MAH.1 NOLU SAG.OC.KARS.5790 SK.NO:19  FEN LİSESİ CİVARI 1 NOLU SAĞLIK OCAĞI KRŞ/AKDENİZ",
-      "phone": "03242357974",
-      "lat": 36.817922,
-      "lon": 34.631487,
-      "workdate": "24.10.2026 13:00",
-      "shiftend": "25.10.2026 00:00"
     },
     {
       "name": "GÜLER ECZANESİ",
