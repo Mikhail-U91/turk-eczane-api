@@ -62,16 +62,6 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "ERDEMLİ ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. KAZIM KARABEKİR CD. MUSTAFA AKSAY PLAZA NO:86/C ERDEMLİ DEVLET HASTANESİ ACİL GİRİŞ KARŞISI",
-      "phone": "03245152020",
-      "lat": 36.611241,
-      "lon": 34.302289,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 08:00"
-    },
-    {
       "name": "HATİPOĞLU ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH.TURBE CAD.NO:3/A\n MERKEZ MAH.TURBE CAD.NO.3/A",
@@ -80,6 +70,16 @@
       "lon": 34.309568,
       "workdate": "24.10.2026 08:00",
       "shiftend": "25.10.2026 00:00"
+    },
+    {
+      "name": "ERDEMLİ ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR CD. MUSTAFA AKSAY PLAZA NO:86/C ERDEMLİ DEVLET HASTANESİ ACİL GİRİŞ KARŞISI",
+      "phone": "03245152020",
+      "lat": 36.611241,
+      "lon": 34.302289,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 08:00"
     },
     {
       "name": "ATEŞ  ECZANESİ",
@@ -122,26 +122,6 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "FIRAT ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
-      "phone": "03247412600",
-      "lat": 36.319363,
-      "lon": 33.879895,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 00:00"
-    },
-    {
-      "name": "TOL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH.ÖZCAN SEYHAN CAD. NO:9  GÖKSU MAH.ÖZCAN SEYHAN CAD. NO: 9 SİLİFKE",
-      "phone": "03247141547",
-      "lat": 36.381248,
-      "lon": 33.930049,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 08:00"
-    },
-    {
       "name": "BERKAY ECZANESİ",
       "district": "SİLİFKE",
       "address": "SARICALAR MH. TÜRKMENLİ SK. NO:7A SİLİFKE OLBAMED HASTANESİ ACİL KARŞISI",
@@ -162,12 +142,22 @@
       "shiftend": "24.10.2026 19:00"
     },
     {
-      "name": "SAHARA ECZANESİ",
-      "district": "TARSUS",
-      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10/C",
-      "phone": "03246143149",
-      "lat": 36.915709,
-      "lon": 34.915112,
+      "name": "FIRAT ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
+      "phone": "03247412600",
+      "lat": 36.319363,
+      "lon": 33.879895,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 00:00"
+    },
+    {
+      "name": "TOL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH.ÖZCAN SEYHAN CAD. NO:9  GÖKSU MAH.ÖZCAN SEYHAN CAD. NO: 9 SİLİFKE",
+      "phone": "03247141547",
+      "lat": 36.381248,
+      "lon": 33.930049,
       "workdate": "24.10.2026 08:00",
       "shiftend": "25.10.2026 08:00"
     },
@@ -202,6 +192,16 @@
       "shiftend": "25.10.2026 00:00"
     },
     {
+      "name": "SAHARA ECZANESİ",
+      "district": "TARSUS",
+      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10/C",
+      "phone": "03246143149",
+      "lat": 36.915709,
+      "lon": 34.915112,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 08:00"
+    },
+    {
       "name": "YALINAYAK ECZANESİ",
       "district": "TOROSLAR",
       "address": "CUMHURIYET MAH.M.FEVZI ÇAKMAK CAD.NO:96  YALINAYAK MH. M.FEVZİ ÇAKMAK CD. YALINAYAK SAĞLIK OCAĞI CİVARI/TOROSLAR",
@@ -222,16 +222,6 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "ÖYKÜ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GAZI MAH.1304.SOK.NO:12/A  MUĞDAT CAMİ CİVARI, GAZİ ASM KARŞISI - POZCU",
-      "phone": "03243290585",
-      "lat": 36.78345,
-      "lon": 34.603897,
-      "workdate": "24.10.2026 13:00",
-      "shiftend": "25.10.2026 00:00"
-    },
-    {
       "name": "SİBEL KOÇAK ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "İNÖNÜ MH. GMK BULV. UĞUR APT. NO:377/B GMK BULV. KUŞİMATO SOKAĞI CİVARI HAS KÜNEFE KARŞISI",
@@ -250,6 +240,16 @@
       "lon": 34.54059,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 08:00"
+    },
+    {
+      "name": "ÖYKÜ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GAZI MAH.1304.SOK.NO:12/A  MUĞDAT CAMİ CİVARI, GAZİ ASM KARŞISI - POZCU",
+      "phone": "03243290585",
+      "lat": 36.78345,
+      "lon": 34.603897,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 00:00"
     }
   ]
 }
