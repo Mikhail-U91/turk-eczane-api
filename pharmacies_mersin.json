@@ -122,26 +122,6 @@
       "shiftend": "25.10.2026 08:00"
     },
     {
-      "name": "TOL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH.ÖZCAN SEYHAN CAD. NO:9  GÖKSU MAH.ÖZCAN SEYHAN CAD. NO: 9 SİLİFKE",
-      "phone": "03247141547",
-      "lat": 36.381248,
-      "lon": 33.930049,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 08:00"
-    },
-    {
-      "name": "BERKAY ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "SARICALAR MH. TÜRKMENLİ SK. NO:7A SİLİFKE OLBAMED HASTANESİ ACİL KARŞISI",
-      "phone": "03247120036",
-      "lat": 36.383761,
-      "lon": 33.944703,
-      "workdate": "24.10.2026 08:00",
-      "shiftend": "25.10.2026 08:00"
-    },
-    {
       "name": "GÜVEN ECZANESİ",
       "district": "SİLİFKE",
       "address": "ATAKENT MAH. ALPARSLAN TÜRKEŞ (SAZBAŞI) BULV. NO:383 A/18 ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
@@ -162,12 +142,22 @@
       "shiftend": "25.10.2026 00:00"
     },
     {
-      "name": "SAHARA ECZANESİ",
-      "district": "TARSUS",
-      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10/C",
-      "phone": "03246143149",
-      "lat": 36.915709,
-      "lon": 34.915112,
+      "name": "TOL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH.ÖZCAN SEYHAN CAD. NO:9  GÖKSU MAH.ÖZCAN SEYHAN CAD. NO: 9 SİLİFKE",
+      "phone": "03247141547",
+      "lat": 36.381248,
+      "lon": 33.930049,
+      "workdate": "24.10.2026 08:00",
+      "shiftend": "25.10.2026 08:00"
+    },
+    {
+      "name": "BERKAY ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "SARICALAR MH. TÜRKMENLİ SK. NO:7A SİLİFKE OLBAMED HASTANESİ ACİL KARŞISI",
+      "phone": "03247120036",
+      "lat": 36.383761,
+      "lon": 33.944703,
       "workdate": "24.10.2026 08:00",
       "shiftend": "25.10.2026 08:00"
     },
@@ -202,13 +192,13 @@
       "shiftend": "25.10.2026 00:00"
     },
     {
-      "name": "YALINAYAK ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "CUMHURIYET MAH.M.FEVZI ÇAKMAK CAD.NO:96  YALINAYAK MH. M.FEVZİ ÇAKMAK CD. YALINAYAK SAĞLIK OCAĞI CİVARI/TOROSLAR",
-      "phone": "03242293713",
-      "lat": 36.845186,
-      "lon": 34.633678,
-      "workdate": "24.10.2026 13:00",
+      "name": "SAHARA ECZANESİ",
+      "district": "TARSUS",
+      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10/C",
+      "phone": "03246143149",
+      "lat": 36.915709,
+      "lon": 34.915112,
+      "workdate": "24.10.2026 08:00",
       "shiftend": "25.10.2026 08:00"
     },
     {
@@ -218,6 +208,16 @@
       "phone": "03243243042",
       "lat": 36.838096,
       "lon": 34.598256,
+      "workdate": "24.10.2026 13:00",
+      "shiftend": "25.10.2026 08:00"
+    },
+    {
+      "name": "YALINAYAK ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "CUMHURIYET MAH.M.FEVZI ÇAKMAK CAD.NO:96  YALINAYAK MH. M.FEVZİ ÇAKMAK CD. YALINAYAK SAĞLIK OCAĞI CİVARI/TOROSLAR",
+      "phone": "03242293713",
+      "lat": 36.845186,
+      "lon": 34.633678,
       "workdate": "24.10.2026 13:00",
       "shiftend": "25.10.2026 08:00"
     },
