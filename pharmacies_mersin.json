@@ -92,16 +92,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "ESİN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ÇANKAYA MAH. 37202 SK. NO:17/A   FINDIKPINARI CADDESİ KUYULUK ASM KARŞISI KUYULUK/ MEZİTLİ/MERSİN",
-      "phone": "03243588451",
-      "lat": 36.760026,
-      "lon": 34.511904,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
-    },
-    {
       "name": "HİLAL ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MAH. 31118 SOK. NO:6/A MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
@@ -110,6 +100,16 @@
       "lon": 34.544472,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "ESİN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ÇANKAYA MAH. 37202 SK. NO:17/A   FINDIKPINARI CADDESİ KUYULUK ASM KARŞISI KUYULUK/ MEZİTLİ/MERSİN",
+      "phone": "03243588451",
+      "lat": 36.760026,
+      "lon": 34.511904,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
