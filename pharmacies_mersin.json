@@ -2,16 +2,6 @@
   "snapshot": "25.10.2026",
   "sonuc": [
     {
-      "name": "AKDENİZ GÜNEŞ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "GÜNEŞ MH. 5822 SK. NO:11/B GÜNEŞ MAH. 5822 SK. SELAHATTİN EYYÜBİ ASM YANI/AKDENİZ",
-      "phone": "05443133344",
-      "lat": 36.82239,
-      "lon": 34.637549,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
-    },
-    {
       "name": "ELMAS ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MAH. 5334 SK. NO:10/1A YENİ MAH.SAĞLIK OCAĞI KARŞISI BAĞ KUR İL MÜD ARKASI/AKDENİZ",
@@ -30,6 +20,16 @@
       "lon": 34.624398,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "AKDENİZ GÜNEŞ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "GÜNEŞ MH. 5822 SK. NO:11/B GÜNEŞ MAH. 5822 SK. SELAHATTİN EYYÜBİ ASM YANI/AKDENİZ",
+      "phone": "05443133344",
+      "lat": 36.82239,
+      "lon": 34.637549,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
     },
     {
       "name": "YÜCEL ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "MELTEM ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:18/D ALATA ASM YANI , ERDEMLİ MÜFTÜLÜĞÜ KARŞISI",
-      "phone": "05015522907",
-      "lat": 36.604774,
-      "lon": 34.313548,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
-    },
-    {
       "name": "SERİN ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:59/A",
@@ -80,6 +70,16 @@
       "lon": 34.302884,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "MELTEM ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:18/D ALATA ASM YANI , ERDEMLİ MÜFTÜLÜĞÜ KARŞISI",
+      "phone": "05015522907",
+      "lat": 36.604774,
+      "lon": 34.313548,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
     },
     {
       "name": "ATEŞ  ECZANESİ",
@@ -92,16 +92,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "HİLAL ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
-      "phone": "03243599250",
-      "lat": 36.760008,
-      "lon": 34.544472,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "ESİN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ÇANKAYA MAH. 37202 SK. NO:17/A   FINDIKPINARI CADDESİ KUYULUK ASM KARŞISI KUYULUK/ MEZİTLİ/MERSİN",
@@ -110,6 +100,16 @@
       "lon": 34.511904,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
+    },
+    {
+      "name": "HİLAL ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
+      "phone": "03243599250",
+      "lat": 36.760008,
+      "lon": 34.544472,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
@@ -202,22 +202,22 @@
       "shiftend": "26.10.2026 00:00"
     },
     {
-      "name": "PORTAKAL ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "PORTAKAL MH. 210. CD. NO: 58/A PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
-      "phone": "03244081388",
-      "lat": 36.812168,
-      "lon": 34.600384,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "FERAY ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 93007 SK. NO:4/A MERİŞ MARKET-MERİŞ DÜĞÜN SALONU ALT KAVŞAĞI- 3. ÇEVREYOLU ÜZERİ",
       "phone": "03242231717",
       "lat": 36.832828,
       "lon": 34.619878,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "PORTAKAL ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "PORTAKAL MH. 210. CD. NO: 58/A PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
+      "phone": "03244081388",
+      "lat": 36.812168,
+      "lon": 34.600384,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
