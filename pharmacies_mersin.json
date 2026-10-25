@@ -2,16 +2,6 @@
   "snapshot": "25.10.2026",
   "sonuc": [
     {
-      "name": "ANADOLU ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
-      "phone": "03243371421",
-      "lat": 36.810667,
-      "lon": 34.624398,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "AKDENİZ GÜNEŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "GÜNEŞ MH. 5822 SK. NO:11/B GÜNEŞ MAH. 5822 SK. SELAHATTİN EYYÜBİ ASM YANI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242381004",
       "lat": 36.804955,
       "lon": 34.632287,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "ANADOLU ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
+      "phone": "03243371421",
+      "lat": 36.810667,
+      "lon": 34.624398,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "SERİN ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:59/A",
-      "phone": "03245152500",
-      "lat": 36.609928,
-      "lon": 34.302884,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "MELTEM ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:18/D ALATA ASM YANI , ERDEMLİ MÜFTÜLÜĞÜ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.313548,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
+    },
+    {
+      "name": "SERİN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:59/A",
+      "phone": "03245152500",
+      "lat": 36.609928,
+      "lon": 34.302884,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
     },
     {
       "name": "ATEŞ  ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "SAĞINDA ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CD. NO:6/C YENİ DEVLET HASTANESİ KARŞISI BURUNUCU",
-      "phone": "03247122280",
-      "lat": 36.343463,
-      "lon": 33.918134,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "DERMAN ECZANESİ",
       "district": "SİLİFKE",
       "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
@@ -162,24 +152,14 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "ÜNAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246244070",
-      "lat": 36.914494,
-      "lon": 34.912114,
+      "name": "SAĞINDA ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CD. NO:6/C YENİ DEVLET HASTANESİ KARŞISI BURUNUCU",
+      "phone": "03247122280",
+      "lat": 36.343463,
+      "lon": 33.918134,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
-    },
-    {
-      "name": "HÜLYA ECZANESİ",
-      "district": "TARSUS",
-      "address": "RESADIYE MAH.3049 SOK.NO:15  Reşadiye Mh. Sağlık Meslek Lisesi karşısı",
-      "phone": "03246140723",
-      "lat": 36.920665,
-      "lon": 34.899719,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
     },
     {
       "name": "SÖYLEMEZOĞLU ECZANESİ",
@@ -202,6 +182,26 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
+      "name": "ÜNAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246244070",
+      "lat": 36.914494,
+      "lon": 34.912114,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "HÜLYA ECZANESİ",
+      "district": "TARSUS",
+      "address": "RESADIYE MAH.3049 SOK.NO:15  Reşadiye Mh. Sağlık Meslek Lisesi karşısı",
+      "phone": "03246140723",
+      "lat": 36.920665,
+      "lon": 34.899719,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
+    },
+    {
       "name": "PORTAKAL ECZANESİ",
       "district": "TOROSLAR",
       "address": "PORTAKAL MH. 210. CD. NO: 58/A PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
@@ -222,16 +222,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "ULAŞ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MH. 1671 SK. ZEYTİN EVLERİ  A BLOK NO:3AB SOSYETE PAZARI YANI, YENİŞEHİR İLKOKULU KARŞISI",
-      "phone": "05055073133",
-      "lat": 36.787549,
-      "lon": 34.602377,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
-    },
-    {
       "name": "DEFNE ŞULE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "ÇİFTLİKKÖY MAH.MİMAR SİNAN CAD.32231 SOK.D BLOK  NO:4   ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) YENİŞEHİR",
@@ -250,6 +240,16 @@
       "lon": 34.592011,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "ULAŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MH. 1671 SK. ZEYTİN EVLERİ  A BLOK NO:3AB SOSYETE PAZARI YANI, YENİŞEHİR İLKOKULU KARŞISI",
+      "phone": "05055073133",
+      "lat": 36.787549,
+      "lon": 34.602377,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
     }
   ]
 }
