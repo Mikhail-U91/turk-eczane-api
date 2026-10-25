@@ -2,16 +2,6 @@
   "snapshot": "25.10.2026",
   "sonuc": [
     {
-      "name": "ANADOLU ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
-      "phone": "03243371421",
-      "lat": 36.810667,
-      "lon": 34.624398,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "AKDENİZ GÜNEŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "GÜNEŞ MH. 5822 SK. NO:11/B GÜNEŞ MAH. 5822 SK. SELAHATTİN EYYÜBİ ASM YANI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242381004",
       "lat": 36.804955,
       "lon": 34.632287,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "ANADOLU ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
+      "phone": "03243371421",
+      "lat": 36.810667,
+      "lon": 34.624398,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "SERİN ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:59/A",
-      "phone": "03245152500",
-      "lat": 36.609928,
-      "lon": 34.302884,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "MELTEM ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:18/D ALATA ASM YANI , ERDEMLİ MÜFTÜLÜĞÜ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.313548,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
+    },
+    {
+      "name": "SERİN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:59/A",
+      "phone": "03245152500",
+      "lat": 36.609928,
+      "lon": 34.302884,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
     },
     {
       "name": "ATEŞ  ECZANESİ",
@@ -122,6 +122,26 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
+      "name": "DERMAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
+      "phone": "03247223334",
+      "lat": 36.404495,
+      "lon": 34.07069,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "25.10.2026 19:00"
+    },
+    {
+      "name": "ERDAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
+      "phone": "03247412997",
+      "lat": 36.319542,
+      "lon": 33.875585,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
+    },
+    {
       "name": "SOLDAN ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH. ATATÜRK BULV.TINAZ SİT. NO:11/D SİLİFKE ÖZKAYMAK PASTANESİ YANI ANIT CİVARI",
@@ -142,22 +162,12 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "DERMAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
-      "phone": "03247223334",
-      "lat": 36.404495,
-      "lon": 34.07069,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "25.10.2026 19:00"
-    },
-    {
-      "name": "ERDAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
-      "phone": "03247412997",
-      "lat": 36.319542,
-      "lon": 33.875585,
+      "name": "SÖYLEMEZOĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "KIRKLARSIRTI MH. CELAL BAYAR CD. NO:41 KIRKLARSIRTI MAH. KIRKLARSIRTI  ASM KARŞISI TARSUS",
+      "phone": "03246260010",
+      "lat": 36.9416,
+      "lon": 34.872842,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
     },
@@ -192,16 +202,6 @@
       "shiftend": "26.10.2026 00:00"
     },
     {
-      "name": "SÖYLEMEZOĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "KIRKLARSIRTI MH. CELAL BAYAR CD. NO:41 KIRKLARSIRTI MAH. KIRKLARSIRTI  ASM KARŞISI TARSUS",
-      "phone": "03246260010",
-      "lat": 36.9416,
-      "lon": 34.872842,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
-    },
-    {
       "name": "PORTAKAL ECZANESİ",
       "district": "TOROSLAR",
       "address": "PORTAKAL MH. 210. CD. NO: 58/A PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
@@ -218,6 +218,16 @@
       "phone": "03242231717",
       "lat": 36.832828,
       "lon": 34.619878,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "DEFNE ŞULE ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MAH.MİMAR SİNAN CAD.32231 SOK.D BLOK  NO:4   ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) YENİŞEHİR",
+      "phone": "05324205462",
+      "lat": 36.785519,
+      "lon": 34.540106,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
@@ -240,16 +250,6 @@
       "lon": 34.602377,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
-    },
-    {
-      "name": "DEFNE ŞULE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MAH.MİMAR SİNAN CAD.32231 SOK.D BLOK  NO:4   ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) YENİŞEHİR",
-      "phone": "05324205462",
-      "lat": 36.785519,
-      "lon": 34.540106,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
     }
   ]
 }
