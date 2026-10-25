@@ -62,16 +62,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "SERİN ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:59/A",
-      "phone": "03245152500",
-      "lat": 36.609928,
-      "lon": 34.302884,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "MELTEM ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:18/D ALATA ASM YANI , ERDEMLİ MÜFTÜLÜĞÜ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.313548,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
+    },
+    {
+      "name": "SERİN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:59/A",
+      "phone": "03245152500",
+      "lat": 36.609928,
+      "lon": 34.302884,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
     },
     {
       "name": "ATEŞ  ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "DERMAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
-      "phone": "03247223334",
-      "lat": 36.404495,
-      "lon": 34.07069,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "25.10.2026 19:00"
-    },
-    {
       "name": "ERDAL ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
@@ -162,14 +152,14 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "SÖYLEMEZOĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "KIRKLARSIRTI MH. CELAL BAYAR CD. NO:41 KIRKLARSIRTI MAH. KIRKLARSIRTI  ASM KARŞISI TARSUS",
-      "phone": "03246260010",
-      "lat": 36.9416,
-      "lon": 34.872842,
+      "name": "DERMAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
+      "phone": "03247223334",
+      "lat": 36.404495,
+      "lon": 34.07069,
       "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
+      "shiftend": "25.10.2026 19:00"
     },
     {
       "name": "YENİ ESER ECZANESİ",
@@ -198,6 +188,16 @@
       "phone": "03246140723",
       "lat": 36.920665,
       "lon": 34.899719,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
+    },
+    {
+      "name": "SÖYLEMEZOĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "KIRKLARSIRTI MH. CELAL BAYAR CD. NO:41 KIRKLARSIRTI MAH. KIRKLARSIRTI  ASM KARŞISI TARSUS",
+      "phone": "03246260010",
+      "lat": 36.9416,
+      "lon": 34.872842,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
     },
