@@ -2,6 +2,16 @@
   "snapshot": "25.10.2026",
   "sonuc": [
     {
+      "name": "ELMAS ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MAH. 5334 SK. NO:10/1A YENİ MAH.SAĞLIK OCAĞI KARŞISI BAĞ KUR İL MÜD ARKASI/AKDENİZ",
+      "phone": "03242381004",
+      "lat": 36.804955,
+      "lon": 34.632287,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
       "name": "ANADOLU ECZANESİ",
       "district": "AKDENİZ",
       "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.637549,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
-    },
-    {
-      "name": "ELMAS ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MAH. 5334 SK. NO:10/1A YENİ MAH.SAĞLIK OCAĞI KARŞISI BAĞ KUR İL MÜD ARKASI/AKDENİZ",
-      "phone": "03242381004",
-      "lat": 36.804955,
-      "lon": 34.632287,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
     },
     {
       "name": "YÜCEL ECZANESİ",
@@ -122,6 +122,16 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
+      "name": "ERDAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
+      "phone": "03247412997",
+      "lat": 36.319542,
+      "lon": 33.875585,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
+    },
+    {
       "name": "SOLDAN ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH. ATATÜRK BULV.TINAZ SİT. NO:11/D SİLİFKE ÖZKAYMAK PASTANESİ YANI ANIT CİVARI",
@@ -150,16 +160,6 @@
       "lon": 34.07069,
       "workdate": "25.10.2026 08:00",
       "shiftend": "25.10.2026 19:00"
-    },
-    {
-      "name": "ERDAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
-      "phone": "03247412997",
-      "lat": 36.319542,
-      "lon": 33.875585,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
     },
     {
       "name": "YENİ ESER ECZANESİ",
@@ -202,6 +202,16 @@
       "shiftend": "26.10.2026 00:00"
     },
     {
+      "name": "FERAY ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 93007 SK. NO:4/A MERİŞ MARKET-MERİŞ DÜĞÜN SALONU ALT KAVŞAĞI- 3. ÇEVREYOLU ÜZERİ",
+      "phone": "03242231717",
+      "lat": 36.832828,
+      "lon": 34.619878,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
       "name": "PORTAKAL ECZANESİ",
       "district": "TOROSLAR",
       "address": "PORTAKAL MH. 210. CD. NO: 58/A PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
@@ -212,12 +222,12 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "FERAY ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 93007 SK. NO:4/A MERİŞ MARKET-MERİŞ DÜĞÜN SALONU ALT KAVŞAĞI- 3. ÇEVREYOLU ÜZERİ",
-      "phone": "03242231717",
-      "lat": 36.832828,
-      "lon": 34.619878,
+      "name": "DEFNE ŞULE ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MAH.MİMAR SİNAN CAD.32231 SOK.D BLOK  NO:4   ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) YENİŞEHİR",
+      "phone": "05324205462",
+      "lat": 36.785519,
+      "lon": 34.540106,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
@@ -240,16 +250,6 @@
       "lon": 34.602377,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
-    },
-    {
-      "name": "DEFNE ŞULE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MAH.MİMAR SİNAN CAD.32231 SOK.D BLOK  NO:4   ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) YENİŞEHİR",
-      "phone": "05324205462",
-      "lat": 36.785519,
-      "lon": 34.540106,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
     }
   ]
 }
