@@ -122,6 +122,16 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
+      "name": "SAĞINDA ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CD. NO:6/C YENİ DEVLET HASTANESİ KARŞISI BURUNUCU",
+      "phone": "03247122280",
+      "lat": 36.343463,
+      "lon": 33.918134,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
       "name": "DERMAN ECZANESİ",
       "district": "SİLİFKE",
       "address": "ATAKENT MH. 5010 SK. NO:6AA ATAKENT ASM KARŞISI",
@@ -152,14 +162,14 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "SAĞINDA ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CD. NO:6/C YENİ DEVLET HASTANESİ KARŞISI BURUNUCU",
-      "phone": "03247122280",
-      "lat": 36.343463,
-      "lon": 33.918134,
+      "name": "HÜLYA ECZANESİ",
+      "district": "TARSUS",
+      "address": "RESADIYE MAH.3049 SOK.NO:15  Reşadiye Mh. Sağlık Meslek Lisesi karşısı",
+      "phone": "03246140723",
+      "lat": 36.920665,
+      "lon": 34.899719,
       "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
+      "shiftend": "26.10.2026 00:00"
     },
     {
       "name": "SÖYLEMEZOĞLU ECZANESİ",
@@ -190,16 +200,6 @@
       "lon": 34.912114,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
-    },
-    {
-      "name": "HÜLYA ECZANESİ",
-      "district": "TARSUS",
-      "address": "RESADIYE MAH.3049 SOK.NO:15  Reşadiye Mh. Sağlık Meslek Lisesi karşısı",
-      "phone": "03246140723",
-      "lat": 36.920665,
-      "lon": 34.899719,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
     },
     {
       "name": "PORTAKAL ECZANESİ",
