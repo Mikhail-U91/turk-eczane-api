@@ -92,16 +92,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "HİLAL ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
-      "phone": "03243599250",
-      "lat": 36.760008,
-      "lon": 34.544472,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "ESİN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ÇANKAYA MAH. 37202 SK. NO:17/A   FINDIKPINARI CADDESİ KUYULUK ASM KARŞISI KUYULUK/ MEZİTLİ/MERSİN",
@@ -110,6 +100,16 @@
       "lon": 34.511904,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
+    },
+    {
+      "name": "HİLAL ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
+      "phone": "03243599250",
+      "lat": 36.760008,
+      "lon": 34.544472,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
@@ -202,6 +202,16 @@
       "shiftend": "26.10.2026 00:00"
     },
     {
+      "name": "FERAY ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 93007 SK. NO:4/A MERİŞ MARKET-MERİŞ DÜĞÜN SALONU ALT KAVŞAĞI- 3. ÇEVREYOLU ÜZERİ",
+      "phone": "03242231717",
+      "lat": 36.832828,
+      "lon": 34.619878,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
       "name": "PORTAKAL ECZANESİ",
       "district": "TOROSLAR",
       "address": "PORTAKAL MH. 210. CD. NO: 58/A PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
@@ -212,12 +222,12 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "FERAY ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 93007 SK. NO:4/A MERİŞ MARKET-MERİŞ DÜĞÜN SALONU ALT KAVŞAĞI- 3. ÇEVREYOLU ÜZERİ",
-      "phone": "03242231717",
-      "lat": 36.832828,
-      "lon": 34.619878,
+      "name": "DEFNE ŞULE ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MAH.MİMAR SİNAN CAD.32231 SOK.D BLOK  NO:4   ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) YENİŞEHİR",
+      "phone": "05324205462",
+      "lat": 36.785519,
+      "lon": 34.540106,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
@@ -240,16 +250,6 @@
       "lon": 34.602377,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 00:00"
-    },
-    {
-      "name": "DEFNE ŞULE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MAH.MİMAR SİNAN CAD.32231 SOK.D BLOK  NO:4   ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) YENİŞEHİR",
-      "phone": "05324205462",
-      "lat": 36.785519,
-      "lon": 34.540106,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
     }
   ]
 }
