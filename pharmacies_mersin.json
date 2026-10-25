@@ -2,16 +2,6 @@
   "snapshot": "25.10.2026",
   "sonuc": [
     {
-      "name": "ANADOLU ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
-      "phone": "03243371421",
-      "lat": 36.810667,
-      "lon": 34.624398,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
       "name": "AKDENİZ GÜNEŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "GÜNEŞ MH. 5822 SK. NO:11/B GÜNEŞ MAH. 5822 SK. SELAHATTİN EYYÜBİ ASM YANI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242381004",
       "lat": 36.804955,
       "lon": 34.632287,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "ANADOLU ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "NUSRATIYE MAH.5021 SOK.NO:38 NUSRATİYE MH ANA ÇOCUK SAĞLIĞI KARŞISI 23 EVLER KAVŞAĞI/AKDENİZ",
+      "phone": "03243371421",
+      "lat": 36.810667,
+      "lon": 34.624398,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
@@ -92,16 +92,6 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
-      "name": "ESİN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ÇANKAYA MAH. 37202 SK. NO:17/A   FINDIKPINARI CADDESİ KUYULUK ASM KARŞISI KUYULUK/ MEZİTLİ/MERSİN",
-      "phone": "03243588451",
-      "lat": 36.760026,
-      "lon": 34.511904,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
-    },
-    {
       "name": "HİLAL ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MAH. 31118 SOK. NO:6/A MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
@@ -112,22 +102,22 @@
       "shiftend": "26.10.2026 08:00"
     },
     {
+      "name": "ESİN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ÇANKAYA MAH. 37202 SK. NO:17/A   FINDIKPINARI CADDESİ KUYULUK ASM KARŞISI KUYULUK/ MEZİTLİ/MERSİN",
+      "phone": "03243588451",
+      "lat": 36.760026,
+      "lon": 34.511904,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
+    },
+    {
       "name": "SAĞLIK ECZANESİ",
       "district": "MUT",
       "address": "KALE MAH.İNÖNÜ CAD.NO:12  KALE MH. INÖNÜ CD.NO:12",
       "phone": "03247741372",
       "lat": 36.643705,
       "lon": 33.436773,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 08:00"
-    },
-    {
-      "name": "SOLDAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH. ATATÜRK BULV.TINAZ SİT. NO:11/D SİLİFKE ÖZKAYMAK PASTANESİ YANI ANIT CİVARI",
-      "phone": "03247145296",
-      "lat": 36.380388,
-      "lon": 33.927822,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
@@ -162,12 +152,12 @@
       "shiftend": "26.10.2026 00:00"
     },
     {
-      "name": "YENİ ESER ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "05464076272",
-      "lat": 36.909163,
-      "lon": 34.883337,
+      "name": "SOLDAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. ATATÜRK BULV.TINAZ SİT. NO:11/D SİLİFKE ÖZKAYMAK PASTANESİ YANI ANIT CİVARI",
+      "phone": "03247145296",
+      "lat": 36.380388,
+      "lon": 33.927822,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
@@ -202,12 +192,12 @@
       "shiftend": "26.10.2026 00:00"
     },
     {
-      "name": "FERAY ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 93007 SK. NO:4/A MERİŞ MARKET-MERİŞ DÜĞÜN SALONU ALT KAVŞAĞI- 3. ÇEVREYOLU ÜZERİ",
-      "phone": "03242231717",
-      "lat": 36.832828,
-      "lon": 34.619878,
+      "name": "YENİ ESER ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "05464076272",
+      "lat": 36.909163,
+      "lon": 34.883337,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
     },
@@ -220,6 +210,26 @@
       "lon": 34.600384,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "FERAY ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 93007 SK. NO:4/A MERİŞ MARKET-MERİŞ DÜĞÜN SALONU ALT KAVŞAĞI- 3. ÇEVREYOLU ÜZERİ",
+      "phone": "03242231717",
+      "lat": 36.832828,
+      "lon": 34.619878,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 08:00"
+    },
+    {
+      "name": "ULAŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MH. 1671 SK. ZEYTİN EVLERİ  A BLOK NO:3AB SOSYETE PAZARI YANI, YENİŞEHİR İLKOKULU KARŞISI",
+      "phone": "05055073133",
+      "lat": 36.787549,
+      "lon": 34.602377,
+      "workdate": "25.10.2026 08:00",
+      "shiftend": "26.10.2026 00:00"
     },
     {
       "name": "DEFNE ŞULE ECZANESİ",
@@ -240,16 +250,6 @@
       "lon": 34.592011,
       "workdate": "25.10.2026 08:00",
       "shiftend": "26.10.2026 08:00"
-    },
-    {
-      "name": "ULAŞ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MH. 1671 SK. ZEYTİN EVLERİ  A BLOK NO:3AB SOSYETE PAZARI YANI, YENİŞEHİR İLKOKULU KARŞISI",
-      "phone": "05055073133",
-      "lat": 36.787549,
-      "lon": 34.602377,
-      "workdate": "25.10.2026 08:00",
-      "shiftend": "26.10.2026 00:00"
     }
   ]
 }
