@@ -62,16 +62,6 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "NERGİZ ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:74/E MERKEZ MH. KAZIM KARABEKİR CD. NO.74/E",
-      "phone": "03245156393",
-      "lat": 36.610134,
-      "lon": 34.303263,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
       "name": "KOÇAK ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH.ABDURAHMANSEVK CAD.NO:I29/A  MERKEZ MAHALLESI ABDURAHMANSEVK CADDESI29/A  İLÇE MÜFTÜLÜĞÜ YANI",
@@ -80,6 +70,16 @@
       "lon": 34.314169,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 00:00"
+    },
+    {
+      "name": "NERGİZ ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:74/E MERKEZ MH. KAZIM KARABEKİR CD. NO.74/E",
+      "phone": "03245156393",
+      "lat": 36.610134,
+      "lon": 34.303263,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
     },
     {
       "name": "YENİ ŞİFA ECZANESİ",
