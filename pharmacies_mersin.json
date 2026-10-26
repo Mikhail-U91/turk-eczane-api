@@ -2,6 +2,16 @@
   "snapshot": "26.10.2026",
   "sonuc": [
     {
+      "name": "SIHHAT ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "NUSRATİYE MAH. 5003 SOK. NO:51/A NUSRATİYE MH. ESKİ DEVLET HASTANESİ CAD. CUMA PAZARI SOKAĞI",
+      "phone": "03243360539",
+      "lat": 36.806746,
+      "lon": 34.623866,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
+    },
+    {
       "name": "JALE ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENI MAH.5314 SOK.NO:6/A  TOROS DEVLET HST KARŞISI (ESKİ SSK HAS.)/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.639066,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 00:00"
-    },
-    {
-      "name": "SIHHAT ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "NUSRATİYE MAH. 5003 SOK. NO:51/A NUSRATİYE MH. ESKİ DEVLET HASTANESİ CAD. CUMA PAZARI SOKAĞI",
-      "phone": "03243360539",
-      "lat": 36.806746,
-      "lon": 34.623866,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
     },
     {
       "name": "ÜNAL ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "NERGİZ ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:74/E MERKEZ MH. KAZIM KARABEKİR CD. NO.74/E",
-      "phone": "03245156393",
-      "lat": 36.610134,
-      "lon": 34.303263,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
       "name": "KOÇAK ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH.ABDURAHMANSEVK CAD.NO:I29/A  MERKEZ MAHALLESI ABDURAHMANSEVK CADDESI29/A  İLÇE MÜFTÜLÜĞÜ YANI",
@@ -82,12 +72,32 @@
       "shiftend": "27.10.2026 00:00"
     },
     {
+      "name": "NERGİZ ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:74/E MERKEZ MH. KAZIM KARABEKİR CD. NO.74/E",
+      "phone": "03245156393",
+      "lat": 36.610134,
+      "lon": 34.303263,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
+    },
+    {
       "name": "YENİ ŞİFA ECZANESİ",
       "district": "GÜLNAR",
       "address": "SARAY MAH.AKKAVAK CAD. NO:12/ABC SARAY MAHALLESİ AKKAVAK CADDESİ NO:12/ABC",
       "phone": "03247517062",
       "lat": 36.338405,
       "lon": 33.40321,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
+    },
+    {
+      "name": "ABAY ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. 31039 SK. DAMLA SİTESİ A BLOK NO:10/A ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ KUZEY YANI MEZİTLİ",
+      "phone": "03243587375",
+      "lat": 36.764217,
+      "lon": 34.548006,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
     },
@@ -102,32 +112,12 @@
       "shiftend": "27.10.2026 00:00"
     },
     {
-      "name": "ABAY ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. 31039 SK. DAMLA SİTESİ A BLOK NO:10/A ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ KUZEY YANI MEZİTLİ",
-      "phone": "03243587375",
-      "lat": 36.764217,
-      "lon": 34.548006,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
       "name": "GÜVEN ECZANESİ",
       "district": "MUT",
       "address": "DOĞANCI MH. HÜKÜMET CD. NO:5C DOĞANCI MAH HÜKÜMET CD ŞENTÜRKLER MOBİLYA KARŞISI NO:5/C MUT/MERSİN",
       "phone": "03247742450",
       "lat": 36.643727,
       "lon": 33.437184,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
-      "name": "ÜNAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
-      "phone": "03247147559",
-      "lat": 36.381093,
-      "lon": 33.926139,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
     },
@@ -140,6 +130,16 @@
       "lon": 33.877737,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 00:00"
+    },
+    {
+      "name": "ÜNAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
+      "phone": "03247147559",
+      "lat": 36.381093,
+      "lon": 33.926139,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
     },
     {
       "name": "ÖNDER GÜNER ECZANESİ",
@@ -182,16 +182,6 @@
       "shiftend": "27.10.2026 00:00"
     },
     {
-      "name": "MERVE ELÇİ ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "MEVLANA MH. 101085 SK. NO:14/B YUSUF BAYIK ORTA OKULU YANI TOROSLAR (KURDALİ IŞIKLARI GEÇİNCE PETROL OFİSİ ARKA TARAFI )",
-      "phone": "03243221202",
-      "lat": 36.831024,
-      "lon": 34.632624,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
       "name": "DAMLA ECZANESİ",
       "district": "TOROSLAR",
       "address": "TOZKOPARAN MAH. 87045 SOK. NO:23/B ÇUKUROVA İLKOKULU VE  TOZKOPARAN ASM KARŞISI",
@@ -202,12 +192,12 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "LAVİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MH. 2640 NO:4C BATIKENT BİM MARKET KARŞISI",
-      "phone": "05309905294",
-      "lat": 36.780974,
-      "lon": 34.560821,
+      "name": "MERVE ELÇİ ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "MEVLANA MH. 101085 SK. NO:14/B YUSUF BAYIK ORTA OKULU YANI TOROSLAR (KURDALİ IŞIKLARI GEÇİNCE PETROL OFİSİ ARKA TARAFI )",
+      "phone": "03243221202",
+      "lat": 36.831024,
+      "lon": 34.632624,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
     },
@@ -230,6 +220,16 @@
       "lon": 34.57299,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 00:00"
+    },
+    {
+      "name": "LAVİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MH. 2640 NO:4C BATIKENT BİM MARKET KARŞISI",
+      "phone": "05309905294",
+      "lat": 36.780974,
+      "lon": 34.560821,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
     }
   ]
 }
