@@ -142,6 +142,16 @@
       "shiftend": "27.10.2026 00:00"
     },
     {
+      "name": "ZEHRA ECZANESİ",
+      "district": "TARSUS",
+      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10B",
+      "phone": "03246221894",
+      "lat": 36.915669,
+      "lon": 34.915113,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
+    },
+    {
       "name": "GÜLSE ECZANESİ",
       "district": "TARSUS",
       "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:29/A   BAHÇE MAH. GENÇ OSMAN CAD. 1 NOLU ASM KARŞISI TARSUS",
@@ -168,16 +178,6 @@
       "phone": "03246137373",
       "lat": 36.916233,
       "lon": 34.884156,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
-      "name": "ZEHRA ECZANESİ",
-      "district": "TARSUS",
-      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10B",
-      "phone": "03246221894",
-      "lat": 36.915669,
-      "lon": 34.915113,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
     },
