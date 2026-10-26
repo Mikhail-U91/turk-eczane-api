@@ -2,6 +2,16 @@
   "snapshot": "26.10.2026",
   "sonuc": [
     {
+      "name": "JALE ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENI MAH.5314 SOK.NO:6/A  TOROS DEVLET HST KARŞISI (ESKİ SSK HAS.)/AKDENİZ",
+      "phone": "03242379900",
+      "lat": 36.806624,
+      "lon": 34.635694,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
+    },
+    {
       "name": "BARIŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "SİTELER MH. 5651 SK. NO:8A SİTELER MAHALLE MUHTARLIĞI ARKASI ŞEHİT CENGİZ KIR ASM KARŞISI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03243360539",
       "lat": 36.806746,
       "lon": 34.623866,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
-      "name": "JALE ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENI MAH.5314 SOK.NO:6/A  TOROS DEVLET HST KARŞISI (ESKİ SSK HAS.)/AKDENİZ",
-      "phone": "03242379900",
-      "lat": 36.806624,
-      "lon": 34.635694,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "KOÇAK ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH.ABDURAHMANSEVK CAD.NO:I29/A  MERKEZ MAHALLESI ABDURAHMANSEVK CADDESI29/A  İLÇE MÜFTÜLÜĞÜ YANI",
-      "phone": "03245153353",
-      "lat": 36.604326,
-      "lon": 34.314169,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 00:00"
-    },
-    {
       "name": "NERGİZ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:74/E MERKEZ MH. KAZIM KARABEKİR CD. NO.74/E",
@@ -80,6 +70,16 @@
       "lon": 34.303263,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
+    },
+    {
+      "name": "KOÇAK ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH.ABDURAHMANSEVK CAD.NO:I29/A  MERKEZ MAHALLESI ABDURAHMANSEVK CADDESI29/A  İLÇE MÜFTÜLÜĞÜ YANI",
+      "phone": "03245153353",
+      "lat": 36.604326,
+      "lon": 34.314169,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 00:00"
     },
     {
       "name": "YENİ ŞİFA ECZANESİ",
@@ -182,6 +182,16 @@
       "shiftend": "27.10.2026 00:00"
     },
     {
+      "name": "MERVE ELÇİ ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "MEVLANA MH. 101085 SK. NO:14/B YUSUF BAYIK ORTA OKULU YANI TOROSLAR (KURDALİ IŞIKLARI GEÇİNCE PETROL OFİSİ ARKA TARAFI )",
+      "phone": "03243221202",
+      "lat": 36.831024,
+      "lon": 34.632624,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
+    },
+    {
       "name": "DAMLA ECZANESİ",
       "district": "TOROSLAR",
       "address": "TOZKOPARAN MAH. 87045 SOK. NO:23/B ÇUKUROVA İLKOKULU VE  TOZKOPARAN ASM KARŞISI",
@@ -192,12 +202,12 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "MERVE ELÇİ ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "MEVLANA MH. 101085 SK. NO:14/B YUSUF BAYIK ORTA OKULU YANI TOROSLAR (KURDALİ IŞIKLARI GEÇİNCE PETROL OFİSİ ARKA TARAFI )",
-      "phone": "03243221202",
-      "lat": 36.831024,
-      "lon": 34.632624,
+      "name": "LAVİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MH. 2640 NO:4C BATIKENT BİM MARKET KARŞISI",
+      "phone": "05309905294",
+      "lat": 36.780974,
+      "lon": 34.560821,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
     },
@@ -220,16 +230,6 @@
       "lon": 34.57299,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 00:00"
-    },
-    {
-      "name": "LAVİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MH. 2640 NO:4C BATIKENT BİM MARKET KARŞISI",
-      "phone": "05309905294",
-      "lat": 36.780974,
-      "lon": 34.560821,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
     }
   ]
 }
