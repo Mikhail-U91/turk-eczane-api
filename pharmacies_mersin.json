@@ -2,6 +2,16 @@
   "snapshot": "26.10.2026",
   "sonuc": [
     {
+      "name": "SIHHAT ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "NUSRATİYE MAH. 5003 SOK. NO:51/A NUSRATİYE MH. ESKİ DEVLET HASTANESİ CAD. CUMA PAZARI SOKAĞI",
+      "phone": "03243360539",
+      "lat": 36.806746,
+      "lon": 34.623866,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
+    },
+    {
       "name": "JALE ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENI MAH.5314 SOK.NO:6/A  TOROS DEVLET HST KARŞISI (ESKİ SSK HAS.)/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.639066,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 00:00"
-    },
-    {
-      "name": "SIHHAT ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "NUSRATİYE MAH. 5003 SOK. NO:51/A NUSRATİYE MH. ESKİ DEVLET HASTANESİ CAD. CUMA PAZARI SOKAĞI",
-      "phone": "03243360539",
-      "lat": 36.806746,
-      "lon": 34.623866,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
     },
     {
       "name": "ÜNAL ECZANESİ",
@@ -92,16 +92,6 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "ÖNDER ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. 52030 SK. NO:6 Z11 ESKİ MEZİTLİ BELEDİYESİ KARŞISI ALDA MARKET ARKASI MERKEZ ASM YANI - MEZİTLİ/MEZİTLİ",
-      "phone": "03245020016",
-      "lat": 36.749933,
-      "lon": 34.528774,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 00:00"
-    },
-    {
       "name": "ABAY ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MH. 31039 SK. DAMLA SİTESİ A BLOK NO:10/A ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ KUZEY YANI MEZİTLİ",
@@ -110,6 +100,16 @@
       "lon": 34.548006,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
+    },
+    {
+      "name": "ÖNDER ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. 52030 SK. NO:6 Z11 ESKİ MEZİTLİ BELEDİYESİ KARŞISI ALDA MARKET ARKASI MERKEZ ASM YANI - MEZİTLİ/MEZİTLİ",
+      "phone": "03245020016",
+      "lat": 36.749933,
+      "lon": 34.528774,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 00:00"
     },
     {
       "name": "GÜVEN ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "ÜNAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
-      "phone": "03247147559",
-      "lat": 36.381093,
-      "lon": 33.926139,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
       "name": "ATLAS ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MH. ATATÜRK BULV. NO:55B Taşucu Mah. Atatürk Blv. no:55B SİLİFKE",
@@ -140,6 +130,16 @@
       "lon": 33.877737,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 00:00"
+    },
+    {
+      "name": "ÜNAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
+      "phone": "03247147559",
+      "lat": 36.381093,
+      "lon": 33.926139,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
     },
     {
       "name": "ÖNDER GÜNER ECZANESİ",
@@ -182,16 +182,6 @@
       "shiftend": "27.10.2026 00:00"
     },
     {
-      "name": "MERVE ELÇİ ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "MEVLANA MH. 101085 SK. NO:14/B YUSUF BAYIK ORTA OKULU YANI TOROSLAR (KURDALİ IŞIKLARI GEÇİNCE PETROL OFİSİ ARKA TARAFI )",
-      "phone": "03243221202",
-      "lat": 36.831024,
-      "lon": 34.632624,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
       "name": "DAMLA ECZANESİ",
       "district": "TOROSLAR",
       "address": "TOZKOPARAN MAH. 87045 SOK. NO:23/B ÇUKUROVA İLKOKULU VE  TOZKOPARAN ASM KARŞISI",
@@ -202,12 +192,12 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "LAVİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MH. 2640 NO:4C BATIKENT BİM MARKET KARŞISI",
-      "phone": "05309905294",
-      "lat": 36.780974,
-      "lon": 34.560821,
+      "name": "MERVE ELÇİ ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "MEVLANA MH. 101085 SK. NO:14/B YUSUF BAYIK ORTA OKULU YANI TOROSLAR (KURDALİ IŞIKLARI GEÇİNCE PETROL OFİSİ ARKA TARAFI )",
+      "phone": "03243221202",
+      "lat": 36.831024,
+      "lon": 34.632624,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
     },
@@ -230,6 +220,16 @@
       "lon": 34.57299,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 00:00"
+    },
+    {
+      "name": "LAVİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MH. 2640 NO:4C BATIKENT BİM MARKET KARŞISI",
+      "phone": "05309905294",
+      "lat": 36.780974,
+      "lon": 34.560821,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
     }
   ]
 }
