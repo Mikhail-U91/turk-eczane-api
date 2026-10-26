@@ -202,16 +202,6 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "LAVİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MH. 2640 NO:4C BATIKENT BİM MARKET KARŞISI",
-      "phone": "05309905294",
-      "lat": 36.780974,
-      "lon": 34.560821,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
       "name": "ZAFER ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "GÜVENEVLER MAH 1.CAD.NO:5/B  GÜVENEVLER MH. GÜVENSİTESİ CİVARI - POZCU ÇETİNKAYA KARŞISI - 4 NOLU SAĞLIK OCAĞI KARŞISI/POZCU/YENİŞEHİR",
@@ -230,6 +220,16 @@
       "lon": 34.57299,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 00:00"
+    },
+    {
+      "name": "LAVİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MH. 2640 NO:4C BATIKENT BİM MARKET KARŞISI",
+      "phone": "05309905294",
+      "lat": 36.780974,
+      "lon": 34.560821,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
     }
   ]
 }
