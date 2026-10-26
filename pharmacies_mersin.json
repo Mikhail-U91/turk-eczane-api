@@ -62,16 +62,6 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "KOÇAK ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH.ABDURAHMANSEVK CAD.NO:I29/A  MERKEZ MAHALLESI ABDURAHMANSEVK CADDESI29/A  İLÇE MÜFTÜLÜĞÜ YANI",
-      "phone": "03245153353",
-      "lat": 36.604326,
-      "lon": 34.314169,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 00:00"
-    },
-    {
       "name": "NERGİZ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:74/E MERKEZ MH. KAZIM KARABEKİR CD. NO.74/E",
@@ -80,6 +70,16 @@
       "lon": 34.303263,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
+    },
+    {
+      "name": "KOÇAK ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH.ABDURAHMANSEVK CAD.NO:I29/A  MERKEZ MAHALLESI ABDURAHMANSEVK CADDESI29/A  İLÇE MÜFTÜLÜĞÜ YANI",
+      "phone": "03245153353",
+      "lat": 36.604326,
+      "lon": 34.314169,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 00:00"
     },
     {
       "name": "YENİ ŞİFA ECZANESİ",
@@ -142,26 +142,6 @@
       "shiftend": "27.10.2026 00:00"
     },
     {
-      "name": "ZEHRA ECZANESİ",
-      "district": "TARSUS",
-      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10B",
-      "phone": "03246221894",
-      "lat": 36.915669,
-      "lon": 34.915113,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
-      "name": "GÜLSE ECZANESİ",
-      "district": "TARSUS",
-      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:29/A   BAHÇE MAH. GENÇ OSMAN CAD. 1 NOLU ASM KARŞISI TARSUS",
-      "phone": "03246144301",
-      "lat": 36.906149,
-      "lon": 34.894039,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 00:00"
-    },
-    {
       "name": "ÖNDER GÜNER ECZANESİ",
       "district": "TARSUS",
       "address": "ALTAYLILAR MAH.TURAN CAD.NO:2 ALTAYLILAR MAH. ÜLKÜKÖY ASM YANI BAYRAKLI KAVŞAK CİVARI",
@@ -180,6 +160,26 @@
       "lon": 34.884156,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
+    },
+    {
+      "name": "ZEHRA ECZANESİ",
+      "district": "TARSUS",
+      "address": "82 EVLER MAH. İBNİ SİNA BULV. NO:10B",
+      "phone": "03246221894",
+      "lat": 36.915669,
+      "lon": 34.915113,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 08:00"
+    },
+    {
+      "name": "GÜLSE ECZANESİ",
+      "district": "TARSUS",
+      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:29/A   BAHÇE MAH. GENÇ OSMAN CAD. 1 NOLU ASM KARŞISI TARSUS",
+      "phone": "03246144301",
+      "lat": 36.906149,
+      "lon": 34.894039,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 00:00"
     },
     {
       "name": "MERVE ELÇİ ECZANESİ",
