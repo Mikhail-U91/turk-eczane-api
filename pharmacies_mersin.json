@@ -62,16 +62,6 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "KOÇAK ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH.ABDURAHMANSEVK CAD.NO:I29/A  MERKEZ MAHALLESI ABDURAHMANSEVK CADDESI29/A  İLÇE MÜFTÜLÜĞÜ YANI",
-      "phone": "03245153353",
-      "lat": 36.604326,
-      "lon": 34.314169,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 00:00"
-    },
-    {
       "name": "NERGİZ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:74/E MERKEZ MH. KAZIM KARABEKİR CD. NO.74/E",
@@ -80,6 +70,16 @@
       "lon": 34.303263,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
+    },
+    {
+      "name": "KOÇAK ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH.ABDURAHMANSEVK CAD.NO:I29/A  MERKEZ MAHALLESI ABDURAHMANSEVK CADDESI29/A  İLÇE MÜFTÜLÜĞÜ YANI",
+      "phone": "03245153353",
+      "lat": 36.604326,
+      "lon": 34.314169,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 00:00"
     },
     {
       "name": "YENİ ŞİFA ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "ATLAS ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MH. ATATÜRK BULV. NO:55B Taşucu Mah. Atatürk Blv. no:55B SİLİFKE",
-      "phone": "03247412368",
-      "lat": 36.317974,
-      "lon": 33.877737,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 00:00"
-    },
-    {
       "name": "ÜNAL ECZANESİ",
       "district": "SİLİFKE",
       "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
@@ -140,6 +130,16 @@
       "lon": 33.926139,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
+    },
+    {
+      "name": "ATLAS ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MH. ATATÜRK BULV. NO:55B Taşucu Mah. Atatürk Blv. no:55B SİLİFKE",
+      "phone": "03247412368",
+      "lat": 36.317974,
+      "lon": 33.877737,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 00:00"
     },
     {
       "name": "ÖNDER GÜNER ECZANESİ",
@@ -182,16 +182,6 @@
       "shiftend": "27.10.2026 00:00"
     },
     {
-      "name": "DAMLA ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TOZKOPARAN MAH. 87045 SOK. NO:23/B ÇUKUROVA İLKOKULU VE  TOZKOPARAN ASM KARŞISI",
-      "phone": "03248210000",
-      "lat": 36.819666,
-      "lon": 34.615181,
-      "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 08:00"
-    },
-    {
       "name": "MERVE ELÇİ ECZANESİ",
       "district": "TOROSLAR",
       "address": "MEVLANA MH. 101085 SK. NO:14/B YUSUF BAYIK ORTA OKULU YANI TOROSLAR (KURDALİ IŞIKLARI GEÇİNCE PETROL OFİSİ ARKA TARAFI )",
@@ -202,14 +192,14 @@
       "shiftend": "27.10.2026 08:00"
     },
     {
-      "name": "AYBÜKE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "FUAT MOREL MH. 28107 SK. NO:5/A Fuat morel mahallesi eski nene hatun asm karşısı bereket kasabı arkası",
-      "phone": "05550902063",
-      "lat": 36.815338,
-      "lon": 34.57299,
+      "name": "DAMLA ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TOZKOPARAN MAH. 87045 SOK. NO:23/B ÇUKUROVA İLKOKULU VE  TOZKOPARAN ASM KARŞISI",
+      "phone": "03248210000",
+      "lat": 36.819666,
+      "lon": 34.615181,
       "workdate": "26.10.2026 18:00",
-      "shiftend": "27.10.2026 00:00"
+      "shiftend": "27.10.2026 08:00"
     },
     {
       "name": "LAVİN ECZANESİ",
@@ -230,6 +220,16 @@
       "lon": 34.593642,
       "workdate": "26.10.2026 18:00",
       "shiftend": "27.10.2026 08:00"
+    },
+    {
+      "name": "AYBÜKE ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "FUAT MOREL MH. 28107 SK. NO:5/A Fuat morel mahallesi eski nene hatun asm karşısı bereket kasabı arkası",
+      "phone": "05550902063",
+      "lat": 36.815338,
+      "lon": 34.57299,
+      "workdate": "26.10.2026 18:00",
+      "shiftend": "27.10.2026 00:00"
     }
   ]
 }
