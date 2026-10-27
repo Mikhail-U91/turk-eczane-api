@@ -2,16 +2,6 @@
   "snapshot": "27.10.2026",
   "sonuc": [
     {
-      "name": "PINAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B  ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
-      "phone": "03243575857",
-      "lat": 36.809392,
-      "lon": 34.620776,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
       "name": "YAMAÇ ECZANESİ",
       "district": "AKDENİZ",
       "address": "ÇANKAYA MAH.123.CAD.NO: 11/A  ZEYTİNLİBAHÇE CD BİTİMİ İSTİKLAL CD KAVŞAĞI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242335624",
       "lat": 36.80713,
       "lon": 34.635298,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "PINAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B  ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
+      "phone": "03243575857",
+      "lat": 36.809392,
+      "lon": 34.620776,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
     },
@@ -92,16 +92,6 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "VERA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. 33180 SK. LARA KONUTLARI B BLOK ALTI NO:4G MEZİTLİ KİTAPSAN ARKASI",
-      "phone": "05454032022",
-      "lat": 36.755211,
-      "lon": 34.536686,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
       "name": "ESKİ MEZİTLİ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. ESKİKÖY CD. NO:34/A ESKİ MEZİTLİ YOLU ÜZERİ GELECEK OKULLARI  KARŞISI",
@@ -110,6 +100,16 @@
       "lon": 34.512154,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 00:00"
+    },
+    {
+      "name": "VERA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. 33180 SK. LARA KONUTLARI B BLOK ALTI NO:4G MEZİTLİ KİTAPSAN ARKASI",
+      "phone": "05454032022",
+      "lat": 36.755211,
+      "lon": 34.536686,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
     },
     {
       "name": "PINAR ECZANESİ",
@@ -142,6 +142,16 @@
       "shiftend": "28.10.2026 00:00"
     },
     {
+      "name": "ESİN ECZANESİ",
+      "district": "TARSUS",
+      "address": "Yeni Ömerli Mah.Atatürk Cad.Eliyeşil Apt. No:1/8  Tarsus parkı,Halk Eğt.Mer.karşısı",
+      "phone": "03246135755",
+      "lat": 36.917622,
+      "lon": 34.887073,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
+    },
+    {
       "name": "GÜLŞAH ECZANESİ",
       "district": "TARSUS",
       "address": "KIRKLARSIRTI MAH.CELAL BAYAR CAD.NO:31 Kırıklarsırtı Mh. Kırklarsırtı A.S.M civarı",
@@ -172,16 +182,6 @@
       "shiftend": "28.10.2026 00:00"
     },
     {
-      "name": "ESİN ECZANESİ",
-      "district": "TARSUS",
-      "address": "Yeni Ömerli Mah.Atatürk Cad.Eliyeşil Apt. No:1/8  Tarsus parkı,Halk Eğt.Mer.karşısı",
-      "phone": "03246135755",
-      "lat": 36.917622,
-      "lon": 34.887073,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
       "name": "DiNÇER ECZANESİ",
       "district": "TOROSLAR",
       "address": "TOZKOPARAN MAH.87045.SOK NO:14 TOZKOPARAN MAH 87045 SOK. NO 24 TOZKOPARAN SAĞLIK OCAĞI YANI/TOROSLAR",
@@ -198,6 +198,16 @@
       "phone": "03242241600",
       "lat": 36.836589,
       "lon": 34.609845,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "EKİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOMES SİTESİ D BLOK NO:6 ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
+      "phone": "03243372522",
+      "lat": 36.785434,
+      "lon": 34.54015,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
     },
@@ -220,16 +230,6 @@
       "lon": 34.600642,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 00:00"
-    },
-    {
-      "name": "EKİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOMES SİTESİ D BLOK NO:6 ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
-      "phone": "03243372522",
-      "lat": 36.785434,
-      "lon": 34.54015,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
     }
   ]
 }
