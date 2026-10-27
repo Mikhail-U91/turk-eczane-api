@@ -62,16 +62,6 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "KAR ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:78/A MERKEZ MH. KAZIM KARABEKİR CD. NO:78/A",
-      "phone": "03245151124",
-      "lat": 36.610454,
-      "lon": 34.302907,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
       "name": "SAMET ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH.A.SEVK CAD.NO:25/B  MÜFTÜLÜK YANI /ERDEMLİ",
@@ -80,6 +70,16 @@
       "lon": 34.313913,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 00:00"
+    },
+    {
+      "name": "KAR ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:78/A MERKEZ MH. KAZIM KARABEKİR CD. NO:78/A",
+      "phone": "03245151124",
+      "lat": 36.610454,
+      "lon": 34.302907,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
     },
     {
       "name": "GÖNEN ECZANESİ",
