@@ -142,26 +142,6 @@
       "shiftend": "28.10.2026 00:00"
     },
     {
-      "name": "AYHAN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58CD YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
-      "phone": "03246139630",
-      "lat": 36.914274,
-      "lon": 34.912861,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
-      "name": "VEYSEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "FAHRETTİNPAŞA MH. 1427 SK. NO:8/A FAHRETTTİNPAŞA MH. FAHRETTİNPAŞA ASM KARŞISI",
-      "phone": "03246136626",
-      "lat": 36.940359,
-      "lon": 34.897765,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 00:00"
-    },
-    {
       "name": "ESİN ECZANESİ",
       "district": "TARSUS",
       "address": "Yeni Ömerli Mah.Atatürk Cad.Eliyeşil Apt. No:1/8  Tarsus parkı,Halk Eğt.Mer.karşısı",
@@ -178,6 +158,26 @@
       "phone": "03246271355",
       "lat": 36.940593,
       "lon": 34.87238,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 00:00"
+    },
+    {
+      "name": "AYHAN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58CD YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
+      "phone": "03246139630",
+      "lat": 36.914274,
+      "lon": 34.912861,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "VEYSEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "FAHRETTİNPAŞA MH. 1427 SK. NO:8/A FAHRETTTİNPAŞA MH. FAHRETTİNPAŞA ASM KARŞISI",
+      "phone": "03246136626",
+      "lat": 36.940359,
+      "lon": 34.897765,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 00:00"
     },
