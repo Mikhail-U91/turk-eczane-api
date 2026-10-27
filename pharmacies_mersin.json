@@ -92,16 +92,6 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "ESKİ MEZİTLİ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. ESKİKÖY CD. NO:34/A ESKİ MEZİTLİ YOLU ÜZERİ GELECEK OKULLARI  KARŞISI",
-      "phone": "05526727696",
-      "lat": 36.743172,
-      "lon": 34.512154,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 00:00"
-    },
-    {
       "name": "VERA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENİ MH. 33180 SK. LARA KONUTLARI B BLOK ALTI NO:4G MEZİTLİ KİTAPSAN ARKASI",
@@ -110,6 +100,16 @@
       "lon": 34.536686,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "ESKİ MEZİTLİ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. ESKİKÖY CD. NO:34/A ESKİ MEZİTLİ YOLU ÜZERİ GELECEK OKULLARI  KARŞISI",
+      "phone": "05526727696",
+      "lat": 36.743172,
+      "lon": 34.512154,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 00:00"
     },
     {
       "name": "PINAR ECZANESİ",
@@ -142,26 +142,6 @@
       "shiftend": "28.10.2026 00:00"
     },
     {
-      "name": "VEYSEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "FAHRETTİNPAŞA MH. 1427 SK. NO:8/A FAHRETTTİNPAŞA MH. FAHRETTİNPAŞA ASM KARŞISI",
-      "phone": "03246136626",
-      "lat": 36.940359,
-      "lon": 34.897765,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 00:00"
-    },
-    {
-      "name": "ESİN ECZANESİ",
-      "district": "TARSUS",
-      "address": "Yeni Ömerli Mah.Atatürk Cad.Eliyeşil Apt. No:1/8  Tarsus parkı,Halk Eğt.Mer.karşısı",
-      "phone": "03246135755",
-      "lat": 36.917622,
-      "lon": 34.887073,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
       "name": "GÜLŞAH ECZANESİ",
       "district": "TARSUS",
       "address": "KIRKLARSIRTI MAH.CELAL BAYAR CAD.NO:31 Kırıklarsırtı Mh. Kırklarsırtı A.S.M civarı",
@@ -182,12 +162,22 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "AHU ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAGDAŞKENT MAH.232-1 CD. DIŞ KAPI NO:44 AB BLOK NO:H-1 ÇAĞDAŞKENT MH. TOROSLAR İLÇE SAĞLIK MÜD. VE SÜLEYMAN GÖK ASM CİVARI, A101 YANI",
-      "phone": "03242241600",
-      "lat": 36.836589,
-      "lon": 34.609845,
+      "name": "VEYSEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "FAHRETTİNPAŞA MH. 1427 SK. NO:8/A FAHRETTTİNPAŞA MH. FAHRETTİNPAŞA ASM KARŞISI",
+      "phone": "03246136626",
+      "lat": 36.940359,
+      "lon": 34.897765,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 00:00"
+    },
+    {
+      "name": "ESİN ECZANESİ",
+      "district": "TARSUS",
+      "address": "Yeni Ömerli Mah.Atatürk Cad.Eliyeşil Apt. No:1/8  Tarsus parkı,Halk Eğt.Mer.karşısı",
+      "phone": "03246135755",
+      "lat": 36.917622,
+      "lon": 34.887073,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
     },
@@ -198,6 +188,26 @@
       "phone": "03243215850",
       "lat": 36.819427,
       "lon": 34.615247,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "AHU ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAGDAŞKENT MAH.232-1 CD. DIŞ KAPI NO:44 AB BLOK NO:H-1 ÇAĞDAŞKENT MH. TOROSLAR İLÇE SAĞLIK MÜD. VE SÜLEYMAN GÖK ASM CİVARI, A101 YANI",
+      "phone": "03242241600",
+      "lat": 36.836589,
+      "lon": 34.609845,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "AKDAŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Barbaros Mah.2106 Sok. No:8/3  ADNAN ÖZÇELİK ORTAOKULU ÇAPRAZI YENİŞEHİR 1 NOLU ASM KARŞISI (GROSERİ ÇAPRAZ SOKAĞI)",
+      "phone": "03243271171",
+      "lat": 36.784912,
+      "lon": 34.579831,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
     },
@@ -218,16 +228,6 @@
       "phone": "03243372522",
       "lat": 36.785434,
       "lon": 34.54015,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
-      "name": "AKDAŞ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Barbaros Mah.2106 Sok. No:8/3  ADNAN ÖZÇELİK ORTAOKULU ÇAPRAZI YENİŞEHİR 1 NOLU ASM KARŞISI (GROSERİ ÇAPRAZ SOKAĞI)",
-      "phone": "03243271171",
-      "lat": 36.784912,
-      "lon": 34.579831,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
     }
