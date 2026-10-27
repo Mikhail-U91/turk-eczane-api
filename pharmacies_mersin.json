@@ -92,16 +92,6 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "ESKİ MEZİTLİ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. ESKİKÖY CD. NO:34/A ESKİ MEZİTLİ YOLU ÜZERİ GELECEK OKULLARI  KARŞISI",
-      "phone": "05526727696",
-      "lat": 36.743172,
-      "lon": 34.512154,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 00:00"
-    },
-    {
       "name": "VERA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENİ MH. 33180 SK. LARA KONUTLARI B BLOK ALTI NO:4G MEZİTLİ KİTAPSAN ARKASI",
@@ -110,6 +100,16 @@
       "lon": 34.536686,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "ESKİ MEZİTLİ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. ESKİKÖY CD. NO:34/A ESKİ MEZİTLİ YOLU ÜZERİ GELECEK OKULLARI  KARŞISI",
+      "phone": "05526727696",
+      "lat": 36.743172,
+      "lon": 34.512154,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 00:00"
     },
     {
       "name": "PINAR ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
-      "phone": "03247414067",
-      "lat": 36.319651,
-      "lon": 33.880229,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 00:00"
-    },
-    {
       "name": "GÖKSU ECZANESİ",
       "district": "SİLİFKE",
       "address": "Göksu Mah. Oğuz Kağan Cad.No:15/B  ESKİ SİLİFKE DEVLET HASTANESİ  YANI UFUK LOKANTASI KARŞISI",
@@ -142,14 +132,14 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "ESİN ECZANESİ",
-      "district": "TARSUS",
-      "address": "Yeni Ömerli Mah.Atatürk Cad.Eliyeşil Apt. No:1/8  Tarsus parkı,Halk Eğt.Mer.karşısı",
-      "phone": "03246135755",
-      "lat": 36.917622,
-      "lon": 34.887073,
+      "name": "SAĞLIK ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
+      "phone": "03247414067",
+      "lat": 36.319651,
+      "lon": 33.880229,
       "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
+      "shiftend": "28.10.2026 00:00"
     },
     {
       "name": "GÜLŞAH ECZANESİ",
@@ -180,6 +170,16 @@
       "lon": 34.897765,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 00:00"
+    },
+    {
+      "name": "ESİN ECZANESİ",
+      "district": "TARSUS",
+      "address": "Yeni Ömerli Mah.Atatürk Cad.Eliyeşil Apt. No:1/8  Tarsus parkı,Halk Eğt.Mer.karşısı",
+      "phone": "03246135755",
+      "lat": 36.917622,
+      "lon": 34.887073,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
     },
     {
       "name": "DiNÇER ECZANESİ",
