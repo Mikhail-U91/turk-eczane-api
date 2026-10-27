@@ -2,16 +2,6 @@
   "snapshot": "27.10.2026",
   "sonuc": [
     {
-      "name": "PINAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B  ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
-      "phone": "03243575857",
-      "lat": 36.809392,
-      "lon": 34.620776,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
       "name": "YAMAÇ ECZANESİ",
       "district": "AKDENİZ",
       "address": "ÇANKAYA MAH.123.CAD.NO: 11/A  ZEYTİNLİBAHÇE CD BİTİMİ İSTİKLAL CD KAVŞAĞI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242335624",
       "lat": 36.80713,
       "lon": 34.635298,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "PINAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B  ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
+      "phone": "03243575857",
+      "lat": 36.809392,
+      "lon": 34.620776,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "KAR ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:78/A MERKEZ MH. KAZIM KARABEKİR CD. NO:78/A",
-      "phone": "03245151124",
-      "lat": 36.610454,
-      "lon": 34.302907,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
       "name": "SAMET ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH.A.SEVK CAD.NO:25/B  MÜFTÜLÜK YANI /ERDEMLİ",
@@ -80,6 +70,16 @@
       "lon": 34.313913,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 00:00"
+    },
+    {
+      "name": "KAR ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:78/A MERKEZ MH. KAZIM KARABEKİR CD. NO:78/A",
+      "phone": "03245151124",
+      "lat": 36.610454,
+      "lon": 34.302907,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
     },
     {
       "name": "GÖNEN ECZANESİ",
@@ -122,6 +122,16 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
+      "name": "SAĞLIK ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
+      "phone": "03247414067",
+      "lat": 36.319651,
+      "lon": 33.880229,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 00:00"
+    },
+    {
       "name": "GÖKSU ECZANESİ",
       "district": "SİLİFKE",
       "address": "Göksu Mah. Oğuz Kağan Cad.No:15/B  ESKİ SİLİFKE DEVLET HASTANESİ  YANI UFUK LOKANTASI KARŞISI",
@@ -132,14 +142,14 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
-      "phone": "03247414067",
-      "lat": 36.319651,
-      "lon": 33.880229,
+      "name": "ESİN ECZANESİ",
+      "district": "TARSUS",
+      "address": "Yeni Ömerli Mah.Atatürk Cad.Eliyeşil Apt. No:1/8  Tarsus parkı,Halk Eğt.Mer.karşısı",
+      "phone": "03246135755",
+      "lat": 36.917622,
+      "lon": 34.887073,
       "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 00:00"
+      "shiftend": "28.10.2026 08:00"
     },
     {
       "name": "GÜLŞAH ECZANESİ",
@@ -172,16 +182,6 @@
       "shiftend": "28.10.2026 00:00"
     },
     {
-      "name": "ESİN ECZANESİ",
-      "district": "TARSUS",
-      "address": "Yeni Ömerli Mah.Atatürk Cad.Eliyeşil Apt. No:1/8  Tarsus parkı,Halk Eğt.Mer.karşısı",
-      "phone": "03246135755",
-      "lat": 36.917622,
-      "lon": 34.887073,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
       "name": "DiNÇER ECZANESİ",
       "district": "TOROSLAR",
       "address": "TOZKOPARAN MAH.87045.SOK NO:14 TOZKOPARAN MAH 87045 SOK. NO 24 TOZKOPARAN SAĞLIK OCAĞI YANI/TOROSLAR",
@@ -202,16 +202,6 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "ÇİĞDEM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "HÜRRİYET MAH.1742 SOK.NO:31 HÜRRİYET MH CARREFOUR YOLU ÜZERİ MİGROS MARKET ARKASI SAĞLIK OC. KRŞ/YENİŞEHİR",
-      "phone": "03243287355",
-      "lat": 36.793982,
-      "lon": 34.600642,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 00:00"
-    },
-    {
       "name": "EKİN ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOMES SİTESİ D BLOK NO:6 ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
@@ -230,6 +220,16 @@
       "lon": 34.579831,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "ÇİĞDEM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "HÜRRİYET MAH.1742 SOK.NO:31 HÜRRİYET MH CARREFOUR YOLU ÜZERİ MİGROS MARKET ARKASI SAĞLIK OC. KRŞ/YENİŞEHİR",
+      "phone": "03243287355",
+      "lat": 36.793982,
+      "lon": 34.600642,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 00:00"
     }
   ]
 }
