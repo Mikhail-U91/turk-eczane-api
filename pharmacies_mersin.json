@@ -92,16 +92,6 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "ESKİ MEZİTLİ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. ESKİKÖY CD. NO:34/A ESKİ MEZİTLİ YOLU ÜZERİ GELECEK OKULLARI  KARŞISI",
-      "phone": "05526727696",
-      "lat": 36.743172,
-      "lon": 34.512154,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 00:00"
-    },
-    {
       "name": "VERA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENİ MH. 33180 SK. LARA KONUTLARI B BLOK ALTI NO:4G MEZİTLİ KİTAPSAN ARKASI",
@@ -110,6 +100,16 @@
       "lon": 34.536686,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "ESKİ MEZİTLİ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. ESKİKÖY CD. NO:34/A ESKİ MEZİTLİ YOLU ÜZERİ GELECEK OKULLARI  KARŞISI",
+      "phone": "05526727696",
+      "lat": 36.743172,
+      "lon": 34.512154,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 00:00"
     },
     {
       "name": "PINAR ECZANESİ",
@@ -138,6 +138,16 @@
       "phone": "03247414067",
       "lat": 36.319651,
       "lon": 33.880229,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 00:00"
+    },
+    {
+      "name": "GÜLŞAH ECZANESİ",
+      "district": "TARSUS",
+      "address": "KIRKLARSIRTI MAH.CELAL BAYAR CAD.NO:31 Kırıklarsırtı Mh. Kırklarsırtı A.S.M civarı",
+      "phone": "03246271355",
+      "lat": 36.940593,
+      "lon": 34.87238,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 00:00"
     },
@@ -172,14 +182,14 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "GÜLŞAH ECZANESİ",
-      "district": "TARSUS",
-      "address": "KIRKLARSIRTI MAH.CELAL BAYAR CAD.NO:31 Kırıklarsırtı Mh. Kırklarsırtı A.S.M civarı",
-      "phone": "03246271355",
-      "lat": 36.940593,
-      "lon": 34.87238,
+      "name": "DiNÇER ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TOZKOPARAN MAH.87045.SOK NO:14 TOZKOPARAN MAH 87045 SOK. NO 24 TOZKOPARAN SAĞLIK OCAĞI YANI/TOROSLAR",
+      "phone": "03243215850",
+      "lat": 36.819427,
+      "lon": 34.615247,
       "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 00:00"
+      "shiftend": "28.10.2026 08:00"
     },
     {
       "name": "AHU ECZANESİ",
@@ -192,12 +202,12 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
-      "name": "DiNÇER ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TOZKOPARAN MAH.87045.SOK NO:14 TOZKOPARAN MAH 87045 SOK. NO 24 TOZKOPARAN SAĞLIK OCAĞI YANI/TOROSLAR",
-      "phone": "03243215850",
-      "lat": 36.819427,
-      "lon": 34.615247,
+      "name": "AKDAŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Barbaros Mah.2106 Sok. No:8/3  ADNAN ÖZÇELİK ORTAOKULU ÇAPRAZI YENİŞEHİR 1 NOLU ASM KARŞISI (GROSERİ ÇAPRAZ SOKAĞI)",
+      "phone": "03243271171",
+      "lat": 36.784912,
+      "lon": 34.579831,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
     },
@@ -218,16 +228,6 @@
       "phone": "03243372522",
       "lat": 36.785434,
       "lon": 34.54015,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
-      "name": "AKDAŞ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Barbaros Mah.2106 Sok. No:8/3  ADNAN ÖZÇELİK ORTAOKULU ÇAPRAZI YENİŞEHİR 1 NOLU ASM KARŞISI (GROSERİ ÇAPRAZ SOKAĞI)",
-      "phone": "03243271171",
-      "lat": 36.784912,
-      "lon": 34.579831,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
     }
