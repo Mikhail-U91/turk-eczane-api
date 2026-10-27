@@ -2,16 +2,6 @@
   "snapshot": "27.10.2026",
   "sonuc": [
     {
-      "name": "PINAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B  ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
-      "phone": "03243575857",
-      "lat": 36.809392,
-      "lon": 34.620776,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
-    },
-    {
       "name": "YAMAÇ ECZANESİ",
       "district": "AKDENİZ",
       "address": "ÇANKAYA MAH.123.CAD.NO: 11/A  ZEYTİNLİBAHÇE CD BİTİMİ İSTİKLAL CD KAVŞAĞI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242335624",
       "lat": 36.80713,
       "lon": 34.635298,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
+    },
+    {
+      "name": "PINAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B  ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
+      "phone": "03243575857",
+      "lat": 36.809392,
+      "lon": 34.620776,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 08:00"
     },
@@ -202,6 +202,16 @@
       "shiftend": "28.10.2026 08:00"
     },
     {
+      "name": "EKİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOMES SİTESİ D BLOK NO:6 ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
+      "phone": "03243372522",
+      "lat": 36.785434,
+      "lon": 34.54015,
+      "workdate": "27.10.2026 18:00",
+      "shiftend": "28.10.2026 08:00"
+    },
+    {
       "name": "AKDAŞ ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "Barbaros Mah.2106 Sok. No:8/3  ADNAN ÖZÇELİK ORTAOKULU ÇAPRAZI YENİŞEHİR 1 NOLU ASM KARŞISI (GROSERİ ÇAPRAZ SOKAĞI)",
@@ -220,16 +230,6 @@
       "lon": 34.600642,
       "workdate": "27.10.2026 18:00",
       "shiftend": "28.10.2026 00:00"
-    },
-    {
-      "name": "EKİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOMES SİTESİ D BLOK NO:6 ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
-      "phone": "03243372522",
-      "lat": 36.785434,
-      "lon": 34.54015,
-      "workdate": "27.10.2026 18:00",
-      "shiftend": "28.10.2026 08:00"
     }
   ]
 }
