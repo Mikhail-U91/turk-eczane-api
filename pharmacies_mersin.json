@@ -2,6 +2,16 @@
   "snapshot": "28.10.2026",
   "sonuc": [
     {
+      "name": "ADEM ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ISTIKLAL CAD.TURGUT REIS MAH.4119 SK.NO:159 İSTİKLAL CD ÖZEL IMC HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03242312255",
+      "lat": 36.793739,
+      "lon": 34.615747,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
       "name": "KAYA ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENI MAH. 5334 SOK. NO:6A YENİ MAH.ASM KARŞISI TOROS DEVLET ACİL GİRİŞİ KARŞI SOKAĞI  AKDENİZ/MERSİN",
@@ -18,16 +28,6 @@
       "phone": "03242374115",
       "lat": 36.801563,
       "lon": 34.629574,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "ADEM ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ISTIKLAL CAD.TURGUT REIS MAH.4119 SK.NO:159 İSTİKLAL CD ÖZEL IMC HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03242312255",
-      "lat": 36.793739,
-      "lon": 34.615747,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
     },
@@ -92,16 +92,6 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "KALEYOLU ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. KELVELİ CD. NO: 11/A YENİ MH. KELVELİ CD. - KALE YOLU - TOROS DEVLET HAST. MEZİTLİ SEMT POLİKLİNİĞİ CİVARI YENİ MH. MUHTARLIĞI KARŞISI /MEZİTLİ",
-      "phone": "05331955877",
-      "lat": 36.757277,
-      "lon": 34.536845,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
       "name": "HACETTEPE ECZANESİ",
       "district": "MEZİTLİ",
       "address": "AKDENİZ MH. CUMHURİYET CD. MERSİNE PARK 3 APT. ALTI NO:12/F AKDENİZ MH. CUMHURİYET CD.- YAŞARDOĞU CD. KAVŞAĞI ŞOK MARKET KARŞISI MERSİNE PARK 3 APT. ALTI   /MEZİTLİ",
@@ -112,22 +102,22 @@
       "shiftend": "29.10.2026 00:00"
     },
     {
+      "name": "KALEYOLU ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. KELVELİ CD. NO: 11/A YENİ MH. KELVELİ CD. - KALE YOLU - TOROS DEVLET HAST. MEZİTLİ SEMT POLİKLİNİĞİ CİVARI YENİ MH. MUHTARLIĞI KARŞISI /MEZİTLİ",
+      "phone": "05331955877",
+      "lat": 36.757277,
+      "lon": 34.536845,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
       "name": "KEREM ECZANESİ",
       "district": "MUT",
       "address": "YATIRTAŞ MH. UĞUR MUMCU CD. NO:13A ESKİ DEVLET HASTANESİ KARŞISI",
       "phone": "03247748362",
       "lat": 36.640466,
       "lon": 33.433466,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "TUĞBA ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MAH. TAŞUCU MÜCAVİR SOKAK DIŞ KAPI NO:6  BURUNUCU MH. NO:436/6 TAŞUCU",
-      "phone": "03247150078",
-      "lat": 36.343345,
-      "lon": 33.918199,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
     },
@@ -152,24 +142,14 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "ÜNAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246244070",
-      "lat": 36.914494,
-      "lon": 34.912114,
+      "name": "TUĞBA ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MAH. TAŞUCU MÜCAVİR SOKAK DIŞ KAPI NO:6  BURUNUCU MH. NO:436/6 TAŞUCU",
+      "phone": "03247150078",
+      "lat": 36.343345,
+      "lon": 33.918199,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "GÜLEÇ ECZANESİ",
-      "district": "TARSUS",
-      "address": "Fevzi Çakmak Mh. Mehmet Reşat Karamehmet  Sk. No:6  FEVZİ ÇAKMAK MH. MEHMET REŞAT KARAMEHMET SK. FEVZİ ÇAKMAK ASM YANI TARSUS",
-      "phone": "03246133637",
-      "lat": 36.92432,
-      "lon": 34.904585,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 00:00"
     },
     {
       "name": "İÇEL ECZANESİ",
@@ -192,14 +172,24 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "YALINAYAK MH. 102055 SK. NO:17/A LALE GIDA - HURDACILAR SİTESİ  ARKASI, ÇİFTÇİLER ASM YAKINI.",
-      "phone": "03242292779",
-      "lat": 36.842292,
-      "lon": 34.641194,
+      "name": "ÜNAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246244070",
+      "lat": 36.914494,
+      "lon": 34.912114,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
+    },
+    {
+      "name": "GÜLEÇ ECZANESİ",
+      "district": "TARSUS",
+      "address": "Fevzi Çakmak Mh. Mehmet Reşat Karamehmet  Sk. No:6  FEVZİ ÇAKMAK MH. MEHMET REŞAT KARAMEHMET SK. FEVZİ ÇAKMAK ASM YANI TARSUS",
+      "phone": "03246133637",
+      "lat": 36.92432,
+      "lon": 34.904585,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 00:00"
     },
     {
       "name": "TUNA ECZANESİ",
@@ -210,6 +200,26 @@
       "lon": 34.610211,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
+    },
+    {
+      "name": "SAĞLIK ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "YALINAYAK MH. 102055 SK. NO:17/A LALE GIDA - HURDACILAR SİTESİ  ARKASI, ÇİFTÇİLER ASM YAKINI.",
+      "phone": "03242292779",
+      "lat": 36.842292,
+      "lon": 34.641194,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
+      "name": "AYSU KÖSEL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BAHÇELİEVLER MH. 16. CD. NO:5E 45 EVLER YOLU SUPHİ ŞALGAM KARŞISI",
+      "phone": "03243267289",
+      "lat": 36.785419,
+      "lon": 34.600074,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 00:00"
     },
     {
       "name": "SİNGEÇ  ECZANESİ",
@@ -230,16 +240,6 @@
       "lon": 34.562205,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "AYSU KÖSEL ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BAHÇELİEVLER MH. 16. CD. NO:5E 45 EVLER YOLU SUPHİ ŞALGAM KARŞISI",
-      "phone": "03243267289",
-      "lat": 36.785419,
-      "lon": 34.600074,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 00:00"
     }
   ]
 }
