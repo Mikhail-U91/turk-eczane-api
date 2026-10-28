@@ -2,6 +2,16 @@
   "snapshot": "28.10.2026",
   "sonuc": [
     {
+      "name": "ADEM ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ISTIKLAL CAD.TURGUT REIS MAH.4119 SK.NO:159 İSTİKLAL CD ÖZEL IMC HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03242312255",
+      "lat": 36.793739,
+      "lon": 34.615747,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
       "name": "KAYA ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENI MAH. 5334 SOK. NO:6A YENİ MAH.ASM KARŞISI TOROS DEVLET ACİL GİRİŞİ KARŞI SOKAĞI  AKDENİZ/MERSİN",
@@ -18,16 +28,6 @@
       "phone": "03242374115",
       "lat": 36.801563,
       "lon": 34.629574,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "ADEM ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ISTIKLAL CAD.TURGUT REIS MAH.4119 SK.NO:159 İSTİKLAL CD ÖZEL IMC HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03242312255",
-      "lat": 36.793739,
-      "lon": 34.615747,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
     },
@@ -122,6 +122,16 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
+      "name": "ÖZNUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A GAZİ ASM KARŞISI",
+      "phone": "03247141418",
+      "lat": 36.380707,
+      "lon": 33.92724,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
       "name": "TUĞBA ECZANESİ",
       "district": "SİLİFKE",
       "address": "BURUNUCU MAH. TAŞUCU MÜCAVİR SOKAK DIŞ KAPI NO:6  BURUNUCU MH. NO:436/6 TAŞUCU",
@@ -138,36 +148,6 @@
       "phone": "03247413020",
       "lat": 36.322618,
       "lon": 33.884339,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 00:00"
-    },
-    {
-      "name": "ÖZNUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A GAZİ ASM KARŞISI",
-      "phone": "03247141418",
-      "lat": 36.380707,
-      "lon": 33.92724,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "ÜNAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246244070",
-      "lat": 36.914494,
-      "lon": 34.912114,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "GÜLEÇ ECZANESİ",
-      "district": "TARSUS",
-      "address": "Fevzi Çakmak Mh. Mehmet Reşat Karamehmet  Sk. No:6  FEVZİ ÇAKMAK MH. MEHMET REŞAT KARAMEHMET SK. FEVZİ ÇAKMAK ASM YANI TARSUS",
-      "phone": "03246133637",
-      "lat": 36.92432,
-      "lon": 34.904585,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 00:00"
     },
@@ -190,6 +170,26 @@
       "lon": 34.880789,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
+    },
+    {
+      "name": "ÜNAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246244070",
+      "lat": 36.914494,
+      "lon": 34.912114,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
+      "name": "GÜLEÇ ECZANESİ",
+      "district": "TARSUS",
+      "address": "Fevzi Çakmak Mh. Mehmet Reşat Karamehmet  Sk. No:6  FEVZİ ÇAKMAK MH. MEHMET REŞAT KARAMEHMET SK. FEVZİ ÇAKMAK ASM YANI TARSUS",
+      "phone": "03246133637",
+      "lat": 36.92432,
+      "lon": 34.904585,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 00:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
