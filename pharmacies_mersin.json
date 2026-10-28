@@ -62,16 +62,6 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "GÜNEŞ ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. HOCA AHMET YESEVİ SK. NO:5E  MERKEZ MH. ÖZEL YENİŞEHİR HASTANESİ YANI - ERDEMLİ",
-      "phone": "03245161019",
-      "lat": 36.605452,
-      "lon": 34.312587,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 00:00"
-    },
-    {
       "name": "KÜBRA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:86/E MERKEZ MH. KAZIM KARABEKİR CD. 86/E   ERDEMLİ",
@@ -82,22 +72,22 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
+      "name": "GÜNEŞ ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. HOCA AHMET YESEVİ SK. NO:5E  MERKEZ MH. ÖZEL YENİŞEHİR HASTANESİ YANI - ERDEMLİ",
+      "phone": "03245161019",
+      "lat": 36.605452,
+      "lon": 34.312587,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 00:00"
+    },
+    {
       "name": "ARIKAN ECZANESİ",
       "district": "GÜLNAR",
       "address": "SARAY MAH.DEMİROLUK CAD.NO:4/5  SARAY MH. DEMİROLUK CD. NO:4/5",
       "phone": "03247517282",
       "lat": 36.338381,
       "lon": 33.40337,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "KALEYOLU ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. KELVELİ CD. NO: 11/A YENİ MH. KELVELİ CD. - KALE YOLU - TOROS DEVLET HAST. MEZİTLİ SEMT POLİKLİNİĞİ CİVARI YENİ MH. MUHTARLIĞI KARŞISI /MEZİTLİ",
-      "phone": "05331955877",
-      "lat": 36.757277,
-      "lon": 34.536845,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
     },
@@ -112,22 +102,22 @@
       "shiftend": "29.10.2026 00:00"
     },
     {
+      "name": "KALEYOLU ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. KELVELİ CD. NO: 11/A YENİ MH. KELVELİ CD. - KALE YOLU - TOROS DEVLET HAST. MEZİTLİ SEMT POLİKLİNİĞİ CİVARI YENİ MH. MUHTARLIĞI KARŞISI /MEZİTLİ",
+      "phone": "05331955877",
+      "lat": 36.757277,
+      "lon": 34.536845,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
       "name": "KEREM ECZANESİ",
       "district": "MUT",
       "address": "YATIRTAŞ MH. UĞUR MUMCU CD. NO:13A ESKİ DEVLET HASTANESİ KARŞISI",
       "phone": "03247748362",
       "lat": 36.640466,
       "lon": 33.433466,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "ÖZNUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A GAZİ ASM KARŞISI",
-      "phone": "03247141418",
-      "lat": 36.380707,
-      "lon": 33.92724,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
     },
@@ -150,6 +140,16 @@
       "lon": 33.884339,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 00:00"
+    },
+    {
+      "name": "ÖZNUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A GAZİ ASM KARŞISI",
+      "phone": "03247141418",
+      "lat": 36.380707,
+      "lon": 33.92724,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
     },
     {
       "name": "İÇEL ECZANESİ",
