@@ -92,16 +92,6 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "KALEYOLU ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. KELVELİ CD. NO: 11/A YENİ MH. KELVELİ CD. - KALE YOLU - TOROS DEVLET HAST. MEZİTLİ SEMT POLİKLİNİĞİ CİVARI YENİ MH. MUHTARLIĞI KARŞISI /MEZİTLİ",
-      "phone": "05331955877",
-      "lat": 36.757277,
-      "lon": 34.536845,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
       "name": "HACETTEPE ECZANESİ",
       "district": "MEZİTLİ",
       "address": "AKDENİZ MH. CUMHURİYET CD. MERSİNE PARK 3 APT. ALTI NO:12/F AKDENİZ MH. CUMHURİYET CD.- YAŞARDOĞU CD. KAVŞAĞI ŞOK MARKET KARŞISI MERSİNE PARK 3 APT. ALTI   /MEZİTLİ",
@@ -110,6 +100,16 @@
       "lon": 34.507505,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 00:00"
+    },
+    {
+      "name": "KALEYOLU ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. KELVELİ CD. NO: 11/A YENİ MH. KELVELİ CD. - KALE YOLU - TOROS DEVLET HAST. MEZİTLİ SEMT POLİKLİNİĞİ CİVARI YENİ MH. MUHTARLIĞI KARŞISI /MEZİTLİ",
+      "phone": "05331955877",
+      "lat": 36.757277,
+      "lon": 34.536845,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
     },
     {
       "name": "KEREM ECZANESİ",
@@ -212,16 +212,6 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "AYSU KÖSEL ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BAHÇELİEVLER MH. 16. CD. NO:5E 45 EVLER YOLU SUPHİ ŞALGAM KARŞISI",
-      "phone": "03243267289",
-      "lat": 36.785419,
-      "lon": 34.600074,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 00:00"
-    },
-    {
       "name": "SİNGEÇ  ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "MENTEŞ MAH.BARBAROS CAD.NO:101/B MENTEŞ MAH. BARBAROS BULVARI ÖZEL AKADEMİ HASTANESİ YANI / YENİŞEHİR",
@@ -240,6 +230,16 @@
       "lon": 34.562205,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
+    },
+    {
+      "name": "AYSU KÖSEL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BAHÇELİEVLER MH. 16. CD. NO:5E 45 EVLER YOLU SUPHİ ŞALGAM KARŞISI",
+      "phone": "03243267289",
+      "lat": 36.785419,
+      "lon": 34.600074,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 00:00"
     }
   ]
 }
