@@ -192,6 +192,16 @@
       "shiftend": "29.10.2026 00:00"
     },
     {
+      "name": "TUNA ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39CH MERSİN ŞEHİR HASTANESİ,ACİL SERVİS AMBULANS GİRİŞİ KARŞISI",
+      "phone": "03245039500",
+      "lat": 36.854839,
+      "lon": 34.610211,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
       "name": "SAĞLIK ECZANESİ",
       "district": "TOROSLAR",
       "address": "YALINAYAK MH. 102055 SK. NO:17/A LALE GIDA - HURDACILAR SİTESİ  ARKASI, ÇİFTÇİLER ASM YAKINI.",
@@ -202,14 +212,14 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "TUNA ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39CH MERSİN ŞEHİR HASTANESİ,ACİL SERVİS AMBULANS GİRİŞİ KARŞISI",
-      "phone": "03245039500",
-      "lat": 36.854839,
-      "lon": 34.610211,
+      "name": "AYSU KÖSEL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BAHÇELİEVLER MH. 16. CD. NO:5E 45 EVLER YOLU SUPHİ ŞALGAM KARŞISI",
+      "phone": "03243267289",
+      "lat": 36.785419,
+      "lon": 34.600074,
       "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
+      "shiftend": "29.10.2026 00:00"
     },
     {
       "name": "SİNGEÇ  ECZANESİ",
@@ -230,16 +240,6 @@
       "lon": 34.562205,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "AYSU KÖSEL ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BAHÇELİEVLER MH. 16. CD. NO:5E 45 EVLER YOLU SUPHİ ŞALGAM KARŞISI",
-      "phone": "03243267289",
-      "lat": 36.785419,
-      "lon": 34.600074,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 00:00"
     }
   ]
 }
