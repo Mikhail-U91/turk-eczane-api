@@ -152,26 +152,6 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "İÇEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
-      "phone": "03245022433",
-      "lat": 36.920193,
-      "lon": 34.878316,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 00:00"
-    },
-    {
-      "name": "BOZKIR  ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. 2907 SOK. FESLİ APT ALTI NO:32 Öğretmenler Mah.2907 Sk.ASM Karşısı",
-      "phone": "03246273200",
-      "lat": 36.911462,
-      "lon": 34.880789,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
       "name": "ÜNAL ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
@@ -190,6 +170,26 @@
       "lon": 34.904585,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 00:00"
+    },
+    {
+      "name": "İÇEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
+      "phone": "03245022433",
+      "lat": 36.920193,
+      "lon": 34.878316,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 00:00"
+    },
+    {
+      "name": "BOZKIR  ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. 2907 SOK. FESLİ APT ALTI NO:32 Öğretmenler Mah.2907 Sk.ASM Karşısı",
+      "phone": "03246273200",
+      "lat": 36.911462,
+      "lon": 34.880789,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
