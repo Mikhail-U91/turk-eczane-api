@@ -92,16 +92,6 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "HACETTEPE ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "AKDENİZ MH. CUMHURİYET CD. MERSİNE PARK 3 APT. ALTI NO:12/F AKDENİZ MH. CUMHURİYET CD.- YAŞARDOĞU CD. KAVŞAĞI ŞOK MARKET KARŞISI MERSİNE PARK 3 APT. ALTI   /MEZİTLİ",
-      "phone": "03243582896",
-      "lat": 36.732435,
-      "lon": 34.507505,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 00:00"
-    },
-    {
       "name": "KALEYOLU ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENİ MH. KELVELİ CD. NO: 11/A YENİ MH. KELVELİ CD. - KALE YOLU - TOROS DEVLET HAST. MEZİTLİ SEMT POLİKLİNİĞİ CİVARI YENİ MH. MUHTARLIĞI KARŞISI /MEZİTLİ",
@@ -112,6 +102,16 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
+      "name": "HACETTEPE ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "AKDENİZ MH. CUMHURİYET CD. MERSİNE PARK 3 APT. ALTI NO:12/F AKDENİZ MH. CUMHURİYET CD.- YAŞARDOĞU CD. KAVŞAĞI ŞOK MARKET KARŞISI MERSİNE PARK 3 APT. ALTI   /MEZİTLİ",
+      "phone": "03243582896",
+      "lat": 36.732435,
+      "lon": 34.507505,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 00:00"
+    },
+    {
       "name": "KEREM ECZANESİ",
       "district": "MUT",
       "address": "YATIRTAŞ MH. UĞUR MUMCU CD. NO:13A ESKİ DEVLET HASTANESİ KARŞISI",
@@ -120,16 +120,6 @@
       "lon": 33.433466,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
-    },
-    {
-      "name": "MİRA ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A TAŞUCU KAPALI PAZAR YERİ KARŞISI",
-      "phone": "03247413020",
-      "lat": 36.322618,
-      "lon": 33.884339,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 00:00"
     },
     {
       "name": "ÖZNUR ECZANESİ",
@@ -152,12 +142,12 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "İÇEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
-      "phone": "03245022433",
-      "lat": 36.920193,
-      "lon": 34.878316,
+      "name": "MİRA ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A TAŞUCU KAPALI PAZAR YERİ KARŞISI",
+      "phone": "03247413020",
+      "lat": 36.322618,
+      "lon": 33.884339,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 00:00"
     },
@@ -192,14 +182,14 @@
       "shiftend": "29.10.2026 00:00"
     },
     {
-      "name": "TUNA ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39CH MERSİN ŞEHİR HASTANESİ,ACİL SERVİS AMBULANS GİRİŞİ KARŞISI",
-      "phone": "03245039500",
-      "lat": 36.854839,
-      "lon": 34.610211,
+      "name": "İÇEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
+      "phone": "03245022433",
+      "lat": 36.920193,
+      "lon": 34.878316,
       "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
+      "shiftend": "29.10.2026 00:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
@@ -208,6 +198,16 @@
       "phone": "03242292779",
       "lat": 36.842292,
       "lon": 34.641194,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
+      "name": "TUNA ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39CH MERSİN ŞEHİR HASTANESİ,ACİL SERVİS AMBULANS GİRİŞİ KARŞISI",
+      "phone": "03245039500",
+      "lat": 36.854839,
+      "lon": 34.610211,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
     },
