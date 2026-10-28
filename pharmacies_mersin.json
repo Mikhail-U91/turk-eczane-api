@@ -2,16 +2,6 @@
   "snapshot": "28.10.2026",
   "sonuc": [
     {
-      "name": "ADEM ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ISTIKLAL CAD.TURGUT REIS MAH.4119 SK.NO:159 İSTİKLAL CD ÖZEL IMC HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03242312255",
-      "lat": 36.793739,
-      "lon": 34.615747,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
       "name": "KAYA ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENI MAH. 5334 SOK. NO:6A YENİ MAH.ASM KARŞISI TOROS DEVLET ACİL GİRİŞİ KARŞI SOKAĞI  AKDENİZ/MERSİN",
@@ -28,6 +18,16 @@
       "phone": "03242374115",
       "lat": 36.801563,
       "lon": 34.629574,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
+    },
+    {
+      "name": "ADEM ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ISTIKLAL CAD.TURGUT REIS MAH.4119 SK.NO:159 İSTİKLAL CD ÖZEL IMC HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03242312255",
+      "lat": 36.793739,
+      "lon": 34.615747,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 08:00"
     },
@@ -122,16 +122,6 @@
       "shiftend": "29.10.2026 08:00"
     },
     {
-      "name": "ÖZNUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A GAZİ ASM KARŞISI",
-      "phone": "03247141418",
-      "lat": 36.380707,
-      "lon": 33.92724,
-      "workdate": "28.10.2026 13:00",
-      "shiftend": "29.10.2026 08:00"
-    },
-    {
       "name": "TUĞBA ECZANESİ",
       "district": "SİLİFKE",
       "address": "BURUNUCU MAH. TAŞUCU MÜCAVİR SOKAK DIŞ KAPI NO:6  BURUNUCU MH. NO:436/6 TAŞUCU",
@@ -150,6 +140,16 @@
       "lon": 33.884339,
       "workdate": "28.10.2026 13:00",
       "shiftend": "29.10.2026 00:00"
+    },
+    {
+      "name": "ÖZNUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A GAZİ ASM KARŞISI",
+      "phone": "03247141418",
+      "lat": 36.380707,
+      "lon": 33.92724,
+      "workdate": "28.10.2026 13:00",
+      "shiftend": "29.10.2026 08:00"
     },
     {
       "name": "İÇEL ECZANESİ",
