@@ -1,0 +1,245 @@
+{
+  "snapshot": "29.10.2026",
+  "sonuc": [
+    {
+      "name": "JİYAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
+      "phone": "03242342078",
+      "lat": 36.825434,
+      "lon": 34.64218,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
+    },
+    {
+      "name": "METİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:175/D ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ  AKDENİZ",
+      "phone": "03243362660",
+      "lat": 36.809282,
+      "lon": 34.620819,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "LİMON ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MH. 5328 SK. NO:11/A-B YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
+      "phone": "03242375070",
+      "lat": 36.805636,
+      "lon": 34.633297,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "ÖZEN ECZANESİ",
+      "district": "ANAMUR",
+      "address": "BAHÇE MAH. HOCA AHMET YESEVI SOK. C BLOK NO:14 ÖZEL ANAMED HASTANESİ KARŞISI",
+      "phone": "03248149000",
+      "lat": 36.078732,
+      "lon": 32.849304,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "KUTAY ECZANESİ",
+      "district": "AYDINCIK",
+      "address": "CUMHURİYET MAH. SİLİFKE CAD. NO:1/D CUMHURİYET MH. HASTANE CAD. AYDINCIK DEVLET HAST. KARŞISI",
+      "phone": "03248412233",
+      "lat": 36.152821,
+      "lon": 33.33882,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "NİL ECZANESİ",
+      "district": "BOZYAZI",
+      "address": "MERKEZ MH. SAĞLIK SK. NO:8/7 MERKEZ MH. SAĞLIK SK. NO:8/7",
+      "phone": "03248516988",
+      "lat": 36.106045,
+      "lon": 32.970603,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "MELTEM ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:18/D ALATA ASM YANI , ERDEMLİ MÜFTÜLÜĞÜ KARŞISI",
+      "phone": "05015522907",
+      "lat": 36.604774,
+      "lon": 34.313548,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
+    },
+    {
+      "name": "BİLGEN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:80 B BLOK Z-35 MERKEZ MH. KAZIM KARABEKIR CD. 80/B BLOK Z-35",
+      "phone": "03245157575",
+      "lat": 36.611011,
+      "lon": 34.302437,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "BÜŞRA ECZANESİ",
+      "district": "GÜLNAR",
+      "address": "HACIPINAR MH. ATATÜRK CD. NO:45 ÇARŞI İÇİ , MERKEZ CAMİ KARŞISI",
+      "phone": "05335469098",
+      "lat": 36.338377,
+      "lon": 33.40094,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "SOLENA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. 31045 SK. NO:18A  ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ CİVARI",
+      "phone": "03242215186",
+      "lat": 36.765404,
+      "lon": 34.547151,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "ÖZGE GÖKMEN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. 52081 SK. NO:3A KUYULUK YOLU - BİM MARKET ARKASI RAİN 10 HACI ÖZEL SİTESİ ALTI- OSMANGAZİ ASM CİVARI - MEZİTLİ",
+      "phone": "05455923332",
+      "lat": 36.750587,
+      "lon": 34.520894,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "BEYZA ECZANESİ",
+      "district": "MUT",
+      "address": "YATIRTAŞ MH. UĞUR MUMCU CD. NO:15A YATIRTAŞ MH. ESKİ DEVLET HASTANESİ KARŞISI",
+      "phone": "03247741011",
+      "lat": 36.640361,
+      "lon": 33.433264,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "SAĞLIK ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "SARICALAR MAH. TÜRKMENLİ SOK.NO:8/2 SARICALAR MH. TÜRKMENLİ SK. NO:8/2",
+      "phone": "03247142938",
+      "lat": 36.383348,
+      "lon": 33.945182,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "ÜNAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
+      "phone": "03247147559",
+      "lat": 36.381093,
+      "lon": 33.926139,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "ERDAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
+      "phone": "03247412997",
+      "lat": 36.319542,
+      "lon": 33.875585,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
+    },
+    {
+      "name": "TARSUS   ECZANESİ",
+      "district": "TARSUS",
+      "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
+      "phone": "03246131326",
+      "lat": 36.929412,
+      "lon": 34.889478,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
+    },
+    {
+      "name": "BURCU ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MAH. 3745 SOK. NO:2/A",
+      "phone": "03245036655",
+      "lat": 36.914412,
+      "lon": 34.912057,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "ANIT ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
+      "phone": "03246258777",
+      "lat": 36.920563,
+      "lon": 34.877712,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
+    },
+    {
+      "name": "GANNEMOĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03246140036",
+      "lat": 36.909222,
+      "lon": 34.883157,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "YILDIZELİ ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "GÜNEYKENT MH. FARABİ CD. 38 SK. NO:23 GÜNEYKENT FARABİ A101 KARŞISI , GÜNEYKENT SAĞLIK OCAĞI YANI, GÜNEYKENT TAKSİ DURAĞI 500M KUZEYİ",
+      "phone": "03242232104",
+      "lat": 36.83958,
+      "lon": 34.630265,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "SİTELER ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KURDALI MAH.10041.SOK NO:5 KURDALİ MAH 100041 SK NO 5 SELAHATTİN YANPAR SAĞLIK OCAĞI YANI/TOROSLAR",
+      "phone": "03243205590",
+      "lat": 36.82626,
+      "lon": 34.625021,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "AKÇAAĞAÇ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "İNÖNÜ MH.GAZİ MUSTAFA KEMAL BULV. NO:405A POZCU TEB BANKASI YANI",
+      "phone": "05334400283",
+      "lat": 36.781767,
+      "lon": 34.591691,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "FAKÜLTE ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOMES C BLOK NO: 24 CG  MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI/YENİŞEHİR",
+      "phone": "03242902206",
+      "lat": 36.786027,
+      "lon": 34.53986,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "GÜNGÖR ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "HÜRRIYET MAH.1742 SOK.NO:35/B HÜRRİYET MH. 1742 SK. CARREFOUR YOLU ÜZERİ MİGROS MARKET ARKA SOKAĞI 11 NOLU SAĞLIK OCAĞI KARŞISI/YENİŞEHİR",
+      "phone": "03243276507",
+      "lat": 36.793697,
+      "lon": 34.601047,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
+    }
+  ]
+}
