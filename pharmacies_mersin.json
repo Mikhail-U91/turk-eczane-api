@@ -62,16 +62,6 @@
       "shiftend": "30.10.2026 08:00"
     },
     {
-      "name": "BİLGEN ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:80 B BLOK Z-35 MERKEZ MH. KAZIM KARABEKIR CD. 80/B BLOK Z-35",
-      "phone": "03245157575",
-      "lat": 36.611011,
-      "lon": 34.302437,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
-    },
-    {
       "name": "MELTEM ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:18/D ALATA ASM YANI , ERDEMLİ MÜFTÜLÜĞÜ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.313548,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 00:00"
+    },
+    {
+      "name": "BİLGEN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:80 B BLOK Z-35 MERKEZ MH. KAZIM KARABEKIR CD. 80/B BLOK Z-35",
+      "phone": "03245157575",
+      "lat": 36.611011,
+      "lon": 34.302437,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
     },
     {
       "name": "BÜŞRA ECZANESİ",
