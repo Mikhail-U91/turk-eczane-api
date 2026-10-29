@@ -152,6 +152,16 @@
       "shiftend": "30.10.2026 00:00"
     },
     {
+      "name": "BURCU ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MAH. 3745 SOK. NO:2/A",
+      "phone": "03245036655",
+      "lat": 36.914412,
+      "lon": 34.912057,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
       "name": "ANIT ECZANESİ",
       "district": "TARSUS",
       "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
@@ -180,16 +190,6 @@
       "lon": 34.889478,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 00:00"
-    },
-    {
-      "name": "BURCU ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MAH. 3745 SOK. NO:2/A",
-      "phone": "03245036655",
-      "lat": 36.914412,
-      "lon": 34.912057,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
     },
     {
       "name": "YILDIZELİ ECZANESİ",
