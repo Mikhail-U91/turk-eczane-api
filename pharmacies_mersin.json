@@ -212,6 +212,16 @@
       "shiftend": "30.10.2026 08:00"
     },
     {
+      "name": "AKÇAAĞAÇ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "İNÖNÜ MH.GAZİ MUSTAFA KEMAL BULV. NO:405A POZCU TEB BANKASI YANI",
+      "phone": "05334400283",
+      "lat": 36.781767,
+      "lon": 34.591691,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
       "name": "FAKÜLTE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOMES C BLOK NO: 24 CG  MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI/YENİŞEHİR",
@@ -230,16 +240,6 @@
       "lon": 34.601047,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 00:00"
-    },
-    {
-      "name": "AKÇAAĞAÇ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "İNÖNÜ MH.GAZİ MUSTAFA KEMAL BULV. NO:405A POZCU TEB BANKASI YANI",
-      "phone": "05334400283",
-      "lat": 36.781767,
-      "lon": 34.591691,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
     }
   ]
 }
