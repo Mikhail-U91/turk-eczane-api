@@ -192,22 +192,22 @@
       "shiftend": "30.10.2026 08:00"
     },
     {
-      "name": "SİTELER ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KURDALI MAH.10041.SOK NO:5 KURDALİ MAH 100041 SK NO 5 SELAHATTİN YANPAR SAĞLIK OCAĞI YANI/TOROSLAR",
-      "phone": "03243205590",
-      "lat": 36.82626,
-      "lon": 34.625021,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
-    },
-    {
       "name": "YILDIZELİ ECZANESİ",
       "district": "TOROSLAR",
       "address": "GÜNEYKENT MH. FARABİ CD. 38 SK. NO:23 GÜNEYKENT FARABİ A101 KARŞISI , GÜNEYKENT SAĞLIK OCAĞI YANI, GÜNEYKENT TAKSİ DURAĞI 500M KUZEYİ",
       "phone": "03242232104",
       "lat": 36.83958,
       "lon": 34.630265,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "SİTELER ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KURDALI MAH.10041.SOK NO:5 KURDALİ MAH 100041 SK NO 5 SELAHATTİN YANPAR SAĞLIK OCAĞI YANI/TOROSLAR",
+      "phone": "03243205590",
+      "lat": 36.82626,
+      "lon": 34.625021,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 08:00"
     },
