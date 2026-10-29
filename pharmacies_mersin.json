@@ -2,16 +2,6 @@
   "snapshot": "29.10.2026",
   "sonuc": [
     {
-      "name": "JİYAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
-      "phone": "03242342078",
-      "lat": 36.825434,
-      "lon": 34.64218,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 00:00"
-    },
-    {
       "name": "METİN ECZANESİ",
       "district": "AKDENİZ",
       "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:175/D ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ  AKDENİZ",
@@ -30,6 +20,16 @@
       "lon": 34.633297,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "JİYAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
+      "phone": "03242342078",
+      "lat": 36.825434,
+      "lon": 34.64218,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
     },
     {
       "name": "ÖZEN ECZANESİ",
@@ -152,16 +152,6 @@
       "shiftend": "30.10.2026 00:00"
     },
     {
-      "name": "TARSUS   ECZANESİ",
-      "district": "TARSUS",
-      "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
-      "phone": "03246131326",
-      "lat": 36.929412,
-      "lon": 34.889478,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 00:00"
-    },
-    {
       "name": "BURCU ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MAH. 3745 SOK. NO:2/A",
@@ -190,6 +180,16 @@
       "lon": 34.883157,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "TARSUS   ECZANESİ",
+      "district": "TARSUS",
+      "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
+      "phone": "03246131326",
+      "lat": 36.929412,
+      "lon": 34.889478,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
     },
     {
       "name": "YILDIZELİ ECZANESİ",
