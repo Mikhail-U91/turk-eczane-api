@@ -62,16 +62,6 @@
       "shiftend": "30.10.2026 08:00"
     },
     {
-      "name": "MELTEM ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:18/D ALATA ASM YANI , ERDEMLİ MÜFTÜLÜĞÜ KARŞISI",
-      "phone": "05015522907",
-      "lat": 36.604774,
-      "lon": 34.313548,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 00:00"
-    },
-    {
       "name": "BİLGEN ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR CD. NO:80 B BLOK Z-35 MERKEZ MH. KAZIM KARABEKIR CD. 80/B BLOK Z-35",
@@ -80,6 +70,16 @@
       "lon": 34.302437,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "MELTEM ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. ABDURRAHMAN ŞEVK CD. NO:18/D ALATA ASM YANI , ERDEMLİ MÜFTÜLÜĞÜ KARŞISI",
+      "phone": "05015522907",
+      "lat": 36.604774,
+      "lon": 34.313548,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
     },
     {
       "name": "BÜŞRA ECZANESİ",
@@ -152,16 +152,6 @@
       "shiftend": "30.10.2026 00:00"
     },
     {
-      "name": "BURCU ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MAH. 3745 SOK. NO:2/A",
-      "phone": "03245036655",
-      "lat": 36.914412,
-      "lon": 34.912057,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
-    },
-    {
       "name": "ANIT ECZANESİ",
       "district": "TARSUS",
       "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
@@ -192,12 +182,12 @@
       "shiftend": "30.10.2026 00:00"
     },
     {
-      "name": "YILDIZELİ ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "GÜNEYKENT MH. FARABİ CD. 38 SK. NO:23 GÜNEYKENT FARABİ A101 KARŞISI , GÜNEYKENT SAĞLIK OCAĞI YANI, GÜNEYKENT TAKSİ DURAĞI 500M KUZEYİ",
-      "phone": "03242232104",
-      "lat": 36.83958,
-      "lon": 34.630265,
+      "name": "BURCU ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MAH. 3745 SOK. NO:2/A",
+      "phone": "03245036655",
+      "lat": 36.914412,
+      "lon": 34.912057,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 08:00"
     },
@@ -208,6 +198,16 @@
       "phone": "03243205590",
       "lat": 36.82626,
       "lon": 34.625021,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "YILDIZELİ ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "GÜNEYKENT MH. FARABİ CD. 38 SK. NO:23 GÜNEYKENT FARABİ A101 KARŞISI , GÜNEYKENT SAĞLIK OCAĞI YANI, GÜNEYKENT TAKSİ DURAĞI 500M KUZEYİ",
+      "phone": "03242232104",
+      "lat": 36.83958,
+      "lon": 34.630265,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 08:00"
     },
