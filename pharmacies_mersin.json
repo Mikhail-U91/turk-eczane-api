@@ -2,6 +2,16 @@
   "snapshot": "29.10.2026",
   "sonuc": [
     {
+      "name": "METİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:175/D ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ  AKDENİZ",
+      "phone": "03243362660",
+      "lat": 36.809282,
+      "lon": 34.620819,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
       "name": "LİMON ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:11/A-B YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.64218,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 00:00"
-    },
-    {
-      "name": "METİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:175/D ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ  AKDENİZ",
-      "phone": "03243362660",
-      "lat": 36.809282,
-      "lon": 34.620819,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
     },
     {
       "name": "ÖZEN ECZANESİ",
@@ -152,26 +152,6 @@
       "shiftend": "30.10.2026 00:00"
     },
     {
-      "name": "GANNEMOĞLU ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "03246140036",
-      "lat": 36.909222,
-      "lon": 34.883157,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
-    },
-    {
-      "name": "TARSUS   ECZANESİ",
-      "district": "TARSUS",
-      "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
-      "phone": "03246131326",
-      "lat": 36.929412,
-      "lon": 34.889478,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 00:00"
-    },
-    {
       "name": "BURCU ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MAH. 3745 SOK. NO:2/A",
@@ -188,6 +168,26 @@
       "phone": "03246258777",
       "lat": 36.920563,
       "lon": 34.877712,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
+    },
+    {
+      "name": "GANNEMOĞLU ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "03246140036",
+      "lat": 36.909222,
+      "lon": 34.883157,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "TARSUS   ECZANESİ",
+      "district": "TARSUS",
+      "address": "HÜRRİYET MH. 2215 SK. 21/A  HÜRRİYET MH. YEŞİLYURT ASM KARŞISI  TARSUS",
+      "phone": "03246131326",
+      "lat": 36.929412,
+      "lon": 34.889478,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 00:00"
     },
