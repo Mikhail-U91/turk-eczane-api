@@ -2,16 +2,6 @@
   "snapshot": "29.10.2026",
   "sonuc": [
     {
-      "name": "METİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:175/D ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ  AKDENİZ",
-      "phone": "03243362660",
-      "lat": 36.809282,
-      "lon": 34.620819,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
-    },
-    {
       "name": "LİMON ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:11/A-B YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
@@ -30,6 +20,16 @@
       "lon": 34.64218,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 00:00"
+    },
+    {
+      "name": "METİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:175/D ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ  AKDENİZ",
+      "phone": "03243362660",
+      "lat": 36.809282,
+      "lon": 34.620819,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
     },
     {
       "name": "ÖZEN ECZANESİ",
@@ -92,22 +92,22 @@
       "shiftend": "30.10.2026 08:00"
     },
     {
-      "name": "SOLENA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. 31045 SK. NO:18A  ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ CİVARI",
-      "phone": "03242215186",
-      "lat": 36.765404,
-      "lon": 34.547151,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
-    },
-    {
       "name": "ÖZGE GÖKMEN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. 52081 SK. NO:3A KUYULUK YOLU - BİM MARKET ARKASI RAİN 10 HACI ÖZEL SİTESİ ALTI- OSMANGAZİ ASM CİVARI - MEZİTLİ",
       "phone": "05455923332",
       "lat": 36.750587,
       "lon": 34.520894,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "SOLENA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. 31045 SK. NO:18A  ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ CİVARI",
+      "phone": "03242215186",
+      "lat": 36.765404,
+      "lon": 34.547151,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 08:00"
     },
@@ -152,26 +152,6 @@
       "shiftend": "30.10.2026 00:00"
     },
     {
-      "name": "BURCU ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MAH. 3745 SOK. NO:2/A",
-      "phone": "03245036655",
-      "lat": 36.914412,
-      "lon": 34.912057,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
-    },
-    {
-      "name": "ANIT ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
-      "phone": "03246258777",
-      "lat": 36.920563,
-      "lon": 34.877712,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 00:00"
-    },
-    {
       "name": "GANNEMOĞLU ECZANESİ",
       "district": "TARSUS",
       "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
@@ -188,6 +168,26 @@
       "phone": "03246131326",
       "lat": 36.929412,
       "lon": 34.889478,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
+    },
+    {
+      "name": "BURCU ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MAH. 3745 SOK. NO:2/A",
+      "phone": "03245036655",
+      "lat": 36.914412,
+      "lon": 34.912057,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "ANIT ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
+      "phone": "03246258777",
+      "lat": 36.920563,
+      "lon": 34.877712,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 00:00"
     },
