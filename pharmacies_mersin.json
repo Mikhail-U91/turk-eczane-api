@@ -2,6 +2,16 @@
   "snapshot": "29.10.2026",
   "sonuc": [
     {
+      "name": "METİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:175/D ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ  AKDENİZ",
+      "phone": "03243362660",
+      "lat": 36.809282,
+      "lon": 34.620819,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
       "name": "LİMON ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:11/A-B YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.64218,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 00:00"
-    },
-    {
-      "name": "METİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:175/D ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ  AKDENİZ",
-      "phone": "03243362660",
-      "lat": 36.809282,
-      "lon": 34.620819,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
     },
     {
       "name": "ÖZEN ECZANESİ",
@@ -92,22 +92,22 @@
       "shiftend": "30.10.2026 08:00"
     },
     {
-      "name": "ÖZGE GÖKMEN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. 52081 SK. NO:3A KUYULUK YOLU - BİM MARKET ARKASI RAİN 10 HACI ÖZEL SİTESİ ALTI- OSMANGAZİ ASM CİVARI - MEZİTLİ",
-      "phone": "05455923332",
-      "lat": 36.750587,
-      "lon": 34.520894,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
-    },
-    {
       "name": "SOLENA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MH. 31045 SK. NO:18A  ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ CİVARI",
       "phone": "03242215186",
       "lat": 36.765404,
       "lon": 34.547151,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 08:00"
+    },
+    {
+      "name": "ÖZGE GÖKMEN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. 52081 SK. NO:3A KUYULUK YOLU - BİM MARKET ARKASI RAİN 10 HACI ÖZEL SİTESİ ALTI- OSMANGAZİ ASM CİVARI - MEZİTLİ",
+      "phone": "05455923332",
+      "lat": 36.750587,
+      "lon": 34.520894,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 08:00"
     },
@@ -152,6 +152,16 @@
       "shiftend": "30.10.2026 00:00"
     },
     {
+      "name": "ANIT ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
+      "phone": "03246258777",
+      "lat": 36.920563,
+      "lon": 34.877712,
+      "workdate": "29.10.2026 08:00",
+      "shiftend": "30.10.2026 00:00"
+    },
+    {
       "name": "GANNEMOĞLU ECZANESİ",
       "district": "TARSUS",
       "address": "ÖGRETMENLER MAH. DUMLUPINAR BULV. NO: 2/1F   Özel MMT Amerikan Hastanesi Karşısı",
@@ -182,14 +192,14 @@
       "shiftend": "30.10.2026 08:00"
     },
     {
-      "name": "ANIT ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 0321 SK. NO:18/2 ANIT MAHALLESİ ANIT ASM KARŞISI",
-      "phone": "03246258777",
-      "lat": 36.920563,
-      "lon": 34.877712,
+      "name": "SİTELER ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KURDALI MAH.10041.SOK NO:5 KURDALİ MAH 100041 SK NO 5 SELAHATTİN YANPAR SAĞLIK OCAĞI YANI/TOROSLAR",
+      "phone": "03243205590",
+      "lat": 36.82626,
+      "lon": 34.625021,
       "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 00:00"
+      "shiftend": "30.10.2026 08:00"
     },
     {
       "name": "YILDIZELİ ECZANESİ",
@@ -198,16 +208,6 @@
       "phone": "03242232104",
       "lat": 36.83958,
       "lon": 34.630265,
-      "workdate": "29.10.2026 08:00",
-      "shiftend": "30.10.2026 08:00"
-    },
-    {
-      "name": "SİTELER ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KURDALI MAH.10041.SOK NO:5 KURDALİ MAH 100041 SK NO 5 SELAHATTİN YANPAR SAĞLIK OCAĞI YANI/TOROSLAR",
-      "phone": "03243205590",
-      "lat": 36.82626,
-      "lon": 34.625021,
       "workdate": "29.10.2026 08:00",
       "shiftend": "30.10.2026 08:00"
     },
