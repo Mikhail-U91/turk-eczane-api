@@ -142,26 +142,6 @@
       "shiftend": "31.10.2026 00:00"
     },
     {
-      "name": "SIHHAT ECZANESİ",
-      "district": "TARSUS",
-      "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
-      "phone": "03245020806",
-      "lat": 36.93522,
-      "lon": 34.877828,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
-      "name": "YUSUF YÜKSEK ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
-      "phone": "05335058633",
-      "lat": 36.914281,
-      "lon": 34.91269,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "MAJİSTRAL ECZANESİ",
       "district": "TARSUS",
       "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
@@ -180,6 +160,26 @@
       "lon": 34.867293,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "SIHHAT ECZANESİ",
+      "district": "TARSUS",
+      "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
+      "phone": "03245020806",
+      "lat": 36.93522,
+      "lon": 34.877828,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "YUSUF YÜKSEK ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
+      "phone": "05335058633",
+      "lat": 36.914281,
+      "lon": 34.91269,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
     },
     {
       "name": "DEVA ECZANESİ",
@@ -202,16 +202,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "SENA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
-      "phone": "05523135833",
-      "lat": 36.803666,
-      "lon": 34.583977,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
       "name": "PAPATYA ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BATIKENT MH. İSTEMİHAN TALAY CD. LİFE COURT SİT. A BLOK NO:169 A/F BATIKENT MH. 2,5 ÇEVREYOLU GROSERİ KARŞISI",
@@ -230,6 +220,16 @@
       "lon": 34.590896,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "SENA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
+      "phone": "05523135833",
+      "lat": 36.803666,
+      "lon": 34.583977,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
     }
   ]
 }
