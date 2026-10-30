@@ -2,6 +2,16 @@
   "snapshot": "30.10.2026",
   "sonuc": [
     {
+      "name": "TÜLİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
+      "phone": "03243363590",
+      "lat": 36.80759,
+      "lon": 34.618607,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
       "name": "YAREN ECZANESİ",
       "district": "AKDENİZ",
       "address": "BAHÇE MH. BURHAN FELEK CD. NO:3A ÖZGÜR ÇOÇUK PARKI KARŞISI AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03243365152",
       "lat": 36.805363,
       "lon": 34.633478,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "TÜLİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
-      "phone": "03243363590",
-      "lat": 36.80759,
-      "lon": 34.618607,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -122,16 +122,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "OĞUZ ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
-      "phone": "03247143360",
-      "lat": 36.380881,
-      "lon": 33.927813,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "SAĞLIK ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
@@ -142,22 +132,12 @@
       "shiftend": "31.10.2026 00:00"
     },
     {
-      "name": "SIHHAT ECZANESİ",
-      "district": "TARSUS",
-      "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
-      "phone": "03245020806",
-      "lat": 36.93522,
-      "lon": 34.877828,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
-      "name": "YUSUF YÜKSEK ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
-      "phone": "05335058633",
-      "lat": 36.914281,
-      "lon": 34.91269,
+      "name": "OĞUZ ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
+      "phone": "03247143360",
+      "lat": 36.380881,
+      "lon": 33.927813,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -182,6 +162,26 @@
       "shiftend": "31.10.2026 00:00"
     },
     {
+      "name": "SIHHAT ECZANESİ",
+      "district": "TARSUS",
+      "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
+      "phone": "03245020806",
+      "lat": 36.93522,
+      "lon": 34.877828,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "YUSUF YÜKSEK ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
+      "phone": "05335058633",
+      "lat": 36.914281,
+      "lon": 34.91269,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
       "name": "DEVA ECZANESİ",
       "district": "TOROSLAR",
       "address": "MEVLANA MH. H. OKAN MERZECİ BULV. NO: 202/A MEVLANA MAH. OKAN MERZECİ BUL. MEVLANA NUR CAMİİ KAVŞAĞI",
@@ -202,6 +202,16 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
+      "name": "NEFES ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "İNÖNÜ MH. GMK BULV. GÜR SİTESİ NO: 411/B FORUM DURAĞI ING BANK KARŞISI (ESKİ YAPRAK TANTUNİ KARŞISI ) YENİŞEHİR",
+      "phone": "03243275532",
+      "lat": 36.781639,
+      "lon": 34.590896,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
       "name": "SENA ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
@@ -218,16 +228,6 @@
       "phone": "03243363569",
       "lat": 36.781125,
       "lon": 34.554761,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "NEFES ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "İNÖNÜ MH. GMK BULV. GÜR SİTESİ NO: 411/B FORUM DURAĞI ING BANK KARŞISI (ESKİ YAPRAK TANTUNİ KARŞISI ) YENİŞEHİR",
-      "phone": "03243275532",
-      "lat": 36.781639,
-      "lon": 34.590896,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     }
