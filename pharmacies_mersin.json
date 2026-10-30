@@ -2,6 +2,16 @@
   "snapshot": "30.10.2026",
   "sonuc": [
     {
+      "name": "TÜLİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
+      "phone": "03243363590",
+      "lat": 36.80759,
+      "lon": 34.618607,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
       "name": "YAREN ECZANESİ",
       "district": "AKDENİZ",
       "address": "BAHÇE MH. BURHAN FELEK CD. NO:3A ÖZGÜR ÇOÇUK PARKI KARŞISI AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03243365152",
       "lat": 36.805363,
       "lon": 34.633478,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "TÜLİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
-      "phone": "03243363590",
-      "lat": 36.80759,
-      "lon": 34.618607,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -202,16 +202,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "PAPATYA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MH. İSTEMİHAN TALAY CD. LİFE COURT SİT. A BLOK NO:169 A/F BATIKENT MH. 2,5 ÇEVREYOLU GROSERİ KARŞISI",
-      "phone": "03243363569",
-      "lat": 36.781125,
-      "lon": 34.554761,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "NEFES ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "İNÖNÜ MH. GMK BULV. GÜR SİTESİ NO: 411/B FORUM DURAĞI ING BANK KARŞISI (ESKİ YAPRAK TANTUNİ KARŞISI ) YENİŞEHİR",
@@ -230,6 +220,16 @@
       "lon": 34.583977,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "PAPATYA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MH. İSTEMİHAN TALAY CD. LİFE COURT SİT. A BLOK NO:169 A/F BATIKENT MH. 2,5 ÇEVREYOLU GROSERİ KARŞISI",
+      "phone": "03243363569",
+      "lat": 36.781125,
+      "lon": 34.554761,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
     }
   ]
 }
