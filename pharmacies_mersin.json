@@ -92,16 +92,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "MEZİTLİ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "Merkez Mah.Karaoğlan Cad.No:5/A MEZİTLİ MERKEZ MH. 2.NOLU ASM KARŞISI MEZİTLİ BELEDİYESİ CİVARI",
-      "phone": "03243583685",
-      "lat": 36.74935,
-      "lon": 34.5289,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
       "name": "YUSUF ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENİ MH. 33174 SK. NO:14/B MEZİTLİ YENİMAHALLE ASM KARŞISI",
@@ -112,22 +102,22 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
+      "name": "MEZİTLİ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "Merkez Mah.Karaoğlan Cad.No:5/A MEZİTLİ MERKEZ MH. 2.NOLU ASM KARŞISI MEZİTLİ BELEDİYESİ CİVARI",
+      "phone": "03243583685",
+      "lat": 36.74935,
+      "lon": 34.5289,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
+    },
+    {
       "name": "MERKEZ ECZANESİ",
       "district": "MUT",
       "address": "PINARBASI MAH KOCAHACI SOK.NO:29 PINARBASI MAH KOCAHACI SOK.NO.29 MUT",
       "phone": "03247741253",
       "lat": 36.644772,
       "lon": 33.438232,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "OĞUZ ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
-      "phone": "03247143360",
-      "lat": 36.380881,
-      "lon": 33.927813,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -142,12 +132,12 @@
       "shiftend": "31.10.2026 00:00"
     },
     {
-      "name": "MAJİSTRAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
-      "phone": "03246270773",
-      "lat": 36.90918,
-      "lon": 34.883271,
+      "name": "OĞUZ ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
+      "phone": "03247143360",
+      "lat": 36.380881,
+      "lon": 33.927813,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -182,6 +172,16 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
+      "name": "MAJİSTRAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
+      "phone": "03246270773",
+      "lat": 36.90918,
+      "lon": 34.883271,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
       "name": "DEVA ECZANESİ",
       "district": "TOROSLAR",
       "address": "MEVLANA MH. H. OKAN MERZECİ BULV. NO: 202/A MEVLANA MAH. OKAN MERZECİ BUL. MEVLANA NUR CAMİİ KAVŞAĞI",
@@ -202,6 +202,16 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
+      "name": "SENA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
+      "phone": "05523135833",
+      "lat": 36.803666,
+      "lon": 34.583977,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
+    },
+    {
       "name": "PAPATYA ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BATIKENT MH. İSTEMİHAN TALAY CD. LİFE COURT SİT. A BLOK NO:169 A/F BATIKENT MH. 2,5 ÇEVREYOLU GROSERİ KARŞISI",
@@ -220,16 +230,6 @@
       "lon": 34.590896,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "SENA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
-      "phone": "05523135833",
-      "lat": 36.803666,
-      "lon": 34.583977,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
     }
   ]
 }
