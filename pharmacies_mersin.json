@@ -122,16 +122,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "OĞUZ ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
-      "phone": "03247143360",
-      "lat": 36.380881,
-      "lon": 33.927813,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "SAĞLIK ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
@@ -142,12 +132,12 @@
       "shiftend": "31.10.2026 00:00"
     },
     {
-      "name": "YUSUF YÜKSEK ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
-      "phone": "05335058633",
-      "lat": 36.914281,
-      "lon": 34.91269,
+      "name": "OĞUZ ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
+      "phone": "03247143360",
+      "lat": 36.380881,
+      "lon": 33.927813,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -180,6 +170,16 @@
       "lon": 34.877828,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "YUSUF YÜKSEK ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
+      "phone": "05335058633",
+      "lat": 36.914281,
+      "lon": 34.91269,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
     },
     {
       "name": "DEVA ECZANESİ",
