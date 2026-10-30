@@ -122,16 +122,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
-      "phone": "03247414067",
-      "lat": 36.319651,
-      "lon": 33.880229,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
       "name": "OĞUZ ECZANESİ",
       "district": "SİLİFKE",
       "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
@@ -142,22 +132,12 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "MAJİSTRAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
-      "phone": "03246270773",
-      "lat": 36.90918,
-      "lon": 34.883271,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "MAVİ ECZANESİ",
-      "district": "TARSUS",
-      "address": "GAZİPAŞA MH. 1913 SK. NO:5B",
-      "phone": "03245040744",
-      "lat": 36.912445,
-      "lon": 34.867293,
+      "name": "SAĞLIK ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
+      "phone": "03247414067",
+      "lat": 36.319651,
+      "lon": 33.880229,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 00:00"
     },
@@ -182,6 +162,26 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
+      "name": "MAJİSTRAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
+      "phone": "03246270773",
+      "lat": 36.90918,
+      "lon": 34.883271,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "MAVİ ECZANESİ",
+      "district": "TARSUS",
+      "address": "GAZİPAŞA MH. 1913 SK. NO:5B",
+      "phone": "03245040744",
+      "lat": 36.912445,
+      "lon": 34.867293,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
+    },
+    {
       "name": "DEVA ECZANESİ",
       "district": "TOROSLAR",
       "address": "MEVLANA MH. H. OKAN MERZECİ BULV. NO: 202/A MEVLANA MAH. OKAN MERZECİ BUL. MEVLANA NUR CAMİİ KAVŞAĞI",
@@ -202,6 +202,16 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
+      "name": "SENA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
+      "phone": "05523135833",
+      "lat": 36.803666,
+      "lon": 34.583977,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
+    },
+    {
       "name": "PAPATYA ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BATIKENT MH. İSTEMİHAN TALAY CD. LİFE COURT SİT. A BLOK NO:169 A/F BATIKENT MH. 2,5 ÇEVREYOLU GROSERİ KARŞISI",
@@ -220,16 +230,6 @@
       "lon": 34.590896,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "SENA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
-      "phone": "05523135833",
-      "lat": 36.803666,
-      "lon": 34.583977,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
     }
   ]
 }
