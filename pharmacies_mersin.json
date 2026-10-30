@@ -2,16 +2,6 @@
   "snapshot": "30.10.2026",
   "sonuc": [
     {
-      "name": "TÜLİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
-      "phone": "03243363590",
-      "lat": 36.80759,
-      "lon": 34.618607,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "YAREN ECZANESİ",
       "district": "AKDENİZ",
       "address": "BAHÇE MH. BURHAN FELEK CD. NO:3A ÖZGÜR ÇOÇUK PARKI KARŞISI AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03243365152",
       "lat": 36.805363,
       "lon": 34.633478,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "TÜLİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
+      "phone": "03243363590",
+      "lat": 36.80759,
+      "lon": 34.618607,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -142,26 +142,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "MAJİSTRAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
-      "phone": "03246270773",
-      "lat": 36.90918,
-      "lon": 34.883271,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "MAVİ ECZANESİ",
-      "district": "TARSUS",
-      "address": "GAZİPAŞA MH. 1913 SK. NO:5B",
-      "phone": "03245040744",
-      "lat": 36.912445,
-      "lon": 34.867293,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
       "name": "SIHHAT ECZANESİ",
       "district": "TARSUS",
       "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
@@ -182,14 +162,24 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "MAVİSU ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "SAGLIK MAH.86019 SOK.ISTANBUL AP.ALTI NO:64/A-B MİTHATPAŞA ORTAÖĞRETİM BATISI",
-      "phone": "03243208960",
-      "lat": 36.813854,
-      "lon": 34.628332,
+      "name": "MAJİSTRAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
+      "phone": "03246270773",
+      "lat": 36.90918,
+      "lon": 34.883271,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "MAVİ ECZANESİ",
+      "district": "TARSUS",
+      "address": "GAZİPAŞA MH. 1913 SK. NO:5B",
+      "phone": "03245040744",
+      "lat": 36.912445,
+      "lon": 34.867293,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
     },
     {
       "name": "DEVA ECZANESİ",
@@ -198,6 +188,16 @@
       "phone": "03245040403",
       "lat": 36.829487,
       "lon": 34.622254,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "MAVİSU ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "SAGLIK MAH.86019 SOK.ISTANBUL AP.ALTI NO:64/A-B MİTHATPAŞA ORTAÖĞRETİM BATISI",
+      "phone": "03243208960",
+      "lat": 36.813854,
+      "lon": 34.628332,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
