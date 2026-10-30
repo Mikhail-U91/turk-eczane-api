@@ -92,16 +92,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "YUSUF ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. 33174 SK. NO:14/B MEZİTLİ YENİMAHALLE ASM KARŞISI",
-      "phone": "03243574737",
-      "lat": 36.758181,
-      "lon": 34.538108,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "MEZİTLİ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "Merkez Mah.Karaoğlan Cad.No:5/A MEZİTLİ MERKEZ MH. 2.NOLU ASM KARŞISI MEZİTLİ BELEDİYESİ CİVARI",
@@ -110,6 +100,16 @@
       "lon": 34.5289,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "YUSUF ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. 33174 SK. NO:14/B MEZİTLİ YENİMAHALLE ASM KARŞISI",
+      "phone": "03243574737",
+      "lat": 36.758181,
+      "lon": 34.538108,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
     },
     {
       "name": "MERKEZ ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
-      "phone": "03247414067",
-      "lat": 36.319651,
-      "lon": 33.880229,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
       "name": "OĞUZ ECZANESİ",
       "district": "SİLİFKE",
       "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
@@ -142,24 +132,14 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "SIHHAT ECZANESİ",
-      "district": "TARSUS",
-      "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
-      "phone": "03245020806",
-      "lat": 36.93522,
-      "lon": 34.877828,
+      "name": "SAĞLIK ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
+      "phone": "03247414067",
+      "lat": 36.319651,
+      "lon": 33.880229,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 00:00"
-    },
-    {
-      "name": "YUSUF YÜKSEK ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
-      "phone": "05335058633",
-      "lat": 36.914281,
-      "lon": 34.91269,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
     },
     {
       "name": "MAJİSTRAL ECZANESİ",
@@ -182,6 +162,26 @@
       "shiftend": "31.10.2026 00:00"
     },
     {
+      "name": "SIHHAT ECZANESİ",
+      "district": "TARSUS",
+      "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
+      "phone": "03245020806",
+      "lat": 36.93522,
+      "lon": 34.877828,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "YUSUF YÜKSEK ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
+      "phone": "05335058633",
+      "lat": 36.914281,
+      "lon": 34.91269,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
       "name": "DEVA ECZANESİ",
       "district": "TOROSLAR",
       "address": "MEVLANA MH. H. OKAN MERZECİ BULV. NO: 202/A MEVLANA MAH. OKAN MERZECİ BUL. MEVLANA NUR CAMİİ KAVŞAĞI",
@@ -202,16 +202,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "SENA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
-      "phone": "05523135833",
-      "lat": 36.803666,
-      "lon": 34.583977,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
       "name": "PAPATYA ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BATIKENT MH. İSTEMİHAN TALAY CD. LİFE COURT SİT. A BLOK NO:169 A/F BATIKENT MH. 2,5 ÇEVREYOLU GROSERİ KARŞISI",
@@ -230,6 +220,16 @@
       "lon": 34.590896,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "SENA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
+      "phone": "05523135833",
+      "lat": 36.803666,
+      "lon": 34.583977,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
     }
   ]
 }
