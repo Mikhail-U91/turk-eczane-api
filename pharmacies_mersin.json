@@ -92,16 +92,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "YUSUF ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. 33174 SK. NO:14/B MEZİTLİ YENİMAHALLE ASM KARŞISI",
-      "phone": "03243574737",
-      "lat": 36.758181,
-      "lon": 34.538108,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "MEZİTLİ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "Merkez Mah.Karaoğlan Cad.No:5/A MEZİTLİ MERKEZ MH. 2.NOLU ASM KARŞISI MEZİTLİ BELEDİYESİ CİVARI",
@@ -110,6 +100,16 @@
       "lon": 34.5289,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "YUSUF ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. 33174 SK. NO:14/B MEZİTLİ YENİMAHALLE ASM KARŞISI",
+      "phone": "03243574737",
+      "lat": 36.758181,
+      "lon": 34.538108,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
     },
     {
       "name": "MERKEZ ECZANESİ",
@@ -138,6 +138,16 @@
       "phone": "03247143360",
       "lat": 36.380881,
       "lon": 33.927813,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "MAJİSTRAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
+      "phone": "03246270773",
+      "lat": 36.90918,
+      "lon": 34.883271,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -172,16 +182,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "MAJİSTRAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
-      "phone": "03246270773",
-      "lat": 36.90918,
-      "lon": 34.883271,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "DEVA ECZANESİ",
       "district": "TOROSLAR",
       "address": "MEVLANA MH. H. OKAN MERZECİ BULV. NO: 202/A MEVLANA MAH. OKAN MERZECİ BUL. MEVLANA NUR CAMİİ KAVŞAĞI",
@@ -202,6 +202,16 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
+      "name": "NEFES ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "İNÖNÜ MH. GMK BULV. GÜR SİTESİ NO: 411/B FORUM DURAĞI ING BANK KARŞISI (ESKİ YAPRAK TANTUNİ KARŞISI ) YENİŞEHİR",
+      "phone": "03243275532",
+      "lat": 36.781639,
+      "lon": 34.590896,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
       "name": "SENA ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
@@ -218,16 +228,6 @@
       "phone": "03243363569",
       "lat": 36.781125,
       "lon": 34.554761,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "NEFES ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "İNÖNÜ MH. GMK BULV. GÜR SİTESİ NO: 411/B FORUM DURAĞI ING BANK KARŞISI (ESKİ YAPRAK TANTUNİ KARŞISI ) YENİŞEHİR",
-      "phone": "03243275532",
-      "lat": 36.781639,
-      "lon": 34.590896,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     }
