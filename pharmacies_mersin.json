@@ -2,6 +2,16 @@
   "snapshot": "30.10.2026",
   "sonuc": [
     {
+      "name": "TÜLİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
+      "phone": "03243363590",
+      "lat": 36.80759,
+      "lon": 34.618607,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
       "name": "YAREN ECZANESİ",
       "district": "AKDENİZ",
       "address": "BAHÇE MH. BURHAN FELEK CD. NO:3A ÖZGÜR ÇOÇUK PARKI KARŞISI AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03243365152",
       "lat": 36.805363,
       "lon": 34.633478,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
-      "name": "TÜLİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
-      "phone": "03243363590",
-      "lat": 36.80759,
-      "lon": 34.618607,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -142,26 +142,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "SIHHAT ECZANESİ",
-      "district": "TARSUS",
-      "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
-      "phone": "03245020806",
-      "lat": 36.93522,
-      "lon": 34.877828,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
-      "name": "YUSUF YÜKSEK ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
-      "phone": "05335058633",
-      "lat": 36.914281,
-      "lon": 34.91269,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "MAJİSTRAL ECZANESİ",
       "district": "TARSUS",
       "address": "ÖĞRETMENLER MAH. DUMLUPINAR BULV. NO:2/1C ÖZEL MMT AMERİKAN HASTANESİ KARŞISI",
@@ -182,12 +162,22 @@
       "shiftend": "31.10.2026 00:00"
     },
     {
-      "name": "DEVA ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "MEVLANA MH. H. OKAN MERZECİ BULV. NO: 202/A MEVLANA MAH. OKAN MERZECİ BUL. MEVLANA NUR CAMİİ KAVŞAĞI",
-      "phone": "03245040403",
-      "lat": 36.829487,
-      "lon": 34.622254,
+      "name": "SIHHAT ECZANESİ",
+      "district": "TARSUS",
+      "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
+      "phone": "03245020806",
+      "lat": 36.93522,
+      "lon": 34.877828,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "YUSUF YÜKSEK ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO: 58BI YENİ DEVLET HASTANESİ ANA KAPI POLİKLİNİKLER KARŞISI",
+      "phone": "05335058633",
+      "lat": 36.914281,
+      "lon": 34.91269,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -198,6 +188,16 @@
       "phone": "03243208960",
       "lat": 36.813854,
       "lon": 34.628332,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "DEVA ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "MEVLANA MH. H. OKAN MERZECİ BULV. NO: 202/A MEVLANA MAH. OKAN MERZECİ BUL. MEVLANA NUR CAMİİ KAVŞAĞI",
+      "phone": "03245040403",
+      "lat": 36.829487,
+      "lon": 34.622254,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
