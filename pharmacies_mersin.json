@@ -62,16 +62,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "ŞENEL ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
-      "phone": "03245152915",
-      "lat": 36.60581,
-      "lon": 34.313251,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
       "name": "TUNAY ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MAH.KAZIM KARABEKİR CAD. NO:51/D YENİ HASTANE CD. ŞOK MARKET KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.303452,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "ŞENEL ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
+      "phone": "03245152915",
+      "lat": 36.60581,
+      "lon": 34.313251,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
     },
     {
       "name": "GÜLNAR ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "OĞUZ ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
-      "phone": "03247143360",
-      "lat": 36.380881,
-      "lon": 33.927813,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "SAĞLIK ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD.NO:6/D İSMET İNÖNÜ CD.MUTLULAR İŞHANI NO:6 TAŞUCU",
@@ -140,6 +130,16 @@
       "lon": 33.880229,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "OĞUZ ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Göksu Mah. Celal Bayar Cad. No:24/B  GÖKSU MAH. CELAL BAYAR CAD. NO:24/B",
+      "phone": "03247143360",
+      "lat": 36.380881,
+      "lon": 33.927813,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
     },
     {
       "name": "MAJİSTRAL ECZANESİ",
