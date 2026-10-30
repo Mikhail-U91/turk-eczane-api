@@ -2,16 +2,6 @@
   "snapshot": "30.10.2026",
   "sonuc": [
     {
-      "name": "TÜLİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
-      "phone": "03243363590",
-      "lat": 36.80759,
-      "lon": 34.618607,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "YAREN ECZANESİ",
       "district": "AKDENİZ",
       "address": "BAHÇE MH. BURHAN FELEK CD. NO:3A ÖZGÜR ÇOÇUK PARKI KARŞISI AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03243365152",
       "lat": 36.805363,
       "lon": 34.633478,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "TÜLİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. 113. CD. NO:19/E  Su Hastanesi (Eski Gözde Hastanesi) karşısı",
+      "phone": "03243363590",
+      "lat": 36.80759,
+      "lon": 34.618607,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
     },
@@ -92,16 +92,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "YUSUF ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENİ MH. 33174 SK. NO:14/B MEZİTLİ YENİMAHALLE ASM KARŞISI",
-      "phone": "03243574737",
-      "lat": 36.758181,
-      "lon": 34.538108,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "MEZİTLİ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "Merkez Mah.Karaoğlan Cad.No:5/A MEZİTLİ MERKEZ MH. 2.NOLU ASM KARŞISI MEZİTLİ BELEDİYESİ CİVARI",
@@ -110,6 +100,16 @@
       "lon": 34.5289,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 00:00"
+    },
+    {
+      "name": "YUSUF ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENİ MH. 33174 SK. NO:14/B MEZİTLİ YENİMAHALLE ASM KARŞISI",
+      "phone": "03243574737",
+      "lat": 36.758181,
+      "lon": 34.538108,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 08:00"
     },
     {
       "name": "MERKEZ ECZANESİ",
@@ -182,16 +182,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "MAVİSU ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "SAGLIK MAH.86019 SOK.ISTANBUL AP.ALTI NO:64/A-B MİTHATPAŞA ORTAÖĞRETİM BATISI",
-      "phone": "03243208960",
-      "lat": 36.813854,
-      "lon": 34.628332,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 08:00"
-    },
-    {
       "name": "DEVA ECZANESİ",
       "district": "TOROSLAR",
       "address": "MEVLANA MH. H. OKAN MERZECİ BULV. NO: 202/A MEVLANA MAH. OKAN MERZECİ BUL. MEVLANA NUR CAMİİ KAVŞAĞI",
@@ -202,14 +192,14 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "SENA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
-      "phone": "05523135833",
-      "lat": 36.803666,
-      "lon": 34.583977,
+      "name": "MAVİSU ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "SAGLIK MAH.86019 SOK.ISTANBUL AP.ALTI NO:64/A-B MİTHATPAŞA ORTAÖĞRETİM BATISI",
+      "phone": "03243208960",
+      "lat": 36.813854,
+      "lon": 34.628332,
       "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
+      "shiftend": "31.10.2026 08:00"
     },
     {
       "name": "PAPATYA ECZANESİ",
@@ -230,6 +220,16 @@
       "lon": 34.590896,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "SENA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "FUAT MOREL MH. İSMET İNÖNÜ BULV. EKİNCİ KONSEPT F BLOK NO:330E EKİNCİ KONSEPT MİGROS YANI",
+      "phone": "05523135833",
+      "lat": 36.803666,
+      "lon": 34.583977,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
     }
   ]
 }
