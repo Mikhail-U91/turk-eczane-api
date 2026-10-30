@@ -142,16 +142,6 @@
       "shiftend": "31.10.2026 08:00"
     },
     {
-      "name": "MAVİ ECZANESİ",
-      "district": "TARSUS",
-      "address": "GAZİPAŞA MH. 1913 SK. NO:5B",
-      "phone": "03245040744",
-      "lat": 36.912445,
-      "lon": 34.867293,
-      "workdate": "30.10.2026 18:00",
-      "shiftend": "31.10.2026 00:00"
-    },
-    {
       "name": "SIHHAT ECZANESİ",
       "district": "TARSUS",
       "address": "AKŞEMSETTİN MH. 0135 SK. A/1 NO:15 AKŞEMSETTİN MH. 0135 SK. A/1 NO:15",
@@ -180,6 +170,16 @@
       "lon": 34.883271,
       "workdate": "30.10.2026 18:00",
       "shiftend": "31.10.2026 08:00"
+    },
+    {
+      "name": "MAVİ ECZANESİ",
+      "district": "TARSUS",
+      "address": "GAZİPAŞA MH. 1913 SK. NO:5B",
+      "phone": "03245040744",
+      "lat": 36.912445,
+      "lon": 34.867293,
+      "workdate": "30.10.2026 18:00",
+      "shiftend": "31.10.2026 00:00"
     },
     {
       "name": "DEVA ECZANESİ",
