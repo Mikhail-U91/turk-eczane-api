@@ -222,16 +222,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "BİZİM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOME'S C BLOK NO:24 CE",
-      "phone": "03245021250",
-      "lat": 36.78593,
-      "lon": 34.539912,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
       "name": "SAĞLAM ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
@@ -248,6 +238,16 @@
       "phone": "03243259717",
       "lat": 36.782363,
       "lon": 34.595346,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "BİZİM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOME'S C BLOK NO:24 CE",
+      "phone": "03245021250",
+      "lat": 36.78593,
+      "lon": 34.539912,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
     }
