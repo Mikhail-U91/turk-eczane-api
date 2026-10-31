@@ -2,16 +2,6 @@
   "snapshot": "31.10.2026",
   "sonuc": [
     {
-      "name": "GÜLFİDAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
-      "phone": "03242341454",
-      "lat": 36.824482,
-      "lon": 34.650656,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 00:00"
-    },
-    {
       "name": "MERVE ÖNEL ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5314 SK. NO:2/B TOROS DEVLET HASTANESİ KARŞISI (ESKİ SSK)",
@@ -30,6 +20,16 @@
       "lon": 34.628214,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "GÜLFİDAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
+      "phone": "03242341454",
+      "lat": 36.824482,
+      "lon": 34.650656,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 00:00"
     },
     {
       "name": "ERDEM ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "GÜNEŞ ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. HOCA AHMET YESEVİ SK. NO:5E  MERKEZ MH. ÖZEL YENİŞEHİR HASTANESİ YANI - ERDEMLİ",
-      "phone": "03245161019",
-      "lat": 36.605452,
-      "lon": 34.312587,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 00:00"
-    },
-    {
       "name": "ŞENSOY ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MH. 1002 SK. NO:4D",
@@ -80,6 +70,16 @@
       "lon": 34.302241,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "GÜNEŞ ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. HOCA AHMET YESEVİ SK. NO:5E  MERKEZ MH. ÖZEL YENİŞEHİR HASTANESİ YANI - ERDEMLİ",
+      "phone": "03245161019",
+      "lat": 36.605452,
+      "lon": 34.312587,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 00:00"
     },
     {
       "name": "KIR ECZANESİ",
@@ -92,16 +92,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "DEĞİRMENCİ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. VALİ ŞENOL ENGİN CD. NO:12A Atatürk Mh. Vali Şenol Engin Cad. No:12/A Ortadoğu Hastanesi Yanı MEZİTLİ/ MERSİN",
-      "phone": "03243583433",
-      "lat": 36.76393,
-      "lon": 34.547325,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
       "name": "SOLİ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. ZEYTİNLİ CD. NO:6A SOLİ CENTER YANI - SOLİ TAKSİ DURAĞI KARŞISI",
@@ -110,6 +100,16 @@
       "lon": 34.515143,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 00:00"
+    },
+    {
+      "name": "DEĞİRMENCİ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. VALİ ŞENOL ENGİN CD. NO:12A Atatürk Mh. Vali Şenol Engin Cad. No:12/A Ortadoğu Hastanesi Yanı MEZİTLİ/ MERSİN",
+      "phone": "03243583433",
+      "lat": 36.76393,
+      "lon": 34.547325,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 08:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
@@ -162,6 +162,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "ÖRSAN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BH YENİ DEVLET HAST. POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246133323",
+      "lat": 36.91427,
+      "lon": 34.912666,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
       "name": "YENİ ESER ECZANESİ",
       "district": "TARSUS",
       "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
@@ -192,13 +202,13 @@
       "shiftend": "01.11.2026 00:00"
     },
     {
-      "name": "ÖRSAN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BH YENİ DEVLET HAST. POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246133323",
-      "lat": 36.91427,
-      "lon": 34.912666,
-      "workdate": "31.10.2026 08:00",
+      "name": "TEMİZ ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TURGUT TÜRKALP MAH. 79023 SOK. NO:11/A TURGUT TÜRKALP MAH 10 NOLU SAĞLIK OCAĞI YANI/TOROSLAR",
+      "phone": "03243204242",
+      "lat": 36.808044,
+      "lon": 34.61164,
+      "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
     },
     {
@@ -208,16 +218,6 @@
       "phone": "05459046664",
       "lat": 36.831971,
       "lon": 34.635389,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "TEMİZ ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TURGUT TÜRKALP MAH. 79023 SOK. NO:11/A TURGUT TÜRKALP MAH 10 NOLU SAĞLIK OCAĞI YANI/TOROSLAR",
-      "phone": "03243204242",
-      "lat": 36.808044,
-      "lon": 34.61164,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
     },
