@@ -92,16 +92,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "SOLİ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. ZEYTİNLİ CD. NO:6A SOLİ CENTER YANI - SOLİ TAKSİ DURAĞI KARŞISI",
-      "phone": "05468973300",
-      "lat": 36.736289,
-      "lon": 34.515143,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 00:00"
-    },
-    {
       "name": "DEĞİRMENCİ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MH. VALİ ŞENOL ENGİN CD. NO:12A Atatürk Mh. Vali Şenol Engin Cad. No:12/A Ortadoğu Hastanesi Yanı MEZİTLİ/ MERSİN",
@@ -110,6 +100,16 @@
       "lon": 34.547325,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "SOLİ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. ZEYTİNLİ CD. NO:6A SOLİ CENTER YANI - SOLİ TAKSİ DURAĞI KARŞISI",
+      "phone": "05468973300",
+      "lat": 36.736289,
+      "lon": 34.515143,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 00:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
@@ -162,6 +162,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "ASLI ECZANESİ",
+      "district": "TARSUS",
+      "address": "Gazipaşa Mah. 1938 Sok. No:12    GAZİPAŞA MAH. GAZİPAŞA ASM KARŞISI TARSUS",
+      "phone": "03246262644",
+      "lat": 36.912478,
+      "lon": 34.867398,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 00:00"
+    },
+    {
       "name": "ÖRSAN ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BH YENİ DEVLET HAST. POLİKLİNİKLER KAPISI KARŞISI",
@@ -188,16 +198,6 @@
       "phone": "03246140038",
       "lat": 36.941298,
       "lon": 34.873196,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 00:00"
-    },
-    {
-      "name": "ASLI ECZANESİ",
-      "district": "TARSUS",
-      "address": "Gazipaşa Mah. 1938 Sok. No:12    GAZİPAŞA MAH. GAZİPAŞA ASM KARŞISI TARSUS",
-      "phone": "03246262644",
-      "lat": 36.912478,
-      "lon": 34.867398,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 00:00"
     },
