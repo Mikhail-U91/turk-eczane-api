@@ -162,16 +162,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "ÖRSAN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BH YENİ DEVLET HAST. POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246133323",
-      "lat": 36.91427,
-      "lon": 34.912666,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
       "name": "YENİ ESER ECZANESİ",
       "district": "TARSUS",
       "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
@@ -202,13 +192,13 @@
       "shiftend": "01.11.2026 00:00"
     },
     {
-      "name": "TEMİZ ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TURGUT TÜRKALP MAH. 79023 SOK. NO:11/A TURGUT TÜRKALP MAH 10 NOLU SAĞLIK OCAĞI YANI/TOROSLAR",
-      "phone": "03243204242",
-      "lat": 36.808044,
-      "lon": 34.61164,
-      "workdate": "31.10.2026 13:00",
+      "name": "ÖRSAN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BH YENİ DEVLET HAST. POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246133323",
+      "lat": 36.91427,
+      "lon": 34.912666,
+      "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
     },
     {
@@ -218,6 +208,16 @@
       "phone": "05459046664",
       "lat": 36.831971,
       "lon": 34.635389,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "TEMİZ ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TURGUT TÜRKALP MAH. 79023 SOK. NO:11/A TURGUT TÜRKALP MAH 10 NOLU SAĞLIK OCAĞI YANI/TOROSLAR",
+      "phone": "03243204242",
+      "lat": 36.808044,
+      "lon": 34.61164,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
     },
