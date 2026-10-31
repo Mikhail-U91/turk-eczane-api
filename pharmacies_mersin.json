@@ -92,16 +92,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "SOLİ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. ZEYTİNLİ CD. NO:6A SOLİ CENTER YANI - SOLİ TAKSİ DURAĞI KARŞISI",
-      "phone": "05468973300",
-      "lat": 36.736289,
-      "lon": 34.515143,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 00:00"
-    },
-    {
       "name": "DEĞİRMENCİ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ATATÜRK MH. VALİ ŞENOL ENGİN CD. NO:12A Atatürk Mh. Vali Şenol Engin Cad. No:12/A Ortadoğu Hastanesi Yanı MEZİTLİ/ MERSİN",
@@ -112,6 +102,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "SOLİ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. ZEYTİNLİ CD. NO:6A SOLİ CENTER YANI - SOLİ TAKSİ DURAĞI KARŞISI",
+      "phone": "05468973300",
+      "lat": 36.736289,
+      "lon": 34.515143,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 00:00"
+    },
+    {
       "name": "SAĞLIK ECZANESİ",
       "district": "MUT",
       "address": "KALE MAH.İNÖNÜ CAD.NO:12  KALE MH. INÖNÜ CD.NO:12",
@@ -120,16 +120,6 @@
       "lon": 33.436773,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "ATAKENT ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:86/AB ATAKENT MH. ALPARSLAN TÜRKEŞ BULV.  SUSANOĞLU HALK PLAJI KARŞISI",
-      "phone": "03247150020",
-      "lat": 36.415828,
-      "lon": 34.081918,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "31.10.2026 19:00"
     },
     {
       "name": "ERDAL ECZANESİ",
@@ -152,6 +142,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "ATAKENT ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:86/AB ATAKENT MH. ALPARSLAN TÜRKEŞ BULV.  SUSANOĞLU HALK PLAJI KARŞISI",
+      "phone": "03247150020",
+      "lat": 36.415828,
+      "lon": 34.081918,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "31.10.2026 19:00"
+    },
+    {
       "name": "UĞUR ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH.ATATÜRK CAD.NO:35 SOK.NO:4  GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
@@ -159,16 +159,6 @@
       "lat": 36.380889,
       "lon": 33.930844,
       "workdate": "31.10.2026 18:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "ÖRSAN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BH YENİ DEVLET HAST. POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246133323",
-      "lat": 36.91427,
-      "lon": 34.912666,
-      "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
     },
     {
@@ -202,13 +192,13 @@
       "shiftend": "01.11.2026 00:00"
     },
     {
-      "name": "TEMİZ ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TURGUT TÜRKALP MAH. 79023 SOK. NO:11/A TURGUT TÜRKALP MAH 10 NOLU SAĞLIK OCAĞI YANI/TOROSLAR",
-      "phone": "03243204242",
-      "lat": 36.808044,
-      "lon": 34.61164,
-      "workdate": "31.10.2026 13:00",
+      "name": "ÖRSAN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58BH YENİ DEVLET HAST. POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246133323",
+      "lat": 36.91427,
+      "lon": 34.912666,
+      "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
     },
     {
@@ -222,14 +212,14 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "SAĞLAM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
-      "phone": "03243275848",
-      "lat": 36.789294,
-      "lon": 34.606431,
+      "name": "TEMİZ ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TURGUT TÜRKALP MAH. 79023 SOK. NO:11/A TURGUT TÜRKALP MAH 10 NOLU SAĞLIK OCAĞI YANI/TOROSLAR",
+      "phone": "03243204242",
+      "lat": 36.808044,
+      "lon": 34.61164,
       "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 00:00"
+      "shiftend": "01.11.2026 08:00"
     },
     {
       "name": "EMRE ECZANESİ",
@@ -250,6 +240,16 @@
       "lon": 34.539912,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "SAĞLAM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
+      "phone": "03243275848",
+      "lat": 36.789294,
+      "lon": 34.606431,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 00:00"
     }
   ]
 }
