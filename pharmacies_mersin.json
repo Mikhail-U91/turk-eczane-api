@@ -2,6 +2,16 @@
   "snapshot": "31.10.2026",
   "sonuc": [
     {
+      "name": "GÜLFİDAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
+      "phone": "03242341454",
+      "lat": 36.824482,
+      "lon": 34.650656,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 00:00"
+    },
+    {
       "name": "MERVE ÖNEL ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5314 SK. NO:2/B TOROS DEVLET HASTANESİ KARŞISI (ESKİ SSK)",
@@ -20,16 +30,6 @@
       "lon": 34.628214,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "GÜLFİDAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
-      "phone": "03242341454",
-      "lat": 36.824482,
-      "lon": 34.650656,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 00:00"
     },
     {
       "name": "ERDEM ECZANESİ",
@@ -162,6 +162,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "OYAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "KIRKLARSIRTI MAH. CELAL BAYAR CAD.NO:26/H KIRKLARSIRTI MAH. CELAL BAYAR CAD.NO:26/H",
+      "phone": "03246140038",
+      "lat": 36.941298,
+      "lon": 34.873196,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 00:00"
+    },
+    {
       "name": "ASLI ECZANESİ",
       "district": "TARSUS",
       "address": "Gazipaşa Mah. 1938 Sok. No:12    GAZİPAŞA MAH. GAZİPAŞA ASM KARŞISI TARSUS",
@@ -190,16 +200,6 @@
       "lon": 34.883337,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "OYAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "KIRKLARSIRTI MAH. CELAL BAYAR CAD.NO:26/H KIRKLARSIRTI MAH. CELAL BAYAR CAD.NO:26/H",
-      "phone": "03246140038",
-      "lat": 36.941298,
-      "lon": 34.873196,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 00:00"
     },
     {
       "name": "CEYHAN ECZANESİ",
