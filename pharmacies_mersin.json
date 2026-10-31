@@ -2,6 +2,16 @@
   "snapshot": "31.10.2026",
   "sonuc": [
     {
+      "name": "SAĞLIK ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "MESUDİYE MH. ÇAKMAK CD. NO:79/A ÇAKMAK CADDESİ NO:79 BEŞYOL / BOLKEPÇE LOKANTASI KARŞISI/AKDENİZ",
+      "phone": "03242323882",
+      "lat": 36.807054,
+      "lon": 34.628214,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
       "name": "GÜLFİDAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
@@ -18,16 +28,6 @@
       "phone": "03242312080",
       "lat": 36.806426,
       "lon": 34.63582,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "MESUDİYE MH. ÇAKMAK CD. NO:79/A ÇAKMAK CADDESİ NO:79 BEŞYOL / BOLKEPÇE LOKANTASI KARŞISI/AKDENİZ",
-      "phone": "03242323882",
-      "lat": 36.807054,
-      "lon": 34.628214,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
     },
@@ -122,6 +122,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "SAĞINDA ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CD. NO:6/C YENİ DEVLET HASTANESİ KARŞISI BURUNUCU",
+      "phone": "03247122280",
+      "lat": 36.343463,
+      "lon": 33.918134,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
       "name": "ATAKENT ECZANESİ",
       "district": "SİLİFKE",
       "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:86/AB ATAKENT MH. ALPARSLAN TÜRKEŞ BULV.  SUSANOĞLU HALK PLAJI KARŞISI",
@@ -140,16 +150,6 @@
       "lon": 33.875585,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 00:00"
-    },
-    {
-      "name": "SAĞINDA ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CD. NO:6/C YENİ DEVLET HASTANESİ KARŞISI BURUNUCU",
-      "phone": "03247122280",
-      "lat": 36.343463,
-      "lon": 33.918134,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 08:00"
     },
     {
       "name": "UĞUR ECZANESİ",
@@ -222,6 +222,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "BİZİM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOME'S C BLOK NO:24 CE",
+      "phone": "03245021250",
+      "lat": 36.78593,
+      "lon": 34.539912,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
       "name": "SAĞLAM ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
@@ -238,16 +248,6 @@
       "phone": "03243259717",
       "lat": 36.782363,
       "lon": 34.595346,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "BİZİM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOME'S C BLOK NO:24 CE",
-      "phone": "03245021250",
-      "lat": 36.78593,
-      "lon": 34.539912,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
     }
