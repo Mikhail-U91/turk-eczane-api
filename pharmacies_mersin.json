@@ -2,6 +2,16 @@
   "snapshot": "31.10.2026",
   "sonuc": [
     {
+      "name": "GÜLFİDAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
+      "phone": "03242341454",
+      "lat": 36.824482,
+      "lon": 34.650656,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 00:00"
+    },
+    {
       "name": "MERVE ÖNEL ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5314 SK. NO:2/B TOROS DEVLET HASTANESİ KARŞISI (ESKİ SSK)",
@@ -20,16 +30,6 @@
       "lon": 34.628214,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "GÜLFİDAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
-      "phone": "03242341454",
-      "lat": 36.824482,
-      "lon": 34.650656,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 00:00"
     },
     {
       "name": "ERDEM ECZANESİ",
@@ -122,6 +122,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "ATAKENT ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:86/AB ATAKENT MH. ALPARSLAN TÜRKEŞ BULV.  SUSANOĞLU HALK PLAJI KARŞISI",
+      "phone": "03247150020",
+      "lat": 36.415828,
+      "lon": 34.081918,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "31.10.2026 19:00"
+    },
+    {
       "name": "ERDAL ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
@@ -142,16 +152,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "ATAKENT ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:86/AB ATAKENT MH. ALPARSLAN TÜRKEŞ BULV.  SUSANOĞLU HALK PLAJI KARŞISI",
-      "phone": "03247150020",
-      "lat": 36.415828,
-      "lon": 34.081918,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "31.10.2026 19:00"
-    },
-    {
       "name": "UĞUR ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH.ATATÜRK CAD.NO:35 SOK.NO:4  GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
@@ -159,16 +159,6 @@
       "lat": 36.380889,
       "lon": 33.930844,
       "workdate": "31.10.2026 18:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "YENİ ESER ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "05464076272",
-      "lat": 36.909163,
-      "lon": 34.883337,
-      "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
     },
     {
@@ -198,6 +188,16 @@
       "phone": "03246133323",
       "lat": 36.91427,
       "lon": 34.912666,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "YENİ ESER ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "05464076272",
+      "lat": 36.909163,
+      "lon": 34.883337,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
     },
