@@ -62,16 +62,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "ŞENSOY ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. 1002 SK. NO:4D",
-      "phone": "03245156062",
-      "lat": 36.609735,
-      "lon": 34.302241,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
       "name": "GÜNEŞ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. HOCA AHMET YESEVİ SK. NO:5E  MERKEZ MH. ÖZEL YENİŞEHİR HASTANESİ YANI - ERDEMLİ",
@@ -80,6 +70,16 @@
       "lon": 34.312587,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 00:00"
+    },
+    {
+      "name": "ŞENSOY ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. 1002 SK. NO:4D",
+      "phone": "03245156062",
+      "lat": 36.609735,
+      "lon": 34.302241,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 08:00"
     },
     {
       "name": "KIR ECZANESİ",
@@ -162,6 +162,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "YENİ ESER ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "05464076272",
+      "lat": 36.909163,
+      "lon": 34.883337,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
       "name": "OYAL ECZANESİ",
       "district": "TARSUS",
       "address": "KIRKLARSIRTI MAH. CELAL BAYAR CAD.NO:26/H KIRKLARSIRTI MAH. CELAL BAYAR CAD.NO:26/H",
@@ -188,16 +198,6 @@
       "phone": "03246133323",
       "lat": 36.91427,
       "lon": 34.912666,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "YENİ ESER ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "05464076272",
-      "lat": 36.909163,
-      "lon": 34.883337,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
     },
