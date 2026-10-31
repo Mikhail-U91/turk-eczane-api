@@ -2,6 +2,16 @@
   "snapshot": "31.10.2026",
   "sonuc": [
     {
+      "name": "GÜLFİDAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
+      "phone": "03242341454",
+      "lat": 36.824482,
+      "lon": 34.650656,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 00:00"
+    },
+    {
       "name": "MERVE ÖNEL ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5314 SK. NO:2/B TOROS DEVLET HASTANESİ KARŞISI (ESKİ SSK)",
@@ -20,16 +30,6 @@
       "lon": 34.628214,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "GÜLFİDAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
-      "phone": "03242341454",
-      "lat": 36.824482,
-      "lon": 34.650656,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 00:00"
     },
     {
       "name": "ERDEM ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "ŞENSOY ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. 1002 SK. NO:4D",
-      "phone": "03245156062",
-      "lat": 36.609735,
-      "lon": 34.302241,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
       "name": "GÜNEŞ ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. HOCA AHMET YESEVİ SK. NO:5E  MERKEZ MH. ÖZEL YENİŞEHİR HASTANESİ YANI - ERDEMLİ",
@@ -80,6 +70,16 @@
       "lon": 34.312587,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 00:00"
+    },
+    {
+      "name": "ŞENSOY ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. 1002 SK. NO:4D",
+      "phone": "03245156062",
+      "lat": 36.609735,
+      "lon": 34.302241,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 08:00"
     },
     {
       "name": "KIR ECZANESİ",
@@ -122,6 +122,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "ATAKENT ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:86/AB ATAKENT MH. ALPARSLAN TÜRKEŞ BULV.  SUSANOĞLU HALK PLAJI KARŞISI",
+      "phone": "03247150020",
+      "lat": 36.415828,
+      "lon": 34.081918,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "31.10.2026 19:00"
+    },
+    {
       "name": "ERDAL ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH.7 SOKAK NO:18/A  TAŞUCU ASM KARŞISI",
@@ -140,16 +150,6 @@
       "lon": 33.918134,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "ATAKENT ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:86/AB ATAKENT MH. ALPARSLAN TÜRKEŞ BULV.  SUSANOĞLU HALK PLAJI KARŞISI",
-      "phone": "03247150020",
-      "lat": 36.415828,
-      "lon": 34.081918,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "31.10.2026 19:00"
     },
     {
       "name": "UĞUR ECZANESİ",
@@ -222,6 +222,16 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
+      "name": "SAĞLAM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
+      "phone": "03243275848",
+      "lat": 36.789294,
+      "lon": 34.606431,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 00:00"
+    },
+    {
       "name": "EMRE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "İNÖNÜ MAH. KUSHİMATO SOK. AĞIRTAN APT. NO:17/B",
@@ -240,16 +250,6 @@
       "lon": 34.539912,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "SAĞLAM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
-      "phone": "03243275848",
-      "lat": 36.789294,
-      "lon": 34.606431,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 00:00"
     }
   ]
 }
