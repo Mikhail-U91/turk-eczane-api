@@ -92,16 +92,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "DEĞİRMENCİ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. VALİ ŞENOL ENGİN CD. NO:12A Atatürk Mh. Vali Şenol Engin Cad. No:12/A Ortadoğu Hastanesi Yanı MEZİTLİ/ MERSİN",
-      "phone": "03243583433",
-      "lat": 36.76393,
-      "lon": 34.547325,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
       "name": "SOLİ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. ZEYTİNLİ CD. NO:6A SOLİ CENTER YANI - SOLİ TAKSİ DURAĞI KARŞISI",
@@ -110,6 +100,16 @@
       "lon": 34.515143,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 00:00"
+    },
+    {
+      "name": "DEĞİRMENCİ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. VALİ ŞENOL ENGİN CD. NO:12A Atatürk Mh. Vali Şenol Engin Cad. No:12/A Ortadoğu Hastanesi Yanı MEZİTLİ/ MERSİN",
+      "phone": "03243583433",
+      "lat": 36.76393,
+      "lon": 34.547325,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 08:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
