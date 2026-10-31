@@ -2,16 +2,6 @@
   "snapshot": "31.10.2026",
   "sonuc": [
     {
-      "name": "SAĞLIK ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "MESUDİYE MH. ÇAKMAK CD. NO:79/A ÇAKMAK CADDESİ NO:79 BEŞYOL / BOLKEPÇE LOKANTASI KARŞISI/AKDENİZ",
-      "phone": "03242323882",
-      "lat": 36.807054,
-      "lon": 34.628214,
-      "workdate": "31.10.2026 13:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
       "name": "GÜLFİDAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "HAL MH. 163. CD. NO:33/B HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
@@ -28,6 +18,16 @@
       "phone": "03242312080",
       "lat": 36.806426,
       "lon": 34.63582,
+      "workdate": "31.10.2026 13:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "SAĞLIK ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "MESUDİYE MH. ÇAKMAK CD. NO:79/A ÇAKMAK CADDESİ NO:79 BEŞYOL / BOLKEPÇE LOKANTASI KARŞISI/AKDENİZ",
+      "phone": "03242323882",
+      "lat": 36.807054,
+      "lon": 34.628214,
       "workdate": "31.10.2026 13:00",
       "shiftend": "01.11.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "GÜNEŞ ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. HOCA AHMET YESEVİ SK. NO:5E  MERKEZ MH. ÖZEL YENİŞEHİR HASTANESİ YANI - ERDEMLİ",
-      "phone": "03245161019",
-      "lat": 36.605452,
-      "lon": 34.312587,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 00:00"
-    },
-    {
       "name": "ŞENSOY ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MH. 1002 SK. NO:4D",
@@ -80,6 +70,16 @@
       "lon": 34.302241,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "GÜNEŞ ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. HOCA AHMET YESEVİ SK. NO:5E  MERKEZ MH. ÖZEL YENİŞEHİR HASTANESİ YANI - ERDEMLİ",
+      "phone": "03245161019",
+      "lat": 36.605452,
+      "lon": 34.312587,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 00:00"
     },
     {
       "name": "KIR ECZANESİ",
@@ -122,16 +122,6 @@
       "shiftend": "01.11.2026 08:00"
     },
     {
-      "name": "SAĞINDA ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CD. NO:6/C YENİ DEVLET HASTANESİ KARŞISI BURUNUCU",
-      "phone": "03247122280",
-      "lat": 36.343463,
-      "lon": 33.918134,
-      "workdate": "31.10.2026 08:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
       "name": "ATAKENT ECZANESİ",
       "district": "SİLİFKE",
       "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:86/AB ATAKENT MH. ALPARSLAN TÜRKEŞ BULV.  SUSANOĞLU HALK PLAJI KARŞISI",
@@ -152,6 +142,16 @@
       "shiftend": "01.11.2026 00:00"
     },
     {
+      "name": "SAĞINDA ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CD. NO:6/C YENİ DEVLET HASTANESİ KARŞISI BURUNUCU",
+      "phone": "03247122280",
+      "lat": 36.343463,
+      "lon": 33.918134,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
       "name": "UĞUR ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH.ATATÜRK CAD.NO:35 SOK.NO:4  GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
@@ -159,16 +159,6 @@
       "lat": 36.380889,
       "lon": 33.930844,
       "workdate": "31.10.2026 18:00",
-      "shiftend": "01.11.2026 08:00"
-    },
-    {
-      "name": "YENİ ESER ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
-      "phone": "05464076272",
-      "lat": 36.909163,
-      "lon": 34.883337,
-      "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
     },
     {
@@ -198,6 +188,16 @@
       "phone": "03246133323",
       "lat": 36.91427,
       "lon": 34.912666,
+      "workdate": "31.10.2026 08:00",
+      "shiftend": "01.11.2026 08:00"
+    },
+    {
+      "name": "YENİ ESER ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MH.DUMLUPINAR BULV. NO:2/1 B Özel MMT Amerikan Hastanesi Karşısı",
+      "phone": "05464076272",
+      "lat": 36.909163,
+      "lon": 34.883337,
       "workdate": "31.10.2026 08:00",
       "shiftend": "01.11.2026 08:00"
     },
