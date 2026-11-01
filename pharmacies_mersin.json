@@ -92,16 +92,6 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "TURKUVAZ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "FATIH MAH.HUNDAI ARKASI 28.SOK.NO MELTEM APT. HYUNDAİ ARKASI SAHİL SAĞLIK OCAĞI BİTİŞİĞİ/MEZİTLİ",
-      "phone": "03243598636",
-      "lat": 36.757811,
-      "lon": 34.546123,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
       "name": "GÜLEÇ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MENDERES MH. MİLLİ EGEMENLİK CD. MIZRAK 5 APT. NO:6/B ESKİ MEZİTLİ BELEDİYE ARKASI TEDAŞ ÖDEME NOKTASI KARŞISI/MEZİTLİ",
@@ -112,6 +102,16 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
+      "name": "TURKUVAZ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "FATIH MAH.HUNDAI ARKASI 28.SOK.NO MELTEM APT. HYUNDAİ ARKASI SAHİL SAĞLIK OCAĞI BİTİŞİĞİ/MEZİTLİ",
+      "phone": "03243598636",
+      "lat": 36.757811,
+      "lon": 34.546123,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
       "name": "FERDA ECZANESİ",
       "district": "MUT",
       "address": "BARABANLI MAH. BARABANLI SOK. NO:353/F  YENİ DEVLET HASTANESİ KARŞISI  BARABANLI MH. BARABANLI SK. NO:353/F",
@@ -120,26 +120,6 @@
       "lon": 33.422165,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "ZEYNEL ÇOBAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "SARICALAR MH. TÜRKMENLİ CD. NO:12/Z01 SARICALAR MH. TÜRKMENLİ CD. ÖZEL OLBAMED HASTANESİ YANI",
-      "phone": "03247141200",
-      "lat": 36.383529,
-      "lon": 33.945178,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "TAŞUCU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1 İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
-      "phone": "03247414986",
-      "lat": 36.319314,
-      "lon": 33.879849,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 00:00"
     },
     {
       "name": "ÇAĞDAŞ ECZANESİ",
@@ -162,14 +142,24 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "LOTUS ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MH. DUMLUPINAR BULV. NO:2/1E ÖZEL TARSUS MMT AMERİKAN HASTANESİ KARŞISI",
-      "phone": "03245042114",
-      "lat": 36.909213,
-      "lon": 34.883185,
+      "name": "ZEYNEL ÇOBAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "SARICALAR MH. TÜRKMENLİ CD. NO:12/Z01 SARICALAR MH. TÜRKMENLİ CD. ÖZEL OLBAMED HASTANESİ YANI",
+      "phone": "03247141200",
+      "lat": 36.383529,
+      "lon": 33.945178,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
+    },
+    {
+      "name": "TAŞUCU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1 İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
+      "phone": "03247414986",
+      "lat": 36.319314,
+      "lon": 33.879849,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 00:00"
     },
     {
       "name": "KEMERALTI ECZANESİ",
@@ -200,6 +190,16 @@
       "lon": 34.878316,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 00:00"
+    },
+    {
+      "name": "LOTUS ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MH. DUMLUPINAR BULV. NO:2/1E ÖZEL TARSUS MMT AMERİKAN HASTANESİ KARŞISI",
+      "phone": "03245042114",
+      "lat": 36.909213,
+      "lon": 34.883185,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
     },
     {
       "name": "ÇAĞDAŞKENT ECZANESİ",
