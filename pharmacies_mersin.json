@@ -162,6 +162,16 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
+      "name": "LOTUS ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MH. DUMLUPINAR BULV. NO:2/1E ÖZEL TARSUS MMT AMERİKAN HASTANESİ KARŞISI",
+      "phone": "03245042114",
+      "lat": 36.909213,
+      "lon": 34.883185,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
       "name": "KEMERALTI ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58 CB YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
@@ -190,16 +200,6 @@
       "lon": 34.878316,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 00:00"
-    },
-    {
-      "name": "LOTUS ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MH. DUMLUPINAR BULV. NO:2/1E ÖZEL TARSUS MMT AMERİKAN HASTANESİ KARŞISI",
-      "phone": "03245042114",
-      "lat": 36.909213,
-      "lon": 34.883185,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
     },
     {
       "name": "ÇAĞDAŞKENT ECZANESİ",
