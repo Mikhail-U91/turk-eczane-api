@@ -92,16 +92,6 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "GÜLEÇ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MENDERES MH. MİLLİ EGEMENLİK CD. MIZRAK 5 APT. NO:6/B ESKİ MEZİTLİ BELEDİYE ARKASI TEDAŞ ÖDEME NOKTASI KARŞISI/MEZİTLİ",
-      "phone": "03243583467",
-      "lat": 36.748426,
-      "lon": 34.530797,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 00:00"
-    },
-    {
       "name": "TURKUVAZ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "FATIH MAH.HUNDAI ARKASI 28.SOK.NO MELTEM APT. HYUNDAİ ARKASI SAHİL SAĞLIK OCAĞI BİTİŞİĞİ/MEZİTLİ",
@@ -112,32 +102,22 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
+      "name": "GÜLEÇ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MENDERES MH. MİLLİ EGEMENLİK CD. MIZRAK 5 APT. NO:6/B ESKİ MEZİTLİ BELEDİYE ARKASI TEDAŞ ÖDEME NOKTASI KARŞISI/MEZİTLİ",
+      "phone": "03243583467",
+      "lat": 36.748426,
+      "lon": 34.530797,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 00:00"
+    },
+    {
       "name": "FERDA ECZANESİ",
       "district": "MUT",
       "address": "BARABANLI MAH. BARABANLI SOK. NO:353/F  YENİ DEVLET HASTANESİ KARŞISI  BARABANLI MH. BARABANLI SK. NO:353/F",
       "phone": "03247741206",
       "lat": 36.662375,
       "lon": 33.422165,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "ÇAĞDAŞ ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:72/B ATAKENTMAH.SILIFKE CAD.NO:210/C",
-      "phone": "03247222219",
-      "lat": 36.416479,
-      "lon": 34.082881,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "01.11.2026 19:00"
-    },
-    {
-      "name": "ÜNAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
-      "phone": "03247147559",
-      "lat": 36.381093,
-      "lon": 33.926139,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -162,14 +142,24 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
-      "name": "GÜLSE ECZANESİ",
-      "district": "TARSUS",
-      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:29/A   BAHÇE MAH. GENÇ OSMAN CAD. 1 NOLU ASM KARŞISI TARSUS",
-      "phone": "03246144301",
-      "lat": 36.906149,
-      "lon": 34.894039,
+      "name": "ÇAĞDAŞ ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "ATAKENT MH. ALPARSLAN TÜRKEŞ BULV. NO:72/B ATAKENTMAH.SILIFKE CAD.NO:210/C",
+      "phone": "03247222219",
+      "lat": 36.416479,
+      "lon": 34.082881,
       "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 00:00"
+      "shiftend": "01.11.2026 19:00"
+    },
+    {
+      "name": "ÜNAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
+      "phone": "03247147559",
+      "lat": 36.381093,
+      "lon": 33.926139,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
     },
     {
       "name": "İÇEL ECZANESİ",
@@ -202,6 +192,26 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
+      "name": "GÜLSE ECZANESİ",
+      "district": "TARSUS",
+      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:29/A   BAHÇE MAH. GENÇ OSMAN CAD. 1 NOLU ASM KARŞISI TARSUS",
+      "phone": "03246144301",
+      "lat": 36.906149,
+      "lon": 34.894039,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 00:00"
+    },
+    {
+      "name": "ÇAĞDAŞKENT ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAGDASKENT MAH. 229 CAD.NO:10/C ÇAĞDAŞKENT MH. 229. CD. ERZİNCANLILAR SİTESİ KARŞISI SÜLEYMAN GÖK ASM CİVARI/TOROSLAR",
+      "phone": "03242233636",
+      "lat": 36.835734,
+      "lon": 34.611018,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
       "name": "SOYHAN ECZANESİ",
       "district": "TOROSLAR",
       "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
@@ -212,12 +222,12 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "ÇAĞDAŞKENT ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAGDASKENT MAH. 229 CAD.NO:10/C ÇAĞDAŞKENT MH. 229. CD. ERZİNCANLILAR SİTESİ KARŞISI SÜLEYMAN GÖK ASM CİVARI/TOROSLAR",
-      "phone": "03242233636",
-      "lat": 36.835734,
-      "lon": 34.611018,
+      "name": "GÜRSOY ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ADNAN MENDERES BULV. EĞRİÇAM MH.  MERSİN MARİNA B BLOK NO: 33/BA   ADNAN MENDERES BULV. MERSİN MARİNA AVM.",
+      "phone": "03242330101",
+      "lat": 36.770139,
+      "lon": 34.566895,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -240,16 +250,6 @@
       "lon": 34.598909,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 00:00"
-    },
-    {
-      "name": "GÜRSOY ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ADNAN MENDERES BULV. EĞRİÇAM MH.  MERSİN MARİNA B BLOK NO: 33/BA   ADNAN MENDERES BULV. MERSİN MARİNA AVM.",
-      "phone": "03242330101",
-      "lat": 36.770139,
-      "lon": 34.566895,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
     }
   ]
 }
