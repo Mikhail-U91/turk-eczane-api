@@ -62,16 +62,6 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "SAMET ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH.A.SEVK CAD.NO:25/B  MÜFTÜLÜK YANI /ERDEMLİ",
-      "phone": "03245152280",
-      "lat": 36.604797,
-      "lon": 34.313913,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 00:00"
-    },
-    {
       "name": "FERHAT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. ALİ ÇAVUŞ SK. NO:2C ERDEMLİ DEVLET HASTANESİ ACİL ÇIKIŞI KARŞISI , AVGADI OPTİK YANI",
@@ -80,6 +70,16 @@
       "lon": 34.302778,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
+    },
+    {
+      "name": "SAMET ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH.A.SEVK CAD.NO:25/B  MÜFTÜLÜK YANI /ERDEMLİ",
+      "phone": "03245152280",
+      "lat": 36.604797,
+      "lon": 34.313913,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 00:00"
     },
     {
       "name": "KIR ECZANESİ",
@@ -122,6 +122,16 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
+      "name": "ÜNAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
+      "phone": "03247147559",
+      "lat": 36.381093,
+      "lon": 33.926139,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
       "name": "ZEYNEL ÇOBAN ECZANESİ",
       "district": "SİLİFKE",
       "address": "SARICALAR MH. TÜRKMENLİ CD. NO:12/Z01 SARICALAR MH. TÜRKMENLİ CD. ÖZEL OLBAMED HASTANESİ YANI",
@@ -152,14 +162,14 @@
       "shiftend": "01.11.2026 19:00"
     },
     {
-      "name": "ÜNAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
-      "phone": "03247147559",
-      "lat": 36.381093,
-      "lon": 33.926139,
+      "name": "İÇEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
+      "phone": "03245022433",
+      "lat": 36.920193,
+      "lon": 34.878316,
       "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
+      "shiftend": "02.11.2026 00:00"
     },
     {
       "name": "LOTUS ECZANESİ",
@@ -192,14 +202,14 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
-      "name": "İÇEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
-      "phone": "03245022433",
-      "lat": 36.920193,
-      "lon": 34.878316,
+      "name": "SOYHAN ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
+      "phone": "03243233383",
+      "lat": 36.816586,
+      "lon": 34.619587,
       "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 00:00"
+      "shiftend": "02.11.2026 08:00"
     },
     {
       "name": "ÇAĞDAŞKENT ECZANESİ",
@@ -208,16 +218,6 @@
       "phone": "03242233636",
       "lat": 36.835734,
       "lon": 34.611018,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "SOYHAN ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
-      "phone": "03243233383",
-      "lat": 36.816586,
-      "lon": 34.619587,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
