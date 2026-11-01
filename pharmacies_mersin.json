@@ -202,22 +202,22 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "SOYHAN ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
-      "phone": "03243233383",
-      "lat": 36.816586,
-      "lon": 34.619587,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
       "name": "ÇAĞDAŞKENT ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAGDASKENT MAH. 229 CAD.NO:10/C ÇAĞDAŞKENT MH. 229. CD. ERZİNCANLILAR SİTESİ KARŞISI SÜLEYMAN GÖK ASM CİVARI/TOROSLAR",
       "phone": "03242233636",
       "lat": 36.835734,
       "lon": 34.611018,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
+      "name": "SOYHAN ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
+      "phone": "03243233383",
+      "lat": 36.816586,
+      "lon": 34.619587,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
