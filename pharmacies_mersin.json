@@ -2,16 +2,6 @@
   "snapshot": "01.11.2026",
   "sonuc": [
     {
-      "name": "KARATAŞ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03243361952",
-      "lat": 36.808178,
-      "lon": 34.621519,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
       "name": "ŞİĞVA ECZANESİ",
       "district": "AKDENİZ",
       "address": "ŞEVKET SÜMER MH. 156. CD. NO:33A ŞEVKET SÜMER MAH 156 CAD SİTELER KARAKOLU KARŞISI",
@@ -28,6 +18,16 @@
       "phone": "03242335072",
       "lat": 36.806771,
       "lon": 34.635554,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
+      "name": "KARATAŞ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03243361952",
+      "lat": 36.808178,
+      "lon": 34.621519,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "FERHAT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. ALİ ÇAVUŞ SK. NO:2C ERDEMLİ DEVLET HASTANESİ ACİL ÇIKIŞI KARŞISI , AVGADI OPTİK YANI",
-      "phone": "03245154806",
-      "lat": 36.610893,
-      "lon": 34.302778,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
       "name": "SAMET ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH.A.SEVK CAD.NO:25/B  MÜFTÜLÜK YANI /ERDEMLİ",
@@ -82,22 +72,22 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
+      "name": "FERHAT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. ALİ ÇAVUŞ SK. NO:2C ERDEMLİ DEVLET HASTANESİ ACİL ÇIKIŞI KARŞISI , AVGADI OPTİK YANI",
+      "phone": "03245154806",
+      "lat": 36.610893,
+      "lon": 34.302778,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
       "name": "KIR ECZANESİ",
       "district": "GÜLNAR",
       "address": "SARAY MAH. AKKAVAK CAD. NO: 12/E SARAY MAH. AKKAVAK CAD. NO: 12/E ESKİ DEVLET HASTANESİ KARŞISI",
       "phone": "03247512727",
       "lat": 36.338403,
       "lon": 33.40324,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "TURKUVAZ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "FATIH MAH.HUNDAI ARKASI 28.SOK.NO MELTEM APT. HYUNDAİ ARKASI SAHİL SAĞLIK OCAĞI BİTİŞİĞİ/MEZİTLİ",
-      "phone": "03243598636",
-      "lat": 36.757811,
-      "lon": 34.546123,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -112,22 +102,22 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
+      "name": "TURKUVAZ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "FATIH MAH.HUNDAI ARKASI 28.SOK.NO MELTEM APT. HYUNDAİ ARKASI SAHİL SAĞLIK OCAĞI BİTİŞİĞİ/MEZİTLİ",
+      "phone": "03243598636",
+      "lat": 36.757811,
+      "lon": 34.546123,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
       "name": "FERDA ECZANESİ",
       "district": "MUT",
       "address": "BARABANLI MAH. BARABANLI SOK. NO:353/F  YENİ DEVLET HASTANESİ KARŞISI  BARABANLI MH. BARABANLI SK. NO:353/F",
       "phone": "03247741206",
       "lat": 36.662375,
       "lon": 33.422165,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "ÜNAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
-      "phone": "03247147559",
-      "lat": 36.381093,
-      "lon": 33.926139,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -162,14 +152,14 @@
       "shiftend": "01.11.2026 19:00"
     },
     {
-      "name": "İÇEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
-      "phone": "03245022433",
-      "lat": 36.920193,
-      "lon": 34.878316,
+      "name": "ÜNAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
+      "phone": "03247147559",
+      "lat": 36.381093,
+      "lon": 33.926139,
       "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 00:00"
+      "shiftend": "02.11.2026 08:00"
     },
     {
       "name": "LOTUS ECZANESİ",
@@ -202,14 +192,14 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
-      "name": "SOYHAN ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
-      "phone": "03243233383",
-      "lat": 36.816586,
-      "lon": 34.619587,
+      "name": "İÇEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
+      "phone": "03245022433",
+      "lat": 36.920193,
+      "lon": 34.878316,
       "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
+      "shiftend": "02.11.2026 00:00"
     },
     {
       "name": "ÇAĞDAŞKENT ECZANESİ",
@@ -222,12 +212,12 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "GÜRSOY ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ADNAN MENDERES BULV. EĞRİÇAM MH.  MERSİN MARİNA B BLOK NO: 33/BA   ADNAN MENDERES BULV. MERSİN MARİNA AVM.",
-      "phone": "03242330101",
-      "lat": 36.770139,
-      "lon": 34.566895,
+      "name": "SOYHAN ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
+      "phone": "03243233383",
+      "lat": 36.816586,
+      "lon": 34.619587,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -250,6 +240,16 @@
       "lon": 34.598909,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 00:00"
+    },
+    {
+      "name": "GÜRSOY ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ADNAN MENDERES BULV. EĞRİÇAM MH.  MERSİN MARİNA B BLOK NO: 33/BA   ADNAN MENDERES BULV. MERSİN MARİNA AVM.",
+      "phone": "03242330101",
+      "lat": 36.770139,
+      "lon": 34.566895,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
     }
   ]
 }
