@@ -2,6 +2,16 @@
   "snapshot": "01.11.2026",
   "sonuc": [
     {
+      "name": "KARATAŞ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03243361952",
+      "lat": 36.808178,
+      "lon": 34.621519,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
       "name": "ŞİĞVA ECZANESİ",
       "district": "AKDENİZ",
       "address": "ŞEVKET SÜMER MH. 156. CD. NO:33A ŞEVKET SÜMER MAH 156 CAD SİTELER KARAKOLU KARŞISI",
@@ -18,16 +28,6 @@
       "phone": "03242335072",
       "lat": 36.806771,
       "lon": 34.635554,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "KARATAŞ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03243361952",
-      "lat": 36.808178,
-      "lon": 34.621519,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -122,6 +122,16 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
+      "name": "ÜNAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
+      "phone": "03247147559",
+      "lat": 36.381093,
+      "lon": 33.926139,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
       "name": "ZEYNEL ÇOBAN ECZANESİ",
       "district": "SİLİFKE",
       "address": "SARICALAR MH. TÜRKMENLİ CD. NO:12/Z01 SARICALAR MH. TÜRKMENLİ CD. ÖZEL OLBAMED HASTANESİ YANI",
@@ -152,14 +162,14 @@
       "shiftend": "01.11.2026 19:00"
     },
     {
-      "name": "ÜNAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GAZİ MAH.İLHAN AKGÜN CAD. ÜNAL İŞHANI SİT. NO:10/A  GAZI MAH ILHAN AKGÜN CAD.NO.12A/B",
-      "phone": "03247147559",
-      "lat": 36.381093,
-      "lon": 33.926139,
+      "name": "İÇEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
+      "phone": "03245022433",
+      "lat": 36.920193,
+      "lon": 34.878316,
       "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
+      "shiftend": "02.11.2026 00:00"
     },
     {
       "name": "LOTUS ECZANESİ",
@@ -192,26 +202,6 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
-      "name": "İÇEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
-      "phone": "03245022433",
-      "lat": 36.920193,
-      "lon": 34.878316,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 00:00"
-    },
-    {
-      "name": "ÇAĞDAŞKENT ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAGDASKENT MAH. 229 CAD.NO:10/C ÇAĞDAŞKENT MH. 229. CD. ERZİNCANLILAR SİTESİ KARŞISI SÜLEYMAN GÖK ASM CİVARI/TOROSLAR",
-      "phone": "03242233636",
-      "lat": 36.835734,
-      "lon": 34.611018,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
       "name": "SOYHAN ECZANESİ",
       "district": "TOROSLAR",
       "address": "TOZKOPARAN MAH. 87002 SOK. NO:33  TOZKOPARAN MH. HASAN AKEL LİSESİ CİVARI ÇARŞAMBA PAZARI SOKAĞI",
@@ -222,12 +212,12 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "SARIYILDIZ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GÜVENEVLER MH. 1990 SK. NO:8B FORUM YAŞAM HASTANESİ ACİL YANI YENİŞEHİR",
-      "phone": "03243257347",
-      "lat": 36.789995,
-      "lon": 34.587829,
+      "name": "ÇAĞDAŞKENT ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAGDASKENT MAH. 229 CAD.NO:10/C ÇAĞDAŞKENT MH. 229. CD. ERZİNCANLILAR SİTESİ KARŞISI SÜLEYMAN GÖK ASM CİVARI/TOROSLAR",
+      "phone": "03242233636",
+      "lat": 36.835734,
+      "lon": 34.611018,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -248,6 +238,16 @@
       "phone": "03242330101",
       "lat": 36.770139,
       "lon": 34.566895,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
+      "name": "SARIYILDIZ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GÜVENEVLER MH. 1990 SK. NO:8B FORUM YAŞAM HASTANESİ ACİL YANI YENİŞEHİR",
+      "phone": "03243257347",
+      "lat": 36.789995,
+      "lon": 34.587829,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     }
