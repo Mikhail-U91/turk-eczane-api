@@ -162,16 +162,6 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "İÇEL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
-      "phone": "03245022433",
-      "lat": 36.920193,
-      "lon": 34.878316,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 00:00"
-    },
-    {
       "name": "LOTUS ECZANESİ",
       "district": "TARSUS",
       "address": "ÖĞRETMENLER MH. DUMLUPINAR BULV. NO:2/1E ÖZEL TARSUS MMT AMERİKAN HASTANESİ KARŞISI",
@@ -202,6 +192,16 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
+      "name": "İÇEL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
+      "phone": "03245022433",
+      "lat": 36.920193,
+      "lon": 34.878316,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 00:00"
+    },
+    {
       "name": "ÇAĞDAŞKENT ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAGDASKENT MAH. 229 CAD.NO:10/C ÇAĞDAŞKENT MH. 229. CD. ERZİNCANLILAR SİTESİ KARŞISI SÜLEYMAN GÖK ASM CİVARI/TOROSLAR",
@@ -218,16 +218,6 @@
       "phone": "03243233383",
       "lat": 36.816586,
       "lon": 34.619587,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "GÜRSOY ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ADNAN MENDERES BULV. EĞRİÇAM MH.  MERSİN MARİNA B BLOK NO: 33/BA   ADNAN MENDERES BULV. MERSİN MARİNA AVM.",
-      "phone": "03242330101",
-      "lat": 36.770139,
-      "lon": 34.566895,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -250,6 +240,16 @@
       "lon": 34.598909,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 00:00"
+    },
+    {
+      "name": "GÜRSOY ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ADNAN MENDERES BULV. EĞRİÇAM MH.  MERSİN MARİNA B BLOK NO: 33/BA   ADNAN MENDERES BULV. MERSİN MARİNA AVM.",
+      "phone": "03242330101",
+      "lat": 36.770139,
+      "lon": 34.566895,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
     }
   ]
 }
