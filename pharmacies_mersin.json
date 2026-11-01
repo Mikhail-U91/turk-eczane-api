@@ -162,16 +162,6 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
-      "name": "KEMERALTI ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58 CB YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
-      "phone": "03246139383",
-      "lat": 36.914207,
-      "lon": 34.912336,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
       "name": "GÜLSE ECZANESİ",
       "district": "TARSUS",
       "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:29/A   BAHÇE MAH. GENÇ OSMAN CAD. 1 NOLU ASM KARŞISI TARSUS",
@@ -202,12 +192,12 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "ÇAĞDAŞKENT ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAGDASKENT MAH. 229 CAD.NO:10/C ÇAĞDAŞKENT MH. 229. CD. ERZİNCANLILAR SİTESİ KARŞISI SÜLEYMAN GÖK ASM CİVARI/TOROSLAR",
-      "phone": "03242233636",
-      "lat": 36.835734,
-      "lon": 34.611018,
+      "name": "KEMERALTI ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:58 CB YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
+      "phone": "03246139383",
+      "lat": 36.914207,
+      "lon": 34.912336,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -218,6 +208,16 @@
       "phone": "03243233383",
       "lat": 36.816586,
       "lon": 34.619587,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
+      "name": "ÇAĞDAŞKENT ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAGDASKENT MAH. 229 CAD.NO:10/C ÇAĞDAŞKENT MH. 229. CD. ERZİNCANLILAR SİTESİ KARŞISI SÜLEYMAN GÖK ASM CİVARI/TOROSLAR",
+      "phone": "03242233636",
+      "lat": 36.835734,
+      "lon": 34.611018,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
