@@ -2,6 +2,16 @@
   "snapshot": "01.11.2026",
   "sonuc": [
     {
+      "name": "KARATAŞ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03243361952",
+      "lat": 36.808178,
+      "lon": 34.621519,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
       "name": "ŞİĞVA ECZANESİ",
       "district": "AKDENİZ",
       "address": "ŞEVKET SÜMER MH. 156. CD. NO:33A ŞEVKET SÜMER MAH 156 CAD SİTELER KARAKOLU KARŞISI",
@@ -18,16 +28,6 @@
       "phone": "03242335072",
       "lat": 36.806771,
       "lon": 34.635554,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "KARATAŞ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03243361952",
-      "lat": 36.808178,
-      "lon": 34.621519,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     },
@@ -222,16 +222,6 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "SARIYILDIZ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GÜVENEVLER MH. 1990 SK. NO:8B FORUM YAŞAM HASTANESİ ACİL YANI YENİŞEHİR",
-      "phone": "03243257347",
-      "lat": 36.789995,
-      "lon": 34.587829,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
       "name": "CADDE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BAHÇELİEVLER MH. GMK BULV. RASTGELDİ APT. C BLOK 324B GMK BULV. POZCU DOMİNO'S PİZZA KARŞISI YENİYOL DURAĞI ARKASI TELEVOLE MAĞAZA YANI",
@@ -248,6 +238,16 @@
       "phone": "03242330101",
       "lat": 36.770139,
       "lon": 34.566895,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
+    },
+    {
+      "name": "SARIYILDIZ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GÜVENEVLER MH. 1990 SK. NO:8B FORUM YAŞAM HASTANESİ ACİL YANI YENİŞEHİR",
+      "phone": "03243257347",
+      "lat": 36.789995,
+      "lon": 34.587829,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
     }
