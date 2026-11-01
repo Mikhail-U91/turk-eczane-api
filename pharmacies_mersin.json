@@ -92,16 +92,6 @@
       "shiftend": "02.11.2026 08:00"
     },
     {
-      "name": "TURKUVAZ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "FATIH MAH.HUNDAI ARKASI 28.SOK.NO MELTEM APT. HYUNDAİ ARKASI SAHİL SAĞLIK OCAĞI BİTİŞİĞİ/MEZİTLİ",
-      "phone": "03243598636",
-      "lat": 36.757811,
-      "lon": 34.546123,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 08:00"
-    },
-    {
       "name": "GÜLEÇ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MENDERES MH. MİLLİ EGEMENLİK CD. MIZRAK 5 APT. NO:6/B ESKİ MEZİTLİ BELEDİYE ARKASI TEDAŞ ÖDEME NOKTASI KARŞISI/MEZİTLİ",
@@ -110,6 +100,16 @@
       "lon": 34.530797,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 00:00"
+    },
+    {
+      "name": "TURKUVAZ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "FATIH MAH.HUNDAI ARKASI 28.SOK.NO MELTEM APT. HYUNDAİ ARKASI SAHİL SAĞLIK OCAĞI BİTİŞİĞİ/MEZİTLİ",
+      "phone": "03243598636",
+      "lat": 36.757811,
+      "lon": 34.546123,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 08:00"
     },
     {
       "name": "FERDA ECZANESİ",
@@ -162,6 +162,16 @@
       "shiftend": "02.11.2026 00:00"
     },
     {
+      "name": "GÜLSE ECZANESİ",
+      "district": "TARSUS",
+      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:29/A   BAHÇE MAH. GENÇ OSMAN CAD. 1 NOLU ASM KARŞISI TARSUS",
+      "phone": "03246144301",
+      "lat": 36.906149,
+      "lon": 34.894039,
+      "workdate": "01.11.2026 08:00",
+      "shiftend": "02.11.2026 00:00"
+    },
+    {
       "name": "İÇEL ECZANESİ",
       "district": "TARSUS",
       "address": "ANIT MH. 321 SK. NO:12/B ANIT MAH. EMİNE BORA SİTESİ CİVARI ANIT ASM YANI",
@@ -190,16 +200,6 @@
       "lon": 34.912336,
       "workdate": "01.11.2026 08:00",
       "shiftend": "02.11.2026 08:00"
-    },
-    {
-      "name": "GÜLSE ECZANESİ",
-      "district": "TARSUS",
-      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:29/A   BAHÇE MAH. GENÇ OSMAN CAD. 1 NOLU ASM KARŞISI TARSUS",
-      "phone": "03246144301",
-      "lat": 36.906149,
-      "lon": 34.894039,
-      "workdate": "01.11.2026 08:00",
-      "shiftend": "02.11.2026 00:00"
     },
     {
       "name": "SOYHAN ECZANESİ",
