@@ -92,16 +92,6 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "SERRA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ÇANKAYA MH. 37209 SK. NO:10A           \n          MEZİTLİ KUYULUK SAĞLIK OCAĞI KARŞISI",
-      "phone": "05063060233",
-      "lat": 36.759805,
-      "lon": 34.511994,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
       "name": "AKTAŞ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENI MAH.33180 SOK.NO:27/A           \n          YENİ MH. KALE YOLU ASM (1 NOLU SAĞLIK OCAĞI KARŞISI) MEZİTLİ/MEZİTLİ",
@@ -120,6 +110,16 @@
       "lon": 34.499701,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 00:00"
+    },
+    {
+      "name": "SERRA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ÇANKAYA MH. 37209 SK. NO:10A           \n          MEZİTLİ KUYULUK SAĞLIK OCAĞI KARŞISI",
+      "phone": "05063060233",
+      "lat": 36.759805,
+      "lon": 34.511994,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
     },
     {
       "name": "ÇEREKÇİ ECZANESİ",
@@ -152,26 +152,6 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
-      "name": "AYDAN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. 3745 SK. NO:1AB           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
-      "phone": "03246223476",
-      "lat": 36.914214,
-      "lon": 34.912384,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
-      "name": "SEDA BAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "MİTHATPAŞA MH. TOROS CD. NO:44           \n          MİTHATPAŞA MH. PAZAR YERİ KARŞISI 4 NOLU ASM YANI",
-      "phone": "03246262600",
-      "lat": 36.914332,
-      "lon": 34.871159,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 00:00"
-    },
-    {
       "name": "BERKAY ECZANESİ",
       "district": "TARSUS",
       "address": "ALTAYLILAR MH. ŞAMİL BASAYEV CD. NO:36/A           \n          ALTAYLILAR MH. ŞAMİL BASAYEV CD. DİŞ HASTANESİ KARŞISI",
@@ -192,14 +172,24 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "ÇAM  ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 93003 SK. NO:16/A           \n          Meriş market-meriş düğün salonu alt kavşağı 3.çevreyolu üzeri",
-      "phone": "03242240102",
-      "lat": 36.832379,
-      "lon": 34.61923,
+      "name": "AYDAN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. 3745 SK. NO:1AB           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
+      "phone": "03246223476",
+      "lat": 36.914214,
+      "lon": 34.912384,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
+    },
+    {
+      "name": "SEDA BAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "MİTHATPAŞA MH. TOROS CD. NO:44           \n          MİTHATPAŞA MH. PAZAR YERİ KARŞISI 4 NOLU ASM YANI",
+      "phone": "03246262600",
+      "lat": 36.914332,
+      "lon": 34.871159,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 00:00"
     },
     {
       "name": "TEZEL ECZANESİ",
@@ -210,6 +200,26 @@
       "lon": 34.598498,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
+    },
+    {
+      "name": "ÇAM  ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 93003 SK. NO:16/A           \n          Meriş market-meriş düğün salonu alt kavşağı 3.çevreyolu üzeri",
+      "phone": "03242240102",
+      "lat": 36.832379,
+      "lon": 34.61923,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
+      "name": "HAZAL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "HÜRRİYET MH. 1742 SK. NO: 39-A           \n          HÜRRİYET MH.DEMOKRASİ BATTI ÇIKTI YANINDAKİ MİGROS MARKET ARKA SOKAĞI HÜRRİYET ASM KARŞISI/YENİŞEHİR",
+      "phone": "03243262599",
+      "lat": 36.794194,
+      "lon": 34.600659,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 00:00"
     },
     {
       "name": "GÖZDE ECZANESİ",
@@ -230,16 +240,6 @@
       "lon": 34.540132,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
-    },
-    {
-      "name": "HAZAL ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "HÜRRİYET MH. 1742 SK. NO: 39-A           \n          HÜRRİYET MH.DEMOKRASİ BATTI ÇIKTI YANINDAKİ MİGROS MARKET ARKA SOKAĞI HÜRRİYET ASM KARŞISI/YENİŞEHİR",
-      "phone": "03243262599",
-      "lat": 36.794194,
-      "lon": 34.600659,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 00:00"
     }
   ]
 }
