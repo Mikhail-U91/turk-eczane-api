@@ -92,6 +92,16 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
+      "name": "SERRA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ÇANKAYA MH. 37209 SK. NO:10A           \n          MEZİTLİ KUYULUK SAĞLIK OCAĞI KARŞISI",
+      "phone": "05063060233",
+      "lat": 36.759805,
+      "lon": 34.511994,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "AKTAŞ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENI MAH.33180 SOK.NO:27/A           \n          YENİ MH. KALE YOLU ASM (1 NOLU SAĞLIK OCAĞI KARŞISI) MEZİTLİ/MEZİTLİ",
@@ -110,16 +120,6 @@
       "lon": 34.499701,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 00:00"
-    },
-    {
-      "name": "SERRA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ÇANKAYA MH. 37209 SK. NO:10A           \n          MEZİTLİ KUYULUK SAĞLIK OCAĞI KARŞISI",
-      "phone": "05063060233",
-      "lat": 36.759805,
-      "lon": 34.511994,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
     },
     {
       "name": "ÇEREKÇİ ECZANESİ",
