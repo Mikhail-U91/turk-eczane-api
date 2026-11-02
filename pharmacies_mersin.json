@@ -2,6 +2,16 @@
   "snapshot": "02.11.2026",
   "sonuc": [
     {
+      "name": "BAHAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MAH. 5314 SOK. NO:8/E           \n          TOROS DEVLET HASTANESİ (ESKİ SSK HASTANESİ) POLİKLİNİK GİRİŞİKARŞISI/AKDENİZ",
+      "phone": "03242324094",
+      "lat": 36.806936,
+      "lon": 34.635434,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "GÜLNAR ECZANESİ",
       "district": "AKDENİZ",
       "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A           \n          ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.637549,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 00:00"
-    },
-    {
-      "name": "BAHAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MAH. 5314 SOK. NO:8/E           \n          TOROS DEVLET HASTANESİ (ESKİ SSK HASTANESİ) POLİKLİNİK GİRİŞİKARŞISI/AKDENİZ",
-      "phone": "03242324094",
-      "lat": 36.806936,
-      "lon": 34.635434,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
     },
     {
       "name": "KORAY ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "CEMRE ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:57/D           \n          AKDENİZ MH. KAZIM KARABEKİR CD. YENİ DEVLET HASTANESİ CİVARI - SEÇ MARKET YANI",
-      "phone": "05384435140",
-      "lat": 36.609817,
-      "lon": 34.302968,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
       "name": "SABAH ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAHALLESİ SABAHATTİN ÇAKMAKOĞLU CADDESİ ŞENLER İŞHANI NO:7/A           \n          MERKEZ MAHALLESİ 1. PLAJ YOLU",
@@ -82,22 +72,22 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
+      "name": "CEMRE ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. NO:57/D           \n          AKDENİZ MH. KAZIM KARABEKİR CD. YENİ DEVLET HASTANESİ CİVARI - SEÇ MARKET YANI",
+      "phone": "05384435140",
+      "lat": 36.609817,
+      "lon": 34.302968,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "NADİR ECZANESİ",
       "district": "GÜLNAR",
       "address": "SARAY MAH. AKKAVAK CAD. NO:14/C           \n           SARAY MH. AKKAVAK CD. NO:14/C",
       "phone": "03247512116",
       "lat": 36.338338,
       "lon": 33.403489,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
-      "name": "SERRA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ÇANKAYA MH. 37209 SK. NO:10A           \n          MEZİTLİ KUYULUK SAĞLIK OCAĞI KARŞISI",
-      "phone": "05063060233",
-      "lat": 36.759805,
-      "lon": 34.511994,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
     },
@@ -122,6 +112,16 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
+      "name": "SERRA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ÇANKAYA MH. 37209 SK. NO:10A           \n          MEZİTLİ KUYULUK SAĞLIK OCAĞI KARŞISI",
+      "phone": "05063060233",
+      "lat": 36.759805,
+      "lon": 34.511994,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "ÇEREKÇİ ECZANESİ",
       "district": "MUT",
       "address": "INÖNÜ CAD.NO:3/B            \n          INÖNÜ CD.NO:3/B",
@@ -130,16 +130,6 @@
       "lon": 33.437456,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
-    },
-    {
-      "name": "FIRAT ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU           \n          CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
-      "phone": "03247412600",
-      "lat": 36.319363,
-      "lon": 33.879895,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 00:00"
     },
     {
       "name": "ONUR ECZANESİ",
@@ -152,12 +142,12 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "SEDA BAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "MİTHATPAŞA MH. TOROS CD. NO:44           \n          MİTHATPAŞA MH. PAZAR YERİ KARŞISI 4 NOLU ASM YANI",
-      "phone": "03246262600",
-      "lat": 36.914332,
-      "lon": 34.871159,
+      "name": "FIRAT ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU           \n          CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
+      "phone": "03247412600",
+      "lat": 36.319363,
+      "lon": 33.879895,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 00:00"
     },
@@ -190,6 +180,16 @@
       "lon": 34.912384,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
+    },
+    {
+      "name": "SEDA BAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "MİTHATPAŞA MH. TOROS CD. NO:44           \n          MİTHATPAŞA MH. PAZAR YERİ KARŞISI 4 NOLU ASM YANI",
+      "phone": "03246262600",
+      "lat": 36.914332,
+      "lon": 34.871159,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 00:00"
     },
     {
       "name": "ÇAM  ECZANESİ",
