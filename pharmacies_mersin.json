@@ -2,6 +2,16 @@
   "snapshot": "02.11.2026",
   "sonuc": [
     {
+      "name": "BAHAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MAH. 5314 SOK. NO:8/E           \n          TOROS DEVLET HASTANESİ (ESKİ SSK HASTANESİ) POLİKLİNİK GİRİŞİKARŞISI/AKDENİZ",
+      "phone": "03242324094",
+      "lat": 36.806936,
+      "lon": 34.635434,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "GÜLNAR ECZANESİ",
       "district": "AKDENİZ",
       "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A           \n          ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.637549,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 00:00"
-    },
-    {
-      "name": "BAHAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MAH. 5314 SOK. NO:8/E           \n          TOROS DEVLET HASTANESİ (ESKİ SSK HASTANESİ) POLİKLİNİK GİRİŞİKARŞISI/AKDENİZ",
-      "phone": "03242324094",
-      "lat": 36.806936,
-      "lon": 34.635434,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
     },
     {
       "name": "KORAY ECZANESİ",
@@ -192,22 +192,22 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
-      "name": "TEZEL ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇUKUROVA MH. 85119 SK. NO:125/A-B           \n          ÇUKUROVA SAĞLIK OCAĞI YANI/TOROSLAR",
-      "phone": "03243240429",
-      "lat": 36.838355,
-      "lon": 34.598498,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
       "name": "ÇAM  ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 93003 SK. NO:16/A           \n          Meriş market-meriş düğün salonu alt kavşağı 3.çevreyolu üzeri",
       "phone": "03242240102",
       "lat": 36.832379,
       "lon": 34.61923,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
+      "name": "TEZEL ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇUKUROVA MH. 85119 SK. NO:125/A-B           \n          ÇUKUROVA SAĞLIK OCAĞI YANI/TOROSLAR",
+      "phone": "03243240429",
+      "lat": 36.838355,
+      "lon": 34.598498,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
     },
