@@ -132,6 +132,16 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
+      "name": "ONUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. ATATÜRK CD. NO:5           \n          GÖKSU MH. ATATÜRK CD. NO:5",
+      "phone": "05436881235",
+      "lat": 36.380466,
+      "lon": 33.926986,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "FIRAT ECZANESİ",
       "district": "SİLİFKE",
       "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU           \n          CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
@@ -142,12 +152,12 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
-      "name": "ONUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. ATATÜRK CD. NO:5           \n          GÖKSU MH. ATATÜRK CD. NO:5",
-      "phone": "05436881235",
-      "lat": 36.380466,
-      "lon": 33.926986,
+      "name": "AYDAN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. 3745 SK. NO:1AB           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
+      "phone": "03246223476",
+      "lat": 36.914214,
+      "lon": 34.912384,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
     },
@@ -182,16 +192,6 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "AYDAN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. 3745 SK. NO:1AB           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
-      "phone": "03246223476",
-      "lat": 36.914214,
-      "lon": 34.912384,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
       "name": "ÇAM  ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 93003 SK. NO:16/A           \n          Meriş market-meriş düğün salonu alt kavşağı 3.çevreyolu üzeri",
@@ -212,16 +212,6 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "HAZAL ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "HÜRRİYET MH. 1742 SK. NO: 39-A           \n          HÜRRİYET MH.DEMOKRASİ BATTI ÇIKTI YANINDAKİ MİGROS MARKET ARKA SOKAĞI HÜRRİYET ASM KARŞISI/YENİŞEHİR",
-      "phone": "03243262599",
-      "lat": 36.794194,
-      "lon": 34.600659,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 00:00"
-    },
-    {
       "name": "GÖZDE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BARBAROS MAH. BARBAROS BULV. 2106 SOK. NO:69/B           \n          AYDINLIKEVLER İLKOKULUNUN 300 MT KUZEYİ BARBAROS BULVARI ÜZERİ (YENİŞEHİR ANADOLU ASM CİVARI)",
@@ -240,6 +230,16 @@
       "lon": 34.540132,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
+    },
+    {
+      "name": "HAZAL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "HÜRRİYET MH. 1742 SK. NO: 39-A           \n          HÜRRİYET MH.DEMOKRASİ BATTI ÇIKTI YANINDAKİ MİGROS MARKET ARKA SOKAĞI HÜRRİYET ASM KARŞISI/YENİŞEHİR",
+      "phone": "03243262599",
+      "lat": 36.794194,
+      "lon": 34.600659,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 00:00"
     }
   ]
 }
