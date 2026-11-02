@@ -92,16 +92,6 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "İLAYDA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "AKDENİZ MH. YAŞAR DOĞU CD. NO:64A           \n           75. YIL ASM YANI  /MEZİTLİ",
-      "phone": "05414815009",
-      "lat": 36.728627,
-      "lon": 34.499701,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 00:00"
-    },
-    {
       "name": "SERRA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "ÇANKAYA MH. 37209 SK. NO:10A           \n          MEZİTLİ KUYULUK SAĞLIK OCAĞI KARŞISI",
@@ -120,6 +110,16 @@
       "lon": 34.534917,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
+    },
+    {
+      "name": "İLAYDA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "AKDENİZ MH. YAŞAR DOĞU CD. NO:64A           \n           75. YIL ASM YANI  /MEZİTLİ",
+      "phone": "05414815009",
+      "lat": 36.728627,
+      "lon": 34.499701,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 00:00"
     },
     {
       "name": "ÇEREKÇİ ECZANESİ",
@@ -152,16 +152,6 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
-      "name": "BERNA   ECZANESİ",
-      "district": "TARSUS",
-      "address": "Atatürk Cad. Eliyeşil Apt.No:1/C            \n          Atatürk cad.Halk Eğt.Mrk.Karşısı",
-      "phone": "03246246000",
-      "lat": 36.917732,
-      "lon": 34.887301,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
       "name": "AYDAN ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. 3745 SK. NO:1AB           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
@@ -190,6 +180,16 @@
       "lon": 34.857388,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 00:00"
+    },
+    {
+      "name": "BERNA   ECZANESİ",
+      "district": "TARSUS",
+      "address": "Atatürk Cad. Eliyeşil Apt.No:1/C            \n          Atatürk cad.Halk Eğt.Mrk.Karşısı",
+      "phone": "03246246000",
+      "lat": 36.917732,
+      "lon": 34.887301,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
     },
     {
       "name": "ÇAM  ECZANESİ",
