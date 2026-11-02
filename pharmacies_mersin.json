@@ -2,6 +2,16 @@
   "snapshot": "02.11.2026",
   "sonuc": [
     {
+      "name": "GÜLNAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A           \n          ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
+      "phone": "03243366180",
+      "lat": 36.808702,
+      "lon": 34.620334,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "AKDENİZ GÜNEŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "GÜNEŞ MH. 5822 SK. NO:11/B           \n          GÜNEŞ MAH. 5822 SK. SELAHATTİN EYYÜBİ ASM YANI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242324094",
       "lat": 36.806936,
       "lon": 34.635434,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
-      "name": "GÜLNAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A           \n          ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
-      "phone": "03243366180",
-      "lat": 36.808702,
-      "lon": 34.620334,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
     },
@@ -92,16 +92,6 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "AKTAŞ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENI MAH.33180 SOK.NO:27/A           \n          YENİ MH. KALE YOLU ASM (1 NOLU SAĞLIK OCAĞI KARŞISI) MEZİTLİ/MEZİTLİ",
-      "phone": "03243599990",
-      "lat": 36.757238,
-      "lon": 34.534917,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
       "name": "İLAYDA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "AKDENİZ MH. YAŞAR DOĞU CD. NO:64A           \n           75. YIL ASM YANI  /MEZİTLİ",
@@ -118,6 +108,16 @@
       "phone": "05063060233",
       "lat": 36.759805,
       "lon": 34.511994,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
+      "name": "AKTAŞ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENI MAH.33180 SOK.NO:27/A           \n          YENİ MH. KALE YOLU ASM (1 NOLU SAĞLIK OCAĞI KARŞISI) MEZİTLİ/MEZİTLİ",
+      "phone": "03243599990",
+      "lat": 36.757238,
+      "lon": 34.534917,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
     },
@@ -152,26 +152,6 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
-      "name": "BERKAY ECZANESİ",
-      "district": "TARSUS",
-      "address": "ALTAYLILAR MH. ŞAMİL BASAYEV CD. NO:36/A           \n          ALTAYLILAR MH. ŞAMİL BASAYEV CD. DİŞ HASTANESİ KARŞISI",
-      "phone": "03245020585",
-      "lat": 36.923129,
-      "lon": 34.857388,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 00:00"
-    },
-    {
-      "name": "BERNA   ECZANESİ",
-      "district": "TARSUS",
-      "address": "Atatürk Cad. Eliyeşil Apt.No:1/C            \n          Atatürk cad.Halk Eğt.Mrk.Karşısı",
-      "phone": "03246246000",
-      "lat": 36.917732,
-      "lon": 34.887301,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
       "name": "AYDAN ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. 3745 SK. NO:1AB           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
@@ -192,12 +172,22 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
-      "name": "TEZEL ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇUKUROVA MH. 85119 SK. NO:125/A-B           \n          ÇUKUROVA SAĞLIK OCAĞI YANI/TOROSLAR",
-      "phone": "03243240429",
-      "lat": 36.838355,
-      "lon": 34.598498,
+      "name": "BERKAY ECZANESİ",
+      "district": "TARSUS",
+      "address": "ALTAYLILAR MH. ŞAMİL BASAYEV CD. NO:36/A           \n          ALTAYLILAR MH. ŞAMİL BASAYEV CD. DİŞ HASTANESİ KARŞISI",
+      "phone": "03245020585",
+      "lat": 36.923129,
+      "lon": 34.857388,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 00:00"
+    },
+    {
+      "name": "BERNA   ECZANESİ",
+      "district": "TARSUS",
+      "address": "Atatürk Cad. Eliyeşil Apt.No:1/C            \n          Atatürk cad.Halk Eğt.Mrk.Karşısı",
+      "phone": "03246246000",
+      "lat": 36.917732,
+      "lon": 34.887301,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
     },
@@ -212,14 +202,14 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "HAZAL ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "HÜRRİYET MH. 1742 SK. NO: 39-A           \n          HÜRRİYET MH.DEMOKRASİ BATTI ÇIKTI YANINDAKİ MİGROS MARKET ARKA SOKAĞI HÜRRİYET ASM KARŞISI/YENİŞEHİR",
-      "phone": "03243262599",
-      "lat": 36.794194,
-      "lon": 34.600659,
+      "name": "TEZEL ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇUKUROVA MH. 85119 SK. NO:125/A-B           \n          ÇUKUROVA SAĞLIK OCAĞI YANI/TOROSLAR",
+      "phone": "03243240429",
+      "lat": 36.838355,
+      "lon": 34.598498,
       "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 00:00"
+      "shiftend": "03.11.2026 08:00"
     },
     {
       "name": "GÖZDE ECZANESİ",
@@ -240,6 +230,16 @@
       "lon": 34.540132,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
+    },
+    {
+      "name": "HAZAL ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "HÜRRİYET MH. 1742 SK. NO: 39-A           \n          HÜRRİYET MH.DEMOKRASİ BATTI ÇIKTI YANINDAKİ MİGROS MARKET ARKA SOKAĞI HÜRRİYET ASM KARŞISI/YENİŞEHİR",
+      "phone": "03243262599",
+      "lat": 36.794194,
+      "lon": 34.600659,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 00:00"
     }
   ]
 }
