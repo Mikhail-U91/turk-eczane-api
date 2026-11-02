@@ -132,6 +132,16 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
+      "name": "FIRAT ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU           \n          CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
+      "phone": "03247412600",
+      "lat": 36.319363,
+      "lon": 33.879895,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 00:00"
+    },
+    {
       "name": "ONUR ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MH. ATATÜRK CD. NO:5           \n          GÖKSU MH. ATATÜRK CD. NO:5",
@@ -142,12 +152,12 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
-      "name": "FIRAT ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "CUMHURIYET MAH.MUTLULAR İŞ HANI NO:16/H TASUCU           \n          CUMHURRIYET MAH.MUTLULAR IS HANI NO.16/H",
-      "phone": "03247412600",
-      "lat": 36.319363,
-      "lon": 33.879895,
+      "name": "SEDA BAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "MİTHATPAŞA MH. TOROS CD. NO:44           \n          MİTHATPAŞA MH. PAZAR YERİ KARŞISI 4 NOLU ASM YANI",
+      "phone": "03246262600",
+      "lat": 36.914332,
+      "lon": 34.871159,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 00:00"
     },
@@ -180,16 +190,6 @@
       "lon": 34.912384,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
-    },
-    {
-      "name": "SEDA BAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "MİTHATPAŞA MH. TOROS CD. NO:44           \n          MİTHATPAŞA MH. PAZAR YERİ KARŞISI 4 NOLU ASM YANI",
-      "phone": "03246262600",
-      "lat": 36.914332,
-      "lon": 34.871159,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 00:00"
     },
     {
       "name": "TEZEL ECZANESİ",
