@@ -2,16 +2,6 @@
   "snapshot": "02.11.2026",
   "sonuc": [
     {
-      "name": "BAHAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MAH. 5314 SOK. NO:8/E TOROS DEVLET HASTANESİ (ESKİ SSK HASTANESİ) POLİKLİNİK GİRİŞİKARŞISI/AKDENİZ",
-      "phone": "03242324094",
-      "lat": 36.806936,
-      "lon": 34.635434,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
       "name": "GÜLNAR ECZANESİ",
       "district": "AKDENİZ",
       "address": "IHSANIYE MAH.SAİT ÇIFCI CAD.113.CAD. NO:5/A ESKİ DEVLET HASTANESİ KARŞISI ARA SOKAK/AKDENİZ",
@@ -30,6 +20,16 @@
       "lon": 34.637549,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 00:00"
+    },
+    {
+      "name": "BAHAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MAH. 5314 SOK. NO:8/E TOROS DEVLET HASTANESİ (ESKİ SSK HASTANESİ) POLİKLİNİK GİRİŞİKARŞISI/AKDENİZ",
+      "phone": "03242324094",
+      "lat": 36.806936,
+      "lon": 34.635434,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
     },
     {
       "name": "KORAY ECZANESİ",
@@ -92,6 +92,16 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
+      "name": "SERRA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ÇANKAYA MH. 37209 SK. NO:10A MEZİTLİ KUYULUK SAĞLIK OCAĞI KARŞISI",
+      "phone": "05063060233",
+      "lat": 36.759805,
+      "lon": 34.511994,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "AKTAŞ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENI MAH.33180 SOK.NO:27/A YENİ MH. KALE YOLU ASM (1 NOLU SAĞLIK OCAĞI KARŞISI) MEZİTLİ/MEZİTLİ",
@@ -112,32 +122,12 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
-      "name": "SERRA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ÇANKAYA MH. 37209 SK. NO:10A MEZİTLİ KUYULUK SAĞLIK OCAĞI KARŞISI",
-      "phone": "05063060233",
-      "lat": 36.759805,
-      "lon": 34.511994,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
       "name": "ÇEREKÇİ ECZANESİ",
       "district": "MUT",
       "address": "INÖNÜ CAD.NO:3/B  INÖNÜ CD.NO:3/B",
       "phone": "03247746646",
       "lat": 36.644675,
       "lon": 33.437456,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
-      "name": "ONUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. ATATÜRK CD. NO:5 GÖKSU MH. ATATÜRK CD. NO:5",
-      "phone": "05436881235",
-      "lat": 36.380466,
-      "lon": 33.926986,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
     },
@@ -152,22 +142,12 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
-      "name": "BERKAY ECZANESİ",
-      "district": "TARSUS",
-      "address": "ALTAYLILAR MH. ŞAMİL BASAYEV CD. NO:36/A ALTAYLILAR MH. ŞAMİL BASAYEV CD. DİŞ HASTANESİ KARŞISI",
-      "phone": "03245020585",
-      "lat": 36.923129,
-      "lon": 34.857388,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 00:00"
-    },
-    {
-      "name": "BERNA   ECZANESİ",
-      "district": "TARSUS",
-      "address": "Atatürk Cad. Eliyeşil Apt.No:1/C  Atatürk cad.Halk Eğt.Mrk.Karşısı",
-      "phone": "03246246000",
-      "lat": 36.917732,
-      "lon": 34.887301,
+      "name": "ONUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. ATATÜRK CD. NO:5 GÖKSU MH. ATATÜRK CD. NO:5",
+      "phone": "05436881235",
+      "lat": 36.380466,
+      "lon": 33.926986,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
     },
@@ -192,6 +172,26 @@
       "shiftend": "03.11.2026 00:00"
     },
     {
+      "name": "BERKAY ECZANESİ",
+      "district": "TARSUS",
+      "address": "ALTAYLILAR MH. ŞAMİL BASAYEV CD. NO:36/A ALTAYLILAR MH. ŞAMİL BASAYEV CD. DİŞ HASTANESİ KARŞISI",
+      "phone": "03245020585",
+      "lat": 36.923129,
+      "lon": 34.857388,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 00:00"
+    },
+    {
+      "name": "BERNA   ECZANESİ",
+      "district": "TARSUS",
+      "address": "Atatürk Cad. Eliyeşil Apt.No:1/C  Atatürk cad.Halk Eğt.Mrk.Karşısı",
+      "phone": "03246246000",
+      "lat": 36.917732,
+      "lon": 34.887301,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "ÇAM  ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 93003 SK. NO:16/A Meriş market-meriş düğün salonu alt kavşağı 3.çevreyolu üzeri",
@@ -212,6 +212,16 @@
       "shiftend": "03.11.2026 08:00"
     },
     {
+      "name": "ÖMER  ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MAH. MİMAR SİNAN CAD. PARADİSE HOMES SİT. D BLOK NO:5  ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
+      "phone": "03245021516",
+      "lat": 36.785468,
+      "lon": 34.540132,
+      "workdate": "02.11.2026 18:00",
+      "shiftend": "03.11.2026 08:00"
+    },
+    {
       "name": "HAZAL ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "HÜRRİYET MH. 1742 SK. NO: 39-A HÜRRİYET MH.DEMOKRASİ BATTI ÇIKTI YANINDAKİ MİGROS MARKET ARKA SOKAĞI HÜRRİYET ASM KARŞISI/YENİŞEHİR",
@@ -228,16 +238,6 @@
       "phone": "03249998958",
       "lat": 36.784216,
       "lon": 34.580019,
-      "workdate": "02.11.2026 18:00",
-      "shiftend": "03.11.2026 08:00"
-    },
-    {
-      "name": "ÖMER  ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MAH. MİMAR SİNAN CAD. PARADİSE HOMES SİT. D BLOK NO:5  ÇİFTLİKKÖY MH. MİMAR SİNAN CD. (MERSİN ÜNİVERSİTESİ TIP FAKÜLTESİ HASTANESİ KARŞISI) /YENİŞEHİR",
-      "phone": "03245021516",
-      "lat": 36.785468,
-      "lon": 34.540132,
       "workdate": "02.11.2026 18:00",
       "shiftend": "03.11.2026 08:00"
     }
