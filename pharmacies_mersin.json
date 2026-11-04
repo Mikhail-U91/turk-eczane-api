@@ -152,6 +152,16 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
+      "name": "SERAP ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. 3745 SK. NO:1AA           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246247486",
+      "lat": 36.914218,
+      "lon": 34.912402,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "BELEN ECZANESİ",
       "district": "TARSUS",
       "address": "ALTAYLILAR MH. TURAN CD. NO:49A           \n          ALTAYLILAR ASM YANI BAL SİTESİ CİVARI",
@@ -182,12 +192,12 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
-      "name": "SERAP ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. 3745 SK. NO:1AA           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246247486",
-      "lat": 36.914218,
-      "lon": 34.912402,
+      "name": "ÖRGE ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
+      "phone": "03242230207",
+      "lat": 36.848853,
+      "lon": 34.60719,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -202,12 +212,12 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "ÖRGE ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
-      "phone": "03242230207",
-      "lat": 36.848853,
-      "lon": 34.60719,
+      "name": "YASEMİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "AKKENT MH. 34. CD. NO:54D           \n          LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
+      "phone": "05301901502",
+      "lat": 36.780492,
+      "lon": 34.546635,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -228,16 +238,6 @@
       "phone": "03243268033",
       "lat": 36.783127,
       "lon": 34.592301,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
-      "name": "YASEMİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "AKKENT MH. 34. CD. NO:54D           \n          LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
-      "phone": "05301901502",
-      "lat": 36.780492,
-      "lon": 34.546635,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     }
