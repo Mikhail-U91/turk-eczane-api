@@ -2,6 +2,16 @@
   "snapshot": "04.11.2026",
   "sonuc": [
     {
+      "name": "PINAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
+      "phone": "03243575857",
+      "lat": 36.809392,
+      "lon": 34.620776,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "BARIŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "SİTELER MH. 5651 SK. NO:8A           \n          SİTELER MAHALLE MUHTARLIĞI ARKASI ŞEHİT CENGİZ KIR ASM KARŞISI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242381004",
       "lat": 36.804955,
       "lon": 34.632287,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
-      "name": "PINAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
-      "phone": "03243575857",
-      "lat": 36.809392,
-      "lon": 34.620776,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -192,6 +192,16 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
+      "name": "ÖRGE ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
+      "phone": "03242230207",
+      "lat": 36.848853,
+      "lon": 34.60719,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "ZEYNEP ECZANESİ",
       "district": "TOROSLAR",
       "address": "OSMANIYE MH. 81034 SK. NO:33           \n          OSMANİYE MH. 81034 SK. NO:33 TOROSLAR",
@@ -202,12 +212,12 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "ÖRGE ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
-      "phone": "03242230207",
-      "lat": 36.848853,
-      "lon": 34.60719,
+      "name": "YASEMİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "AKKENT MH. 34. CD. NO:54D           \n          LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
+      "phone": "05301901502",
+      "lat": 36.780492,
+      "lon": 34.546635,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -228,16 +238,6 @@
       "phone": "03243268033",
       "lat": 36.783127,
       "lon": 34.592301,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
-      "name": "YASEMİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "AKKENT MH. 34. CD. NO:54D           \n          LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
-      "phone": "05301901502",
-      "lat": 36.780492,
-      "lon": 34.546635,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     }
