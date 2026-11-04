@@ -62,16 +62,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "BİLGE ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MAH. KAZIM KARABEKİR CAD.ANNEM EVLERİ NO:25           \n          AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ NO:25",
-      "phone": "03245161474",
-      "lat": 36.609064,
-      "lon": 34.303503,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
       "name": "CADDE SAĞLIK ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. TÜRBE CD. NO:5A           \n          Hükümet konağı arkası",
@@ -80,6 +70,16 @@
       "lon": 34.309616,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 00:00"
+    },
+    {
+      "name": "BİLGE ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MAH. KAZIM KARABEKİR CAD.ANNEM EVLERİ NO:25           \n          AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ NO:25",
+      "phone": "03245161474",
+      "lat": 36.609064,
+      "lon": 34.303503,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
     },
     {
       "name": "GÖNEN ECZANESİ",
@@ -184,20 +184,10 @@
     {
       "name": "BAŞAK ECZANESİ",
       "district": "TARSUS",
-      "address": "YENİ ÖMERLİ MAH.ATATÜRK BULV.GALİP EKENLER APT.NO:78/B             \n          TARSUS PARKI CİVARI ÜST GEÇİT YANI",
+      "address": "YENİ ÖMERLİ MAH.ATATÜRK BULV.GALİP EKENLER APT.NO:78/B             \n          TARSUS PARKI CİVARI ÜST GEÇ��T YANI",
       "phone": "03246243549",
       "lat": 36.918074,
       "lon": 34.885353,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
-      "name": "ÖRGE ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
-      "phone": "03242230207",
-      "lat": 36.848853,
-      "lon": 34.60719,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -208,6 +198,16 @@
       "phone": "03243200208",
       "lat": 36.812854,
       "lon": 34.6134,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "ÖRGE ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
+      "phone": "03242230207",
+      "lat": 36.848853,
+      "lon": 34.60719,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
