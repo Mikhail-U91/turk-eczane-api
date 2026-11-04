@@ -62,16 +62,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "CADDE SAĞLIK ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. TÜRBE CD. NO:5A           \n          Hükümet konağı arkası",
-      "phone": "05398402662",
-      "lat": 36.606535,
-      "lon": 34.309616,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 00:00"
-    },
-    {
       "name": "BİLGE ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MAH. KAZIM KARABEKİR CAD.ANNEM EVLERİ NO:25           \n          AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ NO:25",
@@ -80,6 +70,16 @@
       "lon": 34.303503,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "CADDE SAĞLIK ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. TÜRBE CD. NO:5A           \n          Hükümet konağı arkası",
+      "phone": "05398402662",
+      "lat": 36.606535,
+      "lon": 34.309616,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 00:00"
     },
     {
       "name": "GÖNEN ECZANESİ",
@@ -192,22 +192,22 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "ZEYNEP ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "OSMANIYE MH. 81034 SK. NO:33           \n          OSMANİYE MH. 81034 SK. NO:33 TOROSLAR",
-      "phone": "03243200208",
-      "lat": 36.812854,
-      "lon": 34.6134,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
       "name": "ÖRGE ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
       "phone": "03242230207",
       "lat": 36.848853,
       "lon": 34.60719,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "ZEYNEP ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "OSMANIYE MH. 81034 SK. NO:33           \n          OSMANİYE MH. 81034 SK. NO:33 TOROSLAR",
+      "phone": "03243200208",
+      "lat": 36.812854,
+      "lon": 34.6134,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
