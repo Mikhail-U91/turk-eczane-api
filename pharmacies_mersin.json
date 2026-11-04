@@ -62,16 +62,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "CADDE SAĞLIK ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. TÜRBE CD. NO:5A           \n          Hükümet konağı arkası",
-      "phone": "05398402662",
-      "lat": 36.606535,
-      "lon": 34.309616,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 00:00"
-    },
-    {
       "name": "BİLGE ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MAH. KAZIM KARABEKİR CAD.ANNEM EVLERİ NO:25           \n          AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ NO:25",
@@ -80,6 +70,16 @@
       "lon": 34.303503,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "CADDE SAĞLIK ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. TÜRBE CD. NO:5A           \n          Hükümet konağı arkası",
+      "phone": "05398402662",
+      "lat": 36.606535,
+      "lon": 34.309616,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 00:00"
     },
     {
       "name": "GÖNEN ECZANESİ",
@@ -132,16 +132,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "ÖZNUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A           \n          GAZİ ASM KARŞISI",
-      "phone": "03247141418",
-      "lat": 36.380707,
-      "lon": 33.92724,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
       "name": "MİRA ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A           \n          TAŞUCU KAPALI PAZAR YERİ KARŞISI",
@@ -152,12 +142,12 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
-      "name": "BAŞAK ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENİ ÖMERLİ MAH.ATATÜRK BULV.GALİP EKENLER APT.NO:78/B             \n          TARSUS PARKI CİVARI ÜST GEÇİT YANI",
-      "phone": "03246243549",
-      "lat": 36.918074,
-      "lon": 34.885353,
+      "name": "ÖZNUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A           \n          GAZİ ASM KARŞISI",
+      "phone": "03247141418",
+      "lat": 36.380707,
+      "lon": 33.92724,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -192,12 +182,12 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
-      "name": "ZEYNEP ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "OSMANIYE MH. 81034 SK. NO:33           \n          OSMANİYE MH. 81034 SK. NO:33 TOROSLAR",
-      "phone": "03243200208",
-      "lat": 36.812854,
-      "lon": 34.6134,
+      "name": "BAŞAK ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENİ ÖMERLİ MAH.ATATÜRK BULV.GALİP EKENLER APT.NO:78/B             \n          TARSUS PARKI CİVARI ÜST GEÇİT YANI",
+      "phone": "03246243549",
+      "lat": 36.918074,
+      "lon": 34.885353,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -212,12 +202,12 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "ŞİMŞEK ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Güvenevler Mh. 1908 Sk. No: 4/B             \n          GÜVENEVLER MH. ÖZEL YENİŞEHİR HASTANESİ ARKASI (FORUM AVM CİVARI)",
-      "phone": "03243268033",
-      "lat": 36.783127,
-      "lon": 34.592301,
+      "name": "ZEYNEP ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "OSMANIYE MH. 81034 SK. NO:33           \n          OSMANİYE MH. 81034 SK. NO:33 TOROSLAR",
+      "phone": "03243200208",
+      "lat": 36.812854,
+      "lon": 34.6134,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -240,6 +230,16 @@
       "lon": 34.603897,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 00:00"
+    },
+    {
+      "name": "ŞİMŞEK ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Güvenevler Mh. 1908 Sk. No: 4/B             \n          GÜVENEVLER MH. ÖZEL YENİŞEHİR HASTANESİ ARKASI (FORUM AVM CİVARI)",
+      "phone": "03243268033",
+      "lat": 36.783127,
+      "lon": 34.592301,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
     }
   ]
 }
