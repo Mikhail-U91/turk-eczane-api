@@ -92,16 +92,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "ESİN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ÇANKAYA MAH. 37202 SK. NO:17/A             \n          FINDIKPINARI CADDESİ KUYULUK ASM KARŞISI KUYULUK/ MEZİTLİ/MERSİN",
-      "phone": "03243588451",
-      "lat": 36.760026,
-      "lon": 34.511904,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
       "name": "FARMA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. 52136 SK. NO:10A           \n          CUMHURİYET SAĞLIK OCAĞI YANI MEZİTLİ",
@@ -118,6 +108,16 @@
       "phone": "03243580664",
       "lat": 36.756738,
       "lon": 34.537689,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "ESİN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ÇANKAYA MAH. 37202 SK. NO:17/A             \n          FINDIKPINARI CADDESİ KUYULUK ASM KARŞISI KUYULUK/ MEZİTLİ/MERSİN",
+      "phone": "03243588451",
+      "lat": 36.760026,
+      "lon": 34.511904,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -152,6 +152,16 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
+      "name": "SERAP ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. 3745 SK. NO:1AA           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246247486",
+      "lat": 36.914218,
+      "lon": 34.912402,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "BELEN ECZANESİ",
       "district": "TARSUS",
       "address": "ALTAYLILAR MH. TURAN CD. NO:49A           \n          ALTAYLILAR ASM YANI BAL SİTESİ CİVARI",
@@ -180,16 +190,6 @@
       "lon": 34.886158,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 00:00"
-    },
-    {
-      "name": "SERAP ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. 3745 SK. NO:1AA           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246247486",
-      "lat": 36.914218,
-      "lon": 34.912402,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
     },
     {
       "name": "ÖRGE ECZANESİ",
