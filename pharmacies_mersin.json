@@ -2,16 +2,6 @@
   "snapshot": "04.11.2026",
   "sonuc": [
     {
-      "name": "PINAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
-      "phone": "03243575857",
-      "lat": 36.809392,
-      "lon": 34.620776,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
       "name": "BARIŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "SİTELER MH. 5651 SK. NO:8A           \n          SİTELER MAHALLE MUHTARLIĞI ARKASI ŞEHİT CENGİZ KIR ASM KARŞISI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242381004",
       "lat": 36.804955,
       "lon": 34.632287,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "PINAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
+      "phone": "03243575857",
+      "lat": 36.809392,
+      "lon": 34.620776,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "BİLGE ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MAH. KAZIM KARABEKİR CAD.ANNEM EVLERİ NO:25           \n          AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ NO:25",
-      "phone": "03245161474",
-      "lat": 36.609064,
-      "lon": 34.303503,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
       "name": "CADDE SAĞLIK ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. TÜRBE CD. NO:5A           \n          Hükümet konağı arkası",
@@ -82,22 +72,22 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
+      "name": "BİLGE ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MAH. KAZIM KARABEKİR CAD.ANNEM EVLERİ NO:25           \n          AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ NO:25",
+      "phone": "03245161474",
+      "lat": 36.609064,
+      "lon": 34.303503,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "GÖNEN ECZANESİ",
       "district": "GÜLNAR",
       "address": "ATATÜRK CAD.NO:81            \n          ATATÜRK CD.NO:81",
       "phone": "03247513300",
       "lat": 36.338409,
       "lon": 33.402806,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
-      "name": "DEMET ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "KALE YOLU ZIRAATCILAR SITESI A.BLOK NO:1            \n          TOROS DEVLET HAST. MEZİTLİ SEMT POLKLİNİĞİ KARŞISI (KALEYOLU)/MEZİTLİ",
-      "phone": "03243580664",
-      "lat": 36.756738,
-      "lon": 34.537689,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -122,22 +112,22 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
+      "name": "DEMET ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "KALE YOLU ZIRAATCILAR SITESI A.BLOK NO:1            \n          TOROS DEVLET HAST. MEZİTLİ SEMT POLKLİNİĞİ KARŞISI (KALEYOLU)/MEZİTLİ",
+      "phone": "03243580664",
+      "lat": 36.756738,
+      "lon": 34.537689,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "MEYDAN ECZANESİ",
       "district": "MUT",
       "address": "KARSIYAKA MAH. DONATIM CAD. NO:7            \n          KARSIYAKA MH. DONATIM CD. NO:7 MUT",
       "phone": "03247747277",
       "lat": 36.650437,
       "lon": 33.433855,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
-      "name": "ÖZNUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A           \n          GAZİ ASM KARŞISI",
-      "phone": "03247141418",
-      "lat": 36.380707,
-      "lon": 33.92724,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -152,14 +142,14 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
-      "name": "BELEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "ALTAYLILAR MH. TURAN CD. NO:49A           \n          ALTAYLILAR ASM YANI BAL SİTESİ CİVARI",
-      "phone": "03245035039",
-      "lat": 36.923259,
-      "lon": 34.853183,
+      "name": "ÖZNUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A           \n          GAZİ ASM KARŞISI",
+      "phone": "03247141418",
+      "lat": 36.380707,
+      "lon": 33.92724,
       "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 00:00"
+      "shiftend": "05.11.2026 08:00"
     },
     {
       "name": "BAŞAK ECZANESİ",
@@ -192,14 +182,14 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "ÖRGE ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
-      "phone": "03242230207",
-      "lat": 36.848853,
-      "lon": 34.60719,
+      "name": "BELEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "ALTAYLILAR MH. TURAN CD. NO:49A           \n          ALTAYLILAR ASM YANI BAL SİTESİ CİVARI",
+      "phone": "03245035039",
+      "lat": 36.923259,
+      "lon": 34.853183,
       "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
+      "shiftend": "05.11.2026 00:00"
     },
     {
       "name": "ZEYNEP ECZANESİ",
@@ -208,6 +198,16 @@
       "phone": "03243200208",
       "lat": 36.812854,
       "lon": 34.6134,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "ÖRGE ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
+      "phone": "03242230207",
+      "lat": 36.848853,
+      "lon": 34.60719,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
