@@ -2,6 +2,16 @@
   "snapshot": "04.11.2026",
   "sonuc": [
     {
+      "name": "PINAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
+      "phone": "03243575857",
+      "lat": 36.809392,
+      "lon": 34.620776,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "BARIŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "SİTELER MH. 5651 SK. NO:8A           \n          SİTELER MAHALLE MUHTARLIĞI ARKASI ŞEHİT CENGİZ KIR ASM KARŞISI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242381004",
       "lat": 36.804955,
       "lon": 34.632287,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
-      "name": "PINAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
-      "phone": "03243575857",
-      "lat": 36.809392,
-      "lon": 34.620776,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -132,6 +132,16 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
+      "name": "ÖZNUR ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A           \n          GAZİ ASM KARŞISI",
+      "phone": "03247141418",
+      "lat": 36.380707,
+      "lon": 33.92724,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "MİRA ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A           \n          TAŞUCU KAPALI PAZAR YERİ KARŞISI",
@@ -142,12 +152,22 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
-      "name": "ÖZNUR ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A           \n          GAZİ ASM KARŞISI",
-      "phone": "03247141418",
-      "lat": 36.380707,
-      "lon": 33.92724,
+      "name": "BELEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "ALTAYLILAR MH. TURAN CD. NO:49A           \n          ALTAYLILAR ASM YANI BAL SİTESİ CİVARI",
+      "phone": "03245035039",
+      "lat": 36.923259,
+      "lon": 34.853183,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 00:00"
+    },
+    {
+      "name": "BAŞAK ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENİ ÖMERLİ MAH.ATATÜRK BULV.GALİP EKENLER APT.NO:78/B             \n          TARSUS PARKI CİVARI ÜST GEÇİT YANI",
+      "phone": "03246243549",
+      "lat": 36.918074,
+      "lon": 34.885353,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -172,26 +192,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "BELEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "ALTAYLILAR MH. TURAN CD. NO:49A           \n          ALTAYLILAR ASM YANI BAL SİTESİ CİVARI",
-      "phone": "03245035039",
-      "lat": 36.923259,
-      "lon": 34.853183,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 00:00"
-    },
-    {
-      "name": "BAŞAK ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENİ ÖMERLİ MAH.ATATÜRK BULV.GALİP EKENLER APT.NO:78/B             \n          TARSUS PARKI CİVARI ÜST GEÇİT YANI",
-      "phone": "03246243549",
-      "lat": 36.918074,
-      "lon": 34.885353,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
       "name": "ÖRGE ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. 96017 SK. NO:15/A           \n          TOKİ EVLERİ CAMİSİ ARKASI, KORUKENT MAHALLE MUHTARLIĞININ YANI",
@@ -212,16 +212,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "YASEMİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "AKKENT MH. 34. CD. NO:54D           \n          LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
-      "phone": "05301901502",
-      "lat": 36.780492,
-      "lon": 34.546635,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
       "name": "ÖYKÜ ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "GAZI MAH.1304.SOK.NO:12/A            \n          MUĞDAT CAMİ CİVARI, GAZİ ASM KARŞISI - POZCU",
@@ -238,6 +228,16 @@
       "phone": "03243268033",
       "lat": 36.783127,
       "lon": 34.592301,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "YASEMİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "AKKENT MH. 34. CD. NO:54D           \n          LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
+      "phone": "05301901502",
+      "lat": 36.780492,
+      "lon": 34.546635,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     }
