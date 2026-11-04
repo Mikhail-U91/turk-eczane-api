@@ -2,6 +2,16 @@
   "snapshot": "04.11.2026",
   "sonuc": [
     {
+      "name": "PINAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
+      "phone": "03243575857",
+      "lat": 36.809392,
+      "lon": 34.620776,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "BARIŞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "SİTELER MH. 5651 SK. NO:8A           \n          SİTELER MAHALLE MUHTARLIĞI ARKASI ŞEHİT CENGİZ KIR ASM KARŞISI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242381004",
       "lat": 36.804955,
       "lon": 34.632287,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
-      "name": "PINAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
-      "phone": "03243575857",
-      "lat": 36.809392,
-      "lon": 34.620776,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
     },
@@ -92,16 +92,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "FARMA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. 52136 SK. NO:10A           \n          CUMHURİYET SAĞLIK OCAĞI YANI MEZİTLİ",
-      "phone": "05438504444",
-      "lat": 36.739,
-      "lon": 34.516148,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 00:00"
-    },
-    {
       "name": "DEMET ECZANESİ",
       "district": "MEZİTLİ",
       "address": "KALE YOLU ZIRAATCILAR SITESI A.BLOK NO:1            \n          TOROS DEVLET HAST. MEZİTLİ SEMT POLKLİNİĞİ KARŞISI (KALEYOLU)/MEZİTLİ",
@@ -120,6 +110,16 @@
       "lon": 34.511904,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "FARMA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. 52136 SK. NO:10A           \n          CUMHURİYET SAĞLIK OCAĞI YANI MEZİTLİ",
+      "phone": "05438504444",
+      "lat": 36.739,
+      "lon": 34.516148,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 00:00"
     },
     {
       "name": "MEYDAN ECZANESİ",
@@ -152,16 +152,6 @@
       "shiftend": "05.11.2026 00:00"
     },
     {
-      "name": "SERAP ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. 3745 SK. NO:1AA           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246247486",
-      "lat": 36.914218,
-      "lon": 34.912402,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
-    },
-    {
       "name": "BELEN ECZANESİ",
       "district": "TARSUS",
       "address": "ALTAYLILAR MH. TURAN CD. NO:49A           \n          ALTAYLILAR ASM YANI BAL SİTESİ CİVARI",
@@ -190,6 +180,16 @@
       "lon": 34.886158,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 00:00"
+    },
+    {
+      "name": "SERAP ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. 3745 SK. NO:1AA           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246247486",
+      "lat": 36.914218,
+      "lon": 34.912402,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
     },
     {
       "name": "ÖRGE ECZANESİ",
