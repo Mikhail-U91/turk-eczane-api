@@ -132,16 +132,6 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
-      "name": "MİRA ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A           \n          TAŞUCU KAPALI PAZAR YERİ KARŞISI",
-      "phone": "03247413020",
-      "lat": 36.322618,
-      "lon": 33.884339,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 00:00"
-    },
-    {
       "name": "ÖZNUR ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH. CELAL BAYAR CD. NO:16A           \n          GAZİ ASM KARŞISI",
@@ -150,6 +140,16 @@
       "lon": 33.92724,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 08:00"
+    },
+    {
+      "name": "MİRA ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A           \n          TAŞUCU KAPALI PAZAR YERİ KARŞISI",
+      "phone": "03247413020",
+      "lat": 36.322618,
+      "lon": 33.884339,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 00:00"
     },
     {
       "name": "BAŞAK ECZANESİ",
@@ -212,6 +212,16 @@
       "shiftend": "05.11.2026 08:00"
     },
     {
+      "name": "ŞİMŞEK ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Güvenevler Mh. 1908 Sk. No: 4/B             \n          GÜVENEVLER MH. ÖZEL YENİŞEHİR HASTANESİ ARKASI (FORUM AVM CİVARI)",
+      "phone": "03243268033",
+      "lat": 36.783127,
+      "lon": 34.592301,
+      "workdate": "04.11.2026 18:00",
+      "shiftend": "05.11.2026 08:00"
+    },
+    {
       "name": "YASEMİN ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "AKKENT MH. 34. CD. NO:54D           \n          LOCA BURHAN APT SAYAPARK KUZEYİ SHELL PETROL KARŞISI",
@@ -230,16 +240,6 @@
       "lon": 34.603897,
       "workdate": "04.11.2026 18:00",
       "shiftend": "05.11.2026 00:00"
-    },
-    {
-      "name": "ŞİMŞEK ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Güvenevler Mh. 1908 Sk. No: 4/B             \n          GÜVENEVLER MH. ÖZEL YENİŞEHİR HASTANESİ ARKASI (FORUM AVM CİVARI)",
-      "phone": "03243268033",
-      "lat": 36.783127,
-      "lon": 34.592301,
-      "workdate": "04.11.2026 18:00",
-      "shiftend": "05.11.2026 08:00"
     }
   ]
 }
