@@ -62,16 +62,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "HAKAN ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
-      "phone": "03245150050",
-      "lat": 36.6049,
-      "lon": 34.313846,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "CEYDA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH.KAZIM KARABEKİR CAD.ALİ ÇAVUŞ SK.NO:3/A           \n          MERKEZ MH. KAZIM KARABEKİR CD. ALİ ÇAVUŞ SK. NO:3/A ERDEMLİ DEVLET HASTANESİ KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.30263,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "HAKAN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
+      "phone": "03245150050",
+      "lat": 36.6049,
+      "lon": 34.313846,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
     },
     {
       "name": "ARIKAN ECZANESİ",
@@ -132,16 +132,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "SUSANOĞLU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Atakent Mah. Alparslan Türkeş Bul.No:91/AB           \n          ATAKENT MAH. ALPARSLAN TÜRKEŞ BULV.  E BLOK 179E/3",
-      "phone": "03247224686",
-      "lat": 36.405326,
-      "lon": 34.069948,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "22.11.2026 19:00"
-    },
-    {
       "name": "ONUK ECZANESİ",
       "district": "SİLİFKE",
       "address": "BURUNUCU MH. HASTANE CD. NO: 8/A           \n          BURUNUCU MAH.NO:187",
@@ -170,6 +160,26 @@
       "lon": 33.926986,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "SUSANOĞLU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Atakent Mah. Alparslan Türkeş Bul.No:91/AB           \n          ATAKENT MAH. ALPARSLAN TÜRKEŞ BULV.  E BLOK 179E/3",
+      "phone": "03247224686",
+      "lat": 36.405326,
+      "lon": 34.069948,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "22.11.2026 19:00"
+    },
+    {
+      "name": "ZÜLAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ERGENEKON MH. 1240 SK. NO:9A           \n          ŞEHİT YURDAKUL  ALCAN OKULU KARŞISI",
+      "phone": "03246275755",
+      "lat": 36.930416,
+      "lon": 34.859794,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
     },
     {
       "name": "DARENDE ECZANESİ",
@@ -202,16 +212,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "ZÜLAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ERGENEKON MH. 1240 SK. NO:9A           \n          ŞEHİT YURDAKUL  ALCAN OKULU KARŞISI",
-      "phone": "03246275755",
-      "lat": 36.930416,
-      "lon": 34.859794,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "TUNA ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39CH           \n          MERSİN ŞEHİR HASTANESİ,ACİL SERVİS AMBULANS GİRİŞİ KARŞISI",
@@ -232,16 +232,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "SAĞLAM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A           \n          TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
-      "phone": "03243275848",
-      "lat": 36.789294,
-      "lon": 34.606431,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "GÜLENDAM ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "50. YIL MH. 2701 SK. NO:8A           \n          MİMAR SİNAN AİLE SAĞLIĞI MERKEZİ ÇAPRAZİ. YASEMİN LYCHEE YANI, DEMİRCANLAR GURMENİN UST TARAFİ",
@@ -260,6 +250,16 @@
       "lon": 34.561985,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "SAĞLAM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A           \n          TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
+      "phone": "03243275848",
+      "lat": 36.789294,
+      "lon": 34.606431,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
     }
   ]
 }
