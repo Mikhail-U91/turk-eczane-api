@@ -2,16 +2,6 @@
   "snapshot": "22.11.2026",
   "sonuc": [
     {
-      "name": "YENİ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CAD. NO:131/A           \n          HASTANE CD. KURUÇEŞME CİVARI/AKDENİZ",
-      "phone": "03243364432",
-      "lat": 36.805985,
-      "lon": 34.62273,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
-    },
-    {
       "name": "DOSTLAR ECZANESİ",
       "district": "AKDENİZ",
       "address": "MAHMUDİYE MH. 4812 SK. NO:28/A           \n          ÇANKAYA ASM YANI",
@@ -28,6 +18,16 @@
       "phone": "03242379900",
       "lat": 36.806624,
       "lon": 34.635694,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "YENİ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CAD. NO:131/A           \n          HASTANE CD. KURUÇEŞME CİVARI/AKDENİZ",
+      "phone": "03243364432",
+      "lat": 36.805985,
+      "lon": 34.62273,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
     },
@@ -92,16 +92,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "VİLDAN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MAH. 52136 SOK. ÜÇBAL SİTESİ C BLOK NO:19 (1E)           \n          SOLİ ENGLİSH HOME YANI MEZİTLİ 4 NOLU ASM KARŞISI",
-      "phone": "03249991577",
-      "lat": 36.738111,
-      "lon": 34.516554,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "SOFİA ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENİ MAH. 33195 SK. F.GÜNDOĞAR 1 APT. ALTI NO:17A",
@@ -122,22 +112,22 @@
       "shiftend": "23.11.2026 00:00"
     },
     {
+      "name": "VİLDAN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MAH. 52136 SOK. ÜÇBAL SİTESİ C BLOK NO:19 (1E)           \n          SOLİ ENGLİSH HOME YANI MEZİTLİ 4 NOLU ASM KARŞISI",
+      "phone": "03249991577",
+      "lat": 36.738111,
+      "lon": 34.516554,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
+    },
+    {
       "name": "ÇEREKÇİ ECZANESİ",
       "district": "MUT",
       "address": "DOĞANCI İNÖNÜ CAD.NO:3/B            \n          INÖNÜ CD.NO:3/B",
       "phone": "03247746646",
       "lat": 36.644675,
       "lon": 33.437456,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
-    },
-    {
-      "name": "ONUK ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CD. NO: 8/A           \n          BURUNUCU MAH.NO:187",
-      "phone": "03247151063",
-      "lat": 36.343589,
-      "lon": 33.917954,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
     },
@@ -172,6 +162,26 @@
       "shiftend": "22.11.2026 19:00"
     },
     {
+      "name": "ONUK ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CD. NO: 8/A           \n          BURUNUCU MAH.NO:187",
+      "phone": "03247151063",
+      "lat": 36.343589,
+      "lon": 33.917954,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "DARENDE ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. 2903 SOK. NO:21/A            \n          Ömer Sayar Hast. Maya Göz Hast. Öğretmenler Mahallesi",
+      "phone": "03246222264",
+      "lat": 36.914573,
+      "lon": 34.883143,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 08:00"
+    },
+    {
       "name": "MAVİ ECZANESİ",
       "district": "TARSUS",
       "address": "GAZİPAŞA MH. 1913 SK. NO:5B",
@@ -202,12 +212,12 @@
       "shiftend": "23.11.2026 00:00"
     },
     {
-      "name": "DARENDE ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. 2903 SOK. NO:21/A            \n          Ömer Sayar Hast. Maya Göz Hast. Öğretmenler Mahallesi",
-      "phone": "03246222264",
-      "lat": 36.914573,
-      "lon": 34.883143,
+      "name": "DAMLA ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "TOZKOPARAN MAH. 87045 SOK. NO:23/B           \n          ÇUKUROVA İLKOKULU VE  TOZKOPARAN ASM KARŞISI",
+      "phone": "03248210000",
+      "lat": 36.819666,
+      "lon": 34.615181,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
     },
@@ -222,12 +232,12 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "DAMLA ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "TOZKOPARAN MAH. 87045 SOK. NO:23/B           \n          ÇUKUROVA İLKOKULU VE  TOZKOPARAN ASM KARŞISI",
-      "phone": "03248210000",
-      "lat": 36.819666,
-      "lon": 34.615181,
+      "name": "VİTAMİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Gmk Bulv. Eğriçam Mah. Kılıç Apt Altı No:570/A           \n          GMK BULV. EĞRİÇAM MH. ADNAN ÖZÇELİK ASM YANI - SULTAŞA OTEL KARŞISI - DSİ BİTİŞİĞİ /YENİŞEHİR",
+      "phone": "03245021112",
+      "lat": 36.770883,
+      "lon": 34.561985,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
     },
@@ -248,16 +258,6 @@
       "phone": "05541778733",
       "lat": 36.792546,
       "lon": 34.579099,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
-    },
-    {
-      "name": "VİTAMİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Gmk Bulv. Eğriçam Mah. Kılıç Apt Altı No:570/A           \n          GMK BULV. EĞRİÇAM MH. ADNAN ÖZÇELİK ASM YANI - SULTAŞA OTEL KARŞISI - DSİ BİTİŞİĞİ /YENİŞEHİR",
-      "phone": "03245021112",
-      "lat": 36.770883,
-      "lon": 34.561985,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
     }
