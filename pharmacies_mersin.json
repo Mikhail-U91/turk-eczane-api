@@ -62,16 +62,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "CEYDA ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH.KAZIM KARABEKİR CAD.ALİ ÇAVUŞ SK.NO:3/A           \n          MERKEZ MH. KAZIM KARABEKİR CD. ALİ ÇAVUŞ SK. NO:3/A ERDEMLİ DEVLET HASTANESİ KARŞISI",
-      "phone": "03245152220",
-      "lat": 36.61111,
-      "lon": 34.30263,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
-    },
-    {
       "name": "HAKAN ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
@@ -82,6 +72,16 @@
       "shiftend": "23.11.2026 00:00"
     },
     {
+      "name": "CEYDA ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH.KAZIM KARABEKİR CAD.ALİ ÇAVUŞ SK.NO:3/A           \n          MERKEZ MH. KAZIM KARABEKİR CD. ALİ ÇAVUŞ SK. NO:3/A ERDEMLİ DEVLET HASTANESİ KARŞISI",
+      "phone": "03245152220",
+      "lat": 36.61111,
+      "lon": 34.30263,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 08:00"
+    },
+    {
       "name": "ARIKAN ECZANESİ",
       "district": "GÜLNAR",
       "address": "SARAY MAH.DEMİROLUK CAD.NO:4/5            \n          SARAY MH. DEMİROLUK CD. NO:4/5",
@@ -90,6 +90,16 @@
       "lon": 33.40337,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "VİLDAN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MAH. 52136 SOK. ÜÇBAL SİTESİ C BLOK NO:19 (1E)           \n          SOLİ ENGLİSH HOME YANI MEZİTLİ 4 NOLU ASM KARŞISI",
+      "phone": "03249991577",
+      "lat": 36.738111,
+      "lon": 34.516554,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
     },
     {
       "name": "SOFİA ECZANESİ",
@@ -108,16 +118,6 @@
       "phone": "03243369383",
       "lat": 36.747071,
       "lon": 34.530804,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
-      "name": "VİLDAN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MAH. 52136 SOK. ÜÇBAL SİTESİ C BLOK NO:19 (1E)           \n          SOLİ ENGLİSH HOME YANI MEZİTLİ 4 NOLU ASM KARŞISI",
-      "phone": "03249991577",
-      "lat": 36.738111,
-      "lon": 34.516554,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 00:00"
     },
@@ -172,6 +172,16 @@
       "shiftend": "22.11.2026 19:00"
     },
     {
+      "name": "MAVİ ECZANESİ",
+      "district": "TARSUS",
+      "address": "GAZİPAŞA MH. 1913 SK. NO:5B",
+      "phone": "03245040744",
+      "lat": 36.912445,
+      "lon": 34.867293,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
+    },
+    {
       "name": "KEMALOĞLU ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH. 3745 SK. NO.1/AE           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
@@ -200,16 +210,6 @@
       "lon": 34.883143,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
-    },
-    {
-      "name": "MAVİ ECZANESİ",
-      "district": "TARSUS",
-      "address": "GAZİPAŞA MH. 1913 SK. NO:5B",
-      "phone": "03245040744",
-      "lat": 36.912445,
-      "lon": 34.867293,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
     },
     {
       "name": "TUNA ECZANESİ",
