@@ -2,6 +2,16 @@
   "snapshot": "22.11.2026",
   "sonuc": [
     {
+      "name": "YENİ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CAD. NO:131/A           \n          HASTANE CD. KURUÇEŞME CİVARI/AKDENİZ",
+      "phone": "03243364432",
+      "lat": 36.805985,
+      "lon": 34.62273,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 08:00"
+    },
+    {
       "name": "DOSTLAR ECZANESİ",
       "district": "AKDENİZ",
       "address": "MAHMUDİYE MH. 4812 SK. NO:28/A           \n          ÇANKAYA ASM YANI",
@@ -18,16 +28,6 @@
       "phone": "03242379900",
       "lat": 36.806624,
       "lon": 34.635694,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
-    },
-    {
-      "name": "YENİ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAYİ MİLLİYE CAD. NO:131/A           \n          HASTANE CD. KURUÇEŞME CİVARI/AKDENİZ",
-      "phone": "03243364432",
-      "lat": 36.805985,
-      "lon": 34.62273,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
     },
@@ -132,6 +132,16 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
+      "name": "ONUK ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CD. NO: 8/A           \n          BURUNUCU MAH.NO:187",
+      "phone": "03247151063",
+      "lat": 36.343589,
+      "lon": 33.917954,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 08:00"
+    },
+    {
       "name": "MİRA ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A           \n          TAŞUCU KAPALI PAZAR YERİ KARŞISI",
@@ -162,14 +172,14 @@
       "shiftend": "22.11.2026 19:00"
     },
     {
-      "name": "ONUK ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CD. NO: 8/A           \n          BURUNUCU MAH.NO:187",
-      "phone": "03247151063",
-      "lat": 36.343589,
-      "lon": 33.917954,
+      "name": "ZÜLAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "ERGENEKON MH. 1240 SK. NO:9A           \n          ŞEHİT YURDAKUL  ALCAN OKULU KARŞISI",
+      "phone": "03246275755",
+      "lat": 36.930416,
+      "lon": 34.859794,
       "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
+      "shiftend": "23.11.2026 00:00"
     },
     {
       "name": "DARENDE ECZANESİ",
@@ -202,16 +212,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "ZÜLAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "ERGENEKON MH. 1240 SK. NO:9A           \n          ŞEHİT YURDAKUL  ALCAN OKULU KARŞISI",
-      "phone": "03246275755",
-      "lat": 36.930416,
-      "lon": 34.859794,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "TUNA ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39CH           \n          MERSİN ŞEHİR HASTANESİ,ACİL SERVİS AMBULANS GİRİŞİ KARŞISI",
@@ -232,16 +232,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "SAĞLAM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A           \n          TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
-      "phone": "03243275848",
-      "lat": 36.789294,
-      "lon": 34.606431,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "GÜLENDAM ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "50. YIL MH. 2701 SK. NO:8A           \n          MİMAR SİNAN AİLE SAĞLIĞI MERKEZİ ÇAPRAZİ. YASEMİN LYCHEE YANI, DEMİRCANLAR GURMENİN UST TARAFİ",
@@ -260,6 +250,16 @@
       "lon": 34.561985,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "SAĞLAM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A           \n          TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
+      "phone": "03243275848",
+      "lat": 36.789294,
+      "lon": 34.606431,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
     }
   ]
 }
