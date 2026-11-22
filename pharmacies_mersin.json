@@ -92,6 +92,16 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
+      "name": "SILA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MENDERES MH. 35427 SK. NO:6A           \n          ESKİ MEZİTLİ BELEDİYE ARKASI, MEZİTLİ ZABITA SOKAĞI, 15 TEMMUZ ŞEHİTLERİ ORTAOKULU KUZEYİ",
+      "phone": "03243369383",
+      "lat": 36.747071,
+      "lon": 34.530804,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
+    },
+    {
       "name": "VİLDAN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MAH. 52136 SOK. ÜÇBAL SİTESİ C BLOK NO:19 (1E)           \n          SOLİ ENGLİSH HOME YANI MEZİTLİ 4 NOLU ASM KARŞISI",
@@ -112,16 +122,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "SILA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MENDERES MH. 35427 SK. NO:6A           \n          ESKİ MEZİTLİ BELEDİYE ARKASI, MEZİTLİ ZABITA SOKAĞI, 15 TEMMUZ ŞEHİTLERİ ORTAOKULU KUZEYİ",
-      "phone": "03243369383",
-      "lat": 36.747071,
-      "lon": 34.530804,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "ÇEREKÇİ ECZANESİ",
       "district": "MUT",
       "address": "DOĞANCI İNÖNÜ CAD.NO:3/B            \n          INÖNÜ CD.NO:3/B",
@@ -130,6 +130,16 @@
       "lon": 33.437456,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "SUSANOĞLU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Atakent Mah. Alparslan Türkeş Bul.No:91/AB           \n          ATAKENT MAH. ALPARSLAN TÜRKEŞ BULV.  E BLOK 179E/3",
+      "phone": "03247224686",
+      "lat": 36.405326,
+      "lon": 34.069948,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "22.11.2026 19:00"
     },
     {
       "name": "ONUK ECZANESİ",
@@ -162,14 +172,14 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "SUSANOĞLU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Atakent Mah. Alparslan Türkeş Bul.No:91/AB           \n          ATAKENT MAH. ALPARSLAN TÜRKEŞ BULV.  E BLOK 179E/3",
-      "phone": "03247224686",
-      "lat": 36.405326,
-      "lon": 34.069948,
+      "name": "DARENDE ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. 2903 SOK. NO:21/A            \n          Ömer Sayar Hast. Maya Göz Hast. Öğretmenler Mahallesi",
+      "phone": "03246222264",
+      "lat": 36.914573,
+      "lon": 34.883143,
       "workdate": "22.11.2026 08:00",
-      "shiftend": "22.11.2026 19:00"
+      "shiftend": "23.11.2026 08:00"
     },
     {
       "name": "MAVİ ECZANESİ",
@@ -200,16 +210,6 @@
       "lon": 34.859794,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 00:00"
-    },
-    {
-      "name": "DARENDE ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. 2903 SOK. NO:21/A            \n          Ömer Sayar Hast. Maya Göz Hast. Öğretmenler Mahallesi",
-      "phone": "03246222264",
-      "lat": 36.914573,
-      "lon": 34.883143,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
     },
     {
       "name": "TUNA ECZANESİ",
