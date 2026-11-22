@@ -232,6 +232,16 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
+      "name": "SAĞLAM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A           \n          TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
+      "phone": "03243275848",
+      "lat": 36.789294,
+      "lon": 34.606431,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
+    },
+    {
       "name": "GÜLENDAM ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "50. YIL MH. 2701 SK. NO:8A           \n          MİMAR SİNAN AİLE SAĞLIĞI MERKEZİ ÇAPRAZİ. YASEMİN LYCHEE YANI, DEMİRCANLAR GURMENİN UST TARAFİ",
@@ -250,16 +260,6 @@
       "lon": 34.561985,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
-    },
-    {
-      "name": "SAĞLAM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A           \n          TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
-      "phone": "03243275848",
-      "lat": 36.789294,
-      "lon": 34.606431,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
     }
   ]
 }
