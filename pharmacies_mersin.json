@@ -62,16 +62,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "HAKAN ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
-      "phone": "03245150050",
-      "lat": 36.6049,
-      "lon": 34.313846,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "CEYDA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH.KAZIM KARABEKİR CAD.ALİ ÇAVUŞ SK.NO:3/A           \n          MERKEZ MH. KAZIM KARABEKİR CD. ALİ ÇAVUŞ SK. NO:3/A ERDEMLİ DEVLET HASTANESİ KARŞISI",
@@ -82,6 +72,16 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
+      "name": "HAKAN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
+      "phone": "03245150050",
+      "lat": 36.6049,
+      "lon": 34.313846,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
+    },
+    {
       "name": "ARIKAN ECZANESİ",
       "district": "GÜLNAR",
       "address": "SARAY MAH.DEMİROLUK CAD.NO:4/5            \n          SARAY MH. DEMİROLUK CD. NO:4/5",
@@ -90,6 +90,16 @@
       "lon": 33.40337,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "VİLDAN ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MAH. 52136 SOK. ÜÇBAL SİTESİ C BLOK NO:19 (1E)           \n          SOLİ ENGLİSH HOME YANI MEZİTLİ 4 NOLU ASM KARŞISI",
+      "phone": "03249991577",
+      "lat": 36.738111,
+      "lon": 34.516554,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
     },
     {
       "name": "SOFİA ECZANESİ",
@@ -112,16 +122,6 @@
       "shiftend": "23.11.2026 00:00"
     },
     {
-      "name": "VİLDAN ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MAH. 52136 SOK. ÜÇBAL SİTESİ C BLOK NO:19 (1E)           \n          SOLİ ENGLİSH HOME YANI MEZİTLİ 4 NOLU ASM KARŞISI",
-      "phone": "03249991577",
-      "lat": 36.738111,
-      "lon": 34.516554,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "ÇEREKÇİ ECZANESİ",
       "district": "MUT",
       "address": "DOĞANCI İNÖNÜ CAD.NO:3/B            \n          INÖNÜ CD.NO:3/B",
@@ -130,16 +130,6 @@
       "lon": 33.437456,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
-    },
-    {
-      "name": "SUSANOĞLU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Atakent Mah. Alparslan Türkeş Bul.No:91/AB           \n          ATAKENT MAH. ALPARSLAN TÜRKEŞ BULV.  E BLOK 179E/3",
-      "phone": "03247224686",
-      "lat": 36.405326,
-      "lon": 34.069948,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "22.11.2026 19:00"
     },
     {
       "name": "ONUK ECZANESİ",
@@ -172,14 +162,14 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "DARENDE ECZANESİ",
-      "district": "TARSUS",
-      "address": "ÖĞRETMENLER MAH. 2903 SOK. NO:21/A            \n          Ömer Sayar Hast. Maya Göz Hast. Öğretmenler Mahallesi",
-      "phone": "03246222264",
-      "lat": 36.914573,
-      "lon": 34.883143,
+      "name": "SUSANOĞLU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Atakent Mah. Alparslan Türkeş Bul.No:91/AB           \n          ATAKENT MAH. ALPARSLAN TÜRKEŞ BULV.  E BLOK 179E/3",
+      "phone": "03247224686",
+      "lat": 36.405326,
+      "lon": 34.069948,
       "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
+      "shiftend": "22.11.2026 19:00"
     },
     {
       "name": "MAVİ ECZANESİ",
@@ -212,6 +202,16 @@
       "shiftend": "23.11.2026 00:00"
     },
     {
+      "name": "DARENDE ECZANESİ",
+      "district": "TARSUS",
+      "address": "ÖĞRETMENLER MAH. 2903 SOK. NO:21/A            \n          Ömer Sayar Hast. Maya Göz Hast. Öğretmenler Mahallesi",
+      "phone": "03246222264",
+      "lat": 36.914573,
+      "lon": 34.883143,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 08:00"
+    },
+    {
       "name": "TUNA ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. YAVUZ SULTAN SELİM BULV. NO:39CH           \n          MERSİN ŞEHİR HASTANESİ,ACİL SERVİS AMBULANS GİRİŞİ KARŞISI",
@@ -232,16 +232,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "SAĞLAM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A           \n          TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
-      "phone": "03243275848",
-      "lat": 36.789294,
-      "lon": 34.606431,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
-    },
-    {
       "name": "GÜLENDAM ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "50. YIL MH. 2701 SK. NO:8A           \n          MİMAR SİNAN AİLE SAĞLIĞI MERKEZİ ÇAPRAZİ. YASEMİN LYCHEE YANI, DEMİRCANLAR GURMENİN UST TARAFİ",
@@ -260,6 +250,16 @@
       "lon": 34.561985,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
+    },
+    {
+      "name": "SAĞLAM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MAH. 1617 SOK. NO:2/A           \n          TULUMBA KAVŞAĞI 30 METRE KUZEYİ, ABİDİN TANTUNİ VE YURTİÇİ KARGO ARKASI CUMHURİYET MH.1617 SOKAK  YENİŞEHİR",
+      "phone": "03243275848",
+      "lat": 36.789294,
+      "lon": 34.606431,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
     }
   ]
 }
