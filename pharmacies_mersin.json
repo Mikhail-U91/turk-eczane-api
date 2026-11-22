@@ -2,6 +2,16 @@
   "snapshot": "22.11.2026",
   "sonuc": [
     {
+      "name": "DOSTLAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "MAHMUDİYE MH. 4812 SK. NO:28/A           \n          ÇANKAYA ASM YANI",
+      "phone": "03242372202",
+      "lat": 36.800884,
+      "lon": 34.623438,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 08:00"
+    },
+    {
       "name": "JALE ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENI MAH.5314 SOK.NO:6/A            \n          TOROS DEVLET HST KARŞISI (ESKİ SSK HAS.)/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03243364432",
       "lat": 36.805985,
       "lon": 34.62273,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
-    },
-    {
-      "name": "DOSTLAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "MAHMUDİYE MH. 4812 SK. NO:28/A           \n          ÇANKAYA ASM YANI",
-      "phone": "03242372202",
-      "lat": 36.800884,
-      "lon": 34.623438,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
     },
@@ -132,6 +132,16 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
+      "name": "MİRA ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A           \n          TAŞUCU KAPALI PAZAR YERİ KARŞISI",
+      "phone": "03247413020",
+      "lat": 36.322618,
+      "lon": 33.884339,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 00:00"
+    },
+    {
       "name": "ONUR ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MH. ATATÜRK CD. NO:5           \n          GÖKSU MH. ATATÜRK CD. NO:5",
@@ -160,16 +170,6 @@
       "lon": 33.917954,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 08:00"
-    },
-    {
-      "name": "MİRA ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MH. ATATÜRK_15 SK. NO:31/A           \n          TAŞUCU KAPALI PAZAR YERİ KARŞISI",
-      "phone": "03247413020",
-      "lat": 36.322618,
-      "lon": 33.884339,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 00:00"
     },
     {
       "name": "DARENDE ECZANESİ",
