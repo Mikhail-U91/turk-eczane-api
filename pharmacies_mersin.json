@@ -62,16 +62,6 @@
       "shiftend": "23.11.2026 08:00"
     },
     {
-      "name": "CEYDA ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH.KAZIM KARABEKİR CAD.ALİ ÇAVUŞ SK.NO:3/A           \n          MERKEZ MH. KAZIM KARABEKİR CD. ALİ ÇAVUŞ SK. NO:3/A ERDEMLİ DEVLET HASTANESİ KARŞISI",
-      "phone": "03245152220",
-      "lat": 36.61111,
-      "lon": 34.30263,
-      "workdate": "22.11.2026 08:00",
-      "shiftend": "23.11.2026 08:00"
-    },
-    {
       "name": "HAKAN ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
@@ -80,6 +70,16 @@
       "lon": 34.313846,
       "workdate": "22.11.2026 08:00",
       "shiftend": "23.11.2026 00:00"
+    },
+    {
+      "name": "CEYDA ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH.KAZIM KARABEKİR CAD.ALİ ÇAVUŞ SK.NO:3/A           \n          MERKEZ MH. KAZIM KARABEKİR CD. ALİ ÇAVUŞ SK. NO:3/A ERDEMLİ DEVLET HASTANESİ KARŞISI",
+      "phone": "03245152220",
+      "lat": 36.61111,
+      "lon": 34.30263,
+      "workdate": "22.11.2026 08:00",
+      "shiftend": "23.11.2026 08:00"
     },
     {
       "name": "ARIKAN ECZANESİ",
