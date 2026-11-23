@@ -92,6 +92,16 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
+      "name": "SOLENA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. 31045 SK. NO:18A           \n           ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ CİVARI",
+      "phone": "03242215186",
+      "lat": 36.765404,
+      "lon": 34.547151,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
       "name": "GÖK ECZANESİ",
       "district": "MEZİTLİ",
       "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C           \n          DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
@@ -108,16 +118,6 @@
       "phone": "05559623333",
       "lat": 36.745579,
       "lon": 34.517904,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
-      "name": "SOLENA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. 31045 SK. NO:18A           \n           ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ CİVARI",
-      "phone": "03242215186",
-      "lat": 36.765404,
-      "lon": 34.547151,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -192,6 +192,16 @@
       "shiftend": "24.11.2026 00:00"
     },
     {
+      "name": "PORTAKAL ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "PORTAKAL MH. 210. CD. NO: 58/A           \n          PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
+      "phone": "03244081388",
+      "lat": 36.812168,
+      "lon": 34.600384,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
       "name": "ŞİFA ECZANESİ",
       "district": "TOROSLAR",
       "address": "Halkkent Mah. Fatih Sultan Mehmet Bulv. A Blok No:1           \n          HALKKENT MAH. ESKİ  KADIN DOĞUM VE ÇOCUK HAS. KARŞISI/TOROSLAR",
@@ -202,12 +212,12 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "PORTAKAL ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "PORTAKAL MH. 210. CD. NO: 58/A           \n          PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
-      "phone": "03244081388",
-      "lat": 36.812168,
-      "lon": 34.600384,
+      "name": "DOĞA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GÜVENEVLER MAH 1.CAD.CIHAN SAFAK APT.NO:27-2/B            \n          GÜVENEVLER MAH.GÜVEN SİTESİ KARŞISI FORUM DOĞU TRF 1.CD. 4 NOLU SAĞLIK OCAĞI KARŞISI/YENİŞEHİR",
+      "phone": "03243285493",
+      "lat": 36.78561,
+      "lon": 34.592384,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -230,16 +240,6 @@
       "lon": 34.603208,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 00:00"
-    },
-    {
-      "name": "DOĞA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GÜVENEVLER MAH 1.CAD.CIHAN SAFAK APT.NO:27-2/B            \n          GÜVENEVLER MAH.GÜVEN SİTESİ KARŞISI FORUM DOĞU TRF 1.CD. 4 NOLU SAĞLIK OCAĞI KARŞISI/YENİŞEHİR",
-      "phone": "03243285493",
-      "lat": 36.78561,
-      "lon": 34.592384,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
     }
   ]
 }
