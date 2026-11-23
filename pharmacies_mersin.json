@@ -2,16 +2,6 @@
   "snapshot": "23.11.2026",
   "sonuc": [
     {
-      "name": "YAMAÇ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ÇANKAYA MAH. ZEYTİNLİBAHÇE CD. NO:11/B           \n          ZEYTİNLİBAHÇE CD BİTİMİ İSTİKLAL CD KAVŞAĞI/AKDENİZ",
-      "phone": "03242333656",
-      "lat": 36.79905,
-      "lon": 34.6267,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
       "name": "MERSİN ECZANESİ",
       "district": "AKDENİZ",
       "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.109F           \n          HASTANE CD. AKDENİZ BELEDİYESİ ARKASI ZİRAAT BANKASI KURUÇEŞME ŞUBESİ KARŞISI /AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242316590",
       "lat": 36.805038,
       "lon": 34.633749,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "YAMAÇ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ÇANKAYA MAH. ZEYTİNLİBAHÇE CD. NO:11/B           \n          ZEYTİNLİBAHÇE CD BİTİMİ İSTİKLAL CD KAVŞAĞI/AKDENİZ",
+      "phone": "03242333656",
+      "lat": 36.79905,
+      "lon": 34.6267,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "ŞENEL ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C           \n          MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
-      "phone": "03245152915",
-      "lat": 36.60581,
-      "lon": 34.313251,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 00:00"
-    },
-    {
       "name": "KÜBRA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:86/E           \n          MERKEZ MH. KAZIM KARABEKİR CD. 86/E   ERDEMLİ",
@@ -82,12 +72,32 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
+      "name": "ŞENEL ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C           \n          MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
+      "phone": "03245152915",
+      "lat": 36.60581,
+      "lon": 34.313251,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 00:00"
+    },
+    {
       "name": "GÜLNAR ECZANESİ",
       "district": "GÜLNAR",
       "address": "AKDENİZ MH. KÖY HİZMETLERİ SK. NO:1C           \n          GÜLNAR DEVLET HASTANESİ KARŞISI",
       "phone": "03247517007",
       "lat": 36.323313,
       "lon": 33.411885,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "SOLENA ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MH. 31045 SK. NO:18A           \n           ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ CİVARI",
+      "phone": "03242215186",
+      "lat": 36.765404,
+      "lon": 34.547151,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -108,16 +118,6 @@
       "phone": "05559623333",
       "lat": 36.745579,
       "lon": 34.517904,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
-      "name": "SOLENA ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MH. 31045 SK. NO:18A           \n           ÜNİVERSİTE YOLU ÖZEL ORTADOĞU HASTANESİ CİVARI",
-      "phone": "03242215186",
-      "lat": 36.765404,
-      "lon": 34.547151,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -152,6 +152,16 @@
       "shiftend": "24.11.2026 00:00"
     },
     {
+      "name": "KEMERALTI ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH.3745 SOK. NO:1AD           \n          YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
+      "phone": "03246139383",
+      "lat": 36.914207,
+      "lon": 34.912336,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
       "name": "SEVEN ECZANESİ",
       "district": "TARSUS",
       "address": "FAHRETTİNPAŞA MH. 1427 SK. NO:10A           \n          FAHRETTİN PAŞA ASM KARŞISI",
@@ -182,16 +192,6 @@
       "shiftend": "24.11.2026 00:00"
     },
     {
-      "name": "KEMERALTI ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH.3745 SOK. NO:1AD           \n          YENİ DEVLET HAST. POLİKLİNİKLER KARŞISI",
-      "phone": "03246139383",
-      "lat": 36.914207,
-      "lon": 34.912336,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
       "name": "PORTAKAL ECZANESİ",
       "district": "TOROSLAR",
       "address": "PORTAKAL MH. 210. CD. NO: 58/A           \n          PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
@@ -212,16 +212,6 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "ŞEBNEM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GAZI MAH.1307 SOK.NO.16/B           \n          GAZİ MH. 1307 SK MUĞDAT CAMİ KARŞISI BİM MARKET ARKASI/YENİŞEHİR",
-      "phone": "03243265620",
-      "lat": 36.782965,
-      "lon": 34.603208,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 00:00"
-    },
-    {
       "name": "DOĞA ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "GÜVENEVLER MAH 1.CAD.CIHAN SAFAK APT.NO:27-2/B            \n          GÜVENEVLER MAH.GÜVEN SİTESİ KARŞISI FORUM DOĞU TRF 1.CD. 4 NOLU SAĞLIK OCAĞI KARŞISI/YENİŞEHİR",
@@ -240,6 +230,16 @@
       "lon": 34.539912,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "ŞEBNEM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GAZI MAH.1307 SOK.NO.16/B           \n          GAZİ MH. 1307 SK MUĞDAT CAMİ KARŞISI BİM MARKET ARKASI/YENİŞEHİR",
+      "phone": "03243265620",
+      "lat": 36.782965,
+      "lon": 34.603208,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 00:00"
     }
   ]
 }
