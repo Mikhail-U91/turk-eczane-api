@@ -2,16 +2,6 @@
   "snapshot": "23.11.2026",
   "sonuc": [
     {
-      "name": "YAMAÇ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ÇANKAYA MAH. ZEYTİNLİBAHÇE CD. NO:11/B           \n          ZEYTİNLİBAHÇE CD BİTİMİ İSTİKLAL CD KAVŞAĞI/AKDENİZ",
-      "phone": "03242333656",
-      "lat": 36.79905,
-      "lon": 34.6267,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
       "name": "MERSİN ECZANESİ",
       "district": "AKDENİZ",
       "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.109F           \n          HASTANE CD. AKDENİZ BELEDİYESİ ARKASI ZİRAAT BANKASI KURUÇEŞME ŞUBESİ KARŞISI /AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242316590",
       "lat": 36.805038,
       "lon": 34.633749,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "YAMAÇ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ÇANKAYA MAH. ZEYTİNLİBAHÇE CD. NO:11/B           \n          ZEYTİNLİBAHÇE CD BİTİMİ İSTİKLAL CD KAVŞAĞI/AKDENİZ",
+      "phone": "03242333656",
+      "lat": 36.79905,
+      "lon": 34.6267,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "ŞENEL ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C           \n          MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
-      "phone": "03245152915",
-      "lat": 36.60581,
-      "lon": 34.313251,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 00:00"
-    },
-    {
       "name": "KÜBRA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:86/E           \n          MERKEZ MH. KAZIM KARABEKİR CD. 86/E   ERDEMLİ",
@@ -80,6 +70,16 @@
       "lon": 34.302266,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "ŞENEL ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C           \n          MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
+      "phone": "03245152915",
+      "lat": 36.60581,
+      "lon": 34.313251,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 00:00"
     },
     {
       "name": "GÜLNAR ECZANESİ",
@@ -192,22 +192,22 @@
       "shiftend": "24.11.2026 00:00"
     },
     {
-      "name": "PORTAKAL ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "PORTAKAL MH. 210. CD. NO: 58/A           \n          PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
-      "phone": "03244081388",
-      "lat": 36.812168,
-      "lon": 34.600384,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
       "name": "ŞİFA ECZANESİ",
       "district": "TOROSLAR",
       "address": "Halkkent Mah. Fatih Sultan Mehmet Bulv. A Blok No:1           \n          HALKKENT MAH. ESKİ  KADIN DOĞUM VE ÇOCUK HAS. KARŞISI/TOROSLAR",
       "phone": "03242237061",
       "lat": 36.842514,
       "lon": 34.62358,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "PORTAKAL ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "PORTAKAL MH. 210. CD. NO: 58/A           \n          PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
+      "phone": "03244081388",
+      "lat": 36.812168,
+      "lon": 34.600384,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
