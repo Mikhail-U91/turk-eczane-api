@@ -2,16 +2,6 @@
   "snapshot": "23.11.2026",
   "sonuc": [
     {
-      "name": "MERSİN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.109F           \n          HASTANE CD. AKDENİZ BELEDİYESİ ARKASI ZİRAAT BANKASI KURUÇEŞME ŞUBESİ KARŞISI /AKDENİZ",
-      "phone": "03243371017",
-      "lat": 36.804386,
-      "lon": 34.623624,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
       "name": "BOZDAĞ ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:1A           \n          TOROS DEVLET HASTANESİ ACİL KAPISI KARŞISI",
@@ -28,6 +18,16 @@
       "phone": "03242333656",
       "lat": 36.79905,
       "lon": 34.6267,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "MERSİN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.109F           \n          HASTANE CD. AKDENİZ BELEDİYESİ ARKASI ZİRAAT BANKASI KURUÇEŞME ŞUBESİ KARŞISI /AKDENİZ",
+      "phone": "03243371017",
+      "lat": 36.804386,
+      "lon": 34.623624,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "KÜBRA ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:86/E           \n          MERKEZ MH. KAZIM KARABEKİR CD. 86/E   ERDEMLİ",
-      "phone": "03245160333",
-      "lat": 36.611313,
-      "lon": 34.302266,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
       "name": "ŞENEL ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C           \n          MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
@@ -82,6 +72,16 @@
       "shiftend": "24.11.2026 00:00"
     },
     {
+      "name": "KÜBRA ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:86/E           \n          MERKEZ MH. KAZIM KARABEKİR CD. 86/E   ERDEMLİ",
+      "phone": "03245160333",
+      "lat": 36.611313,
+      "lon": 34.302266,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
       "name": "GÜLNAR ECZANESİ",
       "district": "GÜLNAR",
       "address": "AKDENİZ MH. KÖY HİZMETLERİ SK. NO:1C           \n          GÜLNAR DEVLET HASTANESİ KARŞISI",
@@ -90,6 +90,16 @@
       "lon": 33.411885,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "GÖK ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C           \n          DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
+      "phone": "03245454917",
+      "lat": 36.716601,
+      "lon": 34.47797,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 00:00"
     },
     {
       "name": "GÜNDOĞDU ECZANESİ",
@@ -110,16 +120,6 @@
       "lon": 34.547151,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
-    },
-    {
-      "name": "GÖK ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C           \n          DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
-      "phone": "03245454917",
-      "lat": 36.716601,
-      "lon": 34.47797,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 00:00"
     },
     {
       "name": "SIHHAT ECZANESİ",
@@ -212,16 +212,6 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "DOĞA ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GÜVENEVLER MAH 1.CAD.CIHAN SAFAK APT.NO:27-2/B            \n          GÜVENEVLER MAH.GÜVEN SİTESİ KARŞISI FORUM DOĞU TRF 1.CD. 4 NOLU SAĞLIK OCAĞI KARŞISI/YENİŞEHİR",
-      "phone": "03243285493",
-      "lat": 36.78561,
-      "lon": 34.592384,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
       "name": "BİZİM ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOME'S C BLOK NO:24 CE           \n          ÜNİVERSİTE HASTANESİ ACİL KARŞISI",
@@ -240,6 +230,16 @@
       "lon": 34.603208,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 00:00"
+    },
+    {
+      "name": "DOĞA ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GÜVENEVLER MAH 1.CAD.CIHAN SAFAK APT.NO:27-2/B            \n          GÜVENEVLER MAH.GÜVEN SİTESİ KARŞISI FORUM DOĞU TRF 1.CD. 4 NOLU SAĞLIK OCAĞI KARŞISI/YENİŞEHİR",
+      "phone": "03243285493",
+      "lat": 36.78561,
+      "lon": 34.592384,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
     }
   ]
 }
