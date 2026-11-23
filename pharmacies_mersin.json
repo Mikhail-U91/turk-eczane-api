@@ -62,16 +62,6 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "KÜBRA ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:86/E           \n          MERKEZ MH. KAZIM KARABEKİR CD. 86/E   ERDEMLİ",
-      "phone": "03245160333",
-      "lat": 36.611313,
-      "lon": 34.302266,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
       "name": "ŞENEL ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C           \n          MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
@@ -82,12 +72,32 @@
       "shiftend": "24.11.2026 00:00"
     },
     {
+      "name": "KÜBRA ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:86/E           \n          MERKEZ MH. KAZIM KARABEKİR CD. 86/E   ERDEMLİ",
+      "phone": "03245160333",
+      "lat": 36.611313,
+      "lon": 34.302266,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
       "name": "GÜLNAR ECZANESİ",
       "district": "GÜLNAR",
       "address": "AKDENİZ MH. KÖY HİZMETLERİ SK. NO:1C           \n          GÜLNAR DEVLET HASTANESİ KARŞISI",
       "phone": "03247517007",
       "lat": 36.323313,
       "lon": 33.411885,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "GÜNDOĞDU ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MH. VATAN CD. SİYENA 21 ŞEHRİ YILDIZ SİTESİ           \n          ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
+      "phone": "05559623333",
+      "lat": 36.745579,
+      "lon": 34.517904,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -112,32 +122,12 @@
       "shiftend": "24.11.2026 00:00"
     },
     {
-      "name": "GÜNDOĞDU ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MH. VATAN CD. SİYENA 21 ŞEHRİ YILDIZ SİTESİ           \n          ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
-      "phone": "05559623333",
-      "lat": 36.745579,
-      "lon": 34.517904,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
       "name": "SIHHAT ECZANESİ",
       "district": "MUT",
       "address": "MEYDAN MAH.KARAMAN CAD.NO:8/B           \n          KARAMAN CAD.NO.8",
       "phone": "03247742467",
       "lat": 36.646227,
       "lon": 33.435786,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
-      "name": "TUTKU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. ATATÜRK BULV. NO:53B           \n          ESKİ DEVLET HASTANESİ KARŞISI",
-      "phone": "03247142756",
-      "lat": 36.380101,
-      "lon": 33.931444,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -150,6 +140,16 @@
       "lon": 33.877737,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 00:00"
+    },
+    {
+      "name": "TUTKU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. ATATÜRK BULV. NO:53B           \n          ESKİ DEVLET HASTANESİ KARŞISI",
+      "phone": "03247142756",
+      "lat": 36.380101,
+      "lon": 33.931444,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
     },
     {
       "name": "KEMERALTI ECZANESİ",
