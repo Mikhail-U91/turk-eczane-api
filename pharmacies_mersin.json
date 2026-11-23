@@ -62,16 +62,6 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "ŞENEL ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C           \n          MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
-      "phone": "03245152915",
-      "lat": 36.60581,
-      "lon": 34.313251,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 00:00"
-    },
-    {
       "name": "KÜBRA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD. NO:86/E           \n          MERKEZ MH. KAZIM KARABEKİR CD. 86/E   ERDEMLİ",
@@ -82,6 +72,16 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
+      "name": "ŞENEL ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C           \n          MERKEZ MH. ABDURRAHMAN ŞEVK CD. ŞAHİN KALAY APT. NO:9/C - ERDEMLİ",
+      "phone": "03245152915",
+      "lat": 36.60581,
+      "lon": 34.313251,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 00:00"
+    },
+    {
       "name": "GÜLNAR ECZANESİ",
       "district": "GÜLNAR",
       "address": "AKDENİZ MH. KÖY HİZMETLERİ SK. NO:1C           \n          GÜLNAR DEVLET HASTANESİ KARŞISI",
@@ -90,6 +90,16 @@
       "lon": 33.411885,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "GÖK ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C           \n          DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
+      "phone": "03245454917",
+      "lat": 36.716601,
+      "lon": 34.47797,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 00:00"
     },
     {
       "name": "GÜNDOĞDU ECZANESİ",
@@ -112,16 +122,6 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "GÖK ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C           \n          DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
-      "phone": "03245454917",
-      "lat": 36.716601,
-      "lon": 34.47797,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 00:00"
-    },
-    {
       "name": "SIHHAT ECZANESİ",
       "district": "MUT",
       "address": "MEYDAN MAH.KARAMAN CAD.NO:8/B           \n          KARAMAN CAD.NO.8",
@@ -130,16 +130,6 @@
       "lon": 33.435786,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
-    },
-    {
-      "name": "ATLAS ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MH. ATATÜRK BULV. NO:55B           \n          Taşucu Mah. Atatürk Blv. no:55B SİLİFKE",
-      "phone": "03247412368",
-      "lat": 36.317974,
-      "lon": 33.877737,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 00:00"
     },
     {
       "name": "TUTKU ECZANESİ",
@@ -152,12 +142,12 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "KÜPELİ ECZANESİ",
-      "district": "TARSUS",
-      "address": "AKŞEMSETTİN MAH.DR. DEVLET BAHÇELİ BUL.İPEK APT.NO:15/A           \n          AKŞEMSETTİN MH. BARAJ YOLU YENİ MAHALLE KARAKOLU İLERİSİ",
-      "phone": "03246240747",
-      "lat": 36.933513,
-      "lon": 34.885289,
+      "name": "ATLAS ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MH. ATATÜRK BULV. NO:55B           \n          Taşucu Mah. Atatürk Blv. no:55B SİLİFKE",
+      "phone": "03247412368",
+      "lat": 36.317974,
+      "lon": 33.877737,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 00:00"
     },
@@ -192,6 +182,26 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
+      "name": "KÜPELİ ECZANESİ",
+      "district": "TARSUS",
+      "address": "AKŞEMSETTİN MAH.DR. DEVLET BAHÇELİ BUL.İPEK APT.NO:15/A           \n          AKŞEMSETTİN MH. BARAJ YOLU YENİ MAHALLE KARAKOLU İLERİSİ",
+      "phone": "03246240747",
+      "lat": 36.933513,
+      "lon": 34.885289,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 00:00"
+    },
+    {
+      "name": "ŞİFA ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "Halkkent Mah. Fatih Sultan Mehmet Bulv. A Blok No:1           \n          HALKKENT MAH. ESKİ  KADIN DOĞUM VE ÇOCUK HAS. KARŞISI/TOROSLAR",
+      "phone": "03242237061",
+      "lat": 36.842514,
+      "lon": 34.62358,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
       "name": "PORTAKAL ECZANESİ",
       "district": "TOROSLAR",
       "address": "PORTAKAL MH. 210. CD. NO: 58/A           \n          PORTAKAL MH. 210. CD. PORTAKAL ASM KARŞISI",
@@ -202,12 +212,12 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "ŞİFA ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "Halkkent Mah. Fatih Sultan Mehmet Bulv. A Blok No:1           \n          HALKKENT MAH. ESKİ  KADIN DOĞUM VE ÇOCUK HAS. KARŞISI/TOROSLAR",
-      "phone": "03242237061",
-      "lat": 36.842514,
-      "lon": 34.62358,
+      "name": "BİZİM ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOME'S C BLOK NO:24 CE           \n          ÜNİVERSİTE HASTANESİ ACİL KARŞISI",
+      "phone": "03245021250",
+      "lat": 36.78593,
+      "lon": 34.539912,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -228,16 +238,6 @@
       "phone": "03243285493",
       "lat": 36.78561,
       "lon": 34.592384,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
-      "name": "BİZİM ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. PARADİSE HOME'S C BLOK NO:24 CE           \n          ÜNİVERSİTE HASTANESİ ACİL KARŞISI",
-      "phone": "03245021250",
-      "lat": 36.78593,
-      "lon": 34.539912,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     }
