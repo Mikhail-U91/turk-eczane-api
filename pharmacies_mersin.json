@@ -2,6 +2,16 @@
   "snapshot": "23.11.2026",
   "sonuc": [
     {
+      "name": "YAMAÇ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ÇANKAYA MAH. ZEYTİNLİBAHÇE CD. NO:11/B           \n          ZEYTİNLİBAHÇE CD BİTİMİ İSTİKLAL CD KAVŞAĞI/AKDENİZ",
+      "phone": "03242333656",
+      "lat": 36.79905,
+      "lon": 34.6267,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
       "name": "MERSİN ECZANESİ",
       "district": "AKDENİZ",
       "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.109F           \n          HASTANE CD. AKDENİZ BELEDİYESİ ARKASI ZİRAAT BANKASI KURUÇEŞME ŞUBESİ KARŞISI /AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242316590",
       "lat": 36.805038,
       "lon": 34.633749,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
-    },
-    {
-      "name": "YAMAÇ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ÇANKAYA MAH. ZEYTİNLİBAHÇE CD. NO:11/B           \n          ZEYTİNLİBAHÇE CD BİTİMİ İSTİKLAL CD KAVŞAĞI/AKDENİZ",
-      "phone": "03242333656",
-      "lat": 36.79905,
-      "lon": 34.6267,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
