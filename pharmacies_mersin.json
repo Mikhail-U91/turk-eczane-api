@@ -92,6 +92,16 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
+      "name": "GÖK ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C           \n          DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
+      "phone": "03245454917",
+      "lat": 36.716601,
+      "lon": 34.47797,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 00:00"
+    },
+    {
       "name": "GÜNDOĞDU ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MH. VATAN CD. SİYENA 21 ŞEHRİ YILDIZ SİTESİ           \n          ŞIRDANCI HAMİT SIRASI, DONDURMACIM KARŞISI",
@@ -112,22 +122,22 @@
       "shiftend": "24.11.2026 08:00"
     },
     {
-      "name": "GÖK ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "DAVULTEPE MH. KAZIM KARABEKİR CD. NO:6C           \n          DAVULTEPE SAĞLIK OCAĞI KARŞISI, YILDIZHAN PASTANESİ YANI",
-      "phone": "03245454917",
-      "lat": 36.716601,
-      "lon": 34.47797,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 00:00"
-    },
-    {
       "name": "SIHHAT ECZANESİ",
       "district": "MUT",
       "address": "MEYDAN MAH.KARAMAN CAD.NO:8/B           \n          KARAMAN CAD.NO.8",
       "phone": "03247742467",
       "lat": 36.646227,
       "lon": 33.435786,
+      "workdate": "23.11.2026 18:00",
+      "shiftend": "24.11.2026 08:00"
+    },
+    {
+      "name": "TUTKU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MH. ATATÜRK BULV. NO:53B           \n          ESKİ DEVLET HASTANESİ KARŞISI",
+      "phone": "03247142756",
+      "lat": 36.380101,
+      "lon": 33.931444,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 08:00"
     },
@@ -140,16 +150,6 @@
       "lon": 33.877737,
       "workdate": "23.11.2026 18:00",
       "shiftend": "24.11.2026 00:00"
-    },
-    {
-      "name": "TUTKU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MH. ATATÜRK BULV. NO:53B           \n          ESKİ DEVLET HASTANESİ KARŞISI",
-      "phone": "03247142756",
-      "lat": 36.380101,
-      "lon": 33.931444,
-      "workdate": "23.11.2026 18:00",
-      "shiftend": "24.11.2026 08:00"
     },
     {
       "name": "KÜPELİ ECZANESİ",
