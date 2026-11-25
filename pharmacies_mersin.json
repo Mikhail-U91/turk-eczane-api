@@ -62,16 +62,6 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "HAKAN ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
-      "phone": "03245150050",
-      "lat": 36.6049,
-      "lon": 34.313846,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
-    },
-    {
       "name": "EMRAH ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:74/H           \n          MERKEZ MH. KAZIM KARABEKİR CD. NO:74/H",
@@ -80,6 +70,16 @@
       "lon": 34.303134,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
+    },
+    {
+      "name": "HAKAN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
+      "phone": "03245150050",
+      "lat": 36.6049,
+      "lon": 34.313846,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
     },
     {
       "name": "ATEŞ  ECZANESİ",
@@ -132,16 +132,6 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "TAŞUCU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
-      "phone": "03247414986",
-      "lat": 36.319314,
-      "lon": 33.879849,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
-    },
-    {
       "name": "UĞUR ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH.ATATÜRK CAD. 67 SOK. NO:5/Z02           \n          GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
@@ -150,6 +140,16 @@
       "lon": 33.930844,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
+    },
+    {
+      "name": "TAŞUCU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
+      "phone": "03247414986",
+      "lat": 36.319314,
+      "lon": 33.879849,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
     },
     {
       "name": "NOKAY ECZANESİ",
@@ -192,22 +192,22 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "DORUK ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "PORTAKAL MH. 210. CD. NO:52           \n          MUSTAFA KEMAL MH. 210. CD. GÜLER TRİO SİTESİ ARKASI - PORTAKAL ASM YANI",
-      "phone": "03244200180",
-      "lat": 36.811754,
-      "lon": 34.600087,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 08:00"
-    },
-    {
       "name": "EKİNCİ ECZANESİ",
       "district": "TOROSLAR",
       "address": "KORUKENT MH. 96015 SK. NO:9/A-B           \n          KORUKENT MH. 96015 SK. MERSİN ŞEHİR HASTANESİ B KAPISI KARŞISI  - TOROSLAR",
       "phone": "05524545490",
       "lat": 36.851298,
       "lon": 34.60763,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 08:00"
+    },
+    {
+      "name": "DORUK ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "PORTAKAL MH. 210. CD. NO:52           \n          MUSTAFA KEMAL MH. 210. CD. GÜLER TRİO SİTESİ ARKASI - PORTAKAL ASM YANI",
+      "phone": "03244200180",
+      "lat": 36.811754,
+      "lon": 34.600087,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
     },
