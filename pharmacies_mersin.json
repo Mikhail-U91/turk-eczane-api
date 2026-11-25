@@ -2,6 +2,16 @@
   "snapshot": "25.11.2026",
   "sonuc": [
     {
+      "name": "JİYAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A           \n          ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
+      "phone": "03242342078",
+      "lat": 36.825434,
+      "lon": 34.64218,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
+    },
+    {
       "name": "YENİ MAHALLE ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MAH.5315 SOK.NO:15/B           \n          TOROS DEVLET. HAST. ACİL CİVARI - YENİ MH. SAĞLIK OCAĞI KÖŞESİ /AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.620755,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
-    },
-    {
-      "name": "JİYAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A           \n          ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
-      "phone": "03242342078",
-      "lat": 36.825434,
-      "lon": 34.64218,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
     },
     {
       "name": "YAŞAM ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "HAKAN ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
-      "phone": "03245150050",
-      "lat": 36.6049,
-      "lon": 34.313846,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
-    },
-    {
       "name": "EMRAH ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:74/H           \n          MERKEZ MH. KAZIM KARABEKİR CD. NO:74/H",
@@ -80,6 +70,16 @@
       "lon": 34.303134,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
+    },
+    {
+      "name": "HAKAN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
+      "phone": "03245150050",
+      "lat": 36.6049,
+      "lon": 34.313846,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
     },
     {
       "name": "ATEŞ  ECZANESİ",
@@ -132,16 +132,6 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "TAŞUCU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
-      "phone": "03247414986",
-      "lat": 36.319314,
-      "lon": 33.879849,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
-    },
-    {
       "name": "UĞUR ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH.ATATÜRK CAD. 67 SOK. NO:5/Z02           \n          GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
@@ -152,22 +142,12 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "NOKAY ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENİ ÖMERLİ MAH. KARDEŞ LANGEN CAD. NO:2/B           \n          KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
-      "phone": "03246222504",
-      "lat": 36.918243,
-      "lon": 34.885288,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 08:00"
-    },
-    {
-      "name": "GÜNEY ECZANESİ",
-      "district": "TARSUS",
-      "address": "SEHITKERIM MAH. 3427 SOK.NO:5            \n          ŞehitKerim Mh. Makam Şehir Kulübü karşısı",
-      "phone": "03246141454",
-      "lat": 36.916899,
-      "lon": 34.896619,
+      "name": "TAŞUCU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
+      "phone": "03247414986",
+      "lat": 36.319314,
+      "lon": 33.879849,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 00:00"
     },
@@ -192,14 +172,24 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "DORUK ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "PORTAKAL MH. 210. CD. NO:52           \n          MUSTAFA KEMAL MH. 210. CD. GÜLER TRİO SİTESİ ARKASI - PORTAKAL ASM YANI",
-      "phone": "03244200180",
-      "lat": 36.811754,
-      "lon": 34.600087,
+      "name": "NOKAY ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENİ ÖMERLİ MAH. KARDEŞ LANGEN CAD. NO:2/B           \n          KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
+      "phone": "03246222504",
+      "lat": 36.918243,
+      "lon": 34.885288,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
+    },
+    {
+      "name": "GÜNEY ECZANESİ",
+      "district": "TARSUS",
+      "address": "SEHITKERIM MAH. 3427 SOK.NO:5            \n          ŞehitKerim Mh. Makam Şehir Kulübü karşısı",
+      "phone": "03246141454",
+      "lat": 36.916899,
+      "lon": 34.896619,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
     },
     {
       "name": "EKİNCİ ECZANESİ",
@@ -208,6 +198,16 @@
       "phone": "05524545490",
       "lat": 36.851298,
       "lon": 34.60763,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 08:00"
+    },
+    {
+      "name": "DORUK ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "PORTAKAL MH. 210. CD. NO:52           \n          MUSTAFA KEMAL MH. 210. CD. GÜLER TRİO SİTESİ ARKASI - PORTAKAL ASM YANI",
+      "phone": "03244200180",
+      "lat": 36.811754,
+      "lon": 34.600087,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
     },
