@@ -62,16 +62,6 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "EMRAH ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:74/H           \n          MERKEZ MH. KAZIM KARABEKİR CD. NO:74/H",
-      "phone": "03245157020",
-      "lat": 36.610175,
-      "lon": 34.303134,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 08:00"
-    },
-    {
       "name": "HAKAN ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERK.MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A           \n          MERKEZ MH.ABDURRAHMAN SEVK CAD. SEVK. NO:23/A",
@@ -80,6 +70,16 @@
       "lon": 34.313846,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 00:00"
+    },
+    {
+      "name": "EMRAH ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MAH. KAZIM KARABEKİR CAD.NO:74/H           \n          MERKEZ MH. KAZIM KARABEKİR CD. NO:74/H",
+      "phone": "03245157020",
+      "lat": 36.610175,
+      "lon": 34.303134,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 08:00"
     },
     {
       "name": "ATEŞ  ECZANESİ",
@@ -212,6 +212,16 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
+      "name": "ALKIM  ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Güvenevler Mah. Dumlupınar Cad. No:36/A           \n          FORUM AVM CİVARI YENİŞEHİR İTFAİYE 100 MT. KUZEYİ MİREŞ MARKET KARŞISI/YENİŞEHİR",
+      "phone": "03243260990",
+      "lat": 36.784118,
+      "lon": 34.585597,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 08:00"
+    },
+    {
       "name": "LAVİN ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "BATIKENT MH. 2640 NO:4C           \n          BATIKENT BİM MARKET KARŞISI",
@@ -230,16 +240,6 @@
       "lon": 34.598906,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 00:00"
-    },
-    {
-      "name": "ALKIM  ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Güvenevler Mah. Dumlupınar Cad. No:36/A           \n          FORUM AVM CİVARI YENİŞEHİR İTFAİYE 100 MT. KUZEYİ MİREŞ MARKET KARŞISI/YENİŞEHİR",
-      "phone": "03243260990",
-      "lat": 36.784118,
-      "lon": 34.585597,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 08:00"
     }
   ]
 }
