@@ -92,16 +92,6 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "HARPUT ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "VİRANŞEHİR MH. 34314 SK. NO:13B           \n          SAİME OKTAY SAĞLIK OCAĞI KARŞISI",
-      "phone": "03243583027",
-      "lat": 36.749052,
-      "lon": 34.544897,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
-    },
-    {
       "name": "GÜNEBAKAN ECZANESİ",
       "district": "MEZİTLİ",
       "address": "Merkez Mh. 52136 Sk. Üçbal sitesi No:1-F            \n          SOLİ CENTER   KAVİ-SEAT- PORCHE KARŞISI,ENGLISH HOME YANI MEZİTLİ",
@@ -120,6 +110,16 @@
       "lon": 34.537696,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
+    },
+    {
+      "name": "HARPUT ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "VİRANŞEHİR MH. 34314 SK. NO:13B           \n          SAİME OKTAY SAĞLIK OCAĞI KARŞISI",
+      "phone": "03243583027",
+      "lat": 36.749052,
+      "lon": 34.544897,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
