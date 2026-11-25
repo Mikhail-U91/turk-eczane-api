@@ -132,6 +132,16 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
+      "name": "TAŞUCU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
+      "phone": "03247414986",
+      "lat": 36.319314,
+      "lon": 33.879849,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
+    },
+    {
       "name": "UĞUR ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH.ATATÜRK CAD. 67 SOK. NO:5/Z02           \n          GÖKSU MAH.ATATÜRK CAD.NO 35 SOK.NO.4",
@@ -142,14 +152,14 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "TAŞUCU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
-      "phone": "03247414986",
-      "lat": 36.319314,
-      "lon": 33.879849,
+      "name": "NOKAY ECZANESİ",
+      "district": "TARSUS",
+      "address": "YENİ ÖMERLİ MAH. KARDEŞ LANGEN CAD. NO:2/B           \n          KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
+      "phone": "03246222504",
+      "lat": 36.918243,
+      "lon": 34.885288,
       "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
+      "shiftend": "26.11.2026 08:00"
     },
     {
       "name": "GÜNEY ECZANESİ",
@@ -182,16 +192,6 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "NOKAY ECZANESİ",
-      "district": "TARSUS",
-      "address": "YENİ ÖMERLİ MAH. KARDEŞ LANGEN CAD. NO:2/B           \n          KARDEŞ  LANGEN BULV. ESKİ DEVLET HASTANESİ KARŞISI, İSTASYON CİVARI",
-      "phone": "03246222504",
-      "lat": 36.918243,
-      "lon": 34.885288,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 08:00"
-    },
-    {
       "name": "DORUK ECZANESİ",
       "district": "TOROSLAR",
       "address": "PORTAKAL MH. 210. CD. NO:52           \n          MUSTAFA KEMAL MH. 210. CD. GÜLER TRİO SİTESİ ARKASI - PORTAKAL ASM YANI",
@@ -212,6 +212,16 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
+      "name": "AKDENİZ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "CUMHURİYET MH. 16. CD. NO:28C           \n          45 EVLER YOLU ÜZERİ  EYFEL PASTANESİ CİVARI / YENİŞEHİR",
+      "phone": "03243260631",
+      "lat": 36.787815,
+      "lon": 34.598906,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
+    },
+    {
       "name": "ALKIM  ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "Güvenevler Mah. Dumlupınar Cad. No:36/A           \n          FORUM AVM CİVARI YENİŞEHİR İTFAİYE 100 MT. KUZEYİ MİREŞ MARKET KARŞISI/YENİŞEHİR",
@@ -230,16 +240,6 @@
       "lon": 34.560821,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
-    },
-    {
-      "name": "AKDENİZ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "CUMHURİYET MH. 16. CD. NO:28C           \n          45 EVLER YOLU ÜZERİ  EYFEL PASTANESİ CİVARI / YENİŞEHİR",
-      "phone": "03243260631",
-      "lat": 36.787815,
-      "lon": 34.598906,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
     }
   ]
 }
