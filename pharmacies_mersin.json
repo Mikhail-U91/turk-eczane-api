@@ -2,6 +2,16 @@
   "snapshot": "25.11.2026",
   "sonuc": [
     {
+      "name": "PINAR ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
+      "phone": "03243575857",
+      "lat": 36.809406,
+      "lon": 34.620755,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 08:00"
+    },
+    {
       "name": "JİYAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A           \n          ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242393272",
       "lat": 36.80509,
       "lon": 34.63217,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 08:00"
-    },
-    {
-      "name": "PINAR ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO:177/B            \n          ESKİ DEVLET HASTANESİ KARŞISI HASTANE CADDESİ ÜZERİ",
-      "phone": "03243575857",
-      "lat": 36.809406,
-      "lon": 34.620755,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
     },
