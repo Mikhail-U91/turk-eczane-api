@@ -2,6 +2,16 @@
   "snapshot": "25.11.2026",
   "sonuc": [
     {
+      "name": "JİYAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A           \n          ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
+      "phone": "03242342078",
+      "lat": 36.825434,
+      "lon": 34.64218,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
+    },
+    {
       "name": "YENİ MAHALLE ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MAH.5315 SOK.NO:15/B           \n          TOROS DEVLET. HAST. ACİL CİVARI - YENİ MH. SAĞLIK OCAĞI KÖŞESİ /AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.620755,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
-    },
-    {
-      "name": "JİYAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A           \n          ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
-      "phone": "03242342078",
-      "lat": 36.825434,
-      "lon": 34.64218,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
     },
     {
       "name": "YAŞAM ECZANESİ",
