@@ -2,16 +2,6 @@
   "snapshot": "25.11.2026",
   "sonuc": [
     {
-      "name": "JİYAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A           \n          ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
-      "phone": "03242342078",
-      "lat": 36.825434,
-      "lon": 34.64218,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
-    },
-    {
       "name": "YENİ MAHALLE ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MAH.5315 SOK.NO:15/B           \n          TOROS DEVLET. HAST. ACİL CİVARI - YENİ MH. SAĞLIK OCAĞI KÖŞESİ /AKDENİZ",
@@ -30,6 +20,16 @@
       "lon": 34.620755,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
+    },
+    {
+      "name": "JİYAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "ŞEVKET SÜMER MAH. 5975 SOK. NO:59/A           \n          ŞEVKET SÜMER MH. SİTELER KARAKOLU YANI/AKDENİZ",
+      "phone": "03242342078",
+      "lat": 36.825434,
+      "lon": 34.64218,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
     },
     {
       "name": "YAŞAM ECZANESİ",
@@ -92,16 +92,6 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "AYTAÇ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENI MAH.KELVELI CAD. ZIYA ÜNSAL APT.A BLOK ALTI. NO:3/D                      \n          YENİ MH. KELVELİ CD. ZİYA ÜNSAL APT A BLOK - KALE YOLU - TOROS DEVLET HAST. MEZİTLİ SEMT POLİKLİNİĞİ KARŞISI   MEZİTLİ/MEZİTLİ",
-      "phone": "03243592200",
-      "lat": 36.756115,
-      "lon": 34.537696,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 08:00"
-    },
-    {
       "name": "HARPUT ECZANESİ",
       "district": "MEZİTLİ",
       "address": "VİRANŞEHİR MH. 34314 SK. NO:13B           \n          SAİME OKTAY SAĞLIK OCAĞI KARŞISI",
@@ -120,6 +110,16 @@
       "lon": 34.51653,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 00:00"
+    },
+    {
+      "name": "AYTAÇ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENI MAH.KELVELI CAD. ZIYA ÜNSAL APT.A BLOK ALTI. NO:3/D                      \n          YENİ MH. KELVELİ CD. ZİYA ÜNSAL APT A BLOK - KALE YOLU - TOROS DEVLET HAST. MEZİTLİ SEMT POLİKLİNİĞİ KARŞISI   MEZİTLİ/MEZİTLİ",
+      "phone": "03243592200",
+      "lat": 36.756115,
+      "lon": 34.537696,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 08:00"
     },
     {
       "name": "SAĞLIK ECZANESİ",
@@ -148,6 +148,16 @@
       "phone": "03247414986",
       "lat": 36.319314,
       "lon": 33.879849,
+      "workdate": "25.11.2026 18:00",
+      "shiftend": "26.11.2026 00:00"
+    },
+    {
+      "name": "GÜNEY ECZANESİ",
+      "district": "TARSUS",
+      "address": "SEHITKERIM MAH. 3427 SOK.NO:5            \n          ŞehitKerim Mh. Makam Şehir Kulübü karşısı",
+      "phone": "03246141454",
+      "lat": 36.916899,
+      "lon": 34.896619,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 00:00"
     },
@@ -182,14 +192,14 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "GÜNEY ECZANESİ",
-      "district": "TARSUS",
-      "address": "SEHITKERIM MAH. 3427 SOK.NO:5            \n          ŞehitKerim Mh. Makam Şehir Kulübü karşısı",
-      "phone": "03246141454",
-      "lat": 36.916899,
-      "lon": 34.896619,
+      "name": "DORUK ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "PORTAKAL MH. 210. CD. NO:52           \n          MUSTAFA KEMAL MH. 210. CD. GÜLER TRİO SİTESİ ARKASI - PORTAKAL ASM YANI",
+      "phone": "03244200180",
+      "lat": 36.811754,
+      "lon": 34.600087,
       "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 00:00"
+      "shiftend": "26.11.2026 08:00"
     },
     {
       "name": "EKİNCİ ECZANESİ",
@@ -202,12 +212,12 @@
       "shiftend": "26.11.2026 08:00"
     },
     {
-      "name": "DORUK ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "PORTAKAL MH. 210. CD. NO:52           \n          MUSTAFA KEMAL MH. 210. CD. GÜLER TRİO SİTESİ ARKASI - PORTAKAL ASM YANI",
-      "phone": "03244200180",
-      "lat": 36.811754,
-      "lon": 34.600087,
+      "name": "LAVİN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "BATIKENT MH. 2640 NO:4C           \n          BATIKENT BİM MARKET KARŞISI",
+      "phone": "05309905294",
+      "lat": 36.780974,
+      "lon": 34.560821,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
     },
@@ -228,16 +238,6 @@
       "phone": "03243260990",
       "lat": 36.784118,
       "lon": 34.585597,
-      "workdate": "25.11.2026 18:00",
-      "shiftend": "26.11.2026 08:00"
-    },
-    {
-      "name": "LAVİN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "BATIKENT MH. 2640 NO:4C           \n          BATIKENT BİM MARKET KARŞISI",
-      "phone": "05309905294",
-      "lat": 36.780974,
-      "lon": 34.560821,
       "workdate": "25.11.2026 18:00",
       "shiftend": "26.11.2026 08:00"
     }
