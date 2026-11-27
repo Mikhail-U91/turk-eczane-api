@@ -2,6 +2,16 @@
   "snapshot": "27.11.2026",
   "sonuc": [
     {
+      "name": "DAMLA ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "CAMISERIF MAH.170.CAD. CEMALPASA CAD. NO.93/C           \n          CAMİŞERİF MH. FABRİKALAR CD. EVKUR ALIŞVERİŞ MERKEZİ YANI / AKDENİZ",
+      "phone": "03242393722",
+      "lat": 36.801134,
+      "lon": 34.62706,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
       "name": "LİMON ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:11/A-B           \n          YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.650631,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
-    },
-    {
-      "name": "DAMLA ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "CAMISERIF MAH.170.CAD. CEMALPASA CAD. NO.93/C           \n          CAMİŞERİF MH. FABRİKALAR CD. EVKUR ALIŞVERİŞ MERKEZİ YANI / AKDENİZ",
-      "phone": "03242393722",
-      "lat": 36.801134,
-      "lon": 34.62706,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
     },
     {
       "name": "SİNANOĞLU ECZANESİ",
@@ -152,26 +152,6 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
-      "name": "LÜTFİYE ECZANESİ",
-      "district": "TARSUS",
-      "address": "GÖZLÜKULE MH. KAZIM KARABEKİR CD. NO:18A           \n          ÖZEL ORTADOĞU CERRAHİ TIP MERKEZİ YANI",
-      "phone": "03246140014",
-      "lat": 36.911887,
-      "lon": 34.893622,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
-      "name": "DERMAN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH.TÜRKMENİSTAN CD. NO:58CH           \n          TARSUS DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
-      "phone": "03246240015",
-      "lat": 36.91413,
-      "lon": 34.913181,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "ÖZKARA ECZANESİ",
       "district": "TARSUS",
       "address": "ŞEHİT İSHAK MH. NENEHATUN CD. NO:37/A           \n          ŞEHİT İSHAK ASM YANI",
@@ -192,12 +172,22 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
-      "name": "SELÇUKLAR ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "SELÇUKLAR MAH.206 CAD.NO:146           \n          SELÇUKLAR MH. 206. CD.SELÇUKLAR ASM KARŞISI AKABE CAMİİ CİVARI/TOROSLAR",
-      "phone": "03243200202",
-      "lat": 36.818303,
-      "lon": 34.628007,
+      "name": "LÜTFİYE ECZANESİ",
+      "district": "TARSUS",
+      "address": "GÖZLÜKULE MH. KAZIM KARABEKİR CD. NO:18A           \n          ÖZEL ORTADOĞU CERRAHİ TIP MERKEZİ YANI",
+      "phone": "03246140014",
+      "lat": 36.911887,
+      "lon": 34.893622,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "DERMAN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH.TÜRKMENİSTAN CD. NO:58CH           \n          TARSUS DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
+      "phone": "03246240015",
+      "lat": 36.91413,
+      "lon": 34.913181,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -208,6 +198,26 @@
       "phone": "05418224388",
       "lat": 36.84628,
       "lon": 34.63326,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "SELÇUKLAR ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "SELÇUKLAR MAH.206 CAD.NO:146           \n          SELÇUKLAR MH. 206. CD.SELÇUKLAR ASM KARŞISI AKABE CAMİİ CİVARI/TOROSLAR",
+      "phone": "03243200202",
+      "lat": 36.818303,
+      "lon": 34.628007,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "MENTEŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Menteş Mah. 25139 Sk. No:5/C           \n          MENTEŞ AİLE SAĞLIĞI MERKEZİ KARŞISI, TOTALENERGİES PETROL ARKASI",
+      "phone": "03243412140",
+      "lat": 36.7921,
+      "lon": 34.56538,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -228,16 +238,6 @@
       "phone": "03243250192",
       "lat": 36.785809,
       "lon": 34.592885,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
-      "name": "MENTEŞ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Menteş Mah. 25139 Sk. No:5/C           \n          MENTEŞ AİLE SAĞLIĞI MERKEZİ KARŞISI, TOTALENERGİES PETROL ARKASI",
-      "phone": "03243412140",
-      "lat": 36.7921,
-      "lon": 34.56538,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     }
