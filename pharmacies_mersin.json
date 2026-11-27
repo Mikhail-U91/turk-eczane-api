@@ -192,22 +192,22 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "BULUT ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "YALINAYAK MH. MAREŞAL FEVZİ ÇAKMAK CD. NO:106A           \n          YALINAYAK AİLE SAĞLIĞI MERKEZİ YANI",
-      "phone": "05418224388",
-      "lat": 36.84628,
-      "lon": 34.63326,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "SELÇUKLAR ECZANESİ",
       "district": "TOROSLAR",
       "address": "SELÇUKLAR MAH.206 CAD.NO:146           \n          SELÇUKLAR MH. 206. CD.SELÇUKLAR ASM KARŞISI AKABE CAMİİ CİVARI/TOROSLAR",
       "phone": "03243200202",
       "lat": 36.818303,
       "lon": 34.628007,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "BULUT ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "YALINAYAK MH. MAREŞAL FEVZİ ÇAKMAK CD. NO:106A           \n          YALINAYAK AİLE SAĞLIĞI MERKEZİ YANI",
+      "phone": "05418224388",
+      "lat": 36.84628,
+      "lon": 34.63326,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
