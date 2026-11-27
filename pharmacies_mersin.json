@@ -2,16 +2,6 @@
   "snapshot": "27.11.2026",
   "sonuc": [
     {
-      "name": "LİMON ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MH. 5328 SK. NO:11/A-B           \n          YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
-      "phone": "03242375070",
-      "lat": 36.805636,
-      "lon": 34.633297,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "GÜLFİDAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "HAL MH. 163. CD. NO:33/B           \n          HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
@@ -28,6 +18,16 @@
       "phone": "03242393722",
       "lat": 36.801134,
       "lon": 34.62706,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "LİMON ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MH. 5328 SK. NO:11/A-B           \n          YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
+      "phone": "03242375070",
+      "lat": 36.805636,
+      "lon": 34.633297,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "LEVENT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A           \n          MERKEZ MAH.ISIK ISHANI",
-      "phone": "03245156524",
-      "lat": 36.607121,
-      "lon": 34.312191,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
-    },
-    {
       "name": "MURAT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B           \n          TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
@@ -80,6 +70,16 @@
       "lon": 34.303401,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "LEVENT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A           \n          MERKEZ MAH.ISIK ISHANI",
+      "phone": "03245156524",
+      "lat": 36.607121,
+      "lon": 34.312191,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
     },
     {
       "name": "YENİ ŞİFA ECZANESİ",
@@ -152,16 +152,6 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
-      "name": "LÜTFİYE ECZANESİ",
-      "district": "TARSUS",
-      "address": "GÖZLÜKULE MH. KAZIM KARABEKİR CD. NO:18A           \n          ÖZEL ORTADOĞU CERRAHİ TIP MERKEZİ YANI",
-      "phone": "03246140014",
-      "lat": 36.911887,
-      "lon": 34.893622,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "DERMAN ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH.TÜRKMENİSTAN CD. NO:58CH           \n          TARSUS DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
@@ -192,6 +182,16 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
+      "name": "LÜTFİYE ECZANESİ",
+      "district": "TARSUS",
+      "address": "GÖZLÜKULE MH. KAZIM KARABEKİR CD. NO:18A           \n          ÖZEL ORTADOĞU CERRAHİ TIP MERKEZİ YANI",
+      "phone": "03246140014",
+      "lat": 36.911887,
+      "lon": 34.893622,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
       "name": "SELÇUKLAR ECZANESİ",
       "district": "TOROSLAR",
       "address": "SELÇUKLAR MAH.206 CAD.NO:146           \n          SELÇUKLAR MH. 206. CD.SELÇUKLAR ASM KARŞISI AKABE CAMİİ CİVARI/TOROSLAR",
@@ -212,6 +212,16 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
+      "name": "MENTEŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Menteş Mah. 25139 Sk. No:5/C           \n          MENTEŞ AİLE SAĞLIĞI MERKEZİ KARŞISI, TOTALENERGİES PETROL ARKASI",
+      "phone": "03243412140",
+      "lat": 36.7921,
+      "lon": 34.56538,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
       "name": "ADALET ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "CUMHURİYET MH. 1617 SK. MEHMETOĞLU CD. NO:3/A-13           \n          İSMET İNÖNÜ BULV. CUMHURİYET MH. CİĞERCİ HAKAN VE ABİDİN TANTUNİ ARKASI YENİŞEHİR",
@@ -228,16 +238,6 @@
       "phone": "03243250192",
       "lat": 36.785809,
       "lon": 34.592885,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
-      "name": "MENTEŞ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Menteş Mah. 25139 Sk. No:5/C           \n          MENTEŞ AİLE SAĞLIĞI MERKEZİ KARŞISI, TOTALENERGİES PETROL ARKASI",
-      "phone": "03243412140",
-      "lat": 36.7921,
-      "lon": 34.56538,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     }
