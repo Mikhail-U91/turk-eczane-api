@@ -2,16 +2,6 @@
   "snapshot": "27.11.2026",
   "sonuc": [
     {
-      "name": "LİMON ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MH. 5328 SK. NO:11/A-B           \n          YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
-      "phone": "03242375070",
-      "lat": 36.805636,
-      "lon": 34.633297,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "GÜLFİDAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "HAL MH. 163. CD. NO:33/B           \n          HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
@@ -28,6 +18,16 @@
       "phone": "03242393722",
       "lat": 36.801134,
       "lon": 34.62706,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "LİMON ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MH. 5328 SK. NO:11/A-B           \n          YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
+      "phone": "03242375070",
+      "lat": 36.805636,
+      "lon": 34.633297,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -62,16 +62,6 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "LEVENT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A           \n          MERKEZ MAH.ISIK ISHANI",
-      "phone": "03245156524",
-      "lat": 36.607121,
-      "lon": 34.312191,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
-    },
-    {
       "name": "MURAT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B           \n          TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
@@ -82,12 +72,32 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
+      "name": "LEVENT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A           \n          MERKEZ MAH.ISIK ISHANI",
+      "phone": "03245156524",
+      "lat": 36.607121,
+      "lon": 34.312191,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
+    },
+    {
       "name": "YENİ ŞİFA ECZANESİ",
       "district": "GÜLNAR",
       "address": "SARAY MAH.AKKAVAK CAD. NO:12/ABC           \n          SARAY MAHALLESİ AKKAVAK CADDESİ NO:12/ABC",
       "phone": "03247517062",
       "lat": 36.338405,
       "lon": 33.40321,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "HİLAL ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A           \n          MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
+      "phone": "03243599250",
+      "lat": 36.760008,
+      "lon": 34.544472,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -110,16 +120,6 @@
       "lon": 34.500143,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
-    },
-    {
-      "name": "HİLAL ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A           \n          MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
-      "phone": "03243599250",
-      "lat": 36.760008,
-      "lon": 34.544472,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
     },
     {
       "name": "FİLİZ ECZANESİ",
@@ -152,26 +152,6 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
-      "name": "GÜVEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:31A           \n          BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
-      "phone": "03246131875",
-      "lat": 36.905985,
-      "lon": 34.893903,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
-    },
-    {
-      "name": "LÜTFİYE ECZANESİ",
-      "district": "TARSUS",
-      "address": "GÖZLÜKULE MH. KAZIM KARABEKİR CD. NO:18A           \n          ÖZEL ORTADOĞU CERRAHİ TIP MERKEZİ YANI",
-      "phone": "03246140014",
-      "lat": 36.911887,
-      "lon": 34.893622,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "DERMAN ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH.TÜRKMENİSTAN CD. NO:58CH           \n          TARSUS DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
@@ -190,6 +170,26 @@
       "lon": 34.883017,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
+    },
+    {
+      "name": "GÜVEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:31A           \n          BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
+      "phone": "03246131875",
+      "lat": 36.905985,
+      "lon": 34.893903,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
+    },
+    {
+      "name": "LÜTFİYE ECZANESİ",
+      "district": "TARSUS",
+      "address": "GÖZLÜKULE MH. KAZIM KARABEKİR CD. NO:18A           \n          ÖZEL ORTADOĞU CERRAHİ TIP MERKEZİ YANI",
+      "phone": "03246140014",
+      "lat": 36.911887,
+      "lon": 34.893622,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
     },
     {
       "name": "SELÇUKLAR ECZANESİ",
