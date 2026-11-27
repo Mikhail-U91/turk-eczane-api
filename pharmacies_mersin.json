@@ -62,16 +62,6 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "MURAT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B           \n          TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
-      "phone": "03245772254",
-      "lat": 36.609743,
-      "lon": 34.303401,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "LEVENT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A           \n          MERKEZ MAH.ISIK ISHANI",
@@ -80,6 +70,16 @@
       "lon": 34.312191,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
+    },
+    {
+      "name": "MURAT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B           \n          TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
+      "phone": "03245772254",
+      "lat": 36.609743,
+      "lon": 34.303401,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
     },
     {
       "name": "YENİ ŞİFA ECZANESİ",
@@ -132,16 +132,6 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "ERDAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Taşucu Mahallesi Alayalılar Sokak No:10/A           \n          TAŞUCU ASM KARŞISI",
-      "phone": "03247412997",
-      "lat": 36.319542,
-      "lon": 33.875585,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
-    },
-    {
       "name": "SOLDAN ECZANESİ",
       "district": "SİLİFKE",
       "address": "GÖKSU MAH. ATATÜRK BULV.TINAZ SİT. NO:11/D           \n          SİLİFKE ÖZKAYMAK PASTANESİ YANI ANIT CİVARI",
@@ -150,6 +140,16 @@
       "lon": 33.927822,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "ERDAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Taşucu Mahallesi Alayalılar Sokak No:10/A           \n          TAŞUCU ASM KARŞISI",
+      "phone": "03247412997",
+      "lat": 36.319542,
+      "lon": 33.875585,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
     },
     {
       "name": "ÖZKARA ECZANESİ",
