@@ -2,16 +2,6 @@
   "snapshot": "27.11.2026",
   "sonuc": [
     {
-      "name": "DAMLA ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "CAMISERIF MAH.170.CAD. CEMALPASA CAD. NO.93/C           \n          CAMİŞERİF MH. FABRİKALAR CD. EVKUR ALIŞVERİŞ MERKEZİ YANI / AKDENİZ",
-      "phone": "03242393722",
-      "lat": 36.801134,
-      "lon": 34.62706,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "LİMON ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:11/A-B           \n          YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
@@ -30,6 +20,16 @@
       "lon": 34.650631,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
+    },
+    {
+      "name": "DAMLA ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "CAMISERIF MAH.170.CAD. CEMALPASA CAD. NO.93/C           \n          CAMİŞERİF MH. FABRİKALAR CD. EVKUR ALIŞVERİŞ MERKEZİ YANI / AKDENİZ",
+      "phone": "03242393722",
+      "lat": 36.801134,
+      "lon": 34.62706,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
     },
     {
       "name": "SİNANOĞLU ECZANESİ",
@@ -92,6 +92,16 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
+      "name": "HİLAL ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A           \n          MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
+      "phone": "03243599250",
+      "lat": 36.760008,
+      "lon": 34.544472,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
       "name": "DERKUŞ ECZANESİ",
       "district": "MEZİTLİ",
       "address": "MERKEZ MAH. 52030 SK. NO:7/A            \n          MERKEZ MH.  ESKİ MEZİTLİ BELEDİYESİ KARŞISI EKMEK FIRINLARI ARKASI 2 NOLU SAĞLIK OCAĞI YANI MEZİTLİ",
@@ -112,16 +122,6 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
-      "name": "HİLAL ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A           \n          MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
-      "phone": "03243599250",
-      "lat": 36.760008,
-      "lon": 34.544472,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "FİLİZ ECZANESİ",
       "district": "MUT",
       "address": "DOĞANCI MH. HÜKÜMET CD. NO:46A           \n          BULUTBEY OTEL ALTI",
@@ -130,16 +130,6 @@
       "lon": 33.437984,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
-    },
-    {
-      "name": "ERDAL ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Taşucu Mahallesi Alayalılar Sokak No:10/A           \n          TAŞUCU ASM KARŞISI",
-      "phone": "03247412997",
-      "lat": 36.319542,
-      "lon": 33.875585,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
     },
     {
       "name": "SOLDAN ECZANESİ",
@@ -152,22 +142,12 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "ÖZKARA ECZANESİ",
-      "district": "TARSUS",
-      "address": "ŞEHİT İSHAK MH. NENEHATUN CD. NO:37/A           \n          ŞEHİT İSHAK ASM YANI",
-      "phone": "03246258088",
-      "lat": 36.923859,
-      "lon": 34.883017,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
-    },
-    {
-      "name": "GÜVEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:31A           \n          BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
-      "phone": "03246131875",
-      "lat": 36.905985,
-      "lon": 34.893903,
+      "name": "ERDAL ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Taşucu Mahallesi Alayalılar Sokak No:10/A           \n          TAŞUCU ASM KARŞISI",
+      "phone": "03247412997",
+      "lat": 36.319542,
+      "lon": 33.875585,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
     },
@@ -192,14 +172,24 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "BULUT ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "YALINAYAK MH. MAREŞAL FEVZİ ÇAKMAK CD. NO:106A",
-      "phone": "05418224388",
-      "lat": 36.84628,
-      "lon": 34.63326,
+      "name": "ÖZKARA ECZANESİ",
+      "district": "TARSUS",
+      "address": "ŞEHİT İSHAK MH. NENEHATUN CD. NO:37/A           \n          ŞEHİT İSHAK ASM YANI",
+      "phone": "03246258088",
+      "lat": 36.923859,
+      "lon": 34.883017,
       "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
+      "shiftend": "28.11.2026 00:00"
+    },
+    {
+      "name": "GÜVEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:31A           \n          BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
+      "phone": "03246131875",
+      "lat": 36.905985,
+      "lon": 34.893903,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
     },
     {
       "name": "SELÇUKLAR ECZANESİ",
@@ -212,12 +202,12 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "MENTEŞ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Menteş Mah. 25139 Sk. No:5/C           \n          MENTEŞ AİLE SAĞLIĞI MERKEZİ KARŞISI, TOTALENERGİES PETROL ARKASI",
-      "phone": "03243412140",
-      "lat": 36.7921,
-      "lon": 34.56538,
+      "name": "BULUT ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "YALINAYAK MH. MAREŞAL FEVZİ ÇAKMAK CD. NO:106A",
+      "phone": "05418224388",
+      "lat": 36.84628,
+      "lon": 34.63326,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -238,6 +228,16 @@
       "phone": "03243250192",
       "lat": 36.785809,
       "lon": 34.592885,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "MENTEŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Menteş Mah. 25139 Sk. No:5/C           \n          MENTEŞ AİLE SAĞLIĞI MERKEZİ KARŞISI, TOTALENERGİES PETROL ARKASI",
+      "phone": "03243412140",
+      "lat": 36.7921,
+      "lon": 34.56538,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     }
