@@ -2,6 +2,16 @@
   "snapshot": "27.11.2026",
   "sonuc": [
     {
+      "name": "DAMLA ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "CAMISERIF MAH.170.CAD. CEMALPASA CAD. NO.93/C           \n          CAMİŞERİF MH. FABRİKALAR CD. EVKUR ALIŞVERİŞ MERKEZİ YANI / AKDENİZ",
+      "phone": "03242393722",
+      "lat": 36.801134,
+      "lon": 34.62706,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
       "name": "LİMON ECZANESİ",
       "district": "AKDENİZ",
       "address": "YENİ MH. 5328 SK. NO:11/A-B           \n          YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.650631,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
-    },
-    {
-      "name": "DAMLA ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "CAMISERIF MAH.170.CAD. CEMALPASA CAD. NO.93/C           \n          CAMİŞERİF MH. FABRİKALAR CD. EVKUR ALIŞVERİŞ MERKEZİ YANI / AKDENİZ",
-      "phone": "03242393722",
-      "lat": 36.801134,
-      "lon": 34.62706,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
     },
     {
       "name": "SİNANOĞLU ECZANESİ",
@@ -62,16 +62,6 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "LEVENT ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A           \n          MERKEZ MAH.ISIK ISHANI",
-      "phone": "03245156524",
-      "lat": 36.607121,
-      "lon": 34.312191,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
-    },
-    {
       "name": "MURAT ECZANESİ",
       "district": "ERDEMLİ",
       "address": "MERKEZ MH. KAZIM KARABEKİR_1 CAD. NO:72/B           \n          TÜRKİYE TARIM KREDİ KOOPERATİF MARKET KARŞISI",
@@ -82,12 +72,32 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
+      "name": "LEVENT ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "MERKEZ MH.ALPARSLAN TÜRKEŞ BULV. IŞIK İŞ HANI NO:605/A           \n          MERKEZ MAH.ISIK ISHANI",
+      "phone": "03245156524",
+      "lat": 36.607121,
+      "lon": 34.312191,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
+    },
+    {
       "name": "YENİ ŞİFA ECZANESİ",
       "district": "GÜLNAR",
       "address": "SARAY MAH.AKKAVAK CAD. NO:12/ABC           \n          SARAY MAHALLESİ AKKAVAK CADDESİ NO:12/ABC",
       "phone": "03247517062",
       "lat": 36.338405,
       "lon": 33.40321,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "HİLAL ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A           \n          MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
+      "phone": "03243599250",
+      "lat": 36.760008,
+      "lon": 34.544472,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -110,16 +120,6 @@
       "lon": 34.500143,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
-    },
-    {
-      "name": "HİLAL ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "ATATÜRK MAH. 31118 SOK. NO:6/A           \n          MEZİTLİ MEDİKAL PARK HASTANESİ  DOĞUSU MHD MEDİKAL YANI",
-      "phone": "03243599250",
-      "lat": 36.760008,
-      "lon": 34.544472,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
     },
     {
       "name": "FİLİZ ECZANESİ",
@@ -152,6 +152,16 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
+      "name": "ÖZKARA ECZANESİ",
+      "district": "TARSUS",
+      "address": "ŞEHİT İSHAK MH. NENEHATUN CD. NO:37/A           \n          ŞEHİT İSHAK ASM YANI",
+      "phone": "03246258088",
+      "lat": 36.923859,
+      "lon": 34.883017,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
+    },
+    {
       "name": "GÜVEN ECZANESİ",
       "district": "TARSUS",
       "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:31A           \n          BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
@@ -180,16 +190,6 @@
       "lon": 34.913181,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
-    },
-    {
-      "name": "ÖZKARA ECZANESİ",
-      "district": "TARSUS",
-      "address": "ŞEHİT İSHAK MH. NENEHATUN CD. NO:37/A           \n          ŞEHİT İSHAK ASM YANI",
-      "phone": "03246258088",
-      "lat": 36.923859,
-      "lon": 34.883017,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
     },
     {
       "name": "SELÇUKLAR ECZANESİ",
