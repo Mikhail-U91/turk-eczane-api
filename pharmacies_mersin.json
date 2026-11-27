@@ -92,6 +92,16 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
+      "name": "DERKUŞ ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "MERKEZ MAH. 52030 SK. NO:7/A            \n          MERKEZ MH.  ESKİ MEZİTLİ BELEDİYESİ KARŞISI EKMEK FIRINLARI ARKASI 2 NOLU SAĞLIK OCAĞI YANI MEZİTLİ",
+      "phone": "03243581741",
+      "lat": 36.749658,
+      "lon": 34.528687,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
+    },
+    {
       "name": "BULVAR ECZANESİ",
       "district": "MEZİTLİ",
       "address": "AKDENİZ MH. FATİH CD. ELEGANCE LİFE SİT. NO:32 AD           \n          SAHİL MARTI OTEL KARŞISI ,KUZEYE DOĞRU 1 KM",
@@ -110,16 +120,6 @@
       "lon": 34.544472,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
-    },
-    {
-      "name": "DERKUŞ ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "MERKEZ MAH. 52030 SK. NO:7/A            \n          MERKEZ MH.  ESKİ MEZİTLİ BELEDİYESİ KARŞISI EKMEK FIRINLARI ARKASI 2 NOLU SAĞLIK OCAĞI YANI MEZİTLİ",
-      "phone": "03243581741",
-      "lat": 36.749658,
-      "lon": 34.528687,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
     },
     {
       "name": "FİLİZ ECZANESİ",
@@ -148,6 +148,16 @@
       "phone": "03247412997",
       "lat": 36.319542,
       "lon": 33.875585,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
+    },
+    {
+      "name": "GÜVEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:31A           \n          BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
+      "phone": "03246131875",
+      "lat": 36.905985,
+      "lon": 34.893903,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
     },
@@ -182,16 +192,6 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
-      "name": "GÜVEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "BAHÇE MAH. GENÇ OSMAN CAD. NO:31A           \n          BAHÇE MH.GENÇ OSMAN CD.GİRNE ASM KARŞISI",
-      "phone": "03246131875",
-      "lat": 36.905985,
-      "lon": 34.893903,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
-    },
-    {
       "name": "SELÇUKLAR ECZANESİ",
       "district": "TOROSLAR",
       "address": "SELÇUKLAR MAH.206 CAD.NO:146           \n          SELÇUKLAR MH. 206. CD.SELÇUKLAR ASM KARŞISI AKABE CAMİİ CİVARI/TOROSLAR",
@@ -212,6 +212,16 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
+      "name": "MENTEŞ ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "Menteş Mah. 25139 Sk. No:5/C           \n          MENTEŞ AİLE SAĞLIĞI MERKEZİ KARŞISI, TOTALENERGİES PETROL ARKASI",
+      "phone": "03243412140",
+      "lat": 36.7921,
+      "lon": 34.56538,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
       "name": "ADALET ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "CUMHURİYET MH. 1617 SK. MEHMETOĞLU CD. NO:3/A-13           \n          İSMET İNÖNÜ BULV. CUMHURİYET MH. CİĞERCİ HAKAN VE ABİDİN TANTUNİ ARKASI YENİŞEHİR",
@@ -228,16 +238,6 @@
       "phone": "03243250192",
       "lat": 36.785809,
       "lon": 34.592885,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
-      "name": "MENTEŞ ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "Menteş Mah. 25139 Sk. No:5/C           \n          MENTEŞ AİLE SAĞLIĞI MERKEZİ KARŞISI, TOTALENERGİES PETROL ARKASI",
-      "phone": "03243412140",
-      "lat": 36.7921,
-      "lon": 34.56538,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     }
