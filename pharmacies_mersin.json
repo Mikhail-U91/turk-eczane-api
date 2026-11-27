@@ -2,6 +2,16 @@
   "snapshot": "27.11.2026",
   "sonuc": [
     {
+      "name": "GÜLFİDAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "HAL MH. 163. CD. NO:33/B           \n          HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
+      "phone": "03242341454",
+      "lat": 36.824479,
+      "lon": 34.650631,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 00:00"
+    },
+    {
       "name": "DAMLA ECZANESİ",
       "district": "AKDENİZ",
       "address": "CAMISERIF MAH.170.CAD. CEMALPASA CAD. NO.93/C           \n          CAMİŞERİF MH. FABRİKALAR CD. EVKUR ALIŞVERİŞ MERKEZİ YANI / AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.633297,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
-    },
-    {
-      "name": "GÜLFİDAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "HAL MH. 163. CD. NO:33/B           \n          HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
-      "phone": "03242341454",
-      "lat": 36.824479,
-      "lon": 34.650631,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 00:00"
     },
     {
       "name": "SİNANOĞLU ECZANESİ",
@@ -132,6 +132,16 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
+      "name": "SOLDAN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "GÖKSU MAH. ATATÜRK BULV.TINAZ SİT. NO:11/D           \n          SİLİFKE ÖZKAYMAK PASTANESİ YANI ANIT CİVARI",
+      "phone": "03247145296",
+      "lat": 36.380388,
+      "lon": 33.927822,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
       "name": "ERDAL ECZANESİ",
       "district": "SİLİFKE",
       "address": "Taşucu Mahallesi Alayalılar Sokak No:10/A           \n          TAŞUCU ASM KARŞISI",
@@ -142,12 +152,12 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
-      "name": "SOLDAN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "GÖKSU MAH. ATATÜRK BULV.TINAZ SİT. NO:11/D           \n          SİLİFKE ÖZKAYMAK PASTANESİ YANI ANIT CİVARI",
-      "phone": "03247145296",
-      "lat": 36.380388,
-      "lon": 33.927822,
+      "name": "DERMAN ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH.TÜRKMENİSTAN CD. NO:58CH           \n          TARSUS DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
+      "phone": "03246240015",
+      "lat": 36.91413,
+      "lon": 34.913181,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -182,16 +192,6 @@
       "shiftend": "28.11.2026 08:00"
     },
     {
-      "name": "DERMAN ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH.TÜRKMENİSTAN CD. NO:58CH           \n          TARSUS DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
-      "phone": "03246240015",
-      "lat": 36.91413,
-      "lon": 34.913181,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "SELÇUKLAR ECZANESİ",
       "district": "TOROSLAR",
       "address": "SELÇUKLAR MAH.206 CAD.NO:146           \n          SELÇUKLAR MH. 206. CD.SELÇUKLAR ASM KARŞISI AKABE CAMİİ CİVARI/TOROSLAR",
@@ -208,6 +208,16 @@
       "phone": "05418224388",
       "lat": 36.84628,
       "lon": 34.63326,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "ÖZGÜN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GÜVENEVLER MAH.1.CADDE NO:13           \n          GÜVENEVLER MH1. CAD. GÜVEN SİTESİ KARŞISI POZCU/YENİŞEHİR",
+      "phone": "03243250192",
+      "lat": 36.785809,
+      "lon": 34.592885,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -230,16 +240,6 @@
       "lon": 34.606267,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
-    },
-    {
-      "name": "ÖZGÜN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GÜVENEVLER MAH.1.CADDE NO:13           \n          GÜVENEVLER MH1. CAD. GÜVEN SİTESİ KARŞISI POZCU/YENİŞEHİR",
-      "phone": "03243250192",
-      "lat": 36.785809,
-      "lon": 34.592885,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
     }
   ]
 }
