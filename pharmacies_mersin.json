@@ -2,6 +2,16 @@
   "snapshot": "27.11.2026",
   "sonuc": [
     {
+      "name": "LİMON ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "YENİ MH. 5328 SK. NO:11/A-B           \n          YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
+      "phone": "03242375070",
+      "lat": 36.805636,
+      "lon": 34.633297,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
       "name": "GÜLFİDAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "HAL MH. 163. CD. NO:33/B           \n          HAL MH. 163. CD.TOPTANCILAR SİTESİ KARŞISI - AKBANK SOKAĞI",
@@ -18,16 +28,6 @@
       "phone": "03242393722",
       "lat": 36.801134,
       "lon": 34.62706,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
-      "name": "LİMON ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "YENİ MH. 5328 SK. NO:11/A-B           \n          YENİ MH. TOROS DEVLET HASTANESİ  YENİ ACİL KAPISI KARŞISI/AKDENİZ",
-      "phone": "03242375070",
-      "lat": 36.805636,
-      "lon": 34.633297,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -152,6 +152,16 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
+      "name": "LÜTFİYE ECZANESİ",
+      "district": "TARSUS",
+      "address": "GÖZLÜKULE MH. KAZIM KARABEKİR CD. NO:18A           \n          ÖZEL ORTADOĞU CERRAHİ TIP MERKEZİ YANI",
+      "phone": "03246140014",
+      "lat": 36.911887,
+      "lon": 34.893622,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
       "name": "DERMAN ECZANESİ",
       "district": "TARSUS",
       "address": "TEKKE MH.TÜRKMENİSTAN CD. NO:58CH           \n          TARSUS DEVLET HASTANESİ POLİKLİNİKLER KARŞISI",
@@ -182,16 +192,6 @@
       "shiftend": "28.11.2026 00:00"
     },
     {
-      "name": "LÜTFİYE ECZANESİ",
-      "district": "TARSUS",
-      "address": "GÖZLÜKULE MH. KAZIM KARABEKİR CD. NO:18A           \n          ÖZEL ORTADOĞU CERRAHİ TIP MERKEZİ YANI",
-      "phone": "03246140014",
-      "lat": 36.911887,
-      "lon": 34.893622,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
-    },
-    {
       "name": "SELÇUKLAR ECZANESİ",
       "district": "TOROSLAR",
       "address": "SELÇUKLAR MAH.206 CAD.NO:146           \n          SELÇUKLAR MH. 206. CD.SELÇUKLAR ASM KARŞISI AKABE CAMİİ CİVARI/TOROSLAR",
@@ -208,6 +208,16 @@
       "phone": "05418224388",
       "lat": 36.84628,
       "lon": 34.63326,
+      "workdate": "27.11.2026 18:00",
+      "shiftend": "28.11.2026 08:00"
+    },
+    {
+      "name": "ÖZGÜN ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GÜVENEVLER MAH.1.CADDE NO:13           \n          GÜVENEVLER MH1. CAD. GÜVEN SİTESİ KARŞISI POZCU/YENİŞEHİR",
+      "phone": "03243250192",
+      "lat": 36.785809,
+      "lon": 34.592885,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 08:00"
     },
@@ -230,16 +240,6 @@
       "lon": 34.606267,
       "workdate": "27.11.2026 18:00",
       "shiftend": "28.11.2026 00:00"
-    },
-    {
-      "name": "ÖZGÜN ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GÜVENEVLER MAH.1.CADDE NO:13           \n          GÜVENEVLER MH1. CAD. GÜVEN SİTESİ KARŞISI POZCU/YENİŞEHİR",
-      "phone": "03243250192",
-      "lat": 36.785809,
-      "lon": 34.592885,
-      "workdate": "27.11.2026 18:00",
-      "shiftend": "28.11.2026 08:00"
     }
   ]
 }
