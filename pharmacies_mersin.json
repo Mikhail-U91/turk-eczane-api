@@ -132,6 +132,16 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
+      "name": "TAŞUCU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
+      "phone": "03247414986",
+      "lat": 36.319314,
+      "lon": 33.879849,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 00:00"
+    },
+    {
       "name": "GÜVEN ECZANESİ",
       "district": "SİLİFKE",
       "address": "Atakent Mah.Sazbaşı Bulvarı NO:383A/18           \n          ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
@@ -162,14 +172,14 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
-      "name": "TAŞUCU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
-      "phone": "03247414986",
-      "lat": 36.319314,
-      "lon": 33.879849,
+      "name": "SEKMEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "ATATÜRK CAD.ELIYESIL APT.NO:68/C            \n          YARENLİKTEN ÜST GEÇİTE ÇIKIŞTA KÜLTÜR PARKI KARŞIS",
+      "phone": "03246222108",
+      "lat": 36.917635,
+      "lon": 34.886917,
       "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 00:00"
+      "shiftend": "29.11.2026 08:00"
     },
     {
       "name": "ÜNAL ECZANESİ",
@@ -202,13 +212,13 @@
       "shiftend": "29.11.2026 00:00"
     },
     {
-      "name": "SEKMEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "ATATÜRK CAD.ELIYESIL APT.NO:68/C            \n          YARENLİKTEN ÜST GEÇİTE ÇIKIŞTA KÜLTÜR PARKI KARŞIS",
-      "phone": "03246222108",
-      "lat": 36.917635,
-      "lon": 34.886917,
-      "workdate": "28.11.2026 08:00",
+      "name": "SEZER ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 232. CD. NO:42AA           \n          ERZİNCANLAR SİTESİ KARŞI KÖŞESİ",
+      "phone": "03242236685",
+      "lat": 36.836911,
+      "lon": 34.610148,
+      "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
     },
     {
@@ -218,16 +228,6 @@
       "phone": "03243219991",
       "lat": 36.812785,
       "lon": 34.613585,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
-      "name": "SEZER ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 232. CD. NO:42AA           \n          ERZİNCANLAR SİTESİ KARŞI KÖŞESİ",
-      "phone": "03242236685",
-      "lat": 36.836911,
-      "lon": 34.610148,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
     },
