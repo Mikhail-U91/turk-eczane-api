@@ -132,26 +132,6 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
-      "name": "ONUK ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CD. NO: 8/A           \n          BURUNUCU MAH.NO:187",
-      "phone": "03247151063",
-      "lat": 36.343589,
-      "lon": 33.917954,
-      "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
-      "name": "GÖKSU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Göksu Mah. Oğuz Kağan Cad.No:15/B            \n          ESKİ SİLİFKE DEVLET HASTANESİ  YANI UFUK LOKANTASI KARŞISI",
-      "phone": "03247120502",
-      "lat": 36.381575,
-      "lon": 33.931827,
-      "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
       "name": "TAŞUCU ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
@@ -172,14 +152,24 @@
       "shiftend": "28.11.2026 19:00"
     },
     {
-      "name": "SEMA CAN  ECZANESİ",
-      "district": "TARSUS",
-      "address": "HÜRRİYET MH. 2215 SK. NO:13/1           \n          Hürriyet Mh. Yeşilyurt A.S.M karşısı. Aşiyan düğün salonu arkası",
-      "phone": "03246138898",
-      "lat": 36.929197,
-      "lon": 34.88995,
+      "name": "ONUK ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CD. NO: 8/A           \n          BURUNUCU MAH.NO:187",
+      "phone": "03247151063",
+      "lat": 36.343589,
+      "lon": 33.917954,
       "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 00:00"
+      "shiftend": "29.11.2026 08:00"
+    },
+    {
+      "name": "GÖKSU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Göksu Mah. Oğuz Kağan Cad.No:15/B            \n          ESKİ SİLİFKE DEVLET HASTANESİ  YANI UFUK LOKANTASI KARŞISI",
+      "phone": "03247120502",
+      "lat": 36.381575,
+      "lon": 33.931827,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 08:00"
     },
     {
       "name": "SEKMEN ECZANESİ",
@@ -212,6 +202,16 @@
       "shiftend": "29.11.2026 00:00"
     },
     {
+      "name": "SEMA CAN  ECZANESİ",
+      "district": "TARSUS",
+      "address": "HÜRRİYET MH. 2215 SK. NO:13/1           \n          Hürriyet Mh. Yeşilyurt A.S.M karşısı. Aşiyan düğün salonu arkası",
+      "phone": "03246138898",
+      "lat": 36.929197,
+      "lon": 34.88995,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 00:00"
+    },
+    {
       "name": "SEZER ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 232. CD. NO:42AA           \n          ERZİNCANLAR SİTESİ KARŞI KÖŞESİ",
@@ -232,16 +232,6 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
-      "name": "ÖZTÜRKLER ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GMK BULVARI PALMIYE MAH.EREN AP.NO.307/C           \n          ESKİ DUYGU TIP MERKEZİ YANI TOPÇULAR DURAĞI/YENİŞEHİR",
-      "phone": "03243294690",
-      "lat": 36.785865,
-      "lon": 34.604833,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 00:00"
-    },
-    {
       "name": "ÜNİVERSİTE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. ÜTOPYA SİT. A BLOK NO:18AD           \n          ÜNİVERSİTE HASTANESİ ACİL KARŞISI",
@@ -260,6 +250,16 @@
       "lon": 34.582573,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
+    },
+    {
+      "name": "ÖZTÜRKLER ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GMK BULVARI PALMIYE MAH.EREN AP.NO.307/C           \n          ESKİ DUYGU TIP MERKEZİ YANI TOPÇULAR DURAĞI/YENİŞEHİR",
+      "phone": "03243294690",
+      "lat": 36.785865,
+      "lon": 34.604833,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 00:00"
     }
   ]
 }
