@@ -2,16 +2,6 @@
   "snapshot": "28.11.2026",
   "sonuc": [
     {
-      "name": "KARATAŞ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A           \n          ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03243361952",
-      "lat": 36.808179,
-      "lon": 34.621505,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
       "name": "HAZİRAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "GÜNDOGDU MAH.5790 SK.NO:15            \n          GÜNDOĞDU MAH 5790 SOK. NO 12/A 1 NOLU SAĞLIK OCAĞI YANI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242315880",
       "lat": 36.804377,
       "lon": 34.630646,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 08:00"
+    },
+    {
+      "name": "KARATAŞ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A           \n          ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03243361952",
+      "lat": 36.808179,
+      "lon": 34.621505,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
     },
@@ -92,6 +92,16 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
+      "name": "BEYDAĞI ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENI MAH. 33180 SK. NO:21/A            \n          MEZİTLİ KİTAPSAN (300 MT YUKARISI) KALEYOLU SAĞLIK OCAĞI KARŞISI/MEZİTLİ",
+      "phone": "03243595474",
+      "lat": 36.756825,
+      "lon": 34.535034,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 08:00"
+    },
+    {
       "name": "CEMRE ECZANESİ",
       "district": "MEZİTLİ",
       "address": "Merkez Mh. 52081 Sk. Lider Konutları Altı No:19           \n          KUYULUK YOLU - BİM MARKET ARKASI LİDER KONUTLARI ALTI OSMANGAZİ ASM CİVARI - MEZİTLİ",
@@ -112,16 +122,6 @@
       "shiftend": "29.11.2026 00:00"
     },
     {
-      "name": "BEYDAĞI ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENI MAH. 33180 SK. NO:21/A            \n          MEZİTLİ KİTAPSAN (300 MT YUKARISI) KALEYOLU SAĞLIK OCAĞI KARŞISI/MEZİTLİ",
-      "phone": "03243595474",
-      "lat": 36.756825,
-      "lon": 34.535034,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
       "name": "ÇEREKÇİ ECZANESİ",
       "district": "MUT",
       "address": "DOĞANCI İNÖNÜ CAD.NO:3/B            \n          INÖNÜ CD.NO:3/B",
@@ -130,16 +130,6 @@
       "lon": 33.437456,
       "workdate": "28.11.2026 08:00",
       "shiftend": "29.11.2026 08:00"
-    },
-    {
-      "name": "GÜVEN ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Atakent Mah.Sazbaşı Bulvarı NO:383A/18           \n          ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
-      "phone": "03247225197",
-      "lat": 36.405557,
-      "lon": 34.070173,
-      "workdate": "28.11.2026 08:00",
-      "shiftend": "28.11.2026 19:00"
     },
     {
       "name": "ONUK ECZANESİ",
@@ -172,14 +162,14 @@
       "shiftend": "29.11.2026 00:00"
     },
     {
-      "name": "ÜNAL ECZANESİ",
-      "district": "TARSUS",
-      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
-      "phone": "03246244070",
-      "lat": 36.914494,
-      "lon": 34.912114,
+      "name": "GÜVEN ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Atakent Mah.Sazbaşı Bulvarı NO:383A/18           \n          ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
+      "phone": "03247225197",
+      "lat": 36.405557,
+      "lon": 34.070173,
       "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 08:00"
+      "shiftend": "28.11.2026 19:00"
     },
     {
       "name": "NİDA ECZANESİ",
@@ -208,6 +198,16 @@
       "phone": "03246222108",
       "lat": 36.917635,
       "lon": 34.886917,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 08:00"
+    },
+    {
+      "name": "ÜNAL ECZANESİ",
+      "district": "TARSUS",
+      "address": "TEKKE MH. TÜRKMENİSTAN CD. NO:56D           \n          YENİ DEVLET HASTANESİ POLİKLİNİKLER KAPISI KARŞISI",
+      "phone": "03246244070",
+      "lat": 36.914494,
+      "lon": 34.912114,
       "workdate": "28.11.2026 08:00",
       "shiftend": "29.11.2026 08:00"
     },
