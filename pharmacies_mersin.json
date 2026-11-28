@@ -62,16 +62,6 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
-      "name": "SEZEN ECZANESİ",
-      "district": "ERDEMLİ",
-      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ B BLOK NO:49/D           \n           YENİ HASTANE CAD. ŞOK MARKET ÇARPRAZI  AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ B BLOK NO:49/D ERDEMLİ/MERSİN",
-      "phone": "03245163030",
-      "lat": 36.608996,
-      "lon": 34.30354,
-      "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
       "name": "MEYRA ECZANESİ",
       "district": "ERDEMLİ",
       "address": "AKDENİZ MH. YUNUS EMRE CD. NO:43/A           \n          AKDENİZ MH. YUNUS EMRE CD. AVGADI YAYLA YOLU OPET ARKASI",
@@ -80,6 +70,16 @@
       "lon": 34.301734,
       "workdate": "28.11.2026 08:00",
       "shiftend": "29.11.2026 00:00"
+    },
+    {
+      "name": "SEZEN ECZANESİ",
+      "district": "ERDEMLİ",
+      "address": "AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ B BLOK NO:49/D           \n           YENİ HASTANE CAD. ŞOK MARKET ÇARPRAZI  AKDENİZ MH. KAZIM KARABEKİR CD. ANNEM EVLERİ B BLOK NO:49/D ERDEMLİ/MERSİN",
+      "phone": "03245163030",
+      "lat": 36.608996,
+      "lon": 34.30354,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 08:00"
     },
     {
       "name": "GÖNEN ECZANESİ",
