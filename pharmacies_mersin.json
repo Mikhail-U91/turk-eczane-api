@@ -132,6 +132,16 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
+      "name": "ONUK ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "BURUNUCU MH. HASTANE CD. NO: 8/A           \n          BURUNUCU MAH.NO:187",
+      "phone": "03247151063",
+      "lat": 36.343589,
+      "lon": 33.917954,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 08:00"
+    },
+    {
       "name": "GÖKSU ECZANESİ",
       "district": "SİLİFKE",
       "address": "Göksu Mah. Oğuz Kağan Cad.No:15/B            \n          ESKİ SİLİFKE DEVLET HASTANESİ  YANI UFUK LOKANTASI KARŞISI",
@@ -160,16 +170,6 @@
       "lon": 34.070173,
       "workdate": "28.11.2026 08:00",
       "shiftend": "28.11.2026 19:00"
-    },
-    {
-      "name": "ONUK ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "BURUNUCU MH. HASTANE CD. NO: 8/A           \n          BURUNUCU MAH.NO:187",
-      "phone": "03247151063",
-      "lat": 36.343589,
-      "lon": 33.917954,
-      "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 08:00"
     },
     {
       "name": "SEMA CAN  ECZANESİ",
@@ -232,6 +232,16 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
+      "name": "ÖZTÜRKLER ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "GMK BULVARI PALMIYE MAH.EREN AP.NO.307/C           \n          ESKİ DUYGU TIP MERKEZİ YANI TOPÇULAR DURAĞI/YENİŞEHİR",
+      "phone": "03243294690",
+      "lat": 36.785865,
+      "lon": 34.604833,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 00:00"
+    },
+    {
       "name": "ÜNİVERSİTE ECZANESİ",
       "district": "YENİŞEHİR",
       "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. ÜTOPYA SİT. A BLOK NO:18AD           \n          ÜNİVERSİTE HASTANESİ ACİL KARŞISI",
@@ -250,16 +260,6 @@
       "lon": 34.582573,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
-    },
-    {
-      "name": "ÖZTÜRKLER ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "GMK BULVARI PALMIYE MAH.EREN AP.NO.307/C           \n          ESKİ DUYGU TIP MERKEZİ YANI TOPÇULAR DURAĞI/YENİŞEHİR",
-      "phone": "03243294690",
-      "lat": 36.785865,
-      "lon": 34.604833,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 00:00"
     }
   ]
 }
