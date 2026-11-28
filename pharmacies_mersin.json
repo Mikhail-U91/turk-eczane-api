@@ -2,6 +2,16 @@
   "snapshot": "28.11.2026",
   "sonuc": [
     {
+      "name": "HAZİRAN ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "GÜNDOGDU MAH.5790 SK.NO:15            \n          GÜNDOĞDU MAH 5790 SOK. NO 12/A 1 NOLU SAĞLIK OCAĞI YANI/AKDENİZ",
+      "phone": "03242359602",
+      "lat": 36.817557,
+      "lon": 34.63146,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 00:00"
+    },
+    {
       "name": "ESEN ECZANESİ",
       "district": "AKDENİZ",
       "address": "MESUDİYE MAH. ÇAKMAK CAD. 5112 sk. NO:31/E           \n          ÇAKMAK CADDESİ BAĞ KUR KARŞISI/AKDENİZ",
@@ -20,16 +30,6 @@
       "lon": 34.621505,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
-    },
-    {
-      "name": "HAZİRAN ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "GÜNDOGDU MAH.5790 SK.NO:15            \n          GÜNDOĞDU MAH 5790 SOK. NO 12/A 1 NOLU SAĞLIK OCAĞI YANI/AKDENİZ",
-      "phone": "03242359602",
-      "lat": 36.817557,
-      "lon": 34.63146,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 00:00"
     },
     {
       "name": "ÖZEN ECZANESİ",
@@ -132,6 +132,16 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
+      "name": "GÖKSU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "Göksu Mah. Oğuz Kağan Cad.No:15/B            \n          ESKİ SİLİFKE DEVLET HASTANESİ  YANI UFUK LOKANTASI KARŞISI",
+      "phone": "03247120502",
+      "lat": 36.381575,
+      "lon": 33.931827,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 08:00"
+    },
+    {
       "name": "TAŞUCU ECZANESİ",
       "district": "SİLİFKE",
       "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
@@ -162,14 +172,14 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
-      "name": "GÖKSU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "Göksu Mah. Oğuz Kağan Cad.No:15/B            \n          ESKİ SİLİFKE DEVLET HASTANESİ  YANI UFUK LOKANTASI KARŞISI",
-      "phone": "03247120502",
-      "lat": 36.381575,
-      "lon": 33.931827,
+      "name": "SEMA CAN  ECZANESİ",
+      "district": "TARSUS",
+      "address": "HÜRRİYET MH. 2215 SK. NO:13/1           \n          Hürriyet Mh. Yeşilyurt A.S.M karşısı. Aşiyan düğün salonu arkası",
+      "phone": "03246138898",
+      "lat": 36.929197,
+      "lon": 34.88995,
       "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 08:00"
+      "shiftend": "29.11.2026 00:00"
     },
     {
       "name": "SEKMEN ECZANESİ",
@@ -198,16 +208,6 @@
       "phone": "03246241212",
       "lat": 36.923388,
       "lon": 34.853848,
-      "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 00:00"
-    },
-    {
-      "name": "SEMA CAN  ECZANESİ",
-      "district": "TARSUS",
-      "address": "HÜRRİYET MH. 2215 SK. NO:13/1           \n          Hürriyet Mh. Yeşilyurt A.S.M karşısı. Aşiyan düğün salonu arkası",
-      "phone": "03246138898",
-      "lat": 36.929197,
-      "lon": 34.88995,
       "workdate": "28.11.2026 08:00",
       "shiftend": "29.11.2026 00:00"
     },
