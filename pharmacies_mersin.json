@@ -92,16 +92,6 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
-      "name": "BEYDAĞI ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "YENI MAH. 33180 SK. NO:21/A            \n          MEZİTLİ KİTAPSAN (300 MT YUKARISI) KALEYOLU SAĞLIK OCAĞI KARŞISI/MEZİTLİ",
-      "phone": "03243595474",
-      "lat": 36.756825,
-      "lon": 34.535034,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
       "name": "CEMRE ECZANESİ",
       "district": "MEZİTLİ",
       "address": "Merkez Mh. 52081 Sk. Lider Konutları Altı No:19           \n          KUYULUK YOLU - BİM MARKET ARKASI LİDER KONUTLARI ALTI OSMANGAZİ ASM CİVARI - MEZİTLİ",
@@ -120,6 +110,16 @@
       "lon": 34.506304,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 00:00"
+    },
+    {
+      "name": "BEYDAĞI ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "YENI MAH. 33180 SK. NO:21/A            \n          MEZİTLİ KİTAPSAN (300 MT YUKARISI) KALEYOLU SAĞLIK OCAĞI KARŞISI/MEZİTLİ",
+      "phone": "03243595474",
+      "lat": 36.756825,
+      "lon": 34.535034,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 08:00"
     },
     {
       "name": "ÇEREKÇİ ECZANESİ",
@@ -172,16 +172,6 @@
       "shiftend": "28.11.2026 19:00"
     },
     {
-      "name": "NİDA ECZANESİ",
-      "district": "TARSUS",
-      "address": "ALTAYLILAR MAH.TURAN CAD.NO:45/A           \n          ALTAYLILAR MAH.TURAN CAD.NO:45/A ALTAYLILAR ASM YANI BAL SİTESİ CİVARI",
-      "phone": "03246241212",
-      "lat": 36.923388,
-      "lon": 34.853848,
-      "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 00:00"
-    },
-    {
       "name": "SEMA CAN  ECZANESİ",
       "district": "TARSUS",
       "address": "HÜRRİYET MH. 2215 SK. NO:13/1           \n          Hürriyet Mh. Yeşilyurt A.S.M karşısı. Aşiyan düğün salonu arkası",
@@ -210,6 +200,16 @@
       "lon": 34.912114,
       "workdate": "28.11.2026 08:00",
       "shiftend": "29.11.2026 08:00"
+    },
+    {
+      "name": "NİDA ECZANESİ",
+      "district": "TARSUS",
+      "address": "ALTAYLILAR MAH.TURAN CAD.NO:45/A           \n          ALTAYLILAR MAH.TURAN CAD.NO:45/A ALTAYLILAR ASM YANI BAL SİTESİ CİVARI",
+      "phone": "03246241212",
+      "lat": 36.923388,
+      "lon": 34.853848,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 00:00"
     },
     {
       "name": "SEZER ECZANESİ",
