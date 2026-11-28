@@ -2,6 +2,16 @@
   "snapshot": "28.11.2026",
   "sonuc": [
     {
+      "name": "KARATAŞ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A           \n          ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03243361952",
+      "lat": 36.808179,
+      "lon": 34.621505,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 08:00"
+    },
+    {
       "name": "HAZİRAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "GÜNDOGDU MAH.5790 SK.NO:15            \n          GÜNDOĞDU MAH 5790 SOK. NO 12/A 1 NOLU SAĞLIK OCAĞI YANI/AKDENİZ",
@@ -18,16 +28,6 @@
       "phone": "03242315880",
       "lat": 36.804377,
       "lon": 34.630646,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
-      "name": "KARATAŞ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A           \n          ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03243361952",
-      "lat": 36.808179,
-      "lon": 34.621505,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
     },
@@ -92,6 +92,16 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
+      "name": "GÖKSU ECZANESİ",
+      "district": "MEZİTLİ",
+      "address": "AKDENİZ MH. YAŞAR DOĞU CD. NO:38/C           \n          MEZİTLİ BELEDİYESİ BALIK PAZARI YANI",
+      "phone": "03242384226",
+      "lat": 36.732022,
+      "lon": 34.506304,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 00:00"
+    },
+    {
       "name": "BEYDAĞI ECZANESİ",
       "district": "MEZİTLİ",
       "address": "YENI MAH. 33180 SK. NO:21/A            \n          MEZİTLİ KİTAPSAN (300 MT YUKARISI) KALEYOLU SAĞLIK OCAĞI KARŞISI/MEZİTLİ",
@@ -108,16 +118,6 @@
       "phone": "03243571992",
       "lat": 36.750235,
       "lon": 34.5203,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 00:00"
-    },
-    {
-      "name": "GÖKSU ECZANESİ",
-      "district": "MEZİTLİ",
-      "address": "AKDENİZ MH. YAŞAR DOĞU CD. NO:38/C           \n          MEZİTLİ BELEDİYESİ BALIK PAZARI YANI",
-      "phone": "03242384226",
-      "lat": 36.732022,
-      "lon": 34.506304,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 00:00"
     },
@@ -212,6 +212,16 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
+      "name": "AYSEL ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "OSMANİYE MH. 81035 SK. 49/A           \n          OSMANİYE MH. 81035 SK. OSMANİYE ASM YANI - KARAYOLLARI 5. BÖLGE MÜD. CİVARI ATATÜRK İLKOKULU GÜNEYİ - TOROSLAR",
+      "phone": "03243219991",
+      "lat": 36.812785,
+      "lon": 34.613585,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 08:00"
+    },
+    {
       "name": "SEZER ECZANESİ",
       "district": "TOROSLAR",
       "address": "ÇAĞDAŞKENT MH. 232. CD. NO:42AA           \n          ERZİNCANLAR SİTESİ KARŞI KÖŞESİ",
@@ -222,12 +232,12 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
-      "name": "AYSEL ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "OSMANİYE MH. 81035 SK. 49/A           \n          OSMANİYE MH. 81035 SK. OSMANİYE ASM YANI - KARAYOLLARI 5. BÖLGE MÜD. CİVARI ATATÜRK İLKOKULU GÜNEYİ - TOROSLAR",
-      "phone": "03243219991",
-      "lat": 36.812785,
-      "lon": 34.613585,
+      "name": "ATLAS ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "MENTEŞ MH. BARBAROS BULV.GÖKSU APT. NO:107/A           \n          MENTEŞ MAHALLESİ ÖZEL AKADEMİ HASTANESİ YANI",
+      "phone": "03243369980",
+      "lat": 36.79256,
+      "lon": 34.582573,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
     },
@@ -248,16 +258,6 @@
       "phone": "03245020514",
       "lat": 36.784138,
       "lon": 34.540848,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
-      "name": "ATLAS ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "MENTEŞ MH. BARBAROS BULV.GÖKSU APT. NO:107/A           \n          MENTEŞ MAHALLESİ ÖZEL AKADEMİ HASTANESİ YANI",
-      "phone": "03243369980",
-      "lat": 36.79256,
-      "lon": 34.582573,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
     }
