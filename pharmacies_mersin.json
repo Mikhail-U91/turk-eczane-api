@@ -2,16 +2,6 @@
   "snapshot": "28.11.2026",
   "sonuc": [
     {
-      "name": "KARATAŞ ECZANESİ",
-      "district": "AKDENİZ",
-      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A           \n          ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
-      "phone": "03243361952",
-      "lat": 36.808179,
-      "lon": 34.621505,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 08:00"
-    },
-    {
       "name": "HAZİRAN ECZANESİ",
       "district": "AKDENİZ",
       "address": "GÜNDOGDU MAH.5790 SK.NO:15            \n          GÜNDOĞDU MAH 5790 SOK. NO 12/A 1 NOLU SAĞLIK OCAĞI YANI/AKDENİZ",
@@ -28,6 +18,16 @@
       "phone": "03242315880",
       "lat": 36.804377,
       "lon": 34.630646,
+      "workdate": "28.11.2026 13:00",
+      "shiftend": "29.11.2026 08:00"
+    },
+    {
+      "name": "KARATAŞ ECZANESİ",
+      "district": "AKDENİZ",
+      "address": "İHSANİYE MH. KUVAİ MİLLİYE CD. NO.159/A           \n          ESKİ DEVLET HASTANESİ KARŞISI/AKDENİZ",
+      "phone": "03243361952",
+      "lat": 36.808179,
+      "lon": 34.621505,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
     },
@@ -132,6 +132,16 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
+      "name": "TAŞUCU ECZANESİ",
+      "district": "SİLİFKE",
+      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
+      "phone": "03247414986",
+      "lat": 36.319314,
+      "lon": 33.879849,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 00:00"
+    },
+    {
       "name": "GÜVEN ECZANESİ",
       "district": "SİLİFKE",
       "address": "Atakent Mah.Sazbaşı Bulvarı NO:383A/18           \n          ATAKENT SAĞLIK OCAĞI CİVARI KOÇAKLAR APT. MERSİN/SİLİFKE OTOYOLU ÜZERİ",
@@ -162,14 +172,24 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
-      "name": "TAŞUCU ECZANESİ",
-      "district": "SİLİFKE",
-      "address": "TAŞUCU MAH. İSMET İNÖNÜ CAD. NO:16/1           \n          İSMET İNÖNÜ CAD. MUTLULAR İŞ HANI NO:16 TAŞUCU",
-      "phone": "03247414986",
-      "lat": 36.319314,
-      "lon": 33.879849,
+      "name": "SEMA CAN  ECZANESİ",
+      "district": "TARSUS",
+      "address": "HÜRRİYET MH. 2215 SK. NO:13/1           \n          Hürriyet Mh. Yeşilyurt A.S.M karşısı. Aşiyan düğün salonu arkası",
+      "phone": "03246138898",
+      "lat": 36.929197,
+      "lon": 34.88995,
       "workdate": "28.11.2026 08:00",
       "shiftend": "29.11.2026 00:00"
+    },
+    {
+      "name": "SEKMEN ECZANESİ",
+      "district": "TARSUS",
+      "address": "ATATÜRK CAD.ELIYESIL APT.NO:68/C            \n          YARENLİKTEN ÜST GEÇİTE ÇIKIŞTA KÜLTÜR PARKI KARŞIS",
+      "phone": "03246222108",
+      "lat": 36.917635,
+      "lon": 34.886917,
+      "workdate": "28.11.2026 08:00",
+      "shiftend": "29.11.2026 08:00"
     },
     {
       "name": "ÜNAL ECZANESİ",
@@ -192,23 +212,13 @@
       "shiftend": "29.11.2026 00:00"
     },
     {
-      "name": "SEMA CAN  ECZANESİ",
-      "district": "TARSUS",
-      "address": "HÜRRİYET MH. 2215 SK. NO:13/1           \n          Hürriyet Mh. Yeşilyurt A.S.M karşısı. Aşiyan düğün salonu arkası",
-      "phone": "03246138898",
-      "lat": 36.929197,
-      "lon": 34.88995,
-      "workdate": "28.11.2026 08:00",
-      "shiftend": "29.11.2026 00:00"
-    },
-    {
-      "name": "SEKMEN ECZANESİ",
-      "district": "TARSUS",
-      "address": "ATATÜRK CAD.ELIYESIL APT.NO:68/C            \n          YARENLİKTEN ÜST GEÇİTE ÇIKIŞTA KÜLTÜR PARKI KARŞIS",
-      "phone": "03246222108",
-      "lat": 36.917635,
-      "lon": 34.886917,
-      "workdate": "28.11.2026 08:00",
+      "name": "SEZER ECZANESİ",
+      "district": "TOROSLAR",
+      "address": "ÇAĞDAŞKENT MH. 232. CD. NO:42AA           \n          ERZİNCANLAR SİTESİ KARŞI KÖŞESİ",
+      "phone": "03242236685",
+      "lat": 36.836911,
+      "lon": 34.610148,
+      "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
     },
     {
@@ -222,12 +232,12 @@
       "shiftend": "29.11.2026 08:00"
     },
     {
-      "name": "SEZER ECZANESİ",
-      "district": "TOROSLAR",
-      "address": "ÇAĞDAŞKENT MH. 232. CD. NO:42AA           \n          ERZİNCANLAR SİTESİ KARŞI KÖŞESİ",
-      "phone": "03242236685",
-      "lat": 36.836911,
-      "lon": 34.610148,
+      "name": "ÜNİVERSİTE ECZANESİ",
+      "district": "YENİŞEHİR",
+      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. ÜTOPYA SİT. A BLOK NO:18AD           \n          ÜNİVERSİTE HASTANESİ ACİL KARŞISI",
+      "phone": "03245020514",
+      "lat": 36.784138,
+      "lon": 34.540848,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 08:00"
     },
@@ -250,16 +260,6 @@
       "lon": 34.604833,
       "workdate": "28.11.2026 13:00",
       "shiftend": "29.11.2026 00:00"
-    },
-    {
-      "name": "ÜNİVERSİTE ECZANESİ",
-      "district": "YENİŞEHİR",
-      "address": "ÇİFTLİKKÖY MH. MİMAR SİNAN CD. ÜTOPYA SİT. A BLOK NO:18AD           \n          ÜNİVERSİTE HASTANESİ ACİL KARŞISI",
-      "phone": "03245020514",
-      "lat": 36.784138,
-      "lon": 34.540848,
-      "workdate": "28.11.2026 13:00",
-      "shiftend": "29.11.2026 08:00"
     }
   ]
 }
